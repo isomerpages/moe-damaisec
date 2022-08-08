@@ -4,3 +4,4 @@ permalink: /our-community/parent-support-group/psg-participating-in-fitness-day-
 description: ""
 third_nav_title: Parent Support Group
 ---
+<img src="/images/psgp.png">
