@@ -13,3 +13,12 @@ links:
         url: /our-damai/our-heritage
       - title: Our Accolades
         url: /our-damai/our-accolades/student-accolades
+  - title: Our Community
+    url: /our-community/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee
+      - title: Parent Support Group
+        url: /our-community/parent-support-group
+      - title: Alumni
+        url: /our-community/alumni
