@@ -1,8 +1,15 @@
 logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Damai
+    url: /our-damai/principals-foreword
+    sublinks:
+      - title: Principal's Foreword
+        url: /our-damai/principals-foreword
+      - title: Vision, Mission, Value & Motto
+        url: /our-damai/vision-mission-values-n-motto
+      - title: School Crest & Song
+        url: /our-damai/school-crest-n-song
+      - title: Our Heritage
+        url: /our-damai/our-heritage
+      - title: Our Accolades
+        url: /our-damai/our-accolades/student-accolades
