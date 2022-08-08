@@ -4,3 +4,4 @@ permalink: /our-community/parent-support-group/coffee-chat-with-parents
 description: ""
 third_nav_title: Parent Support Group
 ---
+<img src="/images/ccp.png">
