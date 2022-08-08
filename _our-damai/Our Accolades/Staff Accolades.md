@@ -62,3 +62,7 @@ third_nav_title: Our Accolades
 </tr>
 </tbody>
 </table>
+<p><strong><u>Caring Teacher Awards</u></strong></p>
+<p>The Caring Teacher Awards (CTA) are aimed at acknowledging teachers who show care and concern for the holistic development of their students and go the extra mile to ensure their students grow up to be confident and independent learners. We are thankful to have so many caring teachers in Damai Secondary School.</p>
+<h4 style="text-align: center;"><strong>Caring Teacher Award Recipients 2020</strong></h4>
+<img src="/images/sa.png">
