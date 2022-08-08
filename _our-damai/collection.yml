@@ -2,4 +2,5 @@ collections:
   our-damai:
     output: true
     order:
+      - Our Accolades/.keep
       - Principal's Foreword.md
