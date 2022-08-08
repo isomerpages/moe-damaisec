@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group/PSG Participating in Fitness Day Event.md
       - Parent Support Group/Coffee Chat with Parents.md
       - Parent Support Group/Parents Sharing Parenting Skills.md
       - Parent Support Group/Parent Child Bonding Activities.md
