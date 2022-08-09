@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/.keep
       - Teachers.md
       - Parents/.keep
       - News And Events/.keep
