@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Management Committee.md
       - Departments/English Language & Literature Department.md
       - Departments/Mother Tongue Languages Department.md
       - Departments/Mathematics & Commerce Department.md
