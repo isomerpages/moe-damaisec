@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Time Table Structure.md
       - Direct School Admission (DSA).md
       - Full Subject–Based Banding.md
