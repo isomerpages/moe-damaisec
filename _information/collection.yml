@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Student Handbook.md
       - Useful Student Links.md
