@@ -10,7 +10,7 @@ description: ""
 <th style="text-align: center;">Designation</th>
 </tr>
 <tr>
-<td><a href="mailto:sitiya_marnie_mohamed_ar@schools.gov.sg" target="">Ms Sitiya Marnie BinteMohamed Arif</a>&nbsp;</td>
+<td><a href="mailto:sitiya_marnie_mohamed_ar@schools.gov.sg" target="">Ms Sitiya Marnie Binte Mohamed Arif</a>&nbsp;</td>
 <td>AED (T&amp;L)</td>
 </tr>
 </tbody>
