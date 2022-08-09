@@ -1,4 +1,5 @@
 collections:
   information:
     output: true
-    order: []
+    order:
+      - Full Subject–Based Banding.md
