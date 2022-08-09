@@ -22,3 +22,28 @@ links:
         url: /our-community/parent-support-group
       - title: Alumni
         url: /our-community/alumni
+  - title: Information
+    url: /information/students/assessment-matters
+    sublinks:
+      - title: Assessment Matters
+        url: /information/students/assessment-matters
+      - title: Book List
+        url: /information/students/book-list
+      - title: Bookshop and Uniform Vendors
+        url: /information/students/bookshop-and-uniform-vendors
+      - title: Class Timetable
+        url: /information/students/class-timetable
+      - title: Counselling Services
+        url: /information/students/counselling-services
+      - title: Dental Clinic Schedule
+        url: /information/students/dental-clinic-schedule
+      - title: ICT Matters
+        url: /information/students/ict-matters
+      - title: Library Catalogue
+        url: /information/students/library-catalogue
+      - title: Safety Matters
+        url: /information/students/safety-matters
+      - title: Student Handbook
+        url: /information/students/student-handbook
+      - title: Useful Student Links
+        url: /information/students/useful-student-links
