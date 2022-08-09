@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Safety Matters.md
       - Students/Student Handbook.md
       - Students/Useful Student Links.md
       - Students/.keep
