@@ -42,3 +42,115 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>Who may benefit from Counselling?<br /></strong>Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations&mdash; and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.&nbsp;<br />You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:</p>
+<ul>
+<li>Stress</li>
+<li>Academic /Exam Anxieties</li>
+<li>Grief and Loss</li>
+<li>Relationship issues with Peers</li>
+<li>Family Conflicts</li>
+<li>School Anxieties</li>
+<li>Bullying</li>
+</ul>
+<div>
+<p><strong>What happens when you see a Counsellor?<br /></strong>Counselling sessions usually lasts 45 minutes where school counsellors and students explore concerns. ALL sessions are CONFIDENTIAL and this means:</p>
+<div>
+<ul>
+<li>It will not be reported in your report book nor shared with everybody.&nbsp;</li>
+<li>However, your school counsellor will be required to share any confidential information shared if the counsellor thinks that you or someone else is at risk of being harmed.</li>
+</ul>
+</div>
+</div>
+<div><strong><u>Other Useful Helplines:</u></strong></div>
+<div>&nbsp;</div>
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<ul>
+<li>These are counselling hotlines and social work agencies that offer help to youths:</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Trans Family Services (Bedok</li>
+</ul>
+</td>
+<td>6449-0762</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Thye Hua Kwan Family Service Centre (Bedok) Provides services such as counselling, family life education, children and youth programmes and elderly services.</li>
+</ul>
+</td>
+<td>6449-1440</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Samaritans of Singapore (SOS) Provides emotional support to people who have difficulty coping during a crisis, who are thinking of committing suicide or are affected by a suicide</li>
+</ul>
+</td>
+<td>1800-221-4444 (24 hours)</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Touchline</li>
+</ul>
+</td>
+<td>1800-377-2252</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Help123 (help123.sg) Get help for gaming addiction, internet-related issues and information on youth programmes</li>
+</ul>
+</td>
+<td>1800-6123-123</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Pregnancy Crisis Service Supports anyone who may be facing an unwanted, suspected or unexpected pregnancy</li>
+</ul>
+</td>
+<td>6339-9770(24 hours)</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Babes Teenage unplanned pregnancy crisis helpline</li>
+</ul>
+</td>
+<td>8111-3535(24 hours)</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>CHAT Community Health Assessment Team Provides free mental health checks for those who are 16 to 30 years old.</li>
+</ul>
+</td>
+<td>6493-6500<br />6493-6501</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>IMH Emergency Hotline Urgent intervention for those who are facing a mental health crisis</li>
+</ul>
+</td>
+<td>6389-2222(24 hours)</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>eCounselling Online counselling service</li>
+</ul>
+</td>
+<td>www.eC2.sg</td>
+</tr>
+</tbody>
+</table>
