@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Counselling Services.md
       - Students/Dental Clinic Schedule.md
       - Students/ICT Matters.md
       - Students/Library Catalogue.md
