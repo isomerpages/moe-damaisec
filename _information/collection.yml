@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Full Subject–Based Banding.md
