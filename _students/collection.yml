@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - Assessment Matters.md
+    order: []
