@@ -1,5 +1,5 @@
 collections:
-  information:
+  students:
     output: true
     order:
       - Assessment Matters.md
