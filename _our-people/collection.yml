@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers/Sec 3 Form Teachers.md
       - Form Teachers/Sec 4&5 Form Teachers.md
       - Form Teachers/.keep
       - Allied Educators (AED).md
