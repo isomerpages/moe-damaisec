@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - News And Events/.keep
       - School Calendar of Events.md
       - Time Table Structure.md
       - Direct School Admission (DSA).md
