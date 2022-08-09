@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Bookshop and Uniform Vendors.md
       - Students/Class Timetable.md
       - Students/Counselling Services.md
       - Students/Dental Clinic Schedule.md
