@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Assessment Matters.md
       - Book List.md
       - Bookshop and Uniform Vendors.md
       - Class Timetable.md
