@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Allied Educators (AED).md
       - Counselling and Learning Support.md
       - Exec & Admin Staff (EAS).md
