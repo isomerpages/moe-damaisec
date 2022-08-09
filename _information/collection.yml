@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Safety Matters.md
       - Student Handbook.md
       - Useful Student Links.md
