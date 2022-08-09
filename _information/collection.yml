@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Class Timetable.md
       - Counselling Services.md
       - Dental Clinic Schedule.md
       - ICT Matters.md
