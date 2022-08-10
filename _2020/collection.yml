@@ -2,6 +2,7 @@ collections:
   "2020":
     output: true
     order:
+      - IMDA Lab on Wheels @ Damai.md
       - National Day.md
       - Teachers’ Day.md
       - Life in COVID–19.md
