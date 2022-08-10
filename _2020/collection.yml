@@ -2,6 +2,7 @@ collections:
   "2020":
     output: true
     order:
+      - Teachers’ Day.md
       - Life in COVID–19.md
       - Sec 4 & 5 Graduation Day.md
       - 2020.md
