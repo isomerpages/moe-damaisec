@@ -133,3 +133,9 @@ third_nav_title: Parents
 <li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigatingthe Cyber World Safely</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
 </ul>
+<p><strong>Weblinks:</strong></p>
+<ul>
+<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
+<li><a href="https://www.betterinternet.sg/">Media Literacy Council (MLC)</a></li>
+<li><a href="https://www.commonsensemedia.org/">Common Sense Media: Age-Based Media Reviews for Families</a></li>
+</ul>
