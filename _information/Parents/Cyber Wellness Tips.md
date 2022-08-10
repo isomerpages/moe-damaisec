@@ -32,3 +32,104 @@ third_nav_title: Parents
 <p>Schools are guided by the CW framework to plan and implement CW education which are customised to the student profile and school environment.</p>
 </div>
 <img src="/images/cyber2.png">
+<p>The following time is dedicated to CW education:</p>
+<ul>
+<li>Secondary 1 and 2: CW topics and lessons are delivered as part of the CCE curriculum.</li>
+<li>Secondary 3 and 4: 8 x 1-hour lessons as part of the Guidance Area modules in Character and Citizenship Education (CCE).</li>
+<li>Secondary 5: 2 x 1-hour lessons as part of the Guidance Area modules in CCE.</li>
+</ul>
+<p><u><strong>Cyber-Wellness Curriculum</strong></u></p>
+<table width="0">
+<tbody>
+<tr>
+<td style="text-align: center;" width="240">
+<p><strong>Topics</strong></p>
+</td>
+<td style="text-align: center;" width="524">
+<p><strong>What your child will learn about</strong></p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Cyber use</p>
+</td>
+<td width="524">
+<ul type="disc">
+<li>Maintaining a healthy balance of online and offline activities</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Cyber identity</p>
+</td>
+<td width="524">
+<ul type="disc">
+<li>Developing a healthy online identity</li>
+<li>Appropriate online expression</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Cyber relationships</p>
+</td>
+<td width="524">
+<ul type="disc">
+<li>Netiquette</li>
+<li>Cyber bullying</li>
+<li>Developing safe, respectful and meaningful online relationships</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Cyber Citizenship</p>
+</td>
+<td width="524">
+<ul type="disc">
+<li>Understanding the cyber world</li>
+<li>Handling online content and behaviour</li>
+<li>Having a positive presence in the cyber community</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Cyber Ethics</p>
+</td>
+<td width="524">
+<ul type="disc">
+<li>Creating and sharing of online content in a responsible manner</li>
+<li>Respecting copyright</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><u><strong>Support at home</strong></u></p>
+<ul>
+<li>Organise more outdoor activities together.</li>
+<li>Activate parental controls on your home devices.</li>
+<li>Model good digital habits for your child.</li>
+<li>Set ground rules for internet use.</li>
+<li>Navigate the internet together to understand their usage.</li>
+</ul>
+<p><strong><u>Useful Resources</u></strong></p>
+<p>Cyber Wellness Mobile App for Parents - 'notAnoobie' (2014): Accessed at&nbsp;<a href="https://www.singtel.com/personal/i/apps-tv/apps/notanoobie" target="_blank" rel="noopener">https://www.singtel.com/personal/i/apps-tv/apps/notanoobie</a>&nbsp;</p>
+<img style="width: 40%;"src="/images/cyber4.png" align = "left">
+<p>The notAnoobie mobile app, developed by Singtel and TOUCH Cyber Wellness, aims to help parents understand and follow cyber-related developments and issues such as gaming, mobile technology and device addiction, social media dos and don&rsquo;ts, as well as identifying and stopping cyber bullying, inappropriate content online and protecting personal privacy online. The app content includes articles, reviews, success stories, quizzes and daily tips.</p>
+<img style="width: 40%;"src="/images/cyber3.png" align = "left">
+<p>With this app, parents can now be armed with the knowledge on-the-go and help educate their children to be responsible digital citizens and look out for possible online dangers. This app will allow parents to harness the potential of the cyber world and better connect with their children and help families grow closer with mutual understanding and respect.<br />The app can be downloaded free from App Store and Google play stores by mobile users in Singapore on any network.</p>
+<p><strong>Schoolbag Articles:</strong></p>
+<ul>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICTin Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" target="_blank" rel="noopener">Playsafe &ndash; Avoid online gaming addiction</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" target="_blank" rel="noopener">Safeguardingyour child online</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently" target="_blank" rel="noopener">ExploringOnline, Safely and Confidently</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" target="_blank" rel="noopener">Parents,the Guardians of Internet Safety</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" target="_blank" rel="noopener">Guidefor Parents on Setting Parental Controls</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" target="_blank" rel="noopener">UnderstandingCyber Wellness</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigatingthe Cyber World Safely</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
+</ul>
