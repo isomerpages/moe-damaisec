@@ -2,4 +2,5 @@ collections:
   "2020":
     output: true
     order:
+      - Sec 4 & 5 Graduation Day.md
       - 2020.md
