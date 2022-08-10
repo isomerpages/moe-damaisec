@@ -2,6 +2,7 @@ collections:
   "2020":
     output: true
     order:
+      - 2020.md
       - Sec 1 Orientation & CCA Open House.md
       - Meet–The–Parents Sessions.md
       - Chinese New Year.md
@@ -10,4 +11,3 @@ collections:
       - Teachers’ Day.md
       - Life in COVID–19.md
       - Sec 4 & 5 Graduation Day.md
-      - 2020.md
