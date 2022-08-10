@@ -2,6 +2,7 @@ collections:
   "2021":
     output: true
     order:
+      - Hari Raya Aidilfitri Celebration.md
       - National Day Celebration.md
       - Racial Harmony Day.md
       - Student Leaders’ Investiture.md
