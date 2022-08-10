@@ -2,6 +2,7 @@ collections:
   "2020":
     output: true
     order:
+      - Sec 1 Orientation & CCA Open House.md
       - Meet–The–Parents Sessions.md
       - Chinese New Year.md
       - IMDA Lab on Wheels @ Damai.md
