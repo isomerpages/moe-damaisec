@@ -141,27 +141,27 @@ third_nav_title: Parents
 </ul>
 <p><strong>Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
 <ul>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/cyber-wellness/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child.pdf">[Parent Kit] Raising A Digitally Smart Child</a></li>
+<li><a href="/files/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child.pdf">[Parent Kit] Raising A Digitally Smart Child</a></li>
 <li><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/talking-to-your-child-about-internet-safety">Talking to Your Child on Internet Safety</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pack%20Overview.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Pack Overview</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Pledge Card</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Quick%20activities.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Quick activities</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Spread%20the%20Word.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Spread the Word</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Resource%20Guide%20for%20Parents%20on%20CW_Bullying%20Hub.pdf">Resource Guide for Parents on CW_Bullying Hub</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf">Tip sheet for Parents-Excessive Internet Use</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Cyber%20Issues%20Handouts.pdf">Cyber Issues Handouts</a></li>
-<li><a href="https://damaisec.moe.edu.sg/information/parents/crushexplorer-familyagreement.pdf/qql/slot/u164/Programmes/Cyberwellness/crushexplorer-familyagreement.pdf">crushexplorer-familyagreement</a></li>
-<li><a href="https://damaisec.moe.edu.sg/qql/slot/u164/Programmes/Cyberwellness/Slides%20for%20Parents-Excessive%20Internet%20Use.pptx">Slides for Parents-Excessive Internet Use</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/7-Conversation-Topics-November-2018.pdf">7-Conversation-Topics-November-2018</a>&nbsp;</li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Youtube-Parents-Guide.pdf">Youtube-Parents-Guide</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/WhatsApp-Parents-Guide.pdf">WhatsApp-Parents-Guide</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/TikTok-Online-Safety-Guide-March-2019-1.pdf">TikTok-Online-Safety-Guide-March-2019</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Catfishing-Parents-Guide-Feb-2019.pdf">Catfishing-Parents-Guide-Feb-2019</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Fortnite-Parents-Guide-051218.pdf">Fortnite-Parents-Guide</a>&nbsp;</li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Instagram-Parents-Guide-V2-081118.pdf">Instagram-Parents-Guide</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Screen-Addiction-Parents-Guide-091118.pdf">Screen-Addiction-Parents-Guide</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/cyber-wellness/Snapchat-Parents-Guide-V2-081118.pdf">Snapchat-Parents-Guide</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pack%20Overview.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Pack Overview</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Pledge Card</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Quick%20activities.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Quick activities</a></li>
+<li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Spread%20the%20Word.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Spread the Word</a></li>
+<li><a href="/files/Resource%20Guide%20for%20Parents%20on%20CW_Bullying%20Hub.pdf">Resource Guide for Parents on CW_Bullying Hub</a></li>
+<li><a href="/files/Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf">Tip sheet for Parents-Excessive Internet Use</a></li>
+<li><a href="/files/Cyber%20Issues%20Handouts.pdf">Cyber Issues Handouts</a></li>
+<li><a href="/files/crushexplorer-familyagreement.pdf">crushexplorer-familyagreement</a></li>
+<li><a href="/files/Cyberwellness/Slides%20for%20Parents-Excessive%20Internet%20Use.pptx">Slides for Parents-Excessive Internet Use</a></li>
+<li><a href="/files/7-Conversation-Topics-November-2018.pdf">7-Conversation-Topics-November-2018</a>&nbsp;</li>
+<li><a href="/files/Youtube-Parents-Guide.pdf">Youtube-Parents-Guide</a></li>
+<li><a href="/files/WhatsApp-Parents-Guide.pdf">WhatsApp-Parents-Guide</a></li>
+<li><a href="/files/TikTok-Online-Safety-Guide-March-2019-1.pdf">TikTok-Online-Safety-Guide-March-2019</a></li>
+<li><a href="/files/Catfishing-Parents-Guide-Feb-2019.pdf">Catfishing-Parents-Guide-Feb-2019</a></li>
+<li><a href="/files/Fortnite-Parents-Guide-051218.pdf">Fortnite-Parents-Guide</a>&nbsp;</li>
+<li><a href="/files/Instagram-Parents-Guide-V2-081118.pdf">Instagram-Parents-Guide</a></li>
+<li><a href="/files/Screen-Addiction-Parents-Guide-091118.pdf">Screen-Addiction-Parents-Guide</a></li>
+<li><a href="/files/Snapchat-Parents-Guide-V2-081118.pdf">Snapchat-Parents-Guide</a></li>
 </ul>
