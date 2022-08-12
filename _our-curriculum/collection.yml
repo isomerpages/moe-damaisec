@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development Programme.md
       - Character and Citizenship Education.md
       - "Learning for Life Programme: Character Development through Water and
         Adventure Sports.md"
