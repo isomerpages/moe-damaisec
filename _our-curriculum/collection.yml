@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Canoeing.md
       - Co Curricular Activities (CCA)/Dragonboating.md
       - Co Curricular Activities (CCA)/Handball.md
       - Co Curricular Activities (CCA)/Netball.md
