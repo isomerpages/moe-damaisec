@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Ethnic Dance.md
       - Co Curricular Activities (CCA)/Guzheng.md
       - Co Curricular Activities (CCA)/Modern Dance.md
       - Co Curricular Activities (CCA)/Symphonic Band.md
