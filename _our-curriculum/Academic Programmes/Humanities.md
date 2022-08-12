@@ -93,3 +93,34 @@ third_nav_title: Academic Programmes
 </tbody>
 </table>
 <p><strong>Achievements and Highlights</strong></p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Competition</th>
+<th style="text-align: center;">Achievement</th>
+</tr>
+<tr>
+<td style="text-align: center;">Istana Heritage Gallery Challenge 2018</td>
+<td style="text-align: center;">2<sup>nd</sup>&nbsp;Placing</td>
+</tr>
+<tr>
+<td style="text-align: center;">CHIJ Katong Convent Humanities Challenge 2018</td>
+<td style="text-align: center;">3<sup>rd&nbsp;</sup>placing</td>
+</tr>
+<tr>
+<td style="text-align: center;">Istana Heritage Gallery Challenge 2019</td>
+<td style="text-align: center;">First Placing and Most Iconic &amp; Creative Photo Award</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div>NUS Geography Photo Essay Challenge</div>
+<div>2018, 2019 &amp; 2020</div>
+</td>
+<td style="text-align: center;">Top 3 Placing&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">NUS Geography Challenge<br />2018, 2019 &amp; 2020</td>
+<td style="text-align: center;">Semi-finalists (Top 10 positions)&nbsp;</td>
+</tr>
+</tbody>
+</table>
