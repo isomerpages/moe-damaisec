@@ -258,180 +258,180 @@ third_nav_title: Parents
 <td style="height: 36px; width: 152.344px;">Netball</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/Effective%20Parenting%20Approach%20to%20raising%20your%20teen.pdf" target="_blank" rel="noopener">[PG] Effective Parenting Approach to raising your teen</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Effective%20Parenting%20Approach%20to%20raising%20your%20teen.pdf" target="_blank" rel="noopener">[PG] Effective Parenting Approach to raising your teen</a></td>
 <td style="height: 36px; width: 66.5px;">28 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 - 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/Handball%20Termly%20Letter.pdf" target="_blank" rel="noopener">[PG] Handball Termly Letter</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Handball%20Termly%20Letter.pdf" target="_blank" rel="noopener">[PG] Handball Termly Letter</a></td>
 <td style="height: 36px; width: 66.5px;">27 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Handball</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/Term%201%20Guzheng%20CCA%20Parents%20Notification%20Letter.pdf" target="_blank" rel="noopener">[PG] Term 1 Guzheng CCA Parents Notification Letter</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Term%201%20Guzheng%20CCA%20Parents%20Notification%20Letter.pdf" target="_blank" rel="noopener">[PG] Term 1 Guzheng CCA Parents Notification Letter</a></td>
 <td style="height: 36px; width: 66.5px;">26 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Guzheng</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/First%20contact%20Choir.pdf" target="_blank" rel="noopener">[PG] First contact Choir</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/First%20contact%20Choir.pdf" target="_blank" rel="noopener">[PG] First contact Choir</a></td>
 <td style="height: 36px; width: 66.5px;">25 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Choir</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;">&nbsp;<a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%203/Secondary%203%20VIA%20Preparatory%20Workshop.pdf" target="_blank" rel="noopener">Secondary 3 VIA Preparatory Workshop</a></td>
+<td style="height: 36px; width: 446.141px;">&nbsp;<a href="/files/Secondary%203%20VIA%20Preparatory%20Workshop.pdf" target="_blank" rel="noopener">Secondary 3 VIA Preparatory Workshop</a></td>
 <td style="height: 36px; width: 66.5px;">24 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 3</td>
 </tr>
 <tr style="height: 137px;">
 <td style="height: 137px; width: 446.141px;"><strong>[PG] Coursework</strong><br />
 <ul>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/GCE%20O%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE O Level DT coursework</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/GCE%20NA%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE NA Level DT coursework</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/GCE%20NT%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE NT Level DT coursework</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/NFS%20coursework%206073.pdf" target="_blank" rel="noopener">Nutrition &amp; Food Science Coursework 6073</a></li>
-<li><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/NFS%20coursework%206097.pdf" target="_blank" rel="noopener">Nutrition &amp; Food Science Coursework 6097</a></li>
+<li><a href="/files/Sec%204%205/GCE%20O%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE O Level DT coursework</a></li>
+<li><a href="/files/Sec%204%205/GCE%20NA%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE NA Level DT coursework</a></li>
+<li><a href="/files/Sec%204%205/GCE%20NT%20Level%20DT%20coursework.pdf" target="_blank" rel="noopener">GCE NT Level DT coursework</a></li>
+<li><a href="/files/Sec%204%205/NFS%20coursework%206073.pdf" target="_blank" rel="noopener">Nutrition &amp; Food Science Coursework 6073</a></li>
+<li><a href="/files/Sec%204%205/NFS%20coursework%206097.pdf" target="_blank" rel="noopener">Nutrition &amp; Food Science Coursework 6097</a></li>
 </ul>
 </td>
 <td style="height: 137px; width: 66.5px;">24 Jan 2022</td>
 <td style="height: 137px; width: 152.344px;">Sec 4 &amp; 5<br />D&amp;T / NFS</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/Early%20Dismissal%20On%20Chinese%20New%20Year%20Eve.pdf" target="_blank" rel="noopener">[PG] Early Dismissal On Chinese New Year Eve</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Early%20Dismissal%20On%20Chinese%20New%20Year%20Eve.pdf" target="_blank" rel="noopener">[PG] Early Dismissal On Chinese New Year Eve</a></td>
 <td style="height: 36px; width: 66.5px;">24 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 - 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/National%20School-based%20Human%20Papillomavirus%20Vaccination%20Programme%20for%20Secondary%20One%20Female%20Students.pdf" target="_blank" rel="noopener">[PG] National School-based Human Papillomavirus Vaccination Programme for Secondary One Female Students</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/National%20School-based%20Human%20Papillomavirus%20Vaccination%20Programme%20for%20Sec%20One%20Female%20Students.pdf" target="_blank" rel="noopener">[PG] National School-based Human Papillomavirus Vaccination Programme for Secondary One Female Students</a></td>
 <td style="height: 36px; width: 66.5px;">21 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 Girls</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/Consent%20for%20the%20Annual%20School-based%20Health%20%20Dental%20Services.pdf" target="_blank" rel="noopener">[PG] Consent for the Annual School-based Health Dental Services</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Consent%20for%20the%20Annual%20School-based%20Health%20%20Dental%20Services.pdf" target="_blank" rel="noopener">[PG] Consent for the Annual School-based Health Dental Services</a></td>
 <td style="height: 36px; width: 66.5px;">20 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/Colours%20of%20the%20Mind%20workshop%20by%20Health%20Promotion%20Board.pdf" target="_blank" rel="noopener">[PG] Colours of the Mind workshop by Health Promotion Board</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Colours%20of%20the%20Mind%20workshop%20by%20Health%20Promotion%20Board.pdf" target="_blank" rel="noopener">[PG] Colours of the Mind workshop by Health Promotion Board</a></td>
 <td style="height: 36px; width: 66.5px;">20 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 - 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/Notification%20of%20Activity_BPA%202022.pdf" target="_blank" rel="noopener">Girl Guides BPA Written and Execution Tests 2022</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Notification%20of%20Activity_BPA%202022.pdf" target="_blank" rel="noopener">Girl Guides BPA Written and Execution Tests 2022</a></td>
 <td style="height: 36px; width: 66.5px;">20 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Selected Sec 4 Girl Guides</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/Parents%20Letter_NCC%20Camp%20STEEL%202022.pdf">NCC Camp STEEL 2022</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Parents%20Letter_NCC%20Camp%20STEEL%202022.pdf">NCC Camp STEEL 2022</a></td>
 <td style="height: 36px; width: 66.5px;">20 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Selected Sec 2 NCC&nbsp;</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/Bridging%20Programme%20for%20Foundation%20Mathematics%202022.pdf" target="_blank" rel="noopener">Bridging Programme for Foundation Mathematics 2022</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Bridging%20Programme%20for%20Foundation%20Mathematics%202022.pdf" target="_blank" rel="noopener">Bridging Programme for Foundation Mathematics 2022</a></td>
 <td style="height: 36px; width: 66.5px;">18 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Selected Sec 1&nbsp;</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/Letter%20to%20Parents_Guardians%20-%20Fee%20Subsidies%20for%20Students%20on%20School-based%20FAS.pdf" target="_blank" rel="noopener">Fee Subsidies for Students on School-based FAS</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Letter%20to%20Parents_Guardians%20-%20Fee%20Subsidies%20for%20Students%20on%20School-based%20FAS.pdf" target="_blank" rel="noopener">Fee Subsidies for Students on School-based FAS</a></td>
 <td style="height: 36px; width: 66.5px;">18 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">School-based FAS</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/Assessment%20of%20Suitability%20of%20Student-Owned%20Device.pdf">Assessment of Suitability of Student-Owned Device</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Assessment%20of%20Suitability%20of%20Student-Owned%20Device.pdf">Assessment of Suitability of Student-Owned Device</a></td>
 <td style="height: 36px; width: 66.5px;">18 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Selected Students</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/PG%20Sec%204%20%205%20Meet-the-Parents%20session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] Sec 4 &amp; 5 Meet-the-Parents session via Zoom</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Sec%204%205/PG%20Sec%204%20%205%20Meet-the-Parents%20session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] Sec 4 &amp; 5 Meet-the-Parents session via Zoom</a></td>
 <td style="height: 36px; width: 66.5px;">17 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 4 &amp; 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/PG%20Colour%20Testing%20for%20Sec%201%20students%20in%20Student%20Health%20Centre.pdf" target="_blank" rel="noopener">[PG] Colour Testing for Sec 1 students in Student Health Centre</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20Colour%20Testing%20for%20Sec%201%20students%20in%20Student%20Health%20Centre.pdf" target="_blank" rel="noopener">[PG] Colour Testing for Sec 1 students in Student Health Centre</a></td>
 <td style="height: 36px; width: 66.5px;">17 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/Secondary%204%20%205%20Polytechnic%20Talks%20and%20Workshops.pdf" target="_blank" rel="noopener">Secondary 4 &amp; 5 Polytechnic Talks and Workshops</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Secondary%204%20%205%20Polytechnic%20Talks%20and%20Workshops.pdf" target="_blank" rel="noopener">Secondary 4 &amp; 5 Polytechnic Talks and Workshops</a></td>
 <td style="height: 36px; width: 66.5px;">17 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 4 &amp; 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%202/Sec%202%20HI%20NOA%202022%20to%20Ford%20Factory.pdf" target="_blank" rel="noopener">Sec 2 HI NOA 2022 to Ford Factory</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Sec%202%20HI%20NOA%202022%20to%20Ford%20Factory.pdf" target="_blank" rel="noopener">Sec 2 HI NOA 2022 to Ford Factory</a></td>
 <td style="height: 36px; width: 66.5px;">17 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">201,202,203,204</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/PG%20NPCC%20Sec%2023%20Marksmanship%20Training%20%20Damai%20Secondary%20School.pdf" target="_blank" rel="noopener">[PG] NPCC Sec 2/3 Marksmanship Training Damai Secondary School</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20NPCC%20Sec%2023%20Marksmanship%20Training%20%20Damai%20Secondary%20School.pdf" target="_blank" rel="noopener">[PG] NPCC Sec 2/3 Marksmanship Training Damai Secondary School</a></td>
 <td style="height: 36px; width: 66.5px;">14 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">NPCC Sec 2 &amp; 3</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/PG%20Sec%201%20CCA%20Selection.pdf" target="_blank" rel="noopener">[PG] Sec 1 CCA Selection</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20Sec%201%20CCA%20Selection.pdf" target="_blank" rel="noopener">[PG] Sec 1 CCA Selection</a></td>
 <td style="height: 36px; width: 66.5px;">14 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%203/PG%20Registration%20of%20NRIC%20in%20School.pdf" target="_blank" rel="noopener">[PG] Registration of NRIC in School</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20Registration%20of%20NRIC%20in%20School.pdf" target="_blank" rel="noopener">[PG] Registration of NRIC in School</a></td>
 <td style="height: 36px; width: 66.5px;">11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 3</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/2022%20Schedule%20of%20Non%20Weighted%20Assessment%20Semester%201%20Secondary%204%20%205%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 4 &amp; 5 Schedule of Non Weighted Assessment Semester 1</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/2022%20Schedule%20of%20Non%20Weighted%20Assessment%20Semester%201%20Secondary%204%20%205%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 4 &amp; 5 Schedule of Non Weighted Assessment Semester 1</a></td>
 <td style="height: 36px; width: 66.5px;">11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 4 &amp; 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%203/PG%202022%20Schedule%20of%20Weighted%20Assessment%20Semester%201%20Secondary%203%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 3 Schedule of Weighted Assessment Semester 1</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%202022%20Schedule%20of%20Weighted%20Assessment%20Semester%201%20Secondary%203%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 3 Schedule of Weighted Assessment Semester 1</a></td>
 <td style="height: 36px; width: 66.5px;">11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 3</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%202/PG%202022%20Schedule%20of%20Weighted%20Assessment%20Semester%201%20Secondary%201%20and%202%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 1 &amp; 2 Schedule of Weighted Assessment Semester 1</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%202022%20Schedule%20of%20Weighted%20Assessment%20Semester%201%20Secondary%201%20and%202%20v2.pdf" target="_blank" rel="noopener">[PG] Sec 1 &amp; 2 Schedule of Weighted Assessment Semester 1</a></td>
 <td style="height: 36px; width: 66.5px;">11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 &amp; 2</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%203/PG%20S3%20Meet-The-Parents%20Session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] S3 Meet-The-Parents Session via Zoom</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20S3%20Meet-The-Parents%20Session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] S3 Meet-The-Parents Session via Zoom</a></td>
 <td style="height: 36px; width: 66.5px;">11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 3</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%202/PG%20S2%20Meet-The-Parents%20Session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] S2 Meet-The-Parents Session via Zoom</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20S2%20Meet-The-Parents%20Session%20via%20Zoom.pdf" target="_blank" rel="noopener">[PG] S2 Meet-The-Parents Session via Zoom</a></td>
 <td style="height: 36px; width: 66.5px;">&nbsp;11 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 2</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/CCA/PG%20Phasing%20out%20of%20Handball%20CCA.pdf" target="_blank" rel="noopener">[PG] Phasing out of Handball CCA</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20Phasing%20out%20of%20Handball%20CCA.pdf" target="_blank" rel="noopener">[PG] Phasing out of Handball CCA</a></td>
 <td style="height: 36px; width: 66.5px;">06 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Handball</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/PG%20S1%20Meet-The-Parents%20MTP%20Session.pdf" target="_blank" rel="noopener">[PG] S1 Meet-The-Parents MTP Session</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20S1%20Meet-The-Parents%20MTP%20Session.pdf" target="_blank" rel="noopener">[PG] S1 Meet-The-Parents MTP Session</a></td>
 <td style="height: 36px; width: 66.5px;">05 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%202/CNA%20Green%20Plan%20Challenge_4%20Jan%202022.pdf" target="_blank" rel="noopener">CNA Green Plan Challenge</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/CNA%20Green%20Plan%20Challenge_4%20Jan%202022.pdf" target="_blank" rel="noopener">CNA Green Plan Challenge</a></td>
 <td style="height: 36px; width: 66.5px;">04 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">201, 203</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/Sec%204%20ECG%20Learning%20Journey%20Lifelong%20Learning%20Institute.pdf" target="_blank" rel="noopener">Sec 4 ECG Learning Journey Lifelong Learning Institute</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Sec%204%20ECG%20Learning%20Journey%20Lifelong%20Learning%20Institute.pdf" target="_blank" rel="noopener">Sec 4 ECG Learning Journey Lifelong Learning Institute</a></td>
 <td style="height: 36px; width: 66.5px;">04 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 4</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%201/National%20Digital%20Literacy%20Programme%20NDLP_4%20Jan%202022.pdf" target="_blank" rel="noopener">National Digital Literacy Programme NDLP</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/National%20Digital%20Literacy%20Programme%20NDLP_4%20Jan%202022.pdf" target="_blank" rel="noopener">National Digital Literacy Programme NDLP</a></td>
 <td style="height: 36px; width: 66.5px;">04 Jan 2022</td>
 <td style="height: 36px; width: 152.344px;">Sec 1</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/All/PG%20Updating%20of%20Travel%20Declarations%20for%20Year-End%20Holidays.pdf" target="_blank" rel="noopener">[PG] Updating of Travel Declarations for Year-End Holidays</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/PG%20Updating%20of%20Travel%20Declarations%20for%20Year-End%20Holidays.pdf" target="_blank" rel="noopener">[PG] Updating of Travel Declarations for Year-End Holidays</a></td>
 <td style="height: 36px; width: 66.5px;">30 Dec 2021</td>
 <td style="height: 36px; width: 152.344px;">Sec 1 - 5</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%204%205/Sec%204%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 4 Information on School Matters for 2022</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Sec%204%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 4 Information on School Matters for 2022</a></td>
 <td style="height: 36px; width: 66.5px;">29 Dec 2021</td>
 <td style="height: 36px; width: 152.344px;">Sec 4</td>
 </tr>
