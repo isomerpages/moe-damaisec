@@ -13,6 +13,23 @@ links:
         url: /our-damai/our-heritage
       - title: Our Accolades
         url: /our-damai/our-accolades/student-accolades
+  - title: Our Curriculum
+    url: /our-curriculum/academic-programmes
+    sublinks:
+      - title: Academic Programmes
+        url: /our-curriculum/academic-programmes
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability
+      - title: Student Development Programme
+        url: /our-curriculum/student-development-programme
+      - title: CCE
+        url: /our-curriculum/character-and-citizenship-education
+      - title: Co-Curricular Activities (CCA)
+        url: /our-curriculum/co-curricular-activities-cca
+      - title: Learning for Life Programme
+        url: /our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports
+      - title: NDL Programme
+        url: /our-curriculum/national-digital-literacy-programme
   - title: Our People
     url: /our-people/school-management-committee
     sublinks:
@@ -56,20 +73,3 @@ links:
         url: /information/direct-school-admission-dsa
       - title: Full Subject-Based Banding
         url: /information/full-subject-based-banding
-  - title: Our Curriculum
-    url: /our-curriculum/academic-programmes
-    sublinks:
-      - title: Academic Programmes
-        url: /our-curriculum/academic-programmes
-      - title: Applied Learning Programme
-        url: /our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability
-      - title: Student Development Programme
-        url: /our-curriculum/student-development-programme
-      - title: CCE
-        url: /our-curriculum/character-and-citizenship-education
-      - title: Co-Curricular Activities (CCA)
-        url: /our-curriculum/co-curricular-activities-cca
-      - title: Learning for Life Programme
-        url: /our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports
-      - title: NDL Programme
-        url: /our-curriculum/national-digital-literacy-programme
