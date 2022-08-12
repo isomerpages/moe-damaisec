@@ -2,6 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Programmes/.keep
+      - "Applied Learning Programme: Environmental Sciences and
+        Sustainability.md"
+      - Student Development Programme.md
+      - Character and Citizenship Education.md
+      - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/LEAPS 2 Guide.md
       - Co Curricular Activities (CCA)/CCA Weekly Schedule 2022.md
@@ -22,12 +28,6 @@ collections:
       - Co Curricular Activities (CCA)/Netball.md
       - Co Curricular Activities (CCA)/Rugby.md
       - Co Curricular Activities (CCA)/Info Communications Club.md
-      - Co Curricular Activities (CCA)/.keep
-      - Academic Programmes/.keep
-      - "Applied Learning Programme: Environmental Sciences and
-        Sustainability.md"
-      - Student Development Programme.md
-      - Character and Citizenship Education.md
       - "Learning for Life Programme: Character Development through Water and
         Adventure Sports.md"
       - National Digital Literacy Programme.md
