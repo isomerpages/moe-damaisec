@@ -241,7 +241,7 @@ third_nav_title: Parents
 <td>303, 304, 305A, 305B</td>
 </tr>
 <tr>
-<td><a href="/files/Letters%20to%20Parents/2022/Sec%202/2022%20EL%20WA2%20Retest%20PG.docx.pdf">EL WA2 Retest</a></td>
+<td><a href="/files/Sec%202/2022%20EL%20WA2%20Retest%20PGdocx.pdf">EL WA2 Retest</a></td>
 <td>12 May 2022</td>
 <td>201, 202</td>
 </tr>
