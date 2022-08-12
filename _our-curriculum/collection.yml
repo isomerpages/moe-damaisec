@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Handball.md
       - Co Curricular Activities (CCA)/Netball.md
       - Co Curricular Activities (CCA)/Rugby.md
       - Co Curricular Activities (CCA)/Info Communications Club.md
