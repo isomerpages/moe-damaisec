@@ -25,18 +25,18 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>Miss Lorraine Ng<br />HOD/CCE<br />(Acting)</td>
-<td>Mrs Joanne Wong<br />HOD/Discipline</td>
-<td>Mr Ng Zhi Xian<br />HOD/PE &amp; CCA</td>
-<td>Mrs Jackie Chan<br />Year Head<br />(Lower Secondary)</td>
-<td>Ms Lenny Marlina<br />Mohammed<br />Year Head<br />(Upper Secondary)</td>
+<td style="text-align: center;">Miss Lorraine Ng<br />HOD/CCE<br />(Acting)</td>
+<td style="text-align: center;">Mrs Joanne Wong<br />HOD/Discipline</td>
+<td style="text-align: center;">Mr Ng Zhi Xian<br />HOD/PE &amp; CCA</td>
+<td style="text-align: center;">Mrs Jackie Chan<br />Year Head<br />(Lower Secondary)</td>
+<td style="text-align: center;">Ms Lenny Marlina<br />Mohammed<br />Year Head<br />(Upper Secondary)</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>Mr Lim Jing Kai<br />SH/Discipline</td>
-<td>&nbsp;</td>
-<td>Mrs Rachel Teo<br />SH/Student-Well<br />Being (Acting)</td>
-<td>Ms Nur Diyana<br />Osman<br />SH/Student-Well<br />Being</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mr Lim Jing Kai<br />SH/Discipline</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mrs Rachel Teo<br />SH/Student-Well<br />Being (Acting)</td>
+<td style="text-align: center;">Ms Nur Diyana<br />Osman<br />SH/Student-Well<br />Being</td>
 </tr>
 </tbody>
 </table>
