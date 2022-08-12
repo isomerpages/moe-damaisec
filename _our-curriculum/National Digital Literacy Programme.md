@@ -41,7 +41,7 @@ description: ""
 <ul>
 <li>The handbook explains how 1‐to‐1 learning benefits students&rsquo; learning and contains some digital parenting tips and strategies.</li>
 </ul>
-<p><a href=/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf" target="_blank" rel="noopener">Parent Handbook II on Learning with a PLD</a></p>
+<p><a href="/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf" target="_blank" rel="noopener">Parent Handbook II on Learning with a PLD</a></p>
 <ul>
 <li>The handbook explains how learning will be different with a PLD. Parents can also pick up tips on easing their child into learning with a PLD and partnering the school in reinforcing good digital habits at home.&nbsp;</li>
 </ul>
