@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/LEAPS 2 Guide.md
       - Co Curricular Activities (CCA)/CCA Weekly Schedule 2022.md
       - Co Curricular Activities (CCA)/Girl Guides.md
       - Co Curricular Activities (CCA)/National Cadet Corps.md
