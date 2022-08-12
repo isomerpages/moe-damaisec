@@ -436,15 +436,14 @@ third_nav_title: Parents
 <td style="height: 36px; width: 152.344px;">Sec 4</td>
 </tr>
 <tr style="height: 36px;">
-<td style="height: 36px; width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%203/Sec%203%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 3 Information on School Matters for 2022</a></td>
+<td style="height: 36px; width: 446.141px;"><a href="/files/Sec%203%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 3 Information on School Matters for 2022</a></td>
 <td style="height: 36px; width: 66.5px;">29 Dec 2021</td>
 <td style="height: 36px; width: 152.344px;">Sec 3</td>
 </tr>
 <tr>
-<td style="width: 446.141px;"><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2022/Sec%202/Sec%202%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 2 Information on School Matters for 2022</a></td>
+<td style="width: 446.141px;"><a href="/files/Sec%202%20Information%20on%20School%20Matters%20for%202022.pdf" target="_blank" rel="noopener">[PG] Sec 2 Information on School Matters for 2022</a></td>
 <td style="width: 66.5px;">29 Dec 2021</td>
 <td style="width: 152.344px;">Sec 2</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
