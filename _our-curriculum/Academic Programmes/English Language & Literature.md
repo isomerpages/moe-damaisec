@@ -39,32 +39,32 @@ third_nav_title: Academic Programmes
 <table>
 <tbody>
 <tr>
-<td>
+<td><img src="/images/el1.jpg">
 <div>Our debaters at the Singapore Secondary Schools Debating Championships 2019.</div>
 </td>
-<td>
+<td><img src="/images/el2.jpg">
 <div>Our National Schools Literature Festival (NSLF) 2019 participants gained an enriching and fun experience.</div>
 </td>
 </tr>
 <tr>
-<td>
+<td><img src="/images/el3.jpg">
 <div>Sec 4 Literature students got a real treat to watch reowned local playwright, Haresh Sharma&rsquo;s Off Centre at the Esplanade.</div>
 </td>
-<td>
+<td><img src="/images/el4.jpg">
 <div>Critical Analysis and Essay Writing Workshop conducted by Ethos Books for our graduating Literature students.</div>
 </td>
 </tr>
 <tr>
-<td>
+<td><img src="/images/el5.jpg">
 <div>Sec 1 In-House Drama Workshop: Students experimenting with body language to convey emotions.</div>
 </td>
-<td>
+<td><img src="/images/el6.jpg">
 <div>Sec 1 In-House Drama Workshop: Students drawing out the image that came to their mind after listening to a piece of music.</div>
 </td>
 </tr>
 <tr>
-<td>Sec 2 In-House Choral Reading Workshop: Students dramatising a poem and having lots of fun!</td>
-<td>Sec 2 In-House Drama Workshop: Dr Dennis Yeo keeping his audience captivated during his talk on the importance of learning Literature.</td>
+<td><img src="/images/el7.jpg">Sec 2 In-House Choral Reading Workshop: Students dramatising a poem and having lots of fun!</td>
+<td><img src="/images/el8.jpg">Sec 2 In-House Drama Workshop: Dr Dennis Yeo keeping his audience captivated during his talk on the importance of learning Literature.</td>
 </tr>
 </tbody>
 </table>
