@@ -17,5 +17,5 @@ sections:
           url: /latest-news-n-events/
         - title: CALENDAR
           description: ""
-          url: /2022%20School%20Calendar%20Damai%20Sec%20for%20students.pdf
+          url: /files/2022%20School%20Calendar%20Damai%20Sec%20for%20students.pdf
 ---
