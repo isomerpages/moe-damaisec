@@ -4,8 +4,6 @@ permalink: /information/parents/letters-to-parents/archive
 description: ""
 third_nav_title: Parents
 ---
-[](/files/2022%20MTL%20Fortnight%20Programme%20docx.pdf) and the secondary to sec thing
-
 <h4><strong>Term 1<br /></strong></h4>
 <table style="height: 3236px;">
 <tbody>
