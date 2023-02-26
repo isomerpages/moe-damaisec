@@ -3,7 +3,7 @@ url: https://damaisec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#cf0101"
-  secondary-color: "#fdb534"
+  secondary-color: "#e37f22"
   media-colors:
     - title: media-color-one
       color: "#000000"
