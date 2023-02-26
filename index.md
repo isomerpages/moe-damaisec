@@ -17,7 +17,7 @@ sections:
           url: /latest-news-n-events/
         - title: CALENDAR
           description: ""
-          url: 2023 School Calendar Damai Sec (For Students)(Updated 30 Jan 2023).pdf
+          url: /2023 School Calendar Damai Sec (For Students)(Updated 30 Jan 2023).pdf
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
