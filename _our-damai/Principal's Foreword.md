@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /our-damai/principals-foreword
+permalink: /our-damai/principals-foreword/
 description: ""
 ---
 <img style="width: 20%;" src="/images/mschan.png" align = "left" />
@@ -8,7 +8,7 @@ description: ""
 <p>Damai Secondary School aims to nurture students into upright citizens who are determined to do their best always to fulfil their purpose in life in a meaningful way. The school will create opportunities for students&rsquo; growth and development, laying a strong foundation for them to build their future upon. Together, members of the school community will forge school culture and ethos in alignment with our school vision and mission. The concerted efforts by all parties involved, in creating a conducive environment for teaching and learning as well as growth and development for staff and students, provide the impetus for the school&rsquo;s journey ahead.</p>
 <p>Every individual has a role to play and a purpose in life. The school will provide students with opportunities to discover themselves through their studies, interaction and engagement with others (peers, teachers as well as the wider community), active participation in school activities and programmes, application of values and skills learnt in authentic settings and reflections on lessons learnt.</p>
 <p>We believe everyone has the capacity to contribute to the good of society and make a positive difference in everything he does. Imbued with sound values and a positive attitude towards learning and life, students will be able to make informed decisions on the paths they should take upon completion of their studies at Damai Secondary School.</p>
-<p>In 2021, the school successfully implemented the Personal Learning Device (PLD) Initiative whereby students are equipped with an iPAD each. The use of the PLD is integrated into the school curriculum. Our staff are well-equipped to harness technology to promote self-directed, independent and collaborative learners among our students. Students also acquire the necessary skills, values and instincts in the appropriate use and application of technology as well as social media platforms.</p>
+<p>In 2021, the school successfully implemented the Personal Learning Device (PLD) Initiative whereby students are equipped with an iPad each. The use of the PLD is integrated into the school curriculum. Our staff are well-equipped to harness technology to promote self-directed, independent and collaborative learners among our students. Students also acquire the necessary skills, values and instincts in the appropriate use and application of technology as well as social media platforms.</p>
 <p>From 2022, our school is implementing Full Subject-Based Banding (FSBB) whereby students who meet the criteria are offered subject(s) at a higher level. Students have the opportunity to learn at their own pace and excel in what they are good at. Through their participation and involvement in school programmes and activities, students have a wider social circle and have more opportunities to interact with fellow school mates and teachers, forging meaningful relationships.</p>
 <p>May I wish Damaians enjoyable learning experiences as they prepare themselves to live purposeful and meaningful lives.</p>
 <p><em><strong>Ms Chan Wan Siong<br /></strong></em><em><strong>Principal</strong></em></p>
