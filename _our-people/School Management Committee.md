@@ -1,8 +1,22 @@
 ---
 title: School Management Committee
-permalink: /our-people/school-management-committee
+permalink: /our-people/school-management-committee/
 description: ""
 ---
+| Name | Designation | 
+| -------- | -------- | 
+| [Ms Chan Wan Siong](mailto:CHAN_Wan_Siong@schools.gov.sg)    | Principal     |
+|[Mrs Oh Wee Ming](mailto:CHAN_Wee_Ming@schools.gov.sg)|Vice-Principal
+|[Mr Sivakumar](mailto:Sivakumar_VISWANATHAN@schools.gov.sg)|Vice-Principal|
+|[Miss Lorraine Ng Wei Yin](mailto:ng_wei_yin_carrissa@schools.gov.sg)|HOD/CCE|
+|[Mdm Soraya Suleiman](mailto:soraya_suleiman@schools.gov.sg)|HOD/C&T|
+|[Mrs Sulina Pereira](mailto:sulina_abas@schools.gov.sg)|HOD/EL&Lit|
+|||||||||||||||||||||||||
+
+
+
+
+
 <table>
 <tbody>
 <tr>
