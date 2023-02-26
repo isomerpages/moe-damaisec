@@ -10,10 +10,10 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: For 2022
+          description: ""
           url: /announcements/
         - title: LATEST NEWS & EVENTS
-          description: For 2022
+          description: ""
           url: /latest-news-n-events/
         - title: CALENDAR
           description: ""
