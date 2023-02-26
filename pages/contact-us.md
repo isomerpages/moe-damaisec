@@ -14,13 +14,17 @@ locations:
 contacts:
   - content:
       - phone: +65 6443 6848
-      - email: damai_ss@moe.edu.sg
-      - other: "By Bus: 5, 21, 59, 65, 228, CT18"
+      - email: ""
+      - other: ""
     title: Telephone
+  - content:
+      - phone: ""
+      - email: damai_ss@moe.edu.sg
+      - other: ""
+    title: Email
   - content:
       - phone: +65 6442 5629
       - email: ""
-      - other: "By MRT: Bedok & Tampines Station (East-West Line) or Bedok Reservoir
-          Station (Downtown Line) "
+      - other: ""
     title: Fax
 ---
