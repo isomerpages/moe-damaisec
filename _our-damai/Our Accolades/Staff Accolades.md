@@ -11,8 +11,17 @@ third_nav_title: Our Accolades
 #### National Day Award Recipients 2022
 
 
-|*The Commendation Medal* ![](/images/Mrs%20Sulina%20Pereira.jpg) | The efficiency Method ![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg)|
-| -------- | -------- | 
+|*The Commendation Medal* ![](/images/Mrs%20Sulina%20Pereira.jpg) | *The Efficiency Medal* ![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg)|
+| - | -- 
+
+***The Long Service Medal***
+
+
+| ![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg) |![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg) |![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg) |
+| -------- | -------- | -------- |
+
+
+
 
 
 
