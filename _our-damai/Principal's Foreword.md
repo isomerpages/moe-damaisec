@@ -3,7 +3,7 @@ title: Principal's Foreword
 permalink: /our-damai/principals-foreword/
 description: ""
 ---
-<img style="width: 20%;" src="/images/mschan.png" align = "left" />
+<img style="width: 30%;" src="/images/mschan.png" align = "left" />
 <p>Damai Secondary School is established in 2018 from a merger of Bedok North Secondary School (established in 1981) and Damai Secondary School (established in 1994). I am honoured to be appointed the Principal-designate of this new school with effect from 26 April 2017, officially taking over the leadership effective 15 December 2017.</p>
 <p>Damai Secondary School aims to nurture students into upright citizens who are determined to do their best always to fulfil their purpose in life in a meaningful way. The school will create opportunities for students&rsquo; growth and development, laying a strong foundation for them to build their future upon. Together, members of the school community will forge school culture and ethos in alignment with our school vision and mission. The concerted efforts by all parties involved, in creating a conducive environment for teaching and learning as well as growth and development for staff and students, provide the impetus for the school&rsquo;s journey ahead.</p>
 <p>Every individual has a role to play and a purpose in life. The school will provide students with opportunities to discover themselves through their studies, interaction and engagement with others (peers, teachers as well as the wider community), active participation in school activities and programmes, application of values and skills learnt in authentic settings and reflections on lessons learnt.</p>
