@@ -17,7 +17,8 @@ description: ""
 |[Mr Kong Hou Kit](mailto:kong_hou_kit@schools.gov.sg)|HOD/MTL|
 |[Mr Ng Zhi Xian](mailto:ng_zhi_xian@schools.gov.sg)|HOD/PE&CCA|
 |[Mr Justin Thong](mailto:thong_ching_guan@schools.gov.sg)|HOD/Science|
-|[Mrs Jackie Chan Neo Ai Ling](mailto:neo_ai_ling_jackie@schools.gov.sg)|YH/Lower sec|[Ms Lenny Marlina](mailto:lenny_marlina_mohamed@schools.gov.sg)|YH/Upper Sec|
+|[Mrs Jackie Chan Neo Ai Ling](mailto:neo_ai_ling_jackie@schools.gov.sg)|YH/Lower sec|
+[Ms Lenny Marlina](mailto:lenny_marlina_mohamed@schools.gov.sg)|YH/Upper Sec|
 |[Mr Lim Jing Kai](mailto:lim_jing_kai@schools.gov.sg)|SH/Discipline|
 |[Mdm Nur Diyana](mailto:nur_diyana_osman@schools.gov.sg)|SH/Discipline|
 |[Mdm Imelda Norazlina](mailto:imelda_norazlina_zulkefle@schools.gov.sg)|SH/Geog|
