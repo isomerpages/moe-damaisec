@@ -4,8 +4,6 @@ permalink: /our-people/departments/english-language-n-literature-department/
 description: ""
 third_nav_title: Departments
 ---
-
-
 | Name | Designation|
 | -------- | -------- |
 | [Mrs Sulina Pereira](mailto:sulina_abas@schools.gov.sg)     | HOD/EL&Lit   |
@@ -15,3 +13,4 @@ third_nav_title: Departments
 |[Ms Maryam Anuar](mailto:maryam_anuar@schools.gov.sg)|Teacher|
 |[Mr Sidek Bin Terimoh](mailto:sidek_b_terimoh@schools.gov.sg)|Teacher|
 |[Miss Tan Chwee Kim](mailto:tan_chwee_kim@schools.gov.sg)|Teacher|
+||
