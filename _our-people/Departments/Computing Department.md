@@ -9,3 +9,4 @@ third_nav_title: Departments
 |[Mr Loh Yan Xiang](mailto:loh_yan_xiang@schools.gov.sg)|HOD/ICT
 |[Mr Christopher Hoan Mow Kim](mailto:hoan_mow_kim@schools.gov.sg)|Teacher
 |[Mr Lau Hui Cheng](mailto:lau_hui_cheng@schools.gov.sg)|Teacher
+||
