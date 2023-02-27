@@ -11,7 +11,7 @@ third_nav_title: Our Accolades
 #### National Day Award Recipients 2022
 
 
-|*The Commendation Medal* ![](/images/Mrs%20Sulina%20Pereira.jpg) | The efficiency Method|
+|*The Commendation Medal* ![](/images/Mrs%20Sulina%20Pereira.jpg) | The efficiency Method ![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg)|
 | -------- | -------- | 
 
 
