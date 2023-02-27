@@ -1,6 +1,6 @@
 ---
 title: Exec & Admin Staff (EAS)
-permalink: /our-people/exec-n-admin-staff-eas
+permalink: /our-people/exec-n-admin-staff-eas/
 description: ""
 ---
 <table>
@@ -64,6 +64,10 @@ description: ""
 <tr>
 <td>Mdm Tasha Chan Wei Peng&nbsp;</td>
 <td>OSO</td>
+	</tr>
+<tr>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
