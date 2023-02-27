@@ -17,5 +17,3 @@ third_nav_title: Departments
 |[Mdm Tao Ming Jin](mailto:tao_ming_jin@schools.gov.sg)|Teacher
 |[Mdm Wong Chuay Leng](mailto:wong_chuay_leng@schools.gov.sg)|Teacher
 ||
-||
-
