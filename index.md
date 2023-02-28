@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer banner 1.gif
+      background: /images/Banner/Website Banner Oct 2022 v2.png
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
