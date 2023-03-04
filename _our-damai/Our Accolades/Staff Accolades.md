@@ -86,11 +86,8 @@ third_nav_title: Our Accolades
 
 #### Caring Teacher Award Recipients 2021
 
-![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Caring%20teacher%202021%20v2.jpg)
-
-
-
-
+<img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Caring%20teacher%202021%20v2.jpg">
+	
 
 
 <h4 style="text-align: center;"><strong>Caring Teacher Award Recipients 2020</strong></h4>
