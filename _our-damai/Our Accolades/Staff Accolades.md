@@ -10,7 +10,7 @@ third_nav_title: Our Accolades
 
 #### National Day Award Recipients 2022
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p style="text-align:center;"><b><i>The Commendation Medal</p> <img src="/images/Mrs%20Sulina%20Pereira.jpg"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b><i>The Efficiency Medal<img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></thead></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p style="text-align:center;"><b><i>The Commendation Medal <img src="/images/Mrs%20Sulina%20Pereira.jpg"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b><i>The Efficiency Medal<img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></thead></table>
 
 
 <p style="text-align:center;">
