@@ -10,6 +10,9 @@ third_nav_title: Our Accolades
 
 #### National Day Award Recipients 2022
 
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Mrs%20Sulina%20Pereira.jpg"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></thead></table>
+
+
 
 |*The Commendation Medal* ![](/images/Mrs%20Sulina%20Pereira.jpg) | *The Efficiency Medal* ![](/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg)|
 | - | -- 
@@ -23,12 +26,12 @@ third_nav_title: Our Accolades
 
 <h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
 <p style="text-align: center;"><em>The Commendation Medal</em></p>
-<img style="width: 40%;" src="/images/mdmseow.jpg" />
+<img src="/images/mdmseow.jpg" style="width: 40%;">
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2">&nbsp;<em>The Commendation Medal</em></td>
+<td colspan="2" style="text-align: center;">&nbsp;<em>The Commendation Medal</em></td>
 </tr>
 <tr>
 <td><img src="/images/mrsiva.jpg"></td>
@@ -39,7 +42,7 @@ third_nav_title: Our Accolades
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2">&nbsp;<em>The Long Service Medal</em></td>
+<td colspan="2" style="text-align: center;">&nbsp;<em>The Long Service Medal</em></td>
 </tr>
 <tr>
 <td><img src="/images/misslee.jpg"></td>
@@ -63,12 +66,12 @@ third_nav_title: Our Accolades
 <p><strong><u>Academy of Singapore Teachers (AST) Awards</u></strong></p>
 <p>The Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.</p>
 <h4 style="text-align: center;"><strong>Associate of AST Award Recipient 2021</strong></h4>
-<img style="width: 40%;" src="/images/missgoh.jpg" />
+<img src="/images/missgoh.jpg" style="width: 40%;">
 <h4 style="text-align: center;"><strong>Associate of AST Award Recipients 2020</strong></h4>
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2">&nbsp;<em>The Long Service Medal</em></td>
+<td colspan="2" style="text-align: center;">&nbsp;<em>The Long Service Medal</em></td>
 </tr>
 <tr>
 <td><img src="/images/mdmtam.jpg"></td>
