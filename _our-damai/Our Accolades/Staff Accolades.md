@@ -8,7 +8,7 @@ third_nav_title: Our Accolades
 <p><strong><u>National Day Awards</u></strong></p>
 <p>The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Damai Secondary School would like to congratulate our staff members who have been conferred the National Day Awards for their outstanding service and valuable contributions to the fraternity and nation.</p>
 
-#### National Day Award Recipients 2022
+<h4 style="text-align: center;"><strong>National Day Award Recipients 2022</strong></h4>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The Commendation Medal<img src="/images/Mrs%20Sulina%20Pereira.jpg"><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The Efficiency Medal<img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></thead></table>
 
