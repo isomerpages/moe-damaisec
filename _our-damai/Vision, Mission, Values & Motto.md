@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values & Motto
-permalink: /our-damai/vision-mission-values-n-motto
+permalink: /our-damai/vision-mission-values-n-motto/
 description: ""
 ---
 <h4><strong>School Vision</strong></h4>
@@ -15,7 +15,7 @@ description: ""
 <li><strong>Service</strong>:&nbsp;Being willing to contribute to the good of society</li>
 </ul>
 <h4><strong>School Motto</strong></h4>
-<div><strong>Aspire, Explore, Achieve</strong></div>
+<strong>Aspire, Explore, Achieve</strong>
 <p><strong>Aspire</strong>:&nbsp;Develop a strong, steadfast belief and confidence in self to maximise own potential.</p>
 <p><strong>Explore</strong>:&nbsp;Seize opportunities to explore and discover strengths, interests and talents.</p>
 <p><strong>Achieve</strong>:&nbsp;Cultivate values, attitudes and skills to empower self to achieve goals and realise potential.</p>
