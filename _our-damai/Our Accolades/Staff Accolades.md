@@ -11,8 +11,7 @@ third_nav_title: Our Accolades
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2022</strong></h4>
 
 
-
-The Long Service Medal
+<p style="text-align: center;"><em>The The Long Service Medal</em></p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg"></td></tr></thead></table>
 
