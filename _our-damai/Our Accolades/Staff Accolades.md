@@ -10,7 +10,7 @@ third_nav_title: Our Accolades
 
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2022</strong></h4>
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The Commendation Medal<img src="/images/Mrs%20Sulina%20Pereira.jpg"><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The Efficiency Medal<img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></thead></table>
+
 
 The Long Service Medal
 
