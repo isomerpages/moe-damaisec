@@ -22,5 +22,5 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      subtitle: A Purposeful and Meaninful Life
+      title: A Purposeful and Meaninful Life
 ---
