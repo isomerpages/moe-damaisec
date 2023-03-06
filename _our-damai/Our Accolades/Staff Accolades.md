@@ -51,9 +51,6 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 
-
-
-
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
 <table>
 <tbody>
