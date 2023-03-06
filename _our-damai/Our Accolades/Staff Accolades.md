@@ -17,7 +17,7 @@ third_nav_title: Our Accolades
 <td style="text-align: center;"><em>The Efficiency Medal</em></td>
 </tr>
 <tr>
-<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
+<td><img style="width: 85%;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
 <td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td>
 </tr>
 </tbody>
@@ -38,8 +38,23 @@ third_nav_title: Our Accolades
 
 
 <h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
-<p style="text-align: center;"><em>The Commendation Medal</em></p>
-<img style="width: 40%;" src="/images/mdmseow.jpg">
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><em>The Commendation Medal</em></td>
+<td style="text-align: center;">
+</tr>
+<tr>
+<td><img style="width: 40%;" src="/images/mdmseow.jpg"></td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
 <table>
 <tbody>
