@@ -1,6 +1,6 @@
 ---
 title: Teachers
-permalink: /information/teachers/useful-links
+permalink: /information/teachers/useful-links/
 description: ""
 ---
 <h4><strong>Useful Links</strong></h4>
@@ -29,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://rbs.avero-tech.com/"><img src="/images/ul13.jpg"></a/td>
+	<td><a href="https://rbs.avero-tech.com/"><img src="/images/ul13.jpg"></a></td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
