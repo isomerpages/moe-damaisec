@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /our-community/parent-support-group
+permalink: /our-community/parent-support-group/
 description: ""
 third_nav_title: Parent Support Group
 ---
@@ -18,6 +18,7 @@ third_nav_title: Parent Support Group
 <h4 style="text-align: center;"><strong><em><a href="https://form.gov.sg/5fd82ac8087344001164ea1e">Join the PSG@Damai</a></em></strong></h4>
 <p>You may wish to contact our PSG Liaison Officers for more information:</p>
 <ul>
-<li>Miss Tan Chwee Kim at&nbsp;<a href="mailto:Tan_chwee_kim@schools.gov.sg">Tan_chwee_kim@schools.gov.sg</a></li>
 <li>Mdm Nur Sahira Ramlee at&nbsp;<a href="mailto:Nur_sahira_ramlee@schools.gov.sg">Nur_sahira_ramlee@schools.gov.sg</a></li>
+	<li>Miss Tan Chwee Kim at&nbsp;<a href="mailto:Tan_chwee_kim@schools.gov.sg">Tan_chwee_kim@schools.gov.sg</a></li>
+
 </ul>
