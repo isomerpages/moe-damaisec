@@ -1,6 +1,8 @@
 ---
 title: School Calendar of Events
-permalink: /information/school-calendar-of-events
+permalink: /information/school-calendar-of-events/
 description: ""
 ---
-<p>Please click&nbsp;<a href="/files/2022%20School%20Calendar%20Damai%20Sec%20for%20students.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the 2022 school calendar (updated 21 December 2021).</p>
+<p>
+[Updated 30 Jan 2023]</p>
+Please click&nbsp;<a href="/files/Information/Calendar of Events/2023 School Calendar Damai Sec (For Students)(Updated 30 Jan 2023).pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the 2023 school calendar.</p>
