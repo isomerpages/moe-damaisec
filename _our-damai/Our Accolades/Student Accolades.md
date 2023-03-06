@@ -12,7 +12,7 @@ third_nav_title: Our Accolades
 <p>She was featured in several newspapers:</p>
 <ul>
 <li>Click&nbsp;<a href="https://www.tnp.sg/news/singapore/teens-overcome-dads-death-cancer-reach-o-level-goals?fbclid=IwAR1ojY5CHrUEEuULy9qT9Fq9SsiZr861nv-vKNxu2xKqSc1AUV4B6XhFV0I" target="_blank" rel="noopener">here&nbsp;</a>to read her feature in The New Paper&nbsp;</li>
-<li>Click&nbsp;<a href="https://www.zaobao.com.sg/news/singapore/story20210112-1115578">here&nbsp;</a>to read her feature in Lianhe Zaobao &amp; Shin Min Daily News:&nbsp;<em>(login is required to view the full article)</em>.</li>
+<li>Click&nbsp;<a href="https://www.zaobao.com.sg/news/singapore/story20210112-1115578" target="_blank" rel="noopener">here&nbsp;</a>to read her feature in Lianhe Zaobao &amp; Shin Min Daily News:&nbsp;<em>(login is required to view the full article)</em>.</li>
 </ul>
 <p><strong><em>GCE N Level Features</em></strong></p>
 <table>
