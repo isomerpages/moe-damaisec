@@ -1,6 +1,6 @@
 ---
 title: Device Management Application
-permalink: /information/parents/device-management-application
+permalink: /information/parents/device-management-application/
 description: ""
 third_nav_title: Parents
 ---
@@ -20,6 +20,6 @@ third_nav_title: Parents
 </ul>
 <p>Please refer to&nbsp;<a href="/files/DMA%20Annex%20B.pdf" target="_blank" rel="noopener">Annex B</a>&nbsp;for details of these after-school options.</p>
 <p>If you wish to choose Option A or Option B, or update your email address for the Parent Portal, please fill in the online option form&nbsp;<a href="https://go.gov.sg/dssdmasetting" target="_blank" rel="noopener">https://go.gov.sg/dssdmasetting</a>.&nbsp;</p>
-<div>Parents/guardians can request to change your choice of DMA settings at any time through the same link. However, please note that changes to the DMA after-school options will only take effect at the end of every week.</div>
-<div>For further enquiries, please contact the HOD/ICT Mr Loh Yan Xiang at&nbsp;<a href="mailto:loh_yan_xiang@schools.gov.sg" target="">loh_yan_xiang@schools.gov.sg</a>.&nbsp;</div>
+<p>Parents/guardians can request to change your choice of DMA settings at any time through the same link. However, please note that changes to the DMA after-school options will only take effect at the end of every week.</p>
+<p>For further enquiries, please contact the HOD/ICT Mr Loh Yan Xiang at&nbsp;<a href="mailto:loh_yan_xiang@schools.gov.sg" target="">loh_yan_xiang@schools.gov.sg</a>.&nbsp;</p>
 <p><strong>DMA Parents Guide<br /></strong><a href="/files/DMA%20Parent%20Guide%20v20%20-%20Default%20iPadOS.pdf" target="_blank" rel="noopener">DMA Parent Guide v2.0 - Default iPadOS</a><br /><a href="/files/DMA%20Parent%20Guide%20v20%20-%20Option%20A%20iPadOS.pdf" target="_blank" rel="noopener">DMA Parent Guide v2.0 - Option A iPadOS</a><br /><a href="/files/DMA%20Parent%20Guide%20v20%20-%20Option%20B%20iPadOS.pdf" target="_blank" rel="noopener">DMA Parent Guide v2.0 - Option B iPadOS</a></p>
