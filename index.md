@@ -22,10 +22,10 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      title: A Purposeful and Meaninful Life
+      title: A Purposeful and Meaningful Life
   - infobar:
       title: Announcements
-      description: This is an annoucement
+      description: This is an announcement.
       button: Button
       url: https://www.teamtalk.com
 ---
