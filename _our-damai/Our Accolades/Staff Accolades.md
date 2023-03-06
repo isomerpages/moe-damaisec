@@ -23,14 +23,18 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;vertical-align:top;word-break:normal">The Commendation Medal</th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;vertical-align:top;word-break:normal">The Efficiency Medal</th></tr></thead><tbody><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td></tr></tbody></table>
-
-
-<p style="text-align: center;"><em>The Long Service Medal</em></p>
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg"></td></tr></thead></table>
-
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3">&nbsp;<em>The Long Service Medal</em></td>
+</tr>
+<tr>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg"></td>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg"></td>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg"></td>
+</tr>
+</tbody>
+</table>
 
 
 <h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
