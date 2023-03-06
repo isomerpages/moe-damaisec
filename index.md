@@ -23,4 +23,9 @@ sections:
           description: ""
           url: https://vle.learning.moe.edu.sg/login
       title: A Purposeful and Meaninful Life
+  - infobar:
+      title: Announcements
+      description: This is an annoucement
+      button: Button
+      url: www.teamtalk.com
 ---
