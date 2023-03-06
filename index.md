@@ -27,5 +27,5 @@ sections:
       title: Announcements
       description: This is an annoucement
       button: Button
-      url: www.teamtalk.com
+      url: https://www.teamtalk.com
 ---
