@@ -12,6 +12,9 @@ third_nav_title: Parents
 <li>A parent/guardian account allows parent/guardian to monitor his/her child/ward&rsquo;s PLD activities and partner the school to ensure his/her cyber well-being.</li>
 </ul>
 <p>Please refer to&nbsp;<a href="/files/DMA%20Annex%20A.pdf" target="_blank" rel="noopener">Annex A</a>&nbsp;for more details on the functions and features of the DMA.</p>
+
+<p>Please refer to&nbsp;<a href="/files/DMA%20Annex%20A.pdf" target="_blank" rel="noopener">Annex C</a>&nbsp;for more details on privacy and data security of the DMA.</p>
+
 <p><strong>After-School DMA Options<br /></strong>For parents/guardians who prefer the default DMA setting,&nbsp;<strong>no action is required</strong>. The in-school DMA settings will continue to operate after school hours.</p>
 <p>Parents/guardians who prefer alternative DMA settings can choose from the following options:&nbsp;</p>
 <ul>
