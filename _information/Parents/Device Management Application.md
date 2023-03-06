@@ -15,7 +15,6 @@ third_nav_title: Parents
 
 <p>Please refer to&nbsp;<a href="/files/Information/Parents/DMA/DMA%20Annex%20C.pdf" target="_blank" rel="noopener">Annex C</a>&nbsp;for more details on privacy and data security of the DMA.</p>
 
-https://cms.isomer.gov.sg/sites/moe-damaisec/media/files/mediaDirectory/files%2FInformation%2FParents%2FDMA/editMediaSettings/DMA%20Annex%20C.pdf
 
 <p><strong>After-School DMA Options<br /></strong>For parents/guardians who prefer the default DMA setting,&nbsp;<strong>no action is required</strong>. The in-school DMA settings will continue to operate after school hours.</p>
 <p>Parents/guardians who prefer alternative DMA settings can choose from the following options:&nbsp;</p>
