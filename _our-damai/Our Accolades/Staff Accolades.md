@@ -47,7 +47,6 @@ third_nav_title: Our Accolades
 </tr>
 <tr>
 <td><img style="width: 40%;" src="/images/mdmseow.jpg"></td>
-
 </tr>
 </tbody>
 </table>
