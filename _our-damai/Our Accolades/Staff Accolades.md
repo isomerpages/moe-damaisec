@@ -42,13 +42,14 @@ third_nav_title: Our Accolades
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;"><em>The Commendation Medal</em></td>
-<td style="text-align: center;">
+<td style="text-align: center">&nbsp;<em>The Commendation Medal</em>
+</tr>
 <tr>
-<td><img style="width: 40%;" src="/images/mdmseow.jpg"></td>
+<td><img style="width: 40%"  src="/images/mdmseow.jpg"></td>
 </tr>
 </tbody>
 </table>
+
 
 <h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
 <table>
