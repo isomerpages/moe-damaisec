@@ -42,7 +42,7 @@ third_nav_title: Our Accolades
 <table>
 <tbody>
 <tr>
-<td style="text-align: center">&nbsp;<em>The Commendation Medal</em>
+	<td style="text-align: center">&nbsp;<em>The Commendation Medal</em></td>
 </tr>
 <tr>
 <td><img style="width: 40%"  src="/images/mdmseow.jpg"></td>
