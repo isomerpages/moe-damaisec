@@ -17,8 +17,8 @@ third_nav_title: Our Accolades
 <td style="text-align: center;"><em>The Efficiency Medal</em></td>
 </tr>
 <tr>
-<td><img style="width: 400px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
-<td><img style="width: 400px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td>
+<td><img style="width: 200px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
+<td><img style="width: 200px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td>
 </tr>
 </tbody>
 </table>
