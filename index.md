@@ -26,6 +26,4 @@ sections:
   - infobar:
       title: Announcements
       description: This is an announcement.
-      button: Button
-      url: https://www.teamtalk.com
 ---
