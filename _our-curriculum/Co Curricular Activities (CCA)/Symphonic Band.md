@@ -1,6 +1,6 @@
 ---
 title: Symphonic Band
-permalink: /our-curriculum/co-curricular-activities-cca/symphonic-band
+permalink: /our-curriculum/co-curricular-activities-cca/symphonic-band/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -17,16 +17,29 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Music Exchange Programme with Other Secondary Schools</li>
 </ul>
 <p><strong>Achievements</strong><strong> &amp; Highlights</strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;">Singapore Youth Arts Presentation - Certificate of Accomplishment</td>
-</tr>
-</tbody>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-amwm">Singapore Youth Arts Presentation 2021 - Certificate of Accomplishment</td>
+  </tr>
+</thead>
 </table>
+
+<img src="/images/Picture1.png"><br>
+<img src="/images/Picture2.png"><br>
+<img src="/images/Picture3.png"><br>
+<img src="/images/Picture4.jpg"><br>
+<img src="/images/Picture5.png"><br>
 <img src="/images/sb1.jpeg"><br>
 <img src="/images/sb2.jpeg"><br>
 <img src="/images/sb3.jpeg"><br>
 <img src="/images/sb4.jpeg"><br>
 <img src="/images/sb5.jpeg">
-<p style="text-align: center;"><em><strong>Graduation</strong></em></p>
