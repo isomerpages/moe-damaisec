@@ -56,11 +56,30 @@ The team is coached by Coach Batrisyia and every training session is tailored to
 </tbody>
 </table>
 
-<img src="/images/net1.jpg">
-<p style="text-align: center;"><strong><em>Netball Exco 2021-2022</em></strong></p>
 <img src="/images/net2.jpg">
 <p style="text-align: center;"><strong><em>Netball CCA Practices</em></strong></p>
-<img src="/images/net4.jpg">
-<p style="text-align: center;"><strong><em>Netball&nbsp;</em></strong><strong><em>in Action</em></strong></p>
-<img src="/images/net3.png">
-<p style="text-align: center;"><strong><em>Netball Graduates of Class 2020</em></strong></p>
+
+<figure>
+<img src="/images/B%20Division%202022.jpg">
+<figcaption> <strong>B Division ‘2022</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/C%20Division%202022.jpg">
+<figcaption> <strong>C Division ‘2022</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Celebrating%20the%20Netball%20Graduates%20of%20Class%202022.jpg">
+<figcaption> <strong>Celebrating the Netball Graduates of Class 2022</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/netball%20friendly.jpg">
+<figcaption> <strong>Netball Friendlies</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/netball%20carnival.jpg">
+<figcaption> <strong>Netball carnival at Pronet7</strong> </figcaption>
+</figure>
