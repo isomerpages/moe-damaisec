@@ -7,15 +7,18 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>The National Police Cadet Corps (NPCC) aims to cultivate cadets to be unique and to lead and serve in a challenging world.&nbsp;</p>
 <p>As the only uniformed youth organisation with a close affiliation with the Singapore Police Force, our cadets are exposed to unique opportunities, gaining exposure and familiarity with Singapore's crime prevention efforts to build a Safe and Secure Home.&nbsp;</p>
 <p>Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop the cadets into Caring and Responsible Citizens.&nbsp;</p>
-<p><strong>Signature Programmes&nbsp;</strong></p>
-<ul>
-<li>Crime Prevention</li>
-<li>Revolving Shooting</li>
-<li>Unit Service Day &amp; Related activities</li>
-<li>Crime Scene Investigation</li>
-<li>Adventure &amp; Survival Training Camps</li>
-<li>Drill &amp; Camp craft Related activities</li>
-</ul>
+
+**Signature Programmes** 
+
+*   Crime Prevention
+*   .22 Revolver Shooting
+*   Crime Scene Investigation
+*   Adventure Training Camps
+*   Area Games Day
+*   Drill & Campcraft Related activities
+*   Unit Service Day & Related activities
+
+
 <p><strong>Achievements</strong>
 
 <style type="text/css">
