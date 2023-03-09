@@ -48,7 +48,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p style="text-align: center;"><strong><em>Chief Commissioner, Tan Shi Qing with her Baden Powell Award, and Ms Nurmin at the Girl Guides Award Ceremony 2022</em></strong></p>
 <img style="width: 75%;" src="/images/gg1.jpg" />
 <p style="text-align: center;"><strong><em>Secondary 1 Orientation 2022- UG try-out</em></strong></p>
-<img style="width: 100%;" src="/images/gg2.jpg" />
+<img style="width: 90%;" src="/images/gg2.jpg" />
 <p style="text-align: center;"><strong><em>Footdrill</em></strong></p>
 <img style="width: 50%;" src="/images/gg3.jpg" />
 <p style="text-align: center;"><strong><em>Free Being Me Advocacy Badge</em></strong></p>
