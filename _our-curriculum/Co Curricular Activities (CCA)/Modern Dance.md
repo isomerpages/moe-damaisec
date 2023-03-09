@@ -4,17 +4,26 @@ permalink: /our-curriculum/co-curricular-activities-cca/modern-dance/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p>The Damai Modern Dance seeks to combine elements of modern dance and the footwork of classical ballet in an abstract and interpretative style.&nbsp;</p>
-<p>The diversity of dance movements seeks to communicate a variety of emotions. Members are given the opportunity to explore Street Jazz and Hip Hop routines which allow for the fusion of elegant twirls, pair movements and vigorous floor movements.&nbsp;</p>
-<p>Members learn how to express themselves through various dance movements and in so doing, they gain confidence and enhance their social skills.&nbsp;</p>
-<p>Teachers in charge: Ms Maryam Anuar (IC),&nbsp;Mrs Yiow Yee Ling</p>
-<p>Days and time of sessions: Mondays and Thursdays from 3 to 6pm</p>
-<p><strong>Signature Programmes</strong></p>
-<ul>
-<li>Annual VIA Performance at Local Hospitals</li>
-<li>Participate in School Performances (Speech Day, Chinese New Year)&nbsp;</li>
-<li>Participate in School Public Performance (School Musical etc)&nbsp;</li>
-</ul>
+The Damai Modern Dance seeks to combine elements of modern dance and the footwork of classical ballet in an abstract and interpretative style. 
+
+  
+
+The diversity of dance movements seeks to communicate a variety of emotions. Members are given the opportunity to explore Street Jazz and Hip Hop routines which allow for the fusion of elegant twirls, pair movements and vigorous floor movements. 
+
+  
+
+Members learn how to express themselves through various dance movements and in so doing, they gain confidence and enhance their social skills. 
+
+  
+
+**Signature Programmes**
+
+*   Annual VIA Performances
+*   Participate in School Performances (Speech Day, Teacher’s Day, Chinese New Year) 
+*   Participate in School Public Performance (School Musical etc) 
+*   Annual In-house dance competition and showcase
+
+
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
