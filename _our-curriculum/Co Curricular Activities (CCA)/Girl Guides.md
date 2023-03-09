@@ -1,6 +1,6 @@
 ---
 title: Girl Guides
-permalink: /our-curriculum/co-curricular-activities-cca/girl-guides
+permalink: /our-curriculum/co-curricular-activities-cca/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -21,17 +21,27 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Special Interest Badges (in collaboration with Gardens By The Bay, Children&rsquo;s Cancer Society and many more)</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Attained Puan Noor Aishah Award (PNAA) 2021 - Gold</span><br></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Attained Puan Noor Aishah Award (PNAA) 2021 - Gold</td>
-</tr>
-<tr>
-<td style="text-align: center;">1 recipient of Baden Powell Award 2022 - Tan Shi Qing of S4-01&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">East Division Day Competitions 2022 - 2nd place for Poster Design &amp;<br />3rd place for Snack Making</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">1 recipient of Baden Powell Award 2022 - Tan Shi Qing of S4-01 </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">East Division Day Competitions 2022 - 2nd place for Poster Design &amp;</span><br><span style="color:#222;background-color:#EAEAEA">3rd place for Snack Making</span></td>
+  </tr>
 </tbody>
 </table>
 <img style="width: 75%;" src="/images/gg1.jpg" />
