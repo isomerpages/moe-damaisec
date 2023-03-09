@@ -1,6 +1,6 @@
 ---
 title: Ethnic Dance
-permalink: /our-curriculum/co-curricular-activities-cca/ethnic-dance
+permalink: /our-curriculum/co-curricular-activities-cca/ethnic-dance/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -14,11 +14,24 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Participate in School Public Performance (School Musical etc)&nbsp;</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Distinction (2021)</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Singapore Youth Arts Presentation - Certificate of Accomplishment</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Accomplishment (2019)</span></td>
+  </tr>
 </tbody>
 </table>
 <img src="/images/ed1.png">
