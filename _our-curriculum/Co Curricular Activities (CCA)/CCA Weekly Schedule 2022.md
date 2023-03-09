@@ -113,56 +113,76 @@ third_nav_title: Co Curricular Activities (CCA)
 
 **Uniformed Groups**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-490w{background-color:#dddddd;color:#666666;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-i81m{background-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA Teacher In Charge</span></th>
+    <th class="tg-490w"><span style="font-weight:700;font-style:normal">CCA Weekly Training Schedule</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: center;">CCA</th>
-<th style="text-align: center;">CCA Teacher In Charge</th>
-<th style="text-align: center;">CCA Weekly Training Schedule</th>
-</tr>
-<tr>
-<td style="text-align: center;">Girl Guides</td>
-<td style="text-align: center;">Ms Nurmin Ahmad&nbsp;(i/c)<br />Ms Candice Lui</td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 4pm&nbsp;<em>(Sec 1 - 2 Cadets)&nbsp;<br /></em>3 - 4.30pm&nbsp;<em>(Sec 3 - 4 Planning &amp; EXCO Cadets)&nbsp;<br /></em>3 - 4.30pm&nbsp;<em>(All Cadets - for HQ Adhoc/Make Up session)&nbsp;</em><em><br /></em>E1-1 Classroom<br /><br /><u>Thursday</u><br />3 - 6pm<br />E1-1 Classroom</td>
-</tr>
-<tr>
-<td style="text-align: center;">NCC (Land)</td>
-<td style="text-align: center;">Mr Donovan Leong (i/c)<br />Mr Kang Zhi Qiang<br />Mr Christopher Hoan<br /><br /></td>
-<td style="text-align: center;"><u>Thursday&nbsp;</u><br />3 - 6pm<br />E1-4, E1-5 Classroom</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;NPCC</td>
-<td style="text-align: center;">Mr Teo Shu De&nbsp;(i/c)<br />Mr Tan Wei Zhi<br />Ms Tay Ee Teng<br />Ms See Pei Zhen</td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 5.30pm<br />D1-1, D1-2, D1-3 Classroom<br /><br /><u>Thursday&nbsp;</u><br />3 - 6pm<br />D1-1, D1-2, D1-3 Classroom<br /><br />
-<p><u>Sec 3 &amp; Sec 4 cadets</u>&nbsp;will attend&nbsp;<u>Monday</u>&nbsp;training sessions.</p>
-<p><u>All cadets</u>&nbsp;will attend&nbsp;<u>Thursday</u>&nbsp;training sessions.</p>
-<p>In the event that Lower Sec cadets need to attend ad-hoc training on Mondays, a separate announcement will be made.</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;St John's Brigade<br />(SJB)</td>
-<td style="text-align: center;">&nbsp;<br />Mdm Helen Foo&nbsp;(till 31 Jan 2022)<br /><br /><br />Instructor:&nbsp;Mr Syahiran Hazwan<br /><br /></td>
-<td style="text-align: center;"><u>Thursday</u><br />3 - 6pm<br />E1-3 Classroom</td>
-</tr>
+  <tr>
+    <td class="tg-ncov">Girl Guides</td>
+    <td class="tg-ncov">Ms Nurmin Ahmad (i/c)<br>Ms Tan Chwee Kim</td>
+    <td class="tg-i81m"><span style="text-decoration:underline">Monday</span><br>3 - 4pm <span style="font-weight:bold">(Sec 1 - 2 Cadets)</span> <br>3 - 4.30pm <span style="font-weight:bold">(Sec 3 - 4 Planning &amp; EXCO Cadets)</span> <br>3 - 4.30pm <span style="font-weight:bold">(All Cadets - for HQ Adhoc/Make Up session)</span> <br>E1-1 Classroom<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>E1-1 Classroom</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">NCC (Land)</td>
+    <td class="tg-sxkx">Mr Kang Zhi Qiang (i/c)<br>Mr Christopher Hoan<br><br></td>
+    <td class="tg-i81m"><span style="font-weight:400;font-style:normal;text-decoration:underline">Thursday</span><br><span style="font-weight:400;font-style:normal">3 - 6pm</span><br><span style="font-weight:400;font-style:normal">E1-4, E1-5 Classroom</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> NPCC</td>
+    <td class="tg-ncov">Mr Teo Shu De (i/c)<br>Mr Tan Wei Zhi<br>Ms Tay Ee Teng<br>Ms See Pei Zhen<br></td>
+    <td class="tg-i81m"><span style="font-weight:400;font-style:normal;text-decoration:underline">Monday</span><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:400;font-style:normal">3 - 5.30pm</span><br><span style="font-weight:400;font-style:normal">D1-3, 104 and 105 Classroom</span><br><br><br><span style="font-weight:400;font-style:normal;text-decoration:underline">Thursday</span><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:400;font-style:normal">3 - 6pm</span><br><span style="font-weight:400;font-style:normal">D1-3, 104 and 105 Classroom</span><br><br><span style="text-decoration:underline">Sec 3 &amp; Sec 4</span> cadets will attend <span style="text-decoration:underline">Monday</span> training sessions.<br><br><span style="text-decoration:underline">All cadets</span> will attend <span style="text-decoration:underline">Thursday</span> training sessions.<br><br>In the event that Lower Sec cadets need to attend ad-hoc training on Mondays,<br> a separate announcement will be made.<br></td>
+  </tr>
 </tbody>
 </table>
-<p><strong>Clubs &amp; societies</strong></p>
-<table>
+
+**Clubs & societies**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ysz0{background-color:#dddddd;text-align:left;vertical-align:top}
+.tg .tg-i81m{background-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA Teacher Incharge</span></th>
+    <th class="tg-ysz0"><span style="font-weight:700;font-style:normal;color:#666">CCA Weekly Training Schedule</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: center;">CCA</th>
-<th style="text-align: center;">CCA Teacher Incharge</th>
-<th style="text-align: center;">CCA Weekly Training Schedule</th>
-</tr>
-<tr>
-<td style="text-align: center;">Art Club</td>
-<td style="text-align: center;">Mdm Liyana (i/c)<br />Mdm Siti Hawa</td>
-<td style="text-align: center;"><u>&nbsp;Thursday&nbsp;</u><br />3 - 6pm<br />Art Room 2</td>
-</tr>
-<tr>
-<td style="text-align: center;">Info Com Club</td>
-<td style="text-align: center;">Mr Lau Hui Cheng (i/c)<br />Miss Dewi Syaza</td>
-<td style="text-align: center;"><u>Thursday&nbsp;</u><br />3 - 6pm<br />Computer Lab 3 &amp; 4</td>
-</tr>
+  <tr>
+    <td class="tg-ncov">Art Club<br></td>
+    <td class="tg-ncov">Mdm Liyana (i/c)<br>Mdm Siti Hawa<br></td>
+    <td class="tg-i81m"><span style="text-decoration:underline">Thursday</span> <br>3 - 6pm<br>Art Room 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Info Com Club<br></td>
+    <td class="tg-ncov">Mr Lau Hui Cheng (i/c)<br></td>
+    <td class="tg-i81m"><span style="font-weight:400;font-style:normal;text-decoration:underline">Thursday</span><br><span style="font-weight:400;font-style:normal">3 - 6pm</span><br><span style="font-weight:400;font-style:normal">Computer Lab 2</span></td>
+  </tr>
 </tbody>
 </table>
