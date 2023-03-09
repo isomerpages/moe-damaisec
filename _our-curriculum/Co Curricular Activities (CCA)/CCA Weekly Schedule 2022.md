@@ -1,85 +1,118 @@
 ---
 title: CCA Weekly Schedule 2022
-permalink: /our-curriculum/co-curricular-activities-cca/cca-weekly-schedule-2022
+permalink: /our-curriculum/co-curricular-activities-cca/cca-weekly-schedule-2022/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p><strong>Sports &amp; Games</strong></p>
-<table>
+**Sports & Games**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nfls{background-color:#dddddd;color:#d9d9d9;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA Teacher In Charge</span></th>
+    <th class="tg-nfls"><span style="font-weight:bold;color:#666">CCA Weekly Training Schedule</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: center;">CCA</th>
-<th style="text-align: center;">CCA Teacher In Charge</th>
-<th style="text-align: center;">CCA Weekly Training Schedule</th>
-</tr>
-<tr>
-<td style="text-align: center;">Canoeing</td>
-<td style="text-align: center;"><br />Miss Huo Xiaoli (i/c)<br />Mdm Rohasliza<br /><br />Instructor:&nbsp;Ms Shona Chan Wai Kay<br /><br /></td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 6pm<br />Bedok Reservoir<br /><br /><u>Thursday</u><br />3 - 6pm<br />Bedok Reservoir</td>
-</tr>
-<tr>
-<td style="text-align: center;">Dragon Boat</td>
-<td style="text-align: center;"><br />Mr Te Chee Hui (i/c)<br />Mr Viknesh<br />Mr Tong Coleman<br /><br />Instructor:&nbsp;Mr Faris Siddek<br /><br /></td>
-<td style="text-align: center;"><u>Tuesday</u>&nbsp;<br />3 - 6pm<br />Bedok Reservoir<br /><br /><u>Thursday</u><br />3 - 6pm<br />Bedok Reservoir</td>
-</tr>
-<tr>
-<td style="text-align: center;">Handball&nbsp;</td>
-<td style="text-align: center;"><br />&nbsp;Mr Leroy Lee (i/c)&nbsp;<br />Mr Zhu Liang<br /><br />Instructor:&nbsp;Mr Ko Tsz Yan<br /><br /></td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 6pm<br />Basketball Court<br /><br /><u>Thursday</u><br />3 - 6pm<br />Basketball Court</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Netball</td>
-<td style="text-align: center;"><br />&nbsp;Miss Alvina Chua (i/c)<br />Miss Zubaidah<br /><br />Instructor:&nbsp;Ms Batrisyia binte Mohammed Fadzil<br /><br /></td>
-<td style="text-align: center;"><u>Monday</u>&nbsp;<br />3 - 6pm<br />ISH<br /><br /><u>Wednesday (Peak Season)</u><br />3 - 6pm<br />ISH<br /><br /><u>Thursday</u><br />3 - 6pm<br />ISH</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Rugby</td>
-<td style="text-align: center;"><br />Mr Sidek Terimoh (i/c)<br />&nbsp;Mdm Deneshwari<br />Mr Tan Poo Hong<br /><br /><br />Instructor:&nbsp;Mr Jean-Luc Joel Armaggeddon Schultz Tan<br /><br /></td>
-<td style="text-align: center;"><u>Monday</u>&nbsp;<br />3 - 6pm<br />School Field<br /><br /><u>Wednesday (Peak Season)</u><br />3 - 6pm<br />School Field<br /><br /><u>Thursday</u><br />3 - 6pm<br />School Field</td>
-</tr>
+  <tr>
+    <td class="tg-ncov">Canoeing<br></td>
+    <td class="tg-sxkx">Mdm Rohasliza<br>Mr Coleman Tong<br><br>Instructor: Ms Shona Chan Wai Kay</td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span> <br>3 - 6pm<br>Bedok Reservoir<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>Bedok Reservoir<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Dragon Boat<br></td>
+    <td class="tg-sxkx">Mr Te Chee Hui (i/c)<br>Mr Viknesh<br><br>Instructor: Mr Faris Siddek<br><br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Tuesday </span><br>3 - 6pm<br>Bedok Reservoir<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>Bedok Reservoir</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Handball </td>
+    <td class="tg-sxkx"> Mr Leroy Lee (i/c) <br>Mr Zhu Liang<br><br>Instructor: Mr Ko Tsz Yan<br><br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday </span><br>3 - 6pm<br>Basketball Court<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>Basketball Court</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Netball</td>
+    <td class="tg-sxkx"> Miss Alvina Chua (i/c)<br>Miss Zubaidah<br>Mdm Sahira<br><br>Instructor: Ms Batrisyia binte Mohammed Fadzil<br><br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span> <br>3 - 6pm<br>ISH<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>ISH</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Rugby</td>
+    <td class="tg-sxkx">Mr Sidek Terimoh (i/c)<br>Mr Amir<br>Mr Ray Ong<br><br><br>Instructor: Mr Jean-Luc Joel Armaggeddon Schultz Tan<br><br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday </span><br>3 - 6pm<br>School Field<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>School Field</td>
+  </tr>
 </tbody>
 </table>
-<p><strong>Performing Arts</strong></p>
-<table>
+
+**Performing Arts**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-fsof{background-color:#d9d9d9;color:#666666;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA Teacher In Charge</span></th>
+    <th class="tg-fsof"><span style="font-weight:700;font-style:normal">CCA Weekly Training Schedule</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th style="text-align: center;">CCA</th>
-<th style="text-align: center;">CCA Teacher In Charge</th>
-<th style="text-align: center;">&nbsp;CCA Weekly Training Schedule</th>
-</tr>
-<tr>
-<td style="text-align: center;">Choir</td>
-<td style="text-align: center;">Miss Evangeline Lim (i/c)<br />Ms Anne Yong&nbsp;<br /><br /><br /><br />Instructor:&nbsp;Mr Sean Foo</td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 6pm<br />SDAL, F1-2, F2-4 Classrooms<br /><br /><u>Thursday</u><br />3 - 6pm<br />SDAL, F1-2, F2-4 Classrooms</td>
-</tr>
-<tr>
-<td style="text-align: center;">Drama</td>
-<td style="text-align: center;">Miss Katherine Loo (i/c)<br /><br /><br />Instructor: Ms Aishwariyah Shanmuganathan</td>
-<td style="text-align: center;"><u>Thursday</u><br />3 - 6pm<br />Library Mezzanine</td>
-</tr>
-<tr>
-<td style="text-align: center;">Modern Dance&nbsp;</td>
-<td style="text-align: center;">Ms Maryam (i/c)&nbsp;<br />Mrs Yiow Yee ling&nbsp;<br /><br /><br /><br />Instructor:&nbsp;<em>Ms Yeo Bee Loon</em>&nbsp;</td>
-<td style="text-align: center;"><u>&nbsp;Monday&nbsp;</u><br />3 - 6pm<br />School Hall<br /><br /><u>Thursday</u><br />3 - 6pm<br />School Hall&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Guzheng</td>
-<td style="text-align: center;">Ms Marilyn Foo&nbsp;(i/c)&nbsp;<br />Ms Sng Gek Hoon <br /><br /><br /><br />Instructor:&nbsp;<em>Mdm Peng Fang<br /></em></td>
-<td style="text-align: center;"><u>&nbsp;Monday&nbsp;</u><br />3 - 6pm<br />Geog / Humanities Room<br /><br /><u>Thursday</u><br />3 - 6pm<br />Geog / Humanities Room</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Ethnic Dance</td>
-<td style="text-align: center;">Ms Noorhafizah (i/c)&nbsp;<br />Ms Rahmayani<br /><br /><br />Instructor:&nbsp;Mr Muhammad Azhar Bin Ismail</td>
-<td style="text-align: center;"><u>&nbsp;Monday&nbsp;</u><br />3 - 6pm<br />School Hall<br /><br /><u>Thursday</u><br />3 - 6pm<br />School Hall&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Band&nbsp;</td>
-<td style="text-align: center;"><br />Mdm Wong Chuay Leng (i/c)<br />Mr Alvin Ho&nbsp;<br />Mdm Nurul Ain&nbsp;<br />Mdm Tao Ming Jin&nbsp;<br /><br /><br />Instructor:<br />Mr Choo Jun Clive<br />Mr Ho Chun Seng Laurel<br />Mr Ong Yeow Tong<br />Mr Teo Kin Hui Joseph<br />Mr Ariya Sakunthongdee<br />Mr Muhammad Danish Bin Yusri<br /><br /></td>
-<td style="text-align: center;"><u>Monday&nbsp;</u><br />3 - 6pm<br />Music / Band Room<br />205A, 205B, 104, 105, 106 CR<br /><u><br />Thursday<br /></u>3 - 6pm<br />Music / Band Room<br />205A, 205B, 104, 105, 106 CR<br /><br /><u>Wednesday (Peak Season)</u><br />3 - 6pm<br />Music Room / Band Room <br /><br /></td>
-</tr>
+  <tr>
+    <td class="tg-ncov">Choir</td>
+    <td class="tg-ncov">Miss Evangeline Lim (i/c)<br>Ms Davora Lim<br><br>Instructor: Mr Sean Foo<br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span> <br>3 - 6pm<br>AVT<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>AVT</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Drama</td>
+    <td class="tg-ncov">Ms Deneshwari<br><br>Instructor: Ms Aishwariyah Shanmuganathan<br></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:underline">Thursday</span><br><span style="font-weight:400;font-style:normal">3 - 6pm</span><br><span style="font-weight:400;font-style:normal">Library Mezzanine</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Modern Dance </td>
+    <td class="tg-ncov">Ms Maryam (i/c) <br>Mrs Yiow Yee ling <br><br>Instructor: Ms Yeo Bee Loon </td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span><br>3 - 6pm<br>School Hall<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>School Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Guzheng</td>
+    <td class="tg-ncov">Ms Marilyn Foo (i/c) <br>Ms Sng Gek Hoon  <br><br>Instructor: Mdm Peng Fang<br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span><br>3 - 6pm<br>Geog / Humanities Room<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>Geog / Humanities Room</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Ethnic Dance</td>
+    <td class="tg-ncov">Ms Noorhafizah (i/c) <br>Ms Rahmayani<br><br><br>Instructor: Mr Muhammad Azhar Bin Ismail</td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span> <br>3 - 6pm<br>School Hall<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>School Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Band </td>
+    <td class="tg-sxkx">Mdm Wong Chuay Leng (i/c)<br>Mr Alvin Ho <br>Mdm Nurul Ain <br>Mdm Chan Siew Lei<br><br><br>Instructor:<br>Mr Ho Chun Seng Laurel<br>Mr Ong Yeow Tong<br>Mr Teo Kin Hui Joseph<br>Mr Ariya Sakunthongdee<br>Mr Muhammad Danish Bin Yusri<br><br></td>
+    <td class="tg-baqh"><span style="text-decoration:underline">Monday</span> <br>3 - 6pm<br>Music / Band Room<br>205A, 205B, 104, 105, 106 CR<br><br><span style="text-decoration:underline">Thursday</span><br>3 - 6pm<br>Music / Band Room<br>205A, 205B, 104, 105, 106 CR</td>
+  </tr>
 </tbody>
 </table>
-<p><strong>Uniformed Groups</strong></p>
+
+**Uniformed Groups**
+
 <table>
 <tbody>
 <tr>
