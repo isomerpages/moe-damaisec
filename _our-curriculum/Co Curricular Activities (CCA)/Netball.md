@@ -1,48 +1,61 @@
 ---
 title: Netball
-permalink: /our-curriculum/co-curricular-activities-cca/netball
+permalink: /our-curriculum/co-curricular-activities-cca/netball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p>The Damai Netball team provides a rigorous, holistic and customised training programme for its talented members which focuses developing skills and the ability to play as a team, as well as instilling discipline.&nbsp;</p>
-<p>The team is coached by Coach Batrisyia and every training session is tailored to work on the athletes' tactical, technical and physical competencies. The team is committed to supporting the development and growth of its members' competencies. Apart from that, the team takes part in various competitions which provide competitive opportunities to sharpen its members' skills.</p>
-<p><strong>Signature Programmes</strong></p>
-<p><strong>Student Leadership Development &amp; Training</strong></p>
-<ul>
-<li>Leadership Training Programme</li>
-<li>Participation in External Carnivals (i.e. Daisy Tan &amp; Pesta Sukan)</li>
-<li>Volunteering for External Events (i.e. Mission Food Beach Netball &amp; Netball Super League)&nbsp;</li>
-<li>Active School Programmes - Level 1 Umpiring Course</li>
-</ul>
+The Damai Netball team provides a rigorous, holistic and customised training programme for its talented members which focuses developing skills and the ability to play as a team, as well as instilling discipline.   
+
+  
+
+The team is coached by Coach Batrisyia and every training session is tailored to work on the athletes' tactical, technical and physical competencies. The team is committed to supporting the development and growth of its members' competencies. Apart from that, the team takes part in various competitions which provide competitive opportunities to sharpen its members' skills. 
+
+  
+
+**Signature Programmes**
+
+
+*   Leadership Training Programme
+*   Participation in External Carnivals (i.e. Pronet7))
+*   Volunteering for External Events (i.e. Mission Food Beach Netball & Netball Super League)
+*   
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">East Zone Netball 'B' Division Competition 2022 - Participation </span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">East Zone Netball 'B' Division Competition 2020 - Participation&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">East Zone Netball 'B' Division Competition 2019 - Participation&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">East Zone Netball 'C' Division Competition 2019 - Participation&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Daisy Tan Netball Carnival 'B' Division&nbsp;2019 - 8th Place</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Daisy Tan Netball Carnival&nbsp;'C' Division&nbsp;2019 - Participation</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Pronet7 Invitational 14 &amp; U and 17 &amp; U Netball Competition - Participation</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Deloitte Pesta Sukan Netball Carnival 'B' Division 2019 - 6th Place</td>
-</tr>
-<tr>
-<td style="text-align: center;">Deloitte Pesta Sukan Netball Carnival 'C' Division 2019 - 2nd &amp; 4th Place</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">East Zone Netball 'C' Division Competition 2022 - Participation </span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Daisy Tan Netball Carnival  'B' Division 2019 - 8th Place</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Daisy Tan Netball Carnival 'C' Division 2019 - Participation</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Pronet7 Invitational 14 &amp; U and 17 &amp; U Netball Competition - Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Deloitte Pesta Sukan Netball Carnival 'B' Division 2019 - 6th Place</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Deloitte Pesta Sukan Netball Carnival 'C' Division 2019 - 2nd &amp; 4th Place</span></td>
+  </tr>
 </tbody>
 </table>
+
 <img src="/images/net1.jpg">
 <p style="text-align: center;"><strong><em>Netball Exco 2021-2022</em></strong></p>
 <img src="/images/net2.jpg">
