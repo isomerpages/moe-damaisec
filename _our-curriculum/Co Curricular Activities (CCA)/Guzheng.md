@@ -41,72 +41,50 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Speech Day</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fwnj">Singapore Youth Festival Arts Presentation 2021</th>
+    <th class="tg-fwnj">Distinction</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival Arts Presentation 2021</p>
-</td>
-<td width="264">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival Arts Presentation 2019</p>
-</td>
-<td width="264">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival Arts Presentation 2017</p>
-</td>
-<td width="264">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival Arts Presentation 2015</p>
-</td>
-<td width="264">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival 2013</p>
-</td>
-<td width="264">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival 2011</p>
-</td>
-<td width="264">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival 2009</p>
-</td>
-<td width="264">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td width="360">
-<p>Singapore Youth Festival 2007</p>
-</td>
-<td width="264">
-<p>Gold</p>
-</td>
-</tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival Arts Presentation 2019</td>
+    <td class="tg-fwnj">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival Arts Presentation 2017</td>
+    <td class="tg-fwnj">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival Arts Presentation 2015</td>
+    <td class="tg-fwnj">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival 2013</td>
+    <td class="tg-fwnj">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival 2011</td>
+    <td class="tg-fwnj">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival 2009</td>
+    <td class="tg-fwnj">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Singapore Youth Festival 2007</td>
+    <td class="tg-fwnj">Gold</td>
+  </tr>
 </tbody>
 </table>
 <img src="/images/gu2.png">
