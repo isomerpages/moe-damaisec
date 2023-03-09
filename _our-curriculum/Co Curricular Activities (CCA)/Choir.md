@@ -6,13 +6,13 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <p>The Damai Choir is dedicated to nurture students with interest and talent in singing. We advocate the joy in singing and strive to boost our students' self-esteem and self-confidence as performers through different available platforms such as the SYF Arts Presentation, Community Programmes and School Concerts.&nbsp;</p>
 <p>We are a big family with a strong emphasis on teamwork - each member is dependent on others to render support to create one harmonious voice. We also believe in instilling in our students a strong sense of responsibility and self-discipline to strive for excellence in the field of music.</p>
-<p><strong>Signature Programmes<br /></strong></p>
-<ul>
-<li>School Musical,Life&rsquo;s Choices 2018</li>
-<li>NDP Sing-Along @ Tampines Community Plaza 2018</li>
-<li>School Performances (Aesthetics Week, Speech and Prize Giving Day, Chinese New Year Concert etc)</li>
-<li>School Public Performance (School Musical Public Performance)</li>
-</ul>
+
+**Signature Programmes**
+
+*   Speech Day Performance
+*   Teachers' Day Performance
+
+
 <p><strong>Our Choral Director<br /></strong>Mr Sean Foo</p>
 <p><strong>Achievements</strong><strong> &amp; Highlights</strong></p>
 <style type="text/css">
@@ -45,4 +45,3 @@ third_nav_title: Co Curricular Activities (CCA)
 <img src="/images/Teachers%20Day.jpg">
 <figcaption> <strong>Teachers' Day</strong> </figcaption>
 </figure>
-
