@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /our-curriculum/co-curricular-activities-cca/art-club
+permalink: /our-curriculum/co-curricular-activities-cca/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -20,29 +20,41 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Calligraphy</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> SYF 2022 – Awarded Certificate of Recognition</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Zhang Shou Shi National Calligraphy &amp; Chinese Painting 2018 - Gold Award</td>
-</tr>
-<tr>
-<td style="text-align: center;">Participated in Yellowren Arts Festival Canvas Painting @ Lower Seletar Reservoir '18</td>
-</tr>
-<tr>
-<td style="text-align: center;">Participated in the Japan International High School Arts Festival '18&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Participated in Colour of Hope Art Competition &amp; Exhibition (Samaritans of Spore)&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Participated in 'On The Spot Art Competition' - Attained 3 Merit Awards</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2021 LiveOn Design Competition – 1 Merit</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2021 Draw My Stamp Story Art Competition – 1 Silver, 1 Bronze </span></td>
+  </tr>
 </tbody>
 </table>
-<img src="/images/art1.jpg">
-<p style="text-align: center;"><strong><em>Olympic Day On-The-Spot Art Competition 2019&nbsp;</em></strong></p>
-<img src="/images/art2.jpg">
-<p style="text-align: center;"><strong><em>Students preparing materials for Values - In - Action Programme (</em></strong><strong><em>Thye Hua Kwan Senior Activity Centre '</em></strong><strong><em>19)</em></strong></p>
-<img src="/images/art3.jpg">
-<img src="/images/art4.jpg">
-<p style="text-align: center;"><strong><em>Value - In - Action Programme at Thye Hua Kwan Senior Activity Centre 2019</em></strong></p>
+
+<img src="/images/1%20.jpg" 
+     style="width:75%">
+		 
+<img src="/images/2%20.jpg" 
+     style="width:75%">
+		 
+<img src="/images/3%20.jpg" 
+     style="width:75%">
+		 
+<img src="/images/4%20.jpg" 
+     style="width:75%">
+		 
+<img src="/images/5%20.jpg" 
+     style="width:75%">
