@@ -44,7 +44,23 @@ The Damai Info-Communications Club participates regularly in various competition
   </tr>
 </tbody>
 </table>
-<img src="/images/info1.jpg">
-<p style="text-align: center;"><strong><em>Photography Course Conducted by Visual Remedy Pte Ltd (under NAC-AEP)</em></strong></p>
-<img src="/images/info2.jpg">
-<p style="text-align: center;"><strong><em>Ethical Hacking Course conducted by Ripplecreate Pte Ltd (under IMDA)&nbsp;</em></strong></p>
+
+<figure>
+<img src="/images/ICC%20Photo%20Workshop%202022.jpg">
+<figcaption> <strong>Photography Course Conducted by Visual Remedy Pte Ltd (under NAC-AEP)</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/New%20Media%20Course.jpg">
+<figcaption> <strong>New Media Course conducted by Apple Institute of Learning (Under IMDA)</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Group%20Discussion%20New%20Media%20Course.jpg">
+<figcaption> <strong> Group discussion during New Media Course </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/SERVE%20VIA.jpg">
+<figcaption> <strong>SERVE Values-In-Action Project – A collaboration between by Apple Institute of Learning, IMDA and Kampong Chai Chee Community Centre</strong> </figcaption>
+</figure>
