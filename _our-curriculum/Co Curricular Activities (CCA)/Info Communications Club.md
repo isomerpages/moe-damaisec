@@ -1,19 +1,25 @@
 ---
 title: Info Communications Club
-permalink: /our-curriculum/co-curricular-activities-cca/info-communications-club
+permalink: /our-curriculum/co-curricular-activities-cca/info-communications-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p>The Damai Info-Communications Club aims to excite students about info-communication (ICT) in a fun and meaningful way by helping them to learn new info comm skills and to cultivate leadership and entrepreneurship capabilities at an early age.&nbsp;</p>
-<p>The Damai Info-Communications Club participates regularly in various competitions to showcase its members' photography skills and creativity, as well as enhance their confidence in harnessing technology and photography.</p>
-<p><strong>Signature Programmes</strong></p>
-<ul>
-<li>Digital Forensic Course conducted by Ripplecreate Pte Ltd (under IMDA)&nbsp;</li>
-<li>Ethical Hacking Course conducted by Ripplecreate Pte Ltd (under IMDA)&nbsp;</li>
-<li>Our Schools, Our Stories - Photo Contest 2021</li>
-<li>DSLR Photography Course conducted by Visual Remedy Pte Ltd</li>
-<li>Video Editing Course conducted by Visual Remedy Pte Ltd</li>
-</ul>
+The Damai Info-Communications Club aims to excite students about info-communication (ICT) in a fun and meaningful way by helping them to learn new info comm skills and to cultivate leadership and entrepreneurship capabilities at an early age. 
+
+  
+
+The Damai Info-Communications Club participates regularly in various competitions to showcase its members' photography skills and creativity, as well as enhance their confidence in harnessing technology and photography.
+
+  
+
+**Signature Programmes**
+
+*   DSLR Photography Course conducted by Visual Remedy Pte Ltd
+*   New Media Course conducted by Apple Institute of Learning
+*   SERVE Values-In-Action Project
+*   Infocomm Media Club Student Leadership Conference 2022
+
+
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
 <table>
 <tbody>
