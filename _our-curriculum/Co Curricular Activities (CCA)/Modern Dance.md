@@ -46,4 +46,3 @@ Our dancers get the opportunity to develop bonds while working together choreogr
 <img src="/images/20220725_170039.jpg">
 <figcaption> <strong>Modern Dance 2022</strong> </figcaption>
 </figure>
-
