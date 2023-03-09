@@ -1,13 +1,20 @@
 ---
 title: Guzheng
-permalink: /our-curriculum/co-curricular-activities-cca/guzheng
+permalink: /our-curriculum/co-curricular-activities-cca/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 33%;" src="/images/gu1.png" align = "left" />
-<p>The Damai Guzheng Ensemble aims to develop students with good character, strong core values and a love for the Chinese classical music. Students would undergo training sessions from a professional instructor.&nbsp;</p>
+<table>
+<thead>
+  <tr>
+    <td><img style="width: 100%;" src="/images/gu1.png" align = "left" /></td>
+    <td><p>The Damai Guzheng Ensemble aims to develop students with good character, strong core values and a love for the Chinese classical music. Students would undergo training sessions from a professional instructor.&nbsp;</p>
 <p>Through the weekly practice sessions and numerous performances together, the Ensemble aims to develop strong teamwork, responsibility, and confidence in students.&nbsp;</p>
-<p>Students would be given opportunity to gain exposures and level up their confidence through school and/or outdoor performances.</p><p><strong>CCA Schedule</strong></p>
+<p>Students would be given opportunity to gain exposures and level up their confidence through school and/or outdoor performances.</p></td>
+  </tr>
+</thead>
+</table>
+<p><strong>CCA Schedule</strong></p>
 <table>
 <tbody>
 <tr>
