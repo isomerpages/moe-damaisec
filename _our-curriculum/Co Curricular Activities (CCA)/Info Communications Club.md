@@ -21,14 +21,27 @@ The Damai Info-Communications Club participates regularly in various competition
 
 
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Our Schools, Our Stories - Photo and Video Contest 2022 (Participation)</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Lions Home School Video Competition 2021 - 3rd Position&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">iBuildSG Club Pinnacle Competition 2021</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">GYOP Anti-Crime Video Competition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Digital For Life Youth Awards (Commendation Award)</span></td>
+  </tr>
 </tbody>
 </table>
 <img src="/images/info1.jpg">
