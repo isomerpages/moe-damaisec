@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-curriculum/co-curricular-activities-cca/choir
+permalink: /our-curriculum/co-curricular-activities-cca/choir/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -15,14 +15,34 @@ third_nav_title: Co Curricular Activities (CCA)
 </ul>
 <p><strong>Our Choral Director<br /></strong>Mr Sean Foo</p>
 <p><strong>Achievements</strong><strong> &amp; Highlights</strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</strong></td>
-</tr>
-</tbody>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-1wig">Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</td>
+  </tr>
+</thead>
 </table>
-<img src="/images/choir1.jpg">
-<img src="/images/choir2.jpg">
-<img src="/images/choir3.jpg">
-<p style="text-align: center;"><strong><em>Singapore Youth Festival Art Presentation 2019 - Choir</em></strong></p>
+
+<figure>
+<img src="/images/Speech%20Day.jpg">
+<figcaption> <strong>Speech Day</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Seniors%20farewell.jpg">
+<figcaption> <strong>Seniors farewell</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Teachers%20Day.jpg">
+<figcaption> <strong>Teachers' Day</strong> </figcaption>
+</figure>
+
