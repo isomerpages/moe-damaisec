@@ -121,7 +121,7 @@ third_nav_title: Co Curricular Activities (CCA)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-490w{background-color:#dddddd;color:#666666;text-align:left;vertical-align:top}
+.tg .tg-490w{background-color:#dddddd;color:#666666;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-i81m{background-color:#ffffff;text-align:center;vertical-align:top}
 </style>
