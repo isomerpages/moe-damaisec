@@ -4,7 +4,6 @@ permalink: /our-curriculum/co-curricular-activities-cca/cca-weekly-schedule-2023
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 **Sports & Games**
 
 <style type="text/css">
@@ -163,7 +162,7 @@ third_nav_title: Co Curricular Activities (CCA)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ysz0{background-color:#dddddd;text-align:left;vertical-align:top}
+.tg .tg-s0hm{background-color:#dddddd;text-align:center;vertical-align:top}
 .tg .tg-i81m{background-color:#ffffff;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -171,7 +170,7 @@ third_nav_title: Co Curricular Activities (CCA)
   <tr>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA</span></th>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">CCA Teacher Incharge</span></th>
-    <th class="tg-ysz0"><span style="font-weight:700;font-style:normal;color:#666">CCA Weekly Training Schedule</span></th>
+    <th class="tg-s0hm"><span style="font-weight:700;font-style:normal;color:#666">CCA Weekly Training Schedule</span></th>
   </tr>
 </thead>
 <tbody>
