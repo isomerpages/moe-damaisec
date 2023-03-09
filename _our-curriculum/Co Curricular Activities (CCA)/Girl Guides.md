@@ -48,11 +48,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <p style="text-align: center;"><strong><em>Secondary 1 Orientation 2022- UG try-out</em></strong></p>
 <img style="width: 100%;" src="/images/gg2.jpg" />
 <p style="text-align: center;"><strong><em>Footdrill</em></strong></p>
-<img style="width: 65%;" src="/images/gg3.jpg" />
+<img style="width: 50%;" src="/images/gg3.jpg" />
 <p style="text-align: center;"><strong><em>Free Being Me Advocacy Badge</em></strong></p>
-<img style="width: 85%;" src="/images/gg4.jpg" />
+<img style="width: 75%;" src="/images/gg4.jpg" />
 <p style="text-align: center;"><strong><em>Team Bonding- Let&rsquo;s Play Frisbee!</em></strong></p>
-<img style="width: 65%;" src="/images/gg5.jpg" />
+<img style="width: 75%;" src="/images/gg5.jpg" />
 <p style="text-align: center;"><strong><em>Proficiency Badge Basket Weaving</em></strong></p>
 <img style="width: 75%;" src="/images/gg6.jpg" />
 <p style="text-align: center;"><strong><em>East Division Day 2022- Snack Making Competition (3rd place)</em></strong></p>
