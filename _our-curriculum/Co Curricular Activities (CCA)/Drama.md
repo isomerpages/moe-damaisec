@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /our-curriculum/co-curricular-activities-cca/drama
+permalink: /our-curriculum/co-curricular-activities-cca/drama/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
@@ -14,16 +14,36 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Bi-Annual School Musical Production (involving the Drama Club helming a full scale musical at a public performance venue)</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Accomplishment (2021)</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Singapore Youth Arts Presentation - Certificate of Distinction&nbsp;(2019)<strong><br /></strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">Singapore Youth Arts Presentation - Certificate of&nbsp;Accomplishment (2021)</td>
-</tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Distinction (2019) </span></td>
+  </tr>
 </tbody>
 </table>
-<img src="/images/d1.jpg">
-<img src="/images/d4.jpg">
-<p><strong><em>Drama Members - Group Pictures</em></strong></p>
+
+<img src="/images/IMG_5049.jpg" 
+     style="width:75%">
+
+<img src="/images/IMG_5051.jpg" 
+     style="width:75%">
+
+<img src="/images/IMG_5054.jpg" 
+     style="width:75%">
+
+<img src="/images/PHOTO-2022-07-28-19-57-54.jpg" 
+     style="width:75%">
+
