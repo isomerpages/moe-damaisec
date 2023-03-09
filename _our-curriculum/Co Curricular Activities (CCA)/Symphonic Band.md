@@ -36,7 +36,6 @@ third_nav_title: Co Curricular Activities (CCA)
 <img src="/images/Picture1.png"><br>
 <img src="/images/Picture2.png"><br>
 <img src="/images/Picture3.png"><br>
-<img src="/images/Picture4.jpg"><br>
 <img src="/images/Picture5.png"><br>
 <img src="/images/sb1.jpeg"><br>
 <img src="/images/sb2.jpeg"><br>
