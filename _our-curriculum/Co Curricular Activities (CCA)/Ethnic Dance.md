@@ -34,13 +34,12 @@ third_nav_title: Co Curricular Activities (CCA)
   </tr>
 </tbody>
 </table>
-<img src="/images/ed1.png">
-<p style="text-align: center;"><em><strong>Sec 1 Trials</strong></em></p>
-<img src="/images/ed2.png">
-<p style="text-align: center;"><em><strong>First Day of Practice for Sec 1s</strong></em></p>
-<img src="/images/ed3.png">
-<p style="text-align: center;"><em><strong>Bonding Sessions</strong></em></p>
-<img src="/images/ed4.png">
-<p style="text-align: center;"><em><strong>Farewell for Sec 4s</strong></em></p>
-<img src="/images/ed5.png">
-<p style="text-align: center;"><em><strong>Hari Raya Performance</strong></em></p>
+
+<img src="/images/ed-1.png" 
+     style="width:75%">
+		 
+<img src="/images/ed-2.png" 
+     style="width:75%">
+		 
+<img src="/images/ed-3.png" 
+     style="width:75%">
