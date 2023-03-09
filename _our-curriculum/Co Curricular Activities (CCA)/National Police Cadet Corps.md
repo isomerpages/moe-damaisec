@@ -55,6 +55,6 @@ third_nav_title: Co Curricular Activities (CCA)
 </table>
 
 <img src="/images/npcc1.png" 
-     style="width:70%">
+     style="width:75%">
 <img src="/images/npcc2.png" 
-     style="width:70%">
+     style="width:75%">
