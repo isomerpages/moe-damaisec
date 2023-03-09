@@ -1,6 +1,6 @@
 ---
 title: Student Development Programme
-permalink: /our-curriculum/student-development-programme
+permalink: /our-curriculum/student-development-programme/
 description: ""
 ---
 <p><strong><u>Student Development through the Co-Curriculum</u></strong></p>
@@ -21,22 +21,33 @@ description: ""
 <li>Bullying Management</li>
 <li>Cyber Issues Management</li>
 </ul>
-<p>Members of the 2021 Student Development Team:</p>
-<table>
+<p>Members of the 2023 Student Development Team:</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Miss Lorraine Ng</span><br><span style="color:#222;background-color:#EAEAEA">HOD/CCE</span><br></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lim Jing Kai</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ng Zhi Xian</span><br><span style="color:#222;background-color:#EAEAEA">HOD/PE &amp; CCA</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Jackie Chan</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Secondary)</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Lenny Marlina</span><br><span style="color:#222;background-color:#EAEAEA">Mohammed</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Secondary)</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;">Miss Lorraine Ng<br />HOD/CCE<br />(Acting)</td>
-<td style="text-align: center;">Mrs Joanne Wong<br />HOD/Discipline</td>
-<td style="text-align: center;">Mr Ng Zhi Xian<br />HOD/PE &amp; CCA</td>
-<td style="text-align: center;">Mrs Jackie Chan<br />Year Head<br />(Lower Secondary)</td>
-<td style="text-align: center;">Ms Lenny Marlina<br />Mohammed<br />Year Head<br />(Upper Secondary)</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Lim Jing Kai<br />SH/Discipline</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs Rachel Teo<br />SH/Student-Well<br />Being (Acting)</td>
-<td style="text-align: center;">Ms Nur Diyana<br />Osman<br />SH/Student-Well<br />Being</td>
-</tr>
+  <tr>
+    <td class="tg-ii8k"></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Nur Diyana</span><br><span style="color:#222;background-color:#EAEAEA">Osman</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span><br></td>
+    <td class="tg-ii8k"></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Rachel Teo</span><br><span style="color:#222;background-color:#EAEAEA">SH/Student-Well</span><br><span style="color:#222;background-color:#EAEAEA">Being</span></td>
+    <td class="tg-ii8k"></td>
+  </tr>
 </tbody>
 </table>
