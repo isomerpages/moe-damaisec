@@ -4,15 +4,21 @@ permalink: /our-curriculum/co-curricular-activities-cca/ethnic-dance/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p>The Damai Ethnic Dance seeks to expose students to various cultural dances. The weekly dance practices provide opportunities for the development of coordination, grace and rhythmic sense through the use of movement, drama and music in the students.&nbsp;</p>
-<p>Members get to experience, appreciate and enjoy different cultural dances and genres. They learn to express themselves through various dance movements. Members spread their passion through dance and display their talents through public performances and competitions every year.&nbsp;</p>
-<p><strong>Signature Programmes</strong></p>
-<ul>
-<li>Public Performance for Special Events (i.e. Hari Raya)&nbsp;</li>
-<li>Participated in Tunas Berseni with Sri Warisan (2017)</li>
-<li>Participate in School Performances (Speech Day, Chinese New Year)&nbsp;</li>
-<li>Participate in School Public Performance (School Musical etc)&nbsp;</li>
-</ul>
+The Damai Ethnic Dance seeks to expose students to various cultural dances. The weekly dance practices provide opportunities for the development of coordination, grace and rhythmic sense through the use of movement, drama and music in the students. 
+
+  
+
+Members get to experience, appreciate and enjoy different cultural dances and genres. They learn to express themselves through various dance movements. Members spread their passion through dance and display their talents through public performances and competitions every year. 
+
+  
+
+**Signature Programmes**
+
+*   Public Performance for Special Events (Hari Raya) 
+*   Participate in School Performances (Speech Day, Chinese New Year) 
+*   Participate in School Public Performance (School Musical etc)
+
+
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
