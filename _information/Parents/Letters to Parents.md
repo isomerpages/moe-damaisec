@@ -5,12 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 <h4><strong>Term 3</strong></h4>
-[]()
 
-[]()
-[]()
-[]()
-[]()
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -81,52 +76,52 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/2023%20MTL%20Fortnight_6%20Feb%202023.pdf"><span style="text-decoration:none;color:#FAA156">Chinese &amp; Malay Languages Fortnight</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/2023%20MTL%20Fortnight_6%20Feb%202023.pdf"><span style="text-decoration:none;color:#FAA156">Chinese &amp; Malay Languages Fortnight</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5 MTL students</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/PSL%20Training_30%20Jan%202023.pdf"><span style="text-decoration:none;color:#FAA156">Peer Support Leaders (PSLs) Training 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/PSL%20Training_30%20Jan%202023.pdf"><span style="text-decoration:none;color:#FAA156">Peer Support Leaders (PSLs) Training 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5 PSL</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/First%20Day%20of%20CCA.pdf"><span style="text-decoration:none;color:#FAA156">First Day of CCA</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/First%20Day%20of%20CCA.pdf"><span style="text-decoration:none;color:#FAA156">First Day of CCA</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Revised%202023%20GCE%20N-%20and%20O-Level%20Oral%20Examination%20and%20Updated%20School%20Calendar.pdf"><span style="text-decoration:none;color:#EC8D3C">Revised 2023 GCE N- and O-Level Oral Examination and Updated School Calendar</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Revised%202023%20GCE%20N-%20and%20O-Level%20Oral%20Examination%20and%20Updated%20School%20Calendar.pdf"><span style="text-decoration:none;color:#EC8D3C">Revised 2023 GCE N- and O-Level Oral Examination and Updated School Calendar</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">30 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Secondary%204%20%205%20Meet-The-Parents%20Session%20on%203%20February%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4 &amp; 5 Meet-The-Parents Session on 3 February 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Secondary%204%20%205%20Meet-The-Parents%20Session%20on%203%20February%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4 &amp; 5 Meet-The-Parents Session on 3 February 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5 </span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Participation%20in%20MOE-NIE%20Motivation%20Intervention%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Participation in MOE-NIE Motivation Intervention Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Participation%20in%20MOE-NIE%20Motivation%20Intervention%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Participation in MOE-NIE Motivation Intervention Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">26 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">304 &amp; 305</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%201%20CCA%20Selection%20last%20day.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 CCA Selection last day</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%201%20CCA%20Selection%20last%20day.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 CCA Selection last day</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/2023%20Sec%201%20Cohort%20Camp.pdf"><span style="text-decoration:none;color:#FAA156">2023 Sec 1 Cohort Camp</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/2023%20Sec%201%20Cohort%20Camp.pdf"><span style="text-decoration:none;color:#FAA156">2023 Sec 1 Cohort Camp</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Secondary%202%20Meet-The-Parents%20on%2027%20January%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 2 Meet-The-Parents on 27 January 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Secondary%202%20Meet-The-Parents%20on%2027%20January%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 2 Meet-The-Parents on 27 January 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Triple%20P%20Level%204%20Parenting%20Course%20Online%20from%204%20Feb%202023%20%2025%20Mar%202023.pdf"><span style="text-decoration:none;color:#FAA156">Triple P Level 4 Parenting Course Online from 4 Feb 2023 25 Mar 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Triple%20P%20Level%204%20Parenting%20Course%20Online%20from%204%20Feb%202023%20%2025%20Mar%202023.pdf"><span style="text-decoration:none;color:#FAA156">Triple P Level 4 Parenting Course Online from 4 Feb 2023 25 Mar 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">16 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
