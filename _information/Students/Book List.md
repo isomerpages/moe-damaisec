@@ -1,22 +1,22 @@
 ---
 title: Book List
-permalink: /information/students/book-list
+permalink: /information/students/book-list/
 description: ""
 third_nav_title: Students
 ---
 
-<p>Please click the links below for the 2022 Booklist:</p>
+<p>Please click the links below for the 2023 Booklist:</p>
 <p><br /><strong>Secondary 1</strong></p>
 <table width="0">
 <tbody>
 <tr>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/DMSS%20Sec%201E%202022.pdf">Secondary 1 Express 2022&nbsp;Textbook&nbsp;List</a></strong></p>
+<p><strong><a href="/files/S1%20EXP.pdf">Secondary 1 Express 2023&nbsp;Textbook&nbsp;List</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/DMSS%20Sec%201NA%202022.pdf">Secondary 1 Normal Academic&nbsp;2022 Textbook List</a></strong></p>
+<p><strong><a href="/files/S1%20NA.pdf">Secondary 1 Normal Academic&nbsp;2023 Textbook List</a></strong></p>
 </td>
-<td style="text-align: center;" width="209"><strong><a href="/files/DMSS%20Sec%201NT%202022.pdf">Secondary 1 Normal Technical 2022 Textbook List</a></strong></td>
+<td style="text-align: center;" width="209"><strong><a href="/files/S1%20NT.pdff">Secondary 1 Normal Technical 2023 Textbook List</a></strong></td>
 </tr>
 </tbody>
 </table>
