@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Parents
 ---
 <h4><strong>Term 3</strong></h4>
+[]()
 
+[]()
+[]()
+[]()
+[]()
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,27 +56,27 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Sec 2</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%203%20MOE-OBS%20Challenge%20Programme.pdf"><span style="text-decoration:none;color:#EC8D3C">Sec 3 MOE-OBS Challenge Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%203%20MOE-OBS%20Challenge%20Programme.pdf"><span style="text-decoration:none;color:#EC8D3C">Sec 3 MOE-OBS Challenge Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%201%20Mental%20Health%20Workshop.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 Mental Health Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%201%20Mental%20Health%20Workshop.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 Mental Health Workshop</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Secondary%202NT%20Experience%20ITE%20Programme%20EIP.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 2NT Experience ITE Programme EIP</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Secondary%202NT%20Experience%20ITE%20Programme%20EIP.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 2NT Experience ITE Programme EIP</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 NT</span></td>
   </tr>
   <tr>
-    <td class="tg-pqll"><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Travel%20Declaration%20for%20March%20School%20Holidays.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for March School Holidays</span></a><br></td>
+    <td class="tg-pqll"><a href="/files/Travel%20Declaration%20for%20March%20School%20Holidays.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for March School Holidays</span></a><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">13 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Education%20%20Career%20Guidance%20Talk%20for%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">Education Career Guidance Talk for Parents</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Education%20%20Career%20Guidance%20Talk%20for%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">Education Career Guidance Talk for Parents</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
