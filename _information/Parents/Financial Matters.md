@@ -59,3 +59,23 @@ Singapore Citizens in financial need can get assistance on school fees and other
   </tr>
 </tbody>
 </table>
+
+**Home Access Programme**  
+
+Home Access Programme provides 2 years of subsidised broadband to low-income households.
+
+For low-income families with school-going children or households with MOE FAS recipients, who have a Personal Learning Device (PLD) or PC, but do not have broadband at home, can consider applying for Home Access Programme. 
+
+  
+
+Information and eligibility criteria can be found in the [Digital Access Programme](https://eservice.imda.gov.sg/das/homepage) website. 
+
+  
+
+* * *
+
+  
+
+**The Straits Times School Pocket Money Fund (STSPMF)**  
+
+The Straits Times provides school pocket money to students from low-income families to help them with school-related expenses.  Information and eligibility criteria can be found in the [STSPMF](https://www.spmf.org.sg/primary-secondary-students) website. Application is open in August and application forms can be obtained from the General Office.
