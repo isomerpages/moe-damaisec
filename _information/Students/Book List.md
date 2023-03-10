@@ -4,7 +4,6 @@ permalink: /information/students/book-list/
 description: ""
 third_nav_title: Students
 ---
-
 <p>Please click the links below for the 2023 Booklist:</p>
 <p><br /><strong>Secondary 1</strong></p>
 <table width="0">
@@ -25,13 +24,13 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/DMSS%20Sec%202E%202022.pdf">Secondary 2 Express 2022 Textbook List&nbsp;</a></strong></p>
+<p><strong><a href="/files/S2%20EXP.pdf">Secondary 2 Express 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p>&nbsp;<strong>&nbsp;<a href="/files/DMSS%20Sec%202NA%202022.pdf">Secondary 2 Normal Academic 2022 Textbook List&nbsp;</a></strong></p>
+<p>&nbsp;<strong>&nbsp;<a href="/files/S2%20NA.pdf">Secondary 2 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p>&nbsp;<strong><a href="/files/DMSS%20Sec%202NT%202022.pdf">Secondary 2 Normal Technical 2022 Textbook List</a>&nbsp;</strong></p>
+<p>&nbsp;<strong><a href="/files/S2%20NT.pdf">Secondary 2 Normal Technical 2023 Textbook List</a>&nbsp;</strong></p>
 </td>
 </tr>
 </tbody>
@@ -41,13 +40,13 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/DMSS%20Sec%203E%202022.pdf">&nbsp;Secondary 3 Express 2022 Textbook List&nbsp;</a></strong></p>
+<p><strong><a href="/files/S3%20EXP.pdf">&nbsp;Secondary 3 Express 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p>&nbsp;<strong><a href="/files/DMSS%20Sec%203NA%202022.pdf">Secondary 3 Normal Academic 2022 Textbook List&nbsp;</a></strong></p>
+<p>&nbsp;<strong><a href="/files/S3%20NA.pdf">Secondary 3 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p><a href="/files/DMSS%20Sec%203NT%202022.pdf"><strong>Secondary 3 Normal Technical 2022 Textbook List&nbsp;</strong></a></p>
+<p><a href="/files/S3%20NT.pdf"><strong>Secondary 3 Normal Technical 2023 Textbook List&nbsp;</strong></a></p>
 </td>
 </tr>
 </tbody>
@@ -58,13 +57,13 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td width="209">
-<p style="text-align: center;"><strong>&nbsp;<a href="/files/DMSS%20Sec%204E%202022.pdf">Secondary 4 Express 2022 Textbook List&nbsp;</a></strong></p>
+<p style="text-align: center;"><strong>&nbsp;<a href="/files/S4%20EXP.pdf">Secondary 4 Express 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td width="209">
-<p style="text-align: center;">&nbsp;<strong>&nbsp;<a href="/files/DMSS%20Sec%204NA%202022.pdf">Secondary 4 Normal Academic 2022 Textbook List&nbsp;</a></strong></p>
+<p style="text-align: center;">&nbsp;<strong>&nbsp;<a href="/files/S4%20NA.pdf">Secondary 4 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td width="209">
-<p style="text-align: center;">&nbsp;<strong><a href="/files/DMSS%20Sec%204NT%202022.pdf">Secondary 4 Normal Technical 2022 Textbook List</a>&nbsp;</strong></p>
+<p style="text-align: center;">&nbsp;<strong><a href="/files/S4%20NT.pdf">Secondary 4 Normal Technical 2023 Textbook List</a>&nbsp;</strong></p>
 </td>
 </tr>
 </tbody>
@@ -74,7 +73,7 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td width="209">
-<p style="text-align: center;"><strong>&nbsp;<a href="/files/DMSS%20Sec%205NA%202022.pdf">Secondary 5 Normal Academic 2022 Textbook List&nbsp;</a></strong></p>
+<p style="text-align: center;"><strong>&nbsp;<a href="/files/S5%20NA.pdf">Secondary 5 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 </tr>
 </tbody>
