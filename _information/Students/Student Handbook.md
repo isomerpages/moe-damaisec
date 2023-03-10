@@ -1,17 +1,16 @@
 ---
 title: Student Handbook
-permalink: /information/students/student-handbook
+permalink: /information/students/student-handbook/
 description: ""
 third_nav_title: Students
 ---
-
-<p>Click&nbsp;<a href="/files/Student%20Handbook%202022.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the Student Handbook 2022.</p>
+<p>Click&nbsp;<a href="/files/Student%20Handbook.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view the Student Handbook.</p>
 <p><strong>Contents</strong></p>
 <table>
 <tbody>
 <tr>
 <td width="414">
-<p>School History and Philosophy </p>
+<p>School History and Philosophy</p>
 </td>
 <td width="32">
 <p>3</p>
