@@ -1,16 +1,49 @@
 ---
 title: ICT Matters
-permalink: /information/students/ict-matters
+permalink: /information/students/ict-matters/
 description: ""
 third_nav_title: Students
 ---
+**ICT Support**
 
-<p><strong>ICT Support</strong></p>
-<p>Students can visit the&nbsp;<strong>School-Based Service Desk</strong>&nbsp;<u>during the operating hours</u>&nbsp;for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form (<u><a href="http://go.gov.sg/damaisechelpdesk" target="_blank" rel="noopener">go.gov.sg/damaisechelpdesk</a></u>) if they&nbsp;need help with their Student Learning Space (SLS) account, Microsoft 365 Account, Student iCON account and/or want to ask questions related to Home-Based Learning.</p>
-<img src="/images/ict.jpg">
-<p><strong>Start of Year ICT Setup</strong></p>
-<p>Students can refer to the below guide on actions to be taken to set up their ICT accounts.<br /><a href="/files/For%20Students%20Start%20of%20Year%20ICT%20Setup.pdf" target="_blank" rel="noopener">Start of Year ICT Setup</a></p>
-<p><strong>Student Learning Space (SLS)</strong></p>
-<p>Students can refer to the below guide on managing their SLS Account.<br /><a href="/files/SLS%20Account%20Management%20Guide.pdf" target="_blank" rel="noopener">SLS Account Management Guide</a></p>
-<p><strong>Personal Learning Device (PLD)</strong></p>
-<p>Students can refer to the below documents for important information regarding the PLD.<br /><a href="/files/Student%20Device%20Information%20Kit.pdf" target="_blank" rel="noopener">Student Device Information Kit</a><br /><a href="/files/Troubleshooting%20iPad%20Profile%20Switching%20Issues_Performing%20a%20Manual%20Sync.pdf" target="_blank" rel="noopener">Troubleshooting iPad Profile Switching Issues</a></p>
+Students can visit the **School-Based Service Desk** during the operating hours for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they need help with their Student Learning Space (SLS) account, Microsoft 365 Account, Student iCON account and/or want to ask questions related to Home-Based Learning.  
+
+Students who need to check their MIMS & MS365 username can do so via [go.gov.sg/dssuser](http://go.gov.sg/dssuser).
+
+![](/images/School-Based%20Service%20Desk.jpg)
+
+**Start of Year ICT Setup**
+
+Students can refer to the below guide on actions to be taken to set up their ICT accounts.
+
+[2023 Start of Year ICT Setup Sec 2 - 5](/files/2023%20Start%20of%20Year%20ICT%20Setup%20Sec%202%20-%205.pdf)  
+
+**Student Learning Space (SLS)**
+
+Students can refer to the below guide on managing their SLS Account.
+
+[SLS Account Management Guide](/files/SLS%20Account%20Management%20Guide.pdf)
+
+From 1 Dec 2022, students will log in to SLS using their MIMS/Student iCON username and password.
+
+![](/images/SLS%20Login%20via%20MIMS%20Poster.png)
+
+**Personal Learning Device (PLD)**  
+
+  
+
+Students can refer to the below documents for important information regarding the PLD.
+
+[Student Device Information Kit](/files/Student%20Device%20Information%20Kit.pdf)  
+
+[Troubleshooting iPad Profile Switching Issues](/files/Troubleshooting%20iPad%20Profile%20Switching%20Issues_Performing%20a%20Manual%20Sync.pdf)
+
+
+**Uninstallation of DMA for Graduating Students**
+
+
+Students who are graduating can refer to the below documents for the DMA uninstallation instructions.
+
+[Note on Uninstallation of DMA for students in 403, 404, 405A, 405B](/files/Note%20on%20Uninstallation%20of%20DMA%20403%20404%20405A%20405B.pdf)  
+
+[Note on Uninstallation of DMA for students in 401, 402](/files/Note%20on%20Uninstallation%20of%20DMA%20For%20401%20%20402%20Students.pdf)
