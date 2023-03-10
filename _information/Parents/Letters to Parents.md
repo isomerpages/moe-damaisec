@@ -126,42 +126,42 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/MOE%20Sexuality%20Education%20in%20Schools_Letter%20to%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">MOE Sexuality Education in Schools</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/MOE%20Sexuality%20Education%20in%20Schools_Letter%20to%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">MOE Sexuality Education in Schools</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">16 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Police%20Advisory%20on%20Phishing%20scams%20involving%20fake%20buyers.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Phishing scams involving fake buyers</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Police%20Advisory%20on%20Phishing%20scams%20involving%20fake%20buyers.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Phishing scams involving fake buyers</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">13 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/2023%20Sec%202%20PG%20Notice_Former%20Ford%20Factory.pdf"><span style="text-decoration:none;color:#FAA156">2023 Sec 2G2 and 2G3 Historical Investigation</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/2023%20Sec%202%20PG%20Notice_Former%20Ford%20Factory.pdf"><span style="text-decoration:none;color:#FAA156">2023 Sec 2G2 and 2G3 Historical Investigation</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">11 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 G2/G3 History</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Triple%20P%20Level%202%20Webinars.pdf"><span style="text-decoration:none;color:#FAA156">Triple P Level 2 Webinars</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Triple%20P%20Level%202%20Webinars.pdf"><span style="text-decoration:none;color:#FAA156">Triple P Level 2 Webinars</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">9 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Secondary%203%20Meet-The-Parents%20Session%20on%2013%20January%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3 Meet-The-Parents Session on 13 January 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Secondary%203%20Meet-The-Parents%20Session%20on%2013%20January%202023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3 Meet-The-Parents Session on 13 January 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">9 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 ECG Learning Journey</span><br><br>- <a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Care%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Care Economy</span></a><br>- <a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Digital%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Digital Economy</span></a><br>- <a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Green%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Green Economy</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 ECG Learning Journey</span><br><br>- <a href="/files/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Care%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Care Economy</span></a><br>- <a href="/files/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Digital%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Digital Economy</span></a><br>- <a href="/files/Sec%204%20ECG%20Learning%20Journey%20to%20LLI%20Green%20Economy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Sec 4 ECG Learning Journey to LLI Green Economy</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">9 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/National%20Digital%20Literacy%20Programme%20NDLP%202023%20For%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">National Digital Literacy Programme NDLP 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/National%20Digital%20Literacy%20Programme%20NDLP%202023%20For%20Parents.pdf"><span style="text-decoration:none;color:#FAA156">National Digital Literacy Programme NDLP 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Enrol%20Your%20Child%20for%20Annual%20School-based%20Health%20%20Dental%20Services.pdf"><span style="text-decoration:none;color:#FAA156">Enrol Your Child for Annual School-based Health Dental Services</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Enrol%20Your%20Child%20for%20Annual%20School-based%20Health%20%20Dental%20Services.pdf"><span style="text-decoration:none;color:#FAA156">Enrol Your Child for Annual School-based Health Dental Services</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
@@ -197,3 +197,4 @@ third_nav_title: Parents
   </tr>
 </tbody>
 </table>
+
