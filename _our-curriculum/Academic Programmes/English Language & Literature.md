@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature
-permalink: /our-curriculum/academic-programmes/english-language-n-literature
+permalink: /our-curriculum/academic-programmes/english-language-n-literature/
 description: ""
 third_nav_title: Academic Programmes
 ---
@@ -66,5 +66,8 @@ third_nav_title: Academic Programmes
 <td><img src="/images/el7.jpg">Sec 2 In-House Choral Reading Workshop: Students dramatising a poem and having lots of fun!</td>
 <td><img src="/images/el8.jpg">Sec 2 In-House Drama Workshop: Dr Dennis Yeo keeping his audience captivated during his talk on the importance of learning Literature.</td>
 </tr>
+<tr>
+	<td><img src="/images/A%20Day%20in%20Court%20Student%20Seminar.jpg">A Day in Court Student Seminar</td>
+	</tr>
 </tbody>
 </table>
