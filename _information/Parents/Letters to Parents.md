@@ -5,11 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 <h4><strong>Term 3</strong></h4>
-[](/files/Integration%20Programme.pdf)
-[](/files/APLMPOLY%20Smart%20IoT%20Devices%20and%20Virtual%20Reality.pdf)
-[](/files/Sec%202%20VIA%20-%20Kayak%20N%20Klean.pdf)
-[](/files/Collection%20of%20Personal%20Learning%20Device%20PLD_22%20Feb%202023.pdf)
-[](/files/Service%20Learning%20Symposium.pdf)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -30,27 +26,27 @@ third_nav_title: Parents
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Integration%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Integration%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected</span><br><span style="color:inherit;background-color:transparent">Sec 1 - 3</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/APLMPOLY%20Smart%20IoT%20Devices%20and%20Virtual%20Reality.pdf"><span style="text-decoration:none;color:#FAA156">APLMPOLY Smart IoT Devices and Virtual Reality</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/APLMPOLY%20Smart%20IoT%20Devices%20and%20Virtual%20Reality.pdf"><span style="text-decoration:none;color:#FAA156">APLMPOLY Smart IoT Devices and Virtual Reality</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected</span><br><span style="color:inherit;background-color:transparent">Sec 3 - 5</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%202%20VIA%20-%20Kayak%20N%20Klean.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 VIA - Kayak N Klean</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%202%20VIA%20-%20Kayak%20N%20Klean.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 VIA - Kayak N Klean</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Collection%20of%20Personal%20Learning%20Device%20PLD_22%20Feb%202023.pdf"><span style="text-decoration:none;color:#FAA156">Collection of Personal Learning Device, Selection of After-School Device Management Application and Workshop for Students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Collection%20of%20Personal%20Learning%20Device%20PLD_22%20Feb%202023.pdf"><span style="text-decoration:none;color:#FAA156">Collection of Personal Learning Device, Selection of After-School Device Management Application and Workshop for Students</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">22 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Service%20Learning%20Symposium.pdf"><span style="text-decoration:none;color:#FAA156">Service Learning Symposium</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Service%20Learning%20Symposium.pdf"><span style="text-decoration:none;color:#FAA156">Service Learning Symposium</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">22 Feb 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Sec 2</span></td>
   </tr>
