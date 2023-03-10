@@ -166,35 +166,34 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%201%20Meet-The-Parents%20Session.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 Meet-The-Parents Session</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%201%20Meet-The-Parents%20Session.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 Meet-The-Parents Session</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 Jan 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/2023%20Secondary%201%20Cohort%20Class%20Allocation.pdf"><span style="text-decoration:none;color:#EC8D3C">2023 Secondary 1 Cohort Class Allocation</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/2023%20Secondary%201%20Cohort%20Class%20Allocation.pdf"><span style="text-decoration:none;color:#EC8D3C">2023 Secondary 1 Cohort Class Allocation</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">29 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%204%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 4 Information on School Matters for 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%204%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 4 Information on School Matters for 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">29 Dec 2022</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%203%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 3 Information on School Matters for 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%203%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 3 Information on School Matters for 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">29 Dec 2022</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Sec%202%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 Information on School Matters for 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Sec%202%20Information%20on%20School%20Matters%20for%202023.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 Information on School Matters for 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">29 Dec 2022</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://damaisec.moe.edu.sg/qql/slot/u164/information/parents/Letters%20to%20Parents/2023/Term%201/Information%20for%202023%20Sec%201%20Cohort.pdf"><span style="text-decoration:none;color:#FAA156">Information for 2023 Sec 1 Cohort</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information%20for%202023%20Sec%201%20Cohort.pdf"><span style="text-decoration:none;color:#FAA156">Information for 2023 Sec 1 Cohort</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
 </tbody>
 </table>
-
