@@ -10,24 +10,24 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;">Students attempted to &lsquo;tarek&rsquo; their tea at Tekka Centre to investigate how effective the action was to cool their tea down.</td>
-<td style="width: 50%;">Students at Campbell Lane keying in their response to the learning trail on their group ipad.</td>
+<td style="width: 50%;"><img src="/images/mesh1.jpeg">Students attempted to &lsquo;tarek&rsquo; their tea at Tekka Centre to investigate how effective the action was to cool their tea down.</td>
+<td style="width: 50%;"><img src="/images/mesh2.jpeg">Students at Campbell Lane keying in their response to the learning trail on their group ipad.</td>
 </tr>
 <tr>
-<td style="width: 50%;">Jothi Store hosted our students to teach them how to make garlands.</td>
-<td style="width: 50%;">Students learning about Rangoli in conjunction with the upcoming Deepavali.</td>
+<td style="width: 50%;"><img src="/images/mesh3.jpeg">Jothi Store hosted our students to teach them how to make garlands.</td>
+<td style="width: 50%;"><img src="/images/mesh4.jpeg">Students learning about Rangoli in conjunction with the upcoming Deepavali.</td>
 </tr>
 <tr>
-<td style="width: 50%;">Experiencing Deepavali Bazaar at Campbell Lane.</td>
-<td style="width: 50%;">Damai Secondary School students at Campbell Lane Deepavali Bazaar.</td>
+<td style="width: 50%;"><img src="/images/mesh5.jpeg">Experiencing Deepavali Bazaar at Campbell Lane.</td>
+<td style="width: 50%;"><img src="/images/mesh6.jpeg">Damai Secondary School students at Campbell Lane Deepavali Bazaar.</td>
 </tr>
 <tr>
-<td style="width: 50%;">Sec 3 Normal (Academic) Food &amp; Nutrition students preparing 7 various dishes and using a different spice for each dish for their friends to sample.</td>
-<td style="width: 50%;">Team of F&amp;N teachers leading the students in the kitchen to whip out a feast.</td>
+<td style="width: 50%;"><img src="/images/mesh7.jpeg">Sec 3 Normal (Academic) Food &amp; Nutrition students preparing 7 various dishes and using a different spice for each dish for their friends to sample.</td>
+<td style="width: 50%;"><img src="/images/mesh8.jpeg">Team of F&amp;N teachers leading the students in the kitchen to whip out a feast.</td>
 </tr>
 <tr>
-<td style="width: 50%;">Students tasting the food prepared by their peers to match the spice used to each dish.</td>
-<td style="width: 50%;">The plate of food served included Cumin Rice, Fennel Carrots, Fish in Tamarind Gravy, Star Anise-Tea-Egg, Cinnamon Muffin, Lime Jelly and Cardamom Tea.</td>
+<td style="width: 50%;"><img src="/images/mesh9.jpeg">Students tasting the food prepared by their peers to match the spice used to each dish.</td>
+<td style="width: 50%;"><img src="/images/mesh10.jpeg">The plate of food served included Cumin Rice, Fennel Carrots, Fish in Tamarind Gravy, Star Anise-Tea-Egg, Cinnamon Muffin, Lime Jelly and Cardamom Tea.</td>
 </tr>
 </tbody>
 </table>
