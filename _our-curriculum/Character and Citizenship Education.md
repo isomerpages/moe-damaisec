@@ -86,7 +86,7 @@ description: ""
 <p><strong>Education and Career Guidance @ Damai</strong></p>
 <p>The approach to ECG at Damai is guided by a developmental framework which highlights ECG as a process that takes over one&rsquo;s life span. Damai&rsquo;s ECG programme reflects the school motto: Aspire, Explore, Achieve.</p>
 <p>The table below summarizes ECG @Damai:</p>
-<table width="0">
+<table style="border-style: solid;">
 <tbody>
 <tr>
 <td style="text-align: center;" width="52">
