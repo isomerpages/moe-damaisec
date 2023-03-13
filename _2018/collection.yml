@@ -1,4 +1,5 @@
 collections:
   "2018":
     output: true
-    order: []
+    order:
+      - MESH.md
