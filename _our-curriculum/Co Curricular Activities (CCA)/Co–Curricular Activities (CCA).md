@@ -1,12 +1,13 @@
 ---
 title: Co–Curricular Activities (CCA)
-permalink: /our-curriculum/co-curricular-activities-cca
+permalink: /our-curriculum/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p><a href="https://damaisec.moe.edu.sg/qql/slot/u164/our-curriculum/co-curriculum-programmes/co-curricular-activities/Sec%201%20CCA%20Briefing%202022_7%20Jan.pdf" target="_blank" rel="noopener">Sec 1 CCA Briefing 2022_7 Jan</a></p>
-<p><a href="https://tinyurl.com/2022DamaiCCAselection" target="_blank" rel="noopener">Sec 1 CCA Selection Portal</a>&nbsp;(Accessible from 14 to 18 January)</p>
-<p><a href="https://damaisec.moe.edu.sg/qql/slot/u164/our-curriculum/co-curriculum-programmes/co-curricular-activities/First%20Day%20of%20CCA%20for%20Sec%201s%20-%202022.pdf" target="_blank" rel="noopener">First Day of CCA for Sec 1s - 2022</a><br /><br /></p>
+<p><strong>Links &amp; Resources</strong></p>
+<ul>
+<li><a href="/files/2023%20Sec%201%20CCA%20Briefing.pdf" target="_blank" rel="noopener">2023 Sec 1 CCA Briefing</a></li>
+</ul>
 <p><strong>Co-Curricular Activities&nbsp;</strong></p>
 <p>Co-Curricular Activities play a key role in the holistic development of our students. The framework for CCA is anchored in the values of developing students' interests in life-long recreational activities and broadening students' experiences.&nbsp;</p>
 <p><strong>The Damai CCA Policy</strong></p>
@@ -33,8 +34,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>At the end of the graduating year, students&rsquo; co-curricular attainment will be marked as Excellent/Good/Fair.</p>
 <p>CCA points are allocated based on a student&rsquo;s&nbsp;<strong>P</strong>articipation,&nbsp;<strong>S</strong>ervice,&nbsp;<strong>L</strong>eadership and&nbsp;<strong>A</strong>chievement as outlined in LEAPS 2.0.&nbsp;</p>
 <p>The level of attainment will be converted to bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education.</p>
-<div>
-<table border="1">
+<table style="border-style: solid;" border="1">
 <tbody>
 <tr>
 <th style="text-align: center;">Co-Curricular Attainment</th>
@@ -63,6 +63,7 @@ or<br />
 <ul>
 <li>At least Level 4 in one domain</li>
 </ul>
+</div>
 </td>
 </tr>
 <tr>
@@ -73,7 +74,7 @@ or<br />
 </table>
 <p>More details of the LEAPS 2.0 system can be found on the MOE website&nbsp;<a href="https://damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/leaps-2-0-guide" target="_blank" rel="noopener">here</a>.</p>
 <p><strong>Our School's CCAs for 2022<br /></strong>Damai Secondary School currently offers the following CCAs:</p>
-<table style="width: 404px;">
+<table style="border-style: solid;">
 <tbody>
 <tr>
 <th style="width: 82px; text-align: center;">Sports &amp; Games&nbsp;</th>
@@ -83,25 +84,25 @@ or<br />
 </tr>
 <tr>
 <td style="width: 82px; text-align: center;">Canoeing (Girls)</td>
-<td style="width: 88px; text-align: center;">Choir&nbsp;</td>
+<td style="width: 88px; text-align: center;">Choir</td>
 <td style="width: 121px; text-align: center;">Girl Guides</td>
 <td style="width: 113px; text-align: center;">Info - Communication Club</td>
 </tr>
 <tr>
 <td style="width: 82px; text-align: center;">Dragonboat (Boys)</td>
 <td style="width: 88px; text-align: center;">Drama</td>
-<td style="width: 121px; text-align: center;">&nbsp;National Cadet Corps (Land) (Boys)</td>
+<td style="width: 121px; text-align: center;">National Cadet Corps (Land) (Boys)</td>
 <td style="width: 113px; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">&nbsp;Netball (Girls)</td>
+<td style="width: 82px; text-align: center;">Netball (Girls)</td>
 <td style="width: 88px; text-align: center;">Ethnic Dance</td>
 <td style="width: 121px; text-align: center;">National Police Cadet Corps (NPCC)</td>
 <td style="width: 113px; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">&nbsp;Rugby (Boys)</td>
-<td style="width: 88px; text-align: center;">Guzheng&nbsp;</td>
+<td style="width: 82px; text-align: center;">Rugby (Boys)</td>
+<td style="width: 88px; text-align: center;">Guzheng</td>
 <td style="width: 121px; text-align: center;">&nbsp;</td>
 <td style="width: 113px; text-align: center;">&nbsp;</td>
 </tr>
