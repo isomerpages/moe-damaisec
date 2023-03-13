@@ -1,39 +1,39 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-curriculum/character-and-citizenship-education
+permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 ---
 <p><strong>A Nurturing School Experience through Character &amp; Citizenship Education</strong></p>
 <p>Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. CCE 2021 provides an integrated approach to addressing our students&rsquo; development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. Important aspects of CCE, such as National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), are integrated within a school-wide approach. This is essential for students to internalize the necessary values, attitudes, and competencies to become self-directed learners, confident people, active contributors, and concerned citizens, which are the desired outcomes of education.</p>
 <p>The school provides rich learning platforms and opportunities for students to be equipped with the knowledge, moral and civic values, skills and dispositions to understand who they are and who they can become. Through a variety of learning activities within and beyond the classroom, students experience being part of something larger than themselves and become cognizant of their roles and responsibilities in their families, communities, the nation, and beyond.</p>
 <p>3 overarching big ideas of Identity, Relationships and Choices are the core concepts in these lessons to enable students to develop key understanding of the issues.</p>
-<table width="0">
+<table style="border-style: solid; width: 700;" width="0">
 <tbody>
 <tr>
-<td style="text-align: center;" width="174">
+<td style="text-align: center; width: 92.7188px;">
 <p><strong>3 Big Ideas:</strong></p>
 <p><strong>Conceptual Core of CCE</strong></p>
 </td>
-<td style="text-align: center;" width="186">
+<td style="text-align: center; width: 110px;">
 <p><strong>Key Questions</strong></p>
 </td>
-<td style="text-align: center;" width="138">
+<td style="text-align: center; width: 162px;">
 <p><strong>CCE Curriculum Content Areas</strong></p>
 </td>
-<td style="text-align: center;" width="168">
+<td style="text-align: center; width: 271px;">
 <p><strong>Student Development Experiences (SDEs)</strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="174">
+<td style="text-align: center; width: 92.7188px;">
 <p>Identity</p>
 </td>
-<td style="text-align: center;" width="186">
+<td style="text-align: center; width: 110px;">
 <p><em>Who am I?</em></p>
 <p><em>Who do I want to be?</em></p>
 <p><em>What does my best self look like?</em></p>
 </td>
-<td rowspan="3" width="138">
+<td style="width: 162px;" rowspan="3">
 <p>National Education (NE)</p>
 <p>Sexuality Education (SEd)</p>
 <p>Mental Health (MH)</p>
@@ -41,7 +41,7 @@ description: ""
 <p>Cyber Wellness (CW)</p>
 <p>Family Education (FE)</p>
 </td>
-<td rowspan="3" width="168">
+<td style="width: 271px;" rowspan="3">
 <ul>
 <li>Co-Curricular Activities (CCA)</li>
 <li>Cohort Learning Journeys (LJs)</li>
@@ -55,19 +55,19 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="174">
+<td style="text-align: center; width: 92.7188px;">
 <p>Relationships</p>
 </td>
-<td style="text-align: center;" width="186">
+<td style="text-align: center; width: 110px;">
 <p><em>How do I relate to myself,</em></p>
 <p><em>others and the world around me?</em></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="174">
+<td style="text-align: center; width: 92.7188px;">
 <p>Choices</p>
 </td>
-<td style="text-align: center;" width="186">
+<td style="text-align: center; width: 110px;">
 <p><em>How do I choose to be?</em></p>
 <p><em>How do I choose to act?</em></p>
 <p><em>What kind of future</em></p>
