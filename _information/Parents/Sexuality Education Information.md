@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Information
-permalink: /information/parents/sexuality-education-information
+permalink: /information/parents/sexuality-education-information/
 description: ""
 third_nav_title: Parents
 ---
@@ -26,7 +26,7 @@ third_nav_title: Parents
 <p>&nbsp;7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Damai Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
 <p style="text-align: center;"><strong>Secondary 1</strong></p>
-<table width="0">
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
@@ -97,9 +97,8 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong>Secondary 2</strong>&nbsp;</p>
-<div>
-<table width="0">
+<p style="text-align: center;"><strong>Secondary 2</strong></p>
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
@@ -169,10 +168,8 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-</div>
 <p style="text-align: center;"><strong>Secondary 3</strong></p>
-<div>
-<table width="0">
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
@@ -245,10 +242,8 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-</div>
 <p style="text-align: center;"><strong>Secondary 4</strong></p>
-<div>
-<table width="0">
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
@@ -337,10 +332,8 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-</div>
 <p style="text-align: center;"><strong>Secondary 5</strong></p>
-<div>
-<table width="0">
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="112">
@@ -382,15 +375,11 @@ third_nav_title: Parents
 </tbody>
 </table>
 <p><em>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, &ldquo;Levelling the Ground&rdquo; from the unit, &ldquo;Respectful Relationship and Safety&rdquo;.</em></p>
-</div>
-<div>
-<div>
 <p><strong><em><u>eTeens</u></em></strong><strong><u>&nbsp;Programme</u></strong>:</p>
 <p>8. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Damai Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in&nbsp;<u>2022</u>:</strong></p>
-<div>
-<table width="0">
+<table style="border-style: solid;">
 <thead>
 <tr>
 <td style="text-align: center;" width="177">
@@ -437,12 +426,9 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-</div>
 <p><strong>Information for Parents</strong></p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20A_GY_Opt%20Out%20Form.pdf" target="_blank" rel="noopener">here</a>.&nbsp;The completed form is to be submitted by 11/02/2022.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B_eTeens%20Opt%20Out%20Form.pdf" target="_blank" rel="noopener">here</a>. The completed form is to be submitted by 05/07/2022.</p>
 <p>13. Parents can contact the school&rsquo;s Sexuality Education Coordinator Ms Lorraine Ng via email at&nbsp;<a href="mailto:ng_wei_yin_carrissa@schools.gov.sg" target="">ng_wei_yin_carrissa@schools.gov.sg</a>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
-</div>
 <p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.&nbsp;</p>
-</div>
