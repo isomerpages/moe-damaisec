@@ -1,6 +1,6 @@
 ---
 title: School Crest & Song
-permalink: /our-damai/school-crest-n-song
+permalink: /our-damai/school-crest-n-song/
 description: ""
 ---
 <img style="width: 30%;" src="/images/scs.png" />
@@ -14,3 +14,4 @@ description: ""
 <p style="text-align: center;">May our vision lead us towards<br />A life of meaning and purpose&nbsp;</p>
 <div>
 <p style="text-align: center;"><em>Lyrics by Mr Chua Lek Hong<br /></em><em>Music by Mr Alvin Ho Yong Cheah and Miss Chang Yu Zhen</em></p>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/QC5yMvDiQwU" title="Damai Secondary School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
