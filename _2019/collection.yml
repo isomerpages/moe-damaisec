@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - Student Leaders Investiture.md
       - Aesthetic Week.md
       - Racial Harmony Day.md
       - Damai Health Week and National Day.md
