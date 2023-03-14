@@ -2,5 +2,6 @@ collections:
   "2019":
     output: true
     order:
+      - Racial Harmony Day.md
       - Damai Health Week and National Day.md
       - Teachers' Day.md
