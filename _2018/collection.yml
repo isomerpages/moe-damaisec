@@ -2,6 +2,7 @@ collections:
   "2018":
     output: true
     order:
+      - CNY & Hari Raya Celebration.md
       - School Musical.md
       - Speech Day.md
       - Student Leaders' Investiture.md
