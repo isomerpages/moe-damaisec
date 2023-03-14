@@ -2,6 +2,7 @@ collections:
   "2018":
     output: true
     order:
+      - Student Leaders' Investiture.md
       - Student Council Camp.md
       - Racial Harmony & National Day.md
       - Teachers' Day Celebration.md
