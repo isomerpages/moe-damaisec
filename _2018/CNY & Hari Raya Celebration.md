@@ -29,3 +29,36 @@ description: ""
 </tbody>
 </table>
 <p>As part of the Hari Raya celebration, a concert was organised on 9 July 2018 to showcase and educate students on the Malay culture and traditions. The takeaway from the concert was the appreciation and understanding of the meaning and significance of Hari Raya.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/cny11.jpg">Our principal started the Hari Raya concert accompanied by the Kompang.</td>
+<td style="width: 50%;"><img src="/images/cny12.jpg">The Hari Raya concert was hosted by two Secondary Three students.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/cny13.jpg"></td>
+<td style="width: 50%;"><img src="/images/cny14.jpg"></td>
+</tr>
+<tr>
+<td colspan="2">The Ethnic Dancers put on a very energetic performance to capture the vibrancy of the festive mood.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/cny15.jpg"></td>
+<td style="width: 50%;"><img src="/images/cny16.jpg"></td>
+</tr>
+<tr>
+<td colspan="2">Ten teachers took part in the fashion parade segment, putting on the different kinds of Muslim costumes in vibrant colours.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/cny17.jpg">The quiz garnered active participation from the audience.</td>
+<td style="width: 50%;"><img src="/images/cny18.jpg">Two students sang a duet entitled, &lsquo;Suasana Hari Raya&rsquo;.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/cny19.jpg"></td>
+<td style="width: 50%;"><img src="/images/cny20.jpg"></td>
+</tr>
+<tr>
+<td colspan="2">As a finale, teachers and participants took centre stage, much to the delight of the audience.</td>
+</tr>
+</tbody>
+</table>
