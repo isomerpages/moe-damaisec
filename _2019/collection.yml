@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - Sec 1 Orientation Camp.md
       - Meet–The–Parents Sessions.md
       - Chinese New Year Celebration.md
       - Total Defence Day.md
