@@ -12,7 +12,7 @@ description: ""
 <td style="width: 50%; text-align: center;"><img src="/images/td2.jpg">Constructing a gadget</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img src="/images/td3.jpg">Outdoor cooking</td>
+<td style="width: 50%; text-align: center;"><img src="/images/td33.jpg">Outdoor cooking</td>
 <td style="width: 50%; text-align: center;"><img src="/images/td4.jpg">Washing up after outdoor cooking</td>
 </tr>
 <tr>
