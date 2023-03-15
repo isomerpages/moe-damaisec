@@ -26,7 +26,7 @@ description: ""
 <td style="width: 50%;"><img src="/images/sec8.jpg">All wet but what a good time the students had with water bombs at a team activity in the school field</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/sec9.jpg">Muhammd Noorsyafiq Amsyar Bin Muhammad Noorazli receiving the Best Team Award on behalf of Sec 105B</td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/sec9.jpg">Muhammd Noorsyafiq Amsyar Bin Muhammad Noorazli receiving the Best Team Award on behalf of Sec 105B</td>
 <td style="width: 50%;"><img src="/images/sec10.jpg">One big happy family picture to capture the last moments of the camp which will be etched in everyone&rsquo;s memories for a long time to come</td>
 </tr>
 </tbody>
