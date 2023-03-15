@@ -2,6 +2,7 @@ collections:
   "2019":
     output: true
     order:
+      - Total Defence Day.md
       - Class Committee Leaders Training.md
       - Sec 2 Humanities Learning Journey.md
       - International Friendship Day.md
