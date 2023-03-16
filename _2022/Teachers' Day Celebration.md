@@ -9,12 +9,12 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 66%;"><img src="/images/tee1.png"></td>
-<td style="width: 33%;"><img src="/images/tee2.png"><img src="/images/tee3.png"></td>
+<td style="width: 65%;"><img src="/images/tee1.png"></td>
+<td style="width: 35%;"><img src="/images/tee2.png"><img src="/images/tee3.png"></td>
 </tr>
 <tr>
-<td style="width: 66%;"><img src="/images/tee4.png"></td>
-<td style="width: 33%;"><img src="/images/tee5.png"><img src="/images/tee6.png"></td>
+<td style="width: 65%;"><img src="/images/tee4.png"></td>
+<td style="width: 35%;"><img src="/images/tee5.png"><img src="/images/tee6.png"></td>
 </tr>
 </tbody>
 </table>
