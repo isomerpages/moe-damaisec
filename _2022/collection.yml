@@ -2,6 +2,7 @@ collections:
   "2022":
     output: true
     order:
+      - Student Leaders' Investiture.md
       - Hari Raya Celebration.md
       - Speech Day.md
       - National Day.md
