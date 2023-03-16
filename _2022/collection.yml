@@ -2,6 +2,7 @@ collections:
   "2022":
     output: true
     order:
+      - Speech Day.md
       - National Day.md
       - Teachers' Day Celebration.md
       - Graduation Day.md
