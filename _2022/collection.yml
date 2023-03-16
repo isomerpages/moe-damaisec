@@ -1,4 +1,5 @@
 collections:
   "2022":
     output: true
-    order: []
+    order:
+      - Graduation Day.md
