@@ -24,7 +24,7 @@ Opening Hours (in school):  7.30am to 3.00pm (Monday to Friday). Closed on Wee
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" colspan="2">Main Office</th>
+		<th class="tg-0lax" colspan="2"><strong>Main Office</strong></th>
   </tr>
 </thead>
 <tbody>
@@ -69,7 +69,7 @@ School uniform and PE attire can be purchased from our school bookshop or the Ma
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" colspan="2">Main Office</th>
+    <th class="tg-0lax" colspan="2"><strong>Main Office</strong></th>
   </tr>
 </thead>
 <tbody>
