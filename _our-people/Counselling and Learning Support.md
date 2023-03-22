@@ -8,6 +8,6 @@ description: ""
 |[Ms Ilyana Saat](mailto:ilyana_saat@schools.gov.sg)|Senior School Counsellor
 |[Ms Rajeswari d/o Kanagersundram](mailto:rajeswari_kanagersundram@schools.gov.sg)|Senior SEN Officer
 |[Ms Mas Sumiyani Bte Abdul Gani](mailto:Mas_Sumiyani_Abdul_Gani@schools.gov.sg)|Student Welfare Officer (SWO)
-|Ms Samantha Woo|ECG Counsellor
+|[Mr Edwin Khong](mailto:khong_ling_yang_edwin@schools.gov.sg)|ECG Counsellor
 |Ms Nurdiana Bte Ariffin|Student Health Advisor
 ||
