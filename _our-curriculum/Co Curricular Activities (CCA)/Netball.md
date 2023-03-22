@@ -18,7 +18,7 @@ The team is coached by Coach Batrisyia and every training session is tailored to
 *   Leadership Training Programme
 *   Participation in External Carnivals (i.e. Pronet7))
 *   Volunteering for External Events (i.e. Mission Food Beach Netball & Netball Super League)
-*   
+
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
