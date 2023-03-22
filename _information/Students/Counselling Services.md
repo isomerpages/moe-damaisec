@@ -1,10 +1,9 @@
 ---
 title: Counselling Services
-permalink: /information/students/counselling-services
+permalink: /information/students/counselling-services/
 description: ""
 third_nav_title: Students
 ---
-
 <p><strong><u>What is School Counselling?</u></strong></p>
 <p>Counselling is defined as a collaborative process in which the counsellor or psychologist facilitates the expansion of the student&rsquo;s view of life, enlarges his repertoire of coping resources and enables him to make choices for change in himself, the situation and the environment, without destructive consequences to self or others.</p>
 <p>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers. If the intervention is unsuccessful or for cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school. Students requiring more intense intervention are referred to MOE Guidance Specialists or professional agencies, such as the Child Guidance Clinic.</p>
@@ -63,7 +62,9 @@ third_nav_title: Students
 </ul>
 </div>
 </div>
-<div><strong><u>Other Useful Helplines:</u></strong></div>
+
+
+<strong><u>Other Useful Helplines:</u></strong>
 <div>&nbsp;</div>
 <table>
 <tbody>
