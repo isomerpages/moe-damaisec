@@ -4,13 +4,18 @@ permalink: /our-curriculum/academic-programmes/english-language-n-literature/
 description: ""
 third_nav_title: Academic Programmes
 ---
+<div>
+<p><strong><u>Department Focus</u></strong></p>
+</div>
 The English Language and Literature department strives to inculcate a love and appreciation for the language as well as develop effective and affective language use in our students. We equip our students with the language confidence and communicative competence to become empathetic communicators, discerning readers and creative inquirers who are ready to take on the challenges of the 21st century. 
 
 The incorporation of authentic resources, performance tasks and novel activities such as choral reading, poetry-writing, dramatisation and national seminar into our curriculum highlights our deep commitment to raise our students’ attainment level and make learning a joy for them. 
 
 _“To learn a language is to have one more window from which to look at the world.”_
 
-**Curriculum**  
+<div>
+<p><strong><u>Curriculum</u></strong></p>
+</div>
 
 The English Language and Literature department adopts two approaches to provide our students with language learning experience which is engaging and purposeful:   
 
@@ -22,7 +27,9 @@ The department is guided by the principles and teaching processes of the English
 *   Assessment of Learning
 *   Assessment for Learning
 
-**Syllabus Links** 
+<div>
+<p><strong><u>Syllabus Links</u></strong></p>
+</div>
 
 **English**
 
@@ -35,8 +42,9 @@ The department is guided by the principles and teaching processes of the English
 
 *   [Literature](/files/Assessment%20Syllabus%20for%20Damai%20Secondary%20Lower%20Secondary%20Literature.pdf)
 
-**Highlights**
-
+<div>
+<p><strong><u>Highlights</u></strong></p>
+</div>
   
 
 **A Day in Court Student Seminar 2022**
