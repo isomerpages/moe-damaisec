@@ -25,21 +25,24 @@ Members learn how to express themselves through various dance movements and in s
 
 
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-amwm">Singapore Youth Arts Presentation - Certificate of Accomplishment (2021)</td>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Accomplishment (2021)</span></th>
   </tr>
 </thead>
 </table>
+
+
 <img src="/images/md1.png">
 <p style="text-align: center;"><strong><em>Snippets of Dance Training during CCA Sessions</em></strong></p>
 
