@@ -46,7 +46,7 @@ third_nav_title: Students
 <p>&nbsp;<strong><a href="/files/S3%20NA.pdf">Secondary 3 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p><a href="/files/S3%20NT.pdf"><strong>Secondary 3 Normal Technical 2023 Textbook List&nbsp;</strong></a></p>
+<p>&nbsp;<strong><a href="/files/S3%20NT.pdf">Secondary 3 Normal Technical 2023 Textbook List&nbsp;</a></strong></p>
 </td>
 </tr>
 </tbody>
