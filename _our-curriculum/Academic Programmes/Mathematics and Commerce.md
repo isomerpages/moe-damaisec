@@ -4,7 +4,9 @@ permalink: /our-curriculum/academic-programmes/mathematics-and-commerce/
 description: ""
 third_nav_title: Academic Programmes
 ---
-**Department Focus**  
+<div>
+<p><strong><u>Department Focus</u></strong></p>
+</div>
 
 “Every child is a self-directed learner and creative problem solver.”  
  –vision of Mathematics department.
@@ -23,7 +25,9 @@ Subjects under Mathematics department: Mathematics, Principles of Accounts (POA)
 
   
 
-**Curriculum**
+<div>
+<p><strong><u>Curriculum</u></strong></p>
+</div>
 
 **Mathematics**  
 
@@ -67,7 +71,9 @@ In a nutshell, the learning objectives of the subject encapsulate the basic reta
 
   
 
-**Syllabus Links**
+<div>
+<p><strong><u>Syllabus Links</u></strong></p>
+</div>
 
 **Mathematics**  
 
@@ -90,13 +96,11 @@ In a nutshell, the learning objectives of the subject encapsulate the basic reta
 *   [Retail Operations](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/a301_y20_sy.pdf)
 
 
-**Signature Programmes**
-
-**
+<div>
+<p><strong><u>Signature Programmes</u></strong></p>
+</div>
 
 **Mathematics**
-
-**
 
 As a department, we had organised various signature programmes to engage our students at the different academic levels. This is to make learning of Mathematics fun and engaging so that students can apply their Mathematical concepts and skills learnt during curriculum lessons outside classrooms in their everyday lives. 
 
@@ -112,4 +116,3 @@ For normal academic curriculum, we adopt different modes of teaching to suit stu
      style="width:75%">
 <img src="/images/math-3.png" 
      style="width:75%">
-		 
