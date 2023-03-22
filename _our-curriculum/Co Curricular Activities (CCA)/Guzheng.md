@@ -14,23 +14,7 @@ third_nav_title: Co Curricular Activities (CCA)
   </tr>
 </thead>
 </table>
-<p><strong>CCA Schedule</strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="162">Day</td>
-<td style="text-align: center;" width="462">Monday and Thursday</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="162">Time</td>
-<td style="text-align: center;" width="462">3 PM &ndash; 6 PM</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="162">Venue</td>
-<td style="text-align: center;" width="462">Humanities Room Level 4</td>
-</tr>
-</tbody>
-</table>
+
 <p><strong>Teacher-in-charge:<br /></strong>Ms Marilyn Foo (IC)<br />Miss Sng Gek Hoon (2IC)</p>
 <p><strong>Instructor<br /></strong>Mdm Peng Fang&nbsp;</p>
 <p><strong>Signature Programmes&nbsp;</strong></p>
