@@ -4,9 +4,9 @@ permalink: /our-curriculum/academic-programmes/computing/
 description: ""
 third_nav_title: Academic Programmes
 ---
-**Department Focus**  
-
-  
+<div>
+<p><strong><u>Department Focus</u></strong></p>
+</div>  
 
 The Computing Department aims to develop **_Future-Ready_** and **_Responsible Digital Learners_** who are equipped with skills in using a variety of application software such as MS Word and PowerPoint to accomplish tasks and to communicate ideas. During Computer Applications (CPA) lessons, students also learn computation thinking and problem-solving skills and to be self-directed in their learning through the use of instructional videos.
 
@@ -20,7 +20,9 @@ Teachers employ a range of instructional strategies to meet the learning needs o
 
 Computer Applications (CPA) aims to prepare our Normal (Technical) students to be technologically adept citizens, who are able to function and contribute effectively in an increasingly technologically-driven world. We equip our students with foundational and crucial computer knowledge and skills to enable them to acquire the necessary 21st century skills to be future ready.
 
-**Curriculum**  
+<div>
+<p><strong><u>Curriculum</u></strong></p>
+</div>
 
 **Computer Applications (CPA) Curriculum**
 
@@ -28,12 +30,15 @@ The CPA lower secondary syllabus focuses on equipping students with fundamental 
 
 The CPA unit’s teaching and learning approach serves to promote self-directed learning in our students through the use of instructional videos during lessons. Besides using pen and paper mode of assessment, the teachers will also use ICT tools to make assessment fun, engaging and meaningful to our students.
 
-**Syllabus Link**
-
+<div>
 <p><strong><u>Syllabus Link</u></strong></p>
+</div>
+
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/7018_y20_sy.pdf">GCE N Level CPA Paper 7018</a></p>
 
-**Signature Programme**
+<div>
+<p><strong><u>Signature Programme</u></strong></p>
+</div>
 
 **Engaging students through fostering the joy of learning with new dimensional experiences in Scratch 2.0**
 
@@ -41,7 +46,9 @@ Damai’s Computer Applications (CPA) team engages our CPA NT students with the
 
 <img src="/images/comp1.png">
 
-**Achievements**  
+<div>
+<p><strong><u>Achievements</u></strong></p>
+</div>  
 
 **Animation and Game-Making (AGM) Competition**  
 
