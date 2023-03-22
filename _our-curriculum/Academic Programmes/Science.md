@@ -1,10 +1,9 @@
 ---
 title: Science
-permalink: /our-curriculum/academic-programmes/science
+permalink: /our-curriculum/academic-programmes/science/
 description: ""
 third_nav_title: Academic Programmes
 ---
-<p><strong><u>Our People</u></strong></p>
 <p><strong><u>Department Focus<br /></u></strong>The Science department supports the school vision to achieve a meaningful and purposeful life by delivering authentic and engaging lessons that students enjoy and can draw relevance to daily life.</p>
 <p>The curriculum aims to develop students&rsquo; confidence and competencies in science through authentic science programmes which include:</p>
 <div>
