@@ -25,6 +25,68 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Speech Day</li>
 </ul>
 <p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation 2021 - Distinction</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation 2019 - Distinction</span></th>
+  </tr>
+</thead>
+	
+	
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation 2017 - Distinction</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation 2015 - Distinction</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival 2013 - Gold</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival 2011 - Gold</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival 2009 - Gold</span></th>
+  </tr>
+</thead>
+
+<thead>
+  <tr>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival 2007 - Gold</span></th>
+  </tr>
+</thead>
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
