@@ -12,14 +12,18 @@ third_nav_title: Students
 <td style="text-align: center;" width="209">
 <p><strong><a href="/files/S1%20EXP.pdf">Secondary 1 Express 2023&nbsp;Textbook&nbsp;List</a></strong></p>
 </td>
+
 <td style="text-align: center;" width="209">
 <p><strong><a href="/files/S1%20NA.pdf">Secondary 1 Normal Academic&nbsp;2023 Textbook List</a></strong></p>
 </td>
+	
+
 <td style="text-align: center;" width="209">
 <p><strong><a href="/files/S1%20NT.pdff">Secondary 1 Normal Technical 2023 Textbook List</a></strong></td>
 </tr>
 </tbody>
 </table>
+
 <p><strong>Secondary 2</strong></p>
 <table width="0">
 <tbody>
@@ -30,12 +34,16 @@ third_nav_title: Students
 <td style="text-align: center;" width="209">
 <p>&nbsp;<strong>&nbsp;<a href="/files/S2%20NA.pdf">Secondary 2 Normal Academic 2023 Textbook List&nbsp;</a></strong></p>
 </td>
+
+	
 <td style="text-align: center;" width="209">
 <p>&nbsp;<strong><a href="/files/S2%20NT.pdf">Secondary 2 Normal Technical 2023 Textbook List</a>&nbsp;</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
+
+
 <p><strong>Secondary 3</strong></p>
 <table width="0">
 <tbody>
