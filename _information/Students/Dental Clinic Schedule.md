@@ -71,7 +71,7 @@ Dental Clinic no: 9237 9145
 </tbody>
 </table>
 
-Pupils, who require urgent dental treatment when the clinic is closed, PLEASE CALL the following dental clinics for appointment.
+Pupils who require urgent dental treatment when the clinic is closed, PLEASE CALL the following dental clinics for appointment.
 
 1.    Red Swastika Pr school dental clinic: 8940 9587
 
