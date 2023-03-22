@@ -30,24 +30,6 @@ third_nav_title: Co Curricular Activities (CCA)
     <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</span></th>
   </tr>
 </thead>
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-1wig">Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</td>
-  </tr>
-</thead>
 	</table>
 
 <figure>
