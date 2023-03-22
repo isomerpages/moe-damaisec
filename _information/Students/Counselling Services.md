@@ -66,15 +66,11 @@ third_nav_title: Students
 
 <strong><u>Other Useful Helplines:</u></strong>
 <div>&nbsp;</div>
+
+These are counselling hotlines and social work agencies that offer help to youths:
 <table>
 <tbody>
-<tr>
-<td colspan="2">
-<ul>
-<li>These are counselling hotlines and social work agencies that offer help to youths:</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>
 <ul>
