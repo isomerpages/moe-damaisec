@@ -170,7 +170,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Link To Education &amp; Career Guidance Website:<br /></strong><a href="https://www.myskillsfuture.gov.sg/secondary" target="_blank" rel="noopener">https://www.myskillsfuture.gov.sg/secondary </a></p>
+<p><strong>Link To Education &amp; Career Guidance Website:<br /></strong><a href="https://www.myskillsfuture.gov.sg/secondary" target="_blank" rel="noopener">www.myskillsfuture.gov.sg/secondary </a></p>
 <p><strong>Cyber Wellness Education @ Damai</strong></p>
 <p>Cyber Wellness refers to the positive well-being of internet users. It involves an understanding of the norms of appropriate, responsible behaviour with regard to technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other internet users in the cyber world. It looks into the positive physical and psychosocial well-being of students in their use of mobile and internet technologies. Cyber Wellness is hence, important as it looks into the positive well-being of students as they navigate the cyberspace.</p>
 <p><strong>Family Education @ Damai</strong></p>
