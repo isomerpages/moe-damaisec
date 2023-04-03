@@ -42,33 +42,30 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td style="text-align: center;">
-<div><strong>Excellent</strong></div>
-<div><strong>(2 Bonus Points)</strong></div>
+<p><strong>Excellent</strong><br><strong>(2 Bonus Points)</strong></p>
 </td>
-<td>Student who attains a minimum Level 3 in all four domains and<br>with at least a Level 4 in one domain.</td>
+<td><p>Student who attains a minimum Level 3 in all four domains and with at least a Level 4 in one domain.</p></td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<div><strong>Good</strong></div>
-<div><strong>(1 Bonus Point)</strong></div>
+<p><strong>Good</strong><br><strong>(1 Bonus Point)</strong></p>
 </td>
 <td>
-<div>Student who attains a minimum Level 1 in all four domains with any one of the following:</div>
-<div>
+<p>Student who attains a minimum Level 1 in all four domains with any one of the following:</p>
 <ul>
 <li>At least Level 2 in three domains;</li>
 <li>At least Level 2 in one domain and at least Level 3 in another domain</li>
 </ul>
-or<br>
+<p>or</p>
 <ul>
 <li>At least Level 4 in one domain</li>
 </ul>
-</div>
+
 </td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Fair</strong></td>
-<td>Student’s attainment in co-curricular will not translate into any bonus points.</td>
+<td style="text-align: center;"><p><strong>Fair</strong></p></td>
+	<td><p>Student’s attainment in co-curricular will not translate into any bonus points.</p></td>
 </tr>
 </tbody>
 </table>
