@@ -5,26 +5,30 @@ description: ""
 third_nav_title: Students
 ---
 <p>Please click the links below for the 2023 Booklist:</p>
-<p><br /><strong>Secondary 1</strong></p>
+<p><strong>Secondary 1</strong></p>
 <table width="0">
 <tbody>
 <tr>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/S1%20EXP.pdf">Secondary 1 Express 2023&nbsp;Textbook&nbsp;List</a></strong></p>
+
+<p><strong><a href="/files/S1%20EXP.pdf">Secondary 1 Express 2023 Textbook List</a></strong></p>
 </td>
 
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/S1%20NA.pdf">Secondary 1 Normal Academic&nbsp;2023 Textbook List</a></strong></p>
+<p><strong><a href="/files/S1%20NA.pdf">Secondary 1 Normal Academic 2023 Textbook List</a></strong></p>
 </td>
-</tr>
+
+<td style="text-align: center;" width="209">
+<p><strong><a href="/files/S1%20NT.pdff">Secondary 1 Normal Technical 2023 Textbook List</a></strong>
+</p></td></tr>
 </tbody>
 </table>
 
-<td style="text-align: center;" width="209">
-<p><strong><a href="/files/S1%20NT.pdff">Secondary 1 Normal Technical 2023 Textbook List</a></strong></td>
-</tr>
-</tbody>
-</table>
+
+
+
+
+
 
 <p><strong>Secondary 2</strong></p>
 <table width="0">
