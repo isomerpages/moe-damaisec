@@ -71,10 +71,10 @@ third_nav_title: Co Curricular Activities (CCA)
 </table>
 <p>More details of the LEAPS 2.0 system can be found on the MOE website&nbsp;<a href="https://damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/leaps-2-0-guide" target="_blank" rel="noopener">here</a>.</p>
 <p><strong>Our School's CCAs for 2022<br></strong>Damai Secondary School currently offers the following CCAs:</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="1" style="border: 1px solid black; border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 25%;">
+<td style="border-right: 1px solid black; width: 25%;">
 <table>
 <tbody>
 <tr>
@@ -95,7 +95,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 </td>
-<td style="width: 25%;">
+<td style="border-right: 1px solid black; width: 25%;">
 <table>
 <tbody>
 <tr>
@@ -125,7 +125,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 </td>
-<td style="width: 25%;">
+<td style="border-right: 1px solid black; width: 25%;">
 <table>
 <tbody>
 <tr>
