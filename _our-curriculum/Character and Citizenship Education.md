@@ -85,27 +85,27 @@ description: ""
 <p><strong>Education and Career Guidance @ Damai</strong></p>
 <p>The approach to ECG at Damai is guided by a developmental framework which highlights ECG as a process that takes over one’s life span. Damai’s ECG programme reflects the school motto: Aspire, Explore, Achieve.</p>
 <p>The table below summarizes ECG @Damai:</p>
-<table style="border-style: solid;">
+<table style="border: 1px solid black; border-collapse: collapse;">
 <tbody>
 <tr>
-<td style="text-align: center;" width="52">
+<td style="border-right: 1px solid black; text-align: center;" width="52">
 <p><strong>Level</strong></p>
 </td>
-<td style="text-align: center;" width="180">
+<td style="border-right: 1px solid black; text-align: center;" width="180">
 <p><strong>Key Emphasis &amp; Questions</strong></p>
 </td>
-<td style="text-align: center;" width="277">
+<td style="border-right: 1px solid black; text-align: center;" width="277">
 <p><strong>Key Programme</strong></p>
 </td>
-<td style="text-align: center;" width="114">
+<td style="border-right: 1px solid black; text-align: center;" width="114">
 <p><strong>School Outcome</strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="52">
+<td style="border-right: 1px solid black; text-align: center;" width="52">
 <p>Sec 1</p>
 </td>
-<td style="text-align: center;" width="180">
+<td style="border-right: 1px solid black; text-align: center;" width="180">
 <p><strong>Being Aware:<br></strong>Who Am I?</p>
 <p><br><strong>Explore:</strong><br>Where Am I Going?</p>
 </td>
@@ -115,15 +115,15 @@ description: ""
 <li>Sharing on Careers in the World by parents/alumni/other stakeholders</li>
 </ul>
 </td>
-<td rowspan="4" width="114">
+<td rowspan="4" width="114" style="border-left: 1px solid black;">
 <p style="text-align: center;">A Purposeful and Meaningful Life</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="52">
+<td style="border-right: 1px solid black; text-align: center;" width="52">
 <p>Sec 2</p>
 </td>
-<td style="text-align: center;" rowspan="2" width="180">
+<td style="border-right: 1px solid black; text-align: center;" rowspan="2" width="180">
 <p><strong>Explore:</strong><br>Where Am I Going?</p>
 <p><br><strong>Aspire and Plan:</strong><br>How Do I Get There?</p>
 </td>
@@ -137,7 +137,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="52">
+<td style="border-right: 1px solid black; text-align: center;" width="52">
 <p>Sec 3</p>
 </td>
 <td width="277">
@@ -150,10 +150,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="52">
+<td style="border-right: 1px solid black; text-align: center;" width="52">
 <p>Sec 4/5</p>
 </td>
-<td style="text-align: center;" width="180">
+<td style="border-right: 1px solid black; text-align: center;" width="180">
 <p><strong>Aspire and Take Action:</strong><br>How Do I Get There?</p>
 </td>
 <td width="277">
