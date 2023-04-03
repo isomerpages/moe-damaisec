@@ -9,11 +9,11 @@ third_nav_title: Parents
 
 You are strongly encouraged to make payments for school fees through electronic payments.
 
-You can apply for GIRO arrangement from [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro) or make payments via SG QR on the bill, SingPost Website, SAM Mobile App or SAM Kiosk at various locations.
+You can apply for GIRO arrangement from&nbsp;[https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)&nbsp;or make payments via SG QR on the bill, SingPost Website, SAM Mobile App or SAM Kiosk at various locations.
 
 Alternatively, you can make cash/cheque payments at the school’s General Office.
 
-More information can be found at [https://www.moe.gov.sg/financial-matters/fees](https://www.moe.gov.sg/financial-matters/fees).
+More information can be found at&nbsp;[https://www.moe.gov.sg/financial-matters/fees](https://www.moe.gov.sg/financial-matters/fees).
 
   
 
@@ -60,17 +60,14 @@ Singapore Citizens in financial need can get assistance on school fees and other
 </tbody>
 </table>
 
-**Home Access Programme**  
+**DigitalAccess@Home Scheme**  
 
-Home Access Programme provides 2 years of subsidised broadband to low-income households.
+DigitalAccess@Home scheme provides subsidised broadband and digital devices (laptop or tablet) to low-income Singaporean households to strength digital inclusion. 
 
-For low-income families with school-going children or households with MOE FAS recipients, who have a Personal Learning Device (PLD) or PC, but do not have broadband at home, can consider applying for Home Access Programme. 
+Eligible households can apply for the scheme and enjoy the flexibility to choose their device and broadband connectivity according to their needs.
 
-  
-
-Information and eligibility criteria can be found in the [Digital Access Programme](https://eservice.imda.gov.sg/das/homepage) website. 
-
-  
+Information and eligibility criteria can be found in the website, DigitalAccess@Home (www.digitalaccess.gov.sg).
+ 
 
 * * *
 
@@ -78,4 +75,4 @@ Information and eligibility criteria can be found in the [Digital Access Progra
 
 **The Straits Times School Pocket Money Fund (STSPMF)**  
 
-The Straits Times provides school pocket money to students from low-income families to help them with school-related expenses.  Information and eligibility criteria can be found in the [STSPMF](https://www.spmf.org.sg/primary-secondary-students) website. Application is open in August and application forms can be obtained from the General Office.
+The Straits Times provides school pocket money to students from low-income families to help them with school-related expenses.&nbsp; Information and eligibility criteria can be found in the&nbsp;[STSPMF](https://www.spmf.org.sg/primary-secondary-students)&nbsp;website. Application is open in August and application forms can be obtained from the General Office.
