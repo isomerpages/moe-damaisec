@@ -37,8 +37,8 @@ third_nav_title: Co Curricular Activities (CCA)
 <table style="border-style: solid;" border="1">
 <tbody>
 <tr>
-<th style="text-align: center;">Co-Curricular Attainment</th>
-<th style="text-align: center;">Details</th>
+<th style="text-align: center;"><p>Co-Curricular Attainment</p></th>
+<th style="text-align: center;"><p>Details</p></th>
 </tr>
 <tr>
 <td style="text-align: center;">
