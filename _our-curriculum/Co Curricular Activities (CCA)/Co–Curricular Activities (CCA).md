@@ -30,9 +30,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <ul>
 <li>inform the teachers-in-charge if they need to be excused from a CCA session due to medical or other valid reasons.&nbsp;</li>
 </ul>
-<p><strong>Recognition of Students&rsquo; Level of Attainment under LEAPS 2.0</strong></p>
-<p>At the end of the graduating year, students&rsquo; co-curricular attainment will be marked as Excellent/Good/Fair.</p>
-<p>CCA points are allocated based on a student&rsquo;s&nbsp;<strong>P</strong>articipation,&nbsp;<strong>S</strong>ervice,&nbsp;<strong>L</strong>eadership and&nbsp;<strong>A</strong>chievement as outlined in LEAPS 2.0.&nbsp;</p>
+<p><strong>Recognition of Students’ Level of Attainment under LEAPS 2.0</strong></p>
+<p>At the end of the graduating year, students’ co-curricular attainment will be marked as Excellent/Good/Fair.</p>
+<p>CCA points are allocated based on a student’s&nbsp;<strong>P</strong>articipation,&nbsp;<strong>S</strong>ervice,&nbsp;<strong>L</strong>eadership and&nbsp;<strong>A</strong>chievement as outlined in LEAPS 2.0.&nbsp;</p>
 <p>The level of attainment will be converted to bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education.</p>
 <table style="border-style: solid;" border="1">
 <tbody>
@@ -45,7 +45,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <div><strong>Excellent</strong></div>
 <div><strong>(2 Bonus Points)</strong></div>
 </td>
-<td>Student who attains a minimum Level 3 in all four domains and<br />with at least a Level 4 in one domain.</td>
+<td>Student who attains a minimum Level 3 in all four domains and<br>with at least a Level 4 in one domain.</td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -59,7 +59,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>At least Level 2 in three domains;</li>
 <li>At least Level 2 in one domain and at least Level 3 in another domain</li>
 </ul>
-or<br />
+or<br>
 <ul>
 <li>At least Level 4 in one domain</li>
 </ul>
@@ -68,62 +68,94 @@ or<br />
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Fair</strong></td>
-<td>Student&rsquo;s attainment in co-curricular will not translate into any bonus points.</td>
+<td>Student’s attainment in co-curricular will not translate into any bonus points.</td>
 </tr>
 </tbody>
 </table>
 <p>More details of the LEAPS 2.0 system can be found on the MOE website&nbsp;<a href="https://damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/leaps-2-0-guide" target="_blank" rel="noopener">here</a>.</p>
-<p><strong>Our School's CCAs for 2022<br /></strong>Damai Secondary School currently offers the following CCAs:</p>
-<table style="border-style: solid;">
+<p><strong>Our School's CCAs for 2022<br></strong>Damai Secondary School currently offers the following CCAs:</p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<th style="width: 82px; text-align: center;">Sports &amp; Games&nbsp;</th>
-<th style="width: 88px; text-align: center;">Visual &amp; Performing Arts&nbsp;</th>
-<th style="width: 121px; text-align: center;">Uniformed Groups</th>
-<th style="width: 113px; text-align: center;">Clubs &amp; Societies</th>
+<td style="width: 25%;">
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Sports &amp; Games&nbsp;</th>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">Canoeing (Girls)</td>
-<td style="width: 88px; text-align: center;">Choir</td>
-<td style="width: 121px; text-align: center;">Girl Guides</td>
-<td style="width: 113px; text-align: center;">Info - Communication Club</td>
+<td style="text-align: center;">Canoeing (Girls)</td>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">Dragonboat (Boys)</td>
-<td style="width: 88px; text-align: center;">Drama</td>
-<td style="width: 121px; text-align: center;">National Cadet Corps (Land) (Boys)</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Dragonboat (Boys)</td>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">Netball (Girls)</td>
-<td style="width: 88px; text-align: center;">Ethnic Dance</td>
-<td style="width: 121px; text-align: center;">National Police Cadet Corps (NPCC)</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Netball (Girls)</td>
 </tr>
 <tr>
-<td style="width: 82px; text-align: center;">Rugby (Boys)</td>
-<td style="width: 88px; text-align: center;">Guzheng</td>
-<td style="width: 121px; text-align: center;">&nbsp;</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 82px; text-align: center;">&nbsp;</td>
-<td style="width: 88px; text-align: center;">Modern Dance</td>
-<td style="width: 121px; text-align: center;">&nbsp;</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 82px; text-align: center;">&nbsp;</td>
-<td style="width: 88px; text-align: center;">Symphonic Band</td>
-<td style="width: 121px; text-align: center;">&nbsp;</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 82px; text-align: center;">&nbsp;</td>
-<td style="width: 88px; text-align: center;">Art Club</td>
-<td style="width: 121px; text-align: center;">&nbsp;</td>
-<td style="width: 113px; text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Rugby (Boys)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://damaisec.moe.edu.sg/pix/spacer.gif" width="16" /></div>
+</td>
+<td style="width: 25%;">
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Visual &amp; Performing Arts&nbsp;</th>
+</tr>
+<tr>
+<td style="text-align: center;">Choir&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Drama</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ethnic Dance</td>
+</tr>
+<tr>
+<td style="text-align: center;">Guzheng&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Modern Dance</td>
+</tr>
+<tr>
+<td style="text-align: center;">Symphonic Band</td>
+</tr>
+<tr>
+<td style="text-align: center;">Art Club</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%;">
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Uniformed Groups</th>
+</tr>
+<tr>
+<td style="text-align: center;">Girl Guides</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Cadet Corps (Land) (Boys)</td>
+</tr>
+<tr>
+<td style="text-align: center;">National Police Cadet Corps (NPCC)</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%;"><table>
+<tbody>
+<tr>
+<th style="text-align: center;">Clubs &amp; Societies</th>
+</tr>
+<tr>
+<td style="text-align: center;">Info - Communication Club</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
