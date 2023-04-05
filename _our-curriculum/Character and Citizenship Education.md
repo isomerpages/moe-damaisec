@@ -7,33 +7,34 @@ description: ""
 <p>Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. CCE 2021 provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. Important aspects of CCE, such as National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), are integrated within a school-wide approach. This is essential for students to internalize the necessary values, attitudes, and competencies to become self-directed learners, confident people, active contributors, and concerned citizens, which are the desired outcomes of education.</p>
 <p>The school provides rich learning platforms and opportunities for students to be equipped with the knowledge, moral and civic values, skills and dispositions to understand who they are and who they can become. Through a variety of learning activities within and beyond the classroom, students experience being part of something larger than themselves and become cognizant of their roles and responsibilities in their families, communities, the nation, and beyond.</p>
 <p>3 overarching big ideas of Identity, Relationships and Choices are the core concepts in these lessons to enable students to develop key understanding of the issues.</p>
+
 <table style="border: 1px solid black; border-collapse: collapse;">
 <tbody>
 <tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
+<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
 <p><strong>3 Big Ideas:</strong></p>
 <p><strong>Conceptual Core of CCE</strong></p>
 </td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px;">
+<td style="border-right: 1px solid black; text-align: center; width: 110px;border-bottom: 1px solid black;">
 <p><strong>Key Questions</strong></p>
 </td>
-<td style="border-right: 1px solid black; text-align: center; width: 162px;">
+<td style="border-right: 1px solid black; text-align: center; width: 162px;border-bottom: 1px solid black;">
 <p><strong>CCE Curriculum Content Areas</strong></p>
 </td>
-<td style="border-right: 1px solid black; text-align: center; width: 271px;">
+<td style="border-bottom: 1px solid black; text-align: center; width: 271px; border-bottom: 1px solid black;">
 <p><strong>Student Development Experiences (SDEs)</strong></p>
 </td>
 </tr>
 <tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
+<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
 <p>Identity</p>
 </td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px;">
+<td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
 <p><em>Who am I?</em></p>
 <p><em>Who do I want to be?</em></p>
 <p><em>What does my best self look like?</em></p>
 </td>
-<td rowspan="3" style="border-right: 1px solid black; width: 162px;">
+<td rowspan="3" style="border-right: 1px solid black; width: 162px; border-bottom: 1px solid black;">
 <p>National Education (NE)</p>
 <p>Sexuality Education (SEd)</p>
 <p>Mental Health (MH)</p>
@@ -41,7 +42,7 @@ description: ""
 <p>Cyber Wellness (CW)</p>
 <p>Family Education (FE)</p>
 </td>
-<td rowspan="3" style="border-right: 1px solid black; width: 271px;">
+<td rowspan="3" style="border-bottom: 1px solid black; width: 271px;">
 <ul>
 <li>Co-Curricular Activities (CCA)</li>
 <li>Cohort Learning Journeys (LJs)</li>
@@ -55,10 +56,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
+<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
 <p>Relationships</p>
 </td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px;">
+<td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
 <p><em>How do I relate to myself,</em></p>
 <p><em>others and the world around me?</em></p>
 </td>
@@ -75,6 +76,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+
 <p><strong>National Education Events @ Damai</strong></p>
 <p>National Education inculcates values in students and a sense of appreciation and belonging to the nation. Damai Secondary School seeks to create an experiential learning for students to cultivate emotional rootedness and active citizenry in Singapore through the four NE commemorative events – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. These events are important reminders aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
 <p><strong>Sexuality Education @ Damai</strong></p>
