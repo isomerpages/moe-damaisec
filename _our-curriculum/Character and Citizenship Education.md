@@ -9,72 +9,142 @@ description: ""
 <p>3 overarching big ideas of Identity, Relationships and Choices are the core concepts in these lessons to enable students to develop key understanding of the issues.</p>
 
 <table style="border: 1px solid black; border-collapse: collapse;">
-<tbody>
-<tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
-<p><strong>3 Big Ideas:</strong></p>
-<p><strong>Conceptual Core of CCE</strong></p>
-</td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px;border-bottom: 1px solid black;">
-<p><strong>Key Questions</strong></p>
-</td>
-<td style="border-right: 1px solid black; text-align: center; width: 162px;border-bottom: 1px solid black;">
-<p><strong>CCE Curriculum Content Areas</strong></p>
-</td>
-<td style="border-bottom: 1px solid black; text-align: center; width: 271px; border-bottom: 1px solid black;">
-<p><strong>Student Development Experiences (SDEs)</strong></p>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
-<p>Identity</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
-<p><em>Who am I?</em></p>
-<p><em>Who do I want to be?</em></p>
-<p><em>What does my best self look like?</em></p>
-</td>
-<td rowspan="3" style="border-right: 1px solid black; width: 162px; border-bottom: 1px solid black;">
-<p>National Education (NE)</p>
-<p>Sexuality Education (SEd)</p>
-<p>Mental Health (MH)</p>
-<p>Education and Career Guidance (ECG)</p>
-<p>Cyber Wellness (CW)</p>
-<p>Family Education (FE)</p>
-</td>
-<td rowspan="3" style="border-bottom: 1px solid black; width: 271px;">
-<ul>
-<li>Co-Curricular Activities (CCA)</li>
-<li>Cohort Learning Journeys (LJs)</li>
-<li>Education and Career Guidance (ECG) Experiences</li>
-<li>National Education (NE) Commemorative Days</li>
-<li>NRIC Presentation Ceremony</li>
-<li>Outdoor Adventure Learning (OAL) Cohort Camps</li>
-<li>Student Leadership Development (SLD) Programmes</li>
-<li>Values in Action (VIA)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
-<p>Relationships</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
-<p><em>How do I relate to myself,</em></p>
-<p><em>others and the world around me?</em></p>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
-<p>Choices</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center; width: 110px;">
-<p><em>How do I choose to be?</em></p>
-<p><em>How do I choose to act?</em></p>
-<p><em>What kind of future do I want?</em></p>
-</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p><strong>3 Big Ideas:</strong></p>
+        <p><strong>Conceptual Core of CCE</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px;border-bottom: 1px solid black;">
+        <p><strong>Key Questions</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 162px;border-bottom: 1px solid black;">
+        <p><strong>CCE Curriculum Content Areas</strong></p>
+      </td>
+      <td style="border-bottom: 1px solid black; text-align: center; width: 271px; border-bottom: 1px solid black;">
+        <p><strong>Student Development Experiences (SDEs)</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p>Identity</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
+        <p><em>Who am I?</em></p>
+        <p><em>Who do I want to be?</em></p>
+        <p><em>What does my best self look like?</em></p>
+      </td>
+      <td rowspan="3" style="border-right: 1px solid black; width: 162px; border-bottom: 1px solid black;">
+        <p>National Education (NE)</p>
+        <p>Sexuality Education (SEd)</p>
+        <p>Mental Health (MH)</p>
+        <p>Education and Career Guidance (ECG)</p>
+        <p>Cyber Wellness (CW)</p>
+        <p>Family Education (FE)</p>
+      </td>
+      <td rowspan="3" style="border-bottom: 1px solid black; width: 271px;">
+        <ul>
+          <li>Co-Curricular Activities (CCA)</li>
+          <li>Cohort Learning Journeys (LJs)</li>
+          <li>Education and Career Guidance (ECG) Experiences</li>
+          <li>National Education (NE) Commemorative Days</li>
+          <li>NRIC Presentation Ceremony</li>
+          <li>Outdoor Adventure Learning (OAL) Cohort Camps</li>
+          <li>Student Leadership Development (SLD) Programmes</li>
+          <li>Values in Action (VIA)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p>Relationships</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
+        <p><em>How do I relate to myself,</em></p>
+        <p><em>others and the world around me?</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
+        <p>Choices</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px;">
+        <p><em>How do I choose to be?</em></p>
+        <p><em>How do I choose to act?</em></p>
+        <p><em>What kind of future do I want?</em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table style="border: 1px solid black; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p><strong>3 Big Ideas:</strong></p>
+        <p><strong>Conceptual Core of CCE</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px;border-bottom: 1px solid black;">
+        <p><strong>Key Questions</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 162px;border-bottom: 1px solid black;">
+        <p><strong>CCE Curriculum Content Areas</strong></p>
+      </td>
+      <td style="border-bottom: 1px solid black; text-align: center; width: 271px; border-bottom: 1px solid black;">
+        <p><strong>Student Development Experiences (SDEs)</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p>Identity</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
+        <p><em>Who am I?</em></p>
+        <p><em>Who do I want to be?</em></p>
+        <p><em>What does my best self look like?</em></p>
+      </td>
+      <td rowspan="3" style="border-right: 1px solid black; width: 162px; border-bottom: 1px solid black;">
+        <p>National Education (NE)</p>
+        <p>Sexuality Education (SEd)</p>
+        <p>Mental Health (MH)</p>
+        <p>Education and Career Guidance (ECG)</p>
+        <p>Cyber Wellness (CW)</p>
+        <p>Family Education (FE)</p>
+      </td>
+      <td rowspan="3" style="border-bottom: 1px solid black; width: 271px;">
+        <ul>
+          <li>Co-Curricular Activities (CCA)</li>
+          <li>Cohort Learning Journeys (LJs)</li>
+          <li>Education and Career Guidance (ECG) Experiences</li>
+          <li>National Education (NE) Commemorative Days</li>
+          <li>NRIC Presentation Ceremony</li>
+          <li>Outdoor Adventure Learning (OAL) Cohort Camps</li>
+          <li>Student Leadership Development (SLD) Programmes</li>
+          <li>Values in Action (VIA)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px; border-bottom: 1px solid black;">
+        <p>Relationships</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px; border-bottom: 1px solid black;">
+        <p><em>How do I relate to myself,</em></p>
+        <p><em>others and the world around me?</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; width: 92.7188px;">
+        <p>Choices</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; width: 110px;">
+        <p><em>How do I choose to be?</em></p>
+        <p><em>How do I choose to act?</em></p>
+        <p><em>What kind of future do I want?</em></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <p><strong>National Education Events @ Damai</strong></p>
