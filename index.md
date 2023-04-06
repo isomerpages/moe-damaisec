@@ -21,6 +21,5 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      title: A Purposeful and Meaningful Life
       background: /images/isomer banner 6.gif
 ---
