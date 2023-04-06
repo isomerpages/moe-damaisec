@@ -21,5 +21,5 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      background: /images/Banner/Website Banner Oct 2022 v2.png
+      background: /images/Banner/isomer banner 10.gif
 ---
