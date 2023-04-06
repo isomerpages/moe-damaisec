@@ -22,4 +22,5 @@ sections:
           description: ""
           url: https://vle.learning.moe.edu.sg/login
       title: A Purposeful and Meaningful Life
+      background: /images/Banner/isomer banner 5.gif
 ---
