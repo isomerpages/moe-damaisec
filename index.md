@@ -24,6 +24,9 @@ sections:
           url: https://vle.learning.moe.edu.sg/login
       title: A Purposeful and Meaningful Life
   - infobar:
-      title: Announcements
-      description: This is an announcement.
+      title: Semester 2 Schedule for Assessments
+      description: Click the link to view and download the Semester 2 Schedule for
+        Assessments.
+      button: Link
+      url: /information/students/assessment-matters
 ---
