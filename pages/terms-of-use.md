@@ -10,13 +10,13 @@ Thank you for visiting damaisec.moe.edu.sg. By accessing and using this website,
 
 **Proprietary Rights**
 
-2\. This website is maintained by MCI - the Ministry of Communications and Information.
+2\. This website is maintained by Damai Secondary School.
 
-3\. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MCI.
+3\. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Damai Secondary School.
 
 **Privacy Policy**
 
-4\. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
+4\. Click here to review this website [Privacy Statement](https://www.damaisec.moe.edu.sg/privacy/).
 
 **Restrictions on use of Materials**
 
