@@ -2,36 +2,24 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-1. This is Damai Secondary School website.  
-      
-2.  We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.  
-      
+1\.  This is the Damai Secondary Secondary School website. Thank you for examining our privacy statement.
     
-3.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
-      
+2\.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
     
-4.  If you provide us with personally identifiable data:
-    *   We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.
-    *   We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
-    *   For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
-5.  To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
-      
+3\.  If you choose to make an application or send us an e-email for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services. 
     
-6.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.  
-      
+4\.  For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
     
-7.  Please submit a form via our&nbsp;[feedback channel](https://form.gov.sg/#!/5abc7befcd62d10030f7e223)&nbsp;if you:
-    *   have any enquires or feedback on our data protection policies and procedures,
-    *   need more information on or access to data which you have provided to us in the past.
+5\.  To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
+    
+6\.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
+    
+7\.  Please contact damai_ss@moe.edu.sg if you:
+    
 
+(a) have any enquires or feedback on our data protection policies and procedures,
 
+(b) need more information on or access to data which you have earlier provided to us.
 
-<p><strong>Privacy Statement</strong></p>
-<ol>
-<li>This is a Damai Secondary School website. Thank you for examining our privacy statement.</li>
-<li>If you are only browsing this website, we do not capture data that allows us to identify you individually.&nbsp;</li>
-<li>If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.&nbsp;</li>
-<li>For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
-</li><li>To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</li>
-<li>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.&nbsp;</li>
-</ol>
+**Personal Data Protection Act (PDPA)**  
+Photograph(s) or video image(s) of students and parents may be taken during school activities and events such as classroom lessons , CCA, school camps,  school concerts. The school may use and publish such photographs and/or video recordings in school publications, the school’s website, social media channels, and other communication channels.
