@@ -22,7 +22,7 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      subtitle: A Purposeful and Meaningful Life
+      title: A Purposeful and Meaningful Life
   - infobar:
       title: Announcements
       description: This is an announcement.
