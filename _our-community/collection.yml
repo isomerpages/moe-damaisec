@@ -1,0 +1,14 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Workshop on Love Languages.md
+      - Parent Support Group/Chaperon in learning journeys.md
+      - Parent Support Group/PSG Participating in Fitness Day Event.md
+      - Parent Support Group/Coffee Chat with Parents.md
+      - Parent Support Group/Parents Sharing Parenting Skills.md
+      - Parent Support Group/Parent Child Bonding Activities.md
+      - Parent Support Group/.keep
+      - Alumni.md

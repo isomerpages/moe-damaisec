@@ -1,0 +1,12 @@
+collections:
+  "2021":
+    output: true
+    order:
+      - 2021.md
+      - Chinese New Year Celebrations.md
+      - Hari Raya Aidilfitri Celebration.md
+      - National Day Celebration.md
+      - Racial Harmony Day.md
+      - Student Leaders’ Investiture.md
+      - Teachers' Day.md
+      - Total Defence Day.md
