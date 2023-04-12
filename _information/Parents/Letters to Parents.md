@@ -72,7 +72,7 @@ third_nav_title: Parents
 	<tbody>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://drive.google.com/file/d/1_5ZbwdRgrHzvb8feXA-R3RgaGh7lu5gG/view?usp=share_link"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/schedule of moe-nie motivation intervention programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">304 &amp; 305</span><br></td>
   </tr>
