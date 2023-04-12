@@ -38,8 +38,8 @@ third_nav_title: Parents
 </tr>
 	
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://drive.google.com/file/d/1SigVYECVrXtiRyh1Hs9_5hRBL89j2_kw/view?usp=sharing"><span style="text-decoration:none;color:#FAA156">Secondary 4 ECG Learning Journey to Nanyang Polytechnic</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 4 ecg learning journey to nanyang polytechnic.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4 ECG Learning Journey to Nanyang Polytechnic</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
 </tr>
 		
