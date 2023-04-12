@@ -82,95 +82,101 @@ description: ""
 <p>National Education inculcates values in students and a sense of appreciation and belonging to the nation. Damai Secondary School seeks to create an experiential learning for students to cultivate emotional rootedness and active citizenry in Singapore through the four NE commemorative events – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. These events are important reminders aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
 <p><strong>Sexuality Education @ Damai</strong></p>
 <p>Sexuality Education in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p><strong>Link To MOE Sexuality Education Website:<br></strong><a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education</a>&nbsp;</p>
+<p><strong>Link To MOE Sexuality Education Website:<br></strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education</a>&nbsp;</p>
 <p><strong>Mental Health Awareness @ Damai</strong></p>
 <p>With the increasing importance of mental health awareness and education, Damai Secondary School has engaged TOUCH to extend their mental health workshop to the students. In addition to the mental health lessons taught in school, they will reinforce what they have learnt through the engaging activities in the workshop.&nbsp;</p>
 <p><strong>Education and Career Guidance @ Damai</strong></p>
 <p>The approach to ECG at Damai is guided by a developmental framework which highlights ECG as a process that takes over one’s life span. Damai’s ECG programme reflects the school motto: Aspire, Explore, Achieve.</p>
 <p>The table below summarizes ECG @Damai:</p>
 <table style="border: 1px solid black; border-collapse: collapse;">
-<tbody>
-<tr>
-<td style="border-right: 1px solid black; text-align: center;" width="52">
-<p><strong>Level</strong></p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" width="180">
-<p><strong>Key Emphasis &amp; Questions</strong></p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" width="277">
-<p><strong>Key Programme</strong></p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" width="114">
-<p><strong>School Outcome</strong></p>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center;" width="52">
-<p>Sec 1</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" width="180">
-<p><strong>Being Aware:<br></strong>Who Am I?</p>
-<p><br><strong>Explore:</strong><br>Where Am I Going?</p>
-</td>
-<td width="277">
-<ul>
-<li>&nbsp;ECG Lessons to raise awareness on interests, abilities, skills, values, post-secondary options &amp; career aspirations</li>
-<li>Sharing on Careers in the World by parents/alumni/other stakeholders</li>
-</ul>
-</td>
-<td rowspan="4" width="114" style="border-left: 1px solid black;">
-<p style="text-align: center;">A Purposeful and Meaningful Life</p>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center;" width="52">
-<p>Sec 2</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" rowspan="2" width="180">
-<p><strong>Explore:</strong><br>Where Am I Going?</p>
-<p><br><strong>Aspire and Plan:</strong><br>How Do I Get There?</p>
-</td>
-<td width="277">
-<ul>
-<li>ECG Lessons to explore subject combination, post-secondary options and planning pathways</li>
-<li>&nbsp;Sharing on subject combination &amp; post-secondary options and career choices by institutes of higher learning</li>
-<li>Exposure at ITE (for Normal Technical)</li>
-<li>&nbsp;Elective Modules (for Normal Technical)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center;" width="52">
-<p>Sec 3</p>
-</td>
-<td width="277">
-<ul>
-<li>&nbsp;ECG Lessons to explore career skills &amp; values and plan post-secondary options</li>
-<li>Talk on PFP/DPP by institutes of higher learning</li>
-<li>&nbsp;Polytechnic course attachments &amp; Job Attachment Programme</li>
-<li>&nbsp;Elective Modules (Normal Academic &amp; Technical)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="border-right: 1px solid black; text-align: center;" width="52">
-<p>Sec 4/5</p>
-</td>
-<td style="border-right: 1px solid black; text-align: center;" width="180">
-<p><strong>Aspire and Take Action:</strong><br>How Do I Get There?</p>
-</td>
-<td width="277">
-<ul>
-<li>ECG Lessons to reinforce educational &amp; career pathways &amp; make informed decisions</li>
-<li>Talk on JAE/JIE by higher institutes of learning</li>
-<li>Course advising and experience by institutes of higher learning</li>
-<li>Career Fair / Open House Visit</li>
-<li>Workshop on EAE Writing</li>
-<li>Elective Module (Normal Academic &amp; Technical)</li>
-</ul>
-</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="52">
+        <p><strong>Level</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="180">
+        <p><strong>Key Emphasis &amp; Questions</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="277">
+        <p><strong>Key Programme</strong></p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="114">
+        <p><strong>School Outcome</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="52">
+        <p>Sec 1</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="180">
+        <p><strong>Being Aware:<br></strong>Who Am I?</p>
+        <p><br>
+        <strong>Explore:</strong><br>
+        Where Am I Going?</p>
+      </td>
+      <td style="border-right: 1px solid black; border-bottom: 1px solid black;" width="277">
+        <ul>
+          <li>&nbsp;ECG Lessons to raise awareness on interests, abilities, skills, values, post-secondary options &amp; career aspirations</li>
+          <li>Sharing on Careers in the World by parents/alumni/other stakeholders</li>
+        </ul>
+      </td>
+      <td rowspan="4" width="114" style="border-left: 1px solid black; border-bottom: 1px solid black;">
+        <p style="text-align: center;">A Purposeful and Meaningful Life</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="52">
+        <p>Sec 2</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" rowspan="2" width="180">
+        <p><strong>Explore:</strong><br>
+        Where Am I Going?</p>
+        <p><br>
+        <strong>Aspire and Plan:</strong><br>
+        How Do I Get There?</p>
+      </td>
+      <td style="border-right: 1px solid black; border-bottom: 1px solid black;" width="277">
+        <ul>
+          <li>ECG Lessons to explore subject combination, post-secondary options and planning pathways</li>
+          <li>&nbsp;Sharing on subject combination &amp; post-secondary options and career choices by institutes of higher learning</li>
+          <li>Exposure at ITE (for Normal Technical)</li>
+          <li>&nbsp;Elective Modules (for Normal Technical)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center; border-bottom: 1px solid black;" width="52">
+        <p>Sec 3</p>
+      </td>
+      <td style="border-bottom: 1px solid black;" width="277">
+        <ul>
+          <li>&nbsp;ECG Lessons to explore career skills &amp; values and plan post-secondary options</li>
+          <li>Talk on PFP/DPP by institutes of higher learning</li>
+          <li>&nbsp;Polytechnic course attachments &amp; Job Attachment Programme</li>
+          <li>&nbsp;Elective Modules (Normal Academic &amp; Technical)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-right: 1px solid black; text-align: center;" width="52">
+        <p>Sec 4/5</p>
+      </td>
+      <td style="border-right: 1px solid black; text-align: center;" width="180">
+        <p><strong>Aspire and Take Action:</strong><br>
+        How Do I Get There?</p>
+      </td>
+      <td width="277">
+        <ul>
+          <li>ECG Lessons to reinforce educational &amp; career pathways &amp; make informed decisions</li>
+          <li>Talk on JAE/JIE by higher institutes of learning</li>
+          <li>Course advising and experience by institutes of higher learning</li>
+          <li>Career Fair / Open House Visit</li>
+          <li>Workshop on EAE Writing</li>
+          <li>Elective Module (Normal Academic &amp; Technical)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 <p><strong>Link To Education &amp; Career Guidance Website:<br></strong><a href="https://www.myskillsfuture.gov.sg/secondary" target="_blank" rel="noopener">www.myskillsfuture.gov.sg/secondary </a></p>
 <p><strong>Cyber Wellness Education @ Damai</strong></p>

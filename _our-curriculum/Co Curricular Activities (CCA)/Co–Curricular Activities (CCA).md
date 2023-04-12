@@ -34,23 +34,24 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>At the end of the graduating year, students’ co-curricular attainment will be marked as Excellent/Good/Fair.</p>
 <p>CCA points are allocated based on a student’s&nbsp;<strong>P</strong>articipation,&nbsp;<strong>S</strong>ervice,&nbsp;<strong>L</strong>eadership and&nbsp;<strong>A</strong>chievement as outlined in LEAPS 2.0.&nbsp;</p>
 <p>The level of attainment will be converted to bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education.</p>
-<table style="border-style: solid;" border="1">
+
+<table style="border-style: solid; border-collapse: collapse;" border="1">
 <tbody>
-<tr>
-<th style="text-align: center;"><p>Co-Curricular Attainment</p></th>
-<th style="text-align: center;"><p>Details</p></th>
+<tr style="border: 1px solid black;">
+<th style="text-align: center; border: 1px solid black;"><p>Co-Curricular Attainment</p></th>
+<th style="text-align: center; border: 1px solid black;"><p>Details</p></th>
 </tr>
-<tr>
-<td style="text-align: center;">
+<tr style="border: 1px solid black;">
+<td style="text-align: center; border: 1px solid black;">
 <p><strong>Excellent</strong><br><strong>(2 Bonus Points)</strong></p>
 </td>
-<td><p>Student who attains a minimum Level 3 in all four domains and with at least a Level 4 in one domain.</p></td>
+<td style="border: 1px solid black;"><p>Student who attains a minimum Level 3 in all four domains and with at least a Level 4 in one domain.</p></td>
 </tr>
-<tr>
-<td style="text-align: center;">
+<tr style="border: 1px solid black;">
+<td style="text-align: center; border: 1px solid black;">
 <p><strong>Good</strong><br><strong>(1 Bonus Point)</strong></p>
 </td>
-<td>
+<td style="border: 1px solid black;">
 <p>Student who attains a minimum Level 1 in all four domains with any one of the following:</p>
 <ul>
 <li>At least Level 2 in three domains;</li>
@@ -60,15 +61,16 @@ third_nav_title: Co Curricular Activities (CCA)
 <ul>
 <li>At least Level 4 in one domain</li>
 </ul>
-
 </td>
 </tr>
-<tr>
-<td style="text-align: center;"><p><strong>Fair</strong></p></td>
-	<td><p>Student’s attainment in co-curricular will not translate into any bonus points.</p></td>
+<tr style="border: 1px solid black;">
+<td style="text-align: center; border: 1px solid black;"><p><strong>Fair</strong></p></td>
+<td style="border: 1px solid black;"><p>Student’s attainment in co-curricular will not translate into any bonus points.</p></td>
 </tr>
 </tbody>
 </table>
+
+
 <p>More details of the LEAPS 2.0 system can be found on the MOE website&nbsp;<a href="https://damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/leaps-2-0-guide" target="_blank" rel="noopener">here</a>.</p>
 <p><strong>Our School's CCAs<br></strong>Damai Secondary School currently offers the following CCAs:</p>
 <table border="1" style="border: 1px solid black; border-collapse: collapse; width: 100%;">

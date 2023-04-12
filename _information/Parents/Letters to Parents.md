@@ -4,7 +4,7 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 1</strong></h4>
+<h4><strong>Term 2</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -25,6 +25,130 @@ third_nav_title: Parents
   </tr>
 </thead>
 <tbody>
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/cultural performance exposure scheme 2023.pdf"><span style="text-decoration:none;color:#FAA156">Cultural Performance Exposure Scheme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">12 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 &amp; 2 CL</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 2 student leadership workshop_26 april 2023 parents' letter_final.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 Student Leadership Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/19 april cohort learning journey to national museum.pdf"><span style="text-decoration:none;color:#FAA156">[19 April 2023] Cohort Learning Journey to National Museum of Singapore</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">204, 205 &amp; 206</span><br></td>
+  </tr>
+
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/18 april cohort learning journey to national museum.pdf"><span style="text-decoration:none;color:#FAA156">[18 April 2023] Cohort Learning Journey to National Museum of Singapore</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">201, 202 &amp; 203</span><br></td>
+  </tr>
+	
+	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/modular french_german pilot programme 2023.pdf"><span style="text-decoration:none;color:#FAA156">Modular French/German Pilot Programme 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 -  3</span><br></td>
+  </tr>
+	
+	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 mtl mid year exam.pdf"><span style="text-decoration:none;color:#FAA156">2023 Mid Year MTL Exam</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4E MTL</span><br></td>
+  </tr>
+	
+	
+	
+	
+	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/anger management (triple p level 2 webinars).pdf"><span style="text-decoration:none;color:#FAA156">Anger Management (Triple P Level 2 Webinars)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 el and mtl oral letter (us).pdf"><span style="text-decoration:none;color:#FAA156">Oral Examinations for Upper Secondary</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 - 5</span><br></td>
+  </tr>
+	
+	
+	
+
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+ 
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 s1 public speaking pg letter.pdf"><span style="text-decoration:none;color:#FAA156">Public Speaking Workshop for Secondary 1</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 </span><br></td>
+</tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 4 ecg learning journey to nanyang polytechnic.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4 ECG Learning Journey to Nanyang Polytechnic</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
+</tr>
+		
+		
+</tbody></table>
+
+
+
+
+<h4><strong>Term 1</strong></h4>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+	<tbody>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/schedule of moe-nie motivation intervention programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">304 &amp; 305</span><br></td>
+  </tr>
+		
+		
+		
+		
+		
   <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Integration%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Mar 2023</span></td>
