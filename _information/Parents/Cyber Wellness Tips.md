@@ -25,14 +25,14 @@ Students need to:</p>
 </ul>
 <p>(3) Positive Peer Influence<br>
 Students need to:</p>
-  <ul>
-    <li>be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).</li>
-    <li>advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).</li>
-  </ul>
-  <p><u><strong>MOE’S&nbsp;</strong><strong>Cyber-Wellness Education<br></strong></u>Cyber-wellness Education comprises&nbsp;</p>
-  <p>a) the CW lessons in the formal curriculum and&nbsp;<br>
-  b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
-  <p>Schools are guided by the CW framework to plan and implement CW education which are customised to the student profile and school environment.</p>
+<ul>
+  <li>be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).</li>
+  <li>advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).</li>
+</ul>
+<p><u><strong>MOE’S&nbsp;</strong><strong>Cyber-Wellness Education<br></strong></u>Cyber-wellness Education comprises&nbsp;</p>
+<p>a) the CW lessons in the formal curriculum and&nbsp;<br>
+b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
+<p>Schools are guided by the CW framework to plan and implement CW education which are customised to the student profile and school environment.</p>
 
 
 <img src="/images/cyber2.png">
