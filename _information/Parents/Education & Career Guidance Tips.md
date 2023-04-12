@@ -34,6 +34,6 @@ Your child can book an appointment with our ECG Counsellor through this link:
 <p><u><strong>Useful links and resources</strong></u></p>
 <p>MySkillsFuture:&nbsp;<a href="http://www.myskillsfuture.gov.sg/secondary" target="_blank" rel="noopener">www.myskillsfuture.gov.sg/secondary</a></p>
 <p>MOE Post-Secondary Education Brochure can be downloaded&nbsp;<a href="/files/post-secondary-brochure.pdf" target="_blank" rel="noopener">here</a>.</p>
-<p>MOE guide to ECG for parents:<br><a href="https://www.moe.gov.sg/ECG-parent-guide" target="_blank" rel="noopener">https://www.moe.gov.sg/ECG-parent-guide</a></p>
+<p>MOE guide to ECG for parents:<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" target="_blank" rel="noopener">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></p>
 <p>Additional information on ECG can be found on MOE’s website at: <a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/programmes/social-emotional-learning/education-career-guidance/&nbsp;</a></p>
 <p>You can also find out more about the various educational pathways for your child at <a href="http://www.moe.gov.sg/education/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/&nbsp;</a></p>
