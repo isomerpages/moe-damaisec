@@ -37,7 +37,7 @@ third_nav_title: Parents
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/18 april cohort learning journey to national museum.pdf"><span style="text-decoration:none;color:#FAA156">[18 April 2023] Cohort Learning Journey to National Museum of Singapore</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">201 &amp; 202</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">201, 202 &amp; 203</span><br></td>
   </tr>
 	
 	
