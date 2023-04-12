@@ -130,14 +130,14 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <p>With this app, parents can now be armed with the knowledge on-the-go and help educate their children to be responsible digital citizens and look out for possible online dangers. This app will allow parents to harness the potential of the cyber world and better connect with their children and help families grow closer with mutual understanding and respect.<br>The app can be downloaded free from App Store and Google play stores by mobile users in Singapore on any network.</p>
 <p><strong>Schoolbag Articles:</strong></p>
 <ul>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICTin Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" target="_blank" rel="noopener">Playsafe – Avoid online gaming addiction</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" target="_blank" rel="noopener">Safeguardingyour child online</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently" target="_blank" rel="noopener">ExploringOnline, Safely and Confidently</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" target="_blank" rel="noopener">Safeguarding your child online</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently" target="_blank" rel="noopener">Exploring Online, Safely and Confidently</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" target="_blank" rel="noopener">Parents,the Guardians of Internet Safety</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" target="_blank" rel="noopener">Guidefor Parents on Setting Parental Controls</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" target="_blank" rel="noopener">UnderstandingCyber Wellness</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigatingthe Cyber World Safely</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigating the Cyber World Safely</a></li>
 <li><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
 </ul>
 <p><strong>Weblinks:</strong></p>
@@ -149,7 +149,7 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <p><strong>Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
 <ul>
 <li><a href="/files/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child.pdf">[Parent Kit] Raising A Digitally Smart Child</a></li>
-<li><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/talking-to-your-child-about-internet-safety">Talking to Your Child on Internet Safety</a></li>
+
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
