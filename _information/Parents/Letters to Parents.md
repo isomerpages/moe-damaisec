@@ -27,6 +27,19 @@ third_nav_title: Parents
 <tbody>
 
 <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 2 student leadership workshop_26 april 2023 parents' letter_final.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 Student Leadership Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>	
+	
+	
+<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/19 april cohort learning journey to national museum.pdf"><span style="text-decoration:none;color:#FAA156">[19 April 2023] Cohort Learning Journey to National Museum of Singapore</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Apr 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">204, 205 &amp; 206</span><br></td>
