@@ -23,9 +23,8 @@ Students need to:</p>
   <li>have an understanding of the risks of harmful and illegal online behaviour, and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online).&nbsp;</li>
   <li>make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities).</li>
 </ul>
-<div>
-  (3) Positive Peer Influence<br>
-  Students need to:
+<p>(3) Positive Peer Influence<br>
+Students need to:</p>
   <ul>
     <li>be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).</li>
     <li>advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).</li>
@@ -34,7 +33,7 @@ Students need to:</p>
   <p>a) the CW lessons in the formal curriculum and&nbsp;<br>
   b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
   <p>Schools are guided by the CW framework to plan and implement CW education which are customised to the student profile and school environment.</p>
-</div>
+
 
 <img src="/images/cyber2.png">
 <p>The following time is dedicated to CW education:</p>
