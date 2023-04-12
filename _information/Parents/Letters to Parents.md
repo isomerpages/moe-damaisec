@@ -4,6 +4,39 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
+<h4><strong>Term 2</strong></h4>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Integration%20Programme.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected</span><br><span style="color:inherit;background-color:transparent">Sec 1 - 3</span><br></td>
+  </tr>
+  <tr>
+		
+</tr></tbody></table>
+
+
+
+
 <h4><strong>Term 1</strong></h4>
 
 <style type="text/css">
