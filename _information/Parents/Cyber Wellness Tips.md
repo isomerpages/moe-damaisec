@@ -32,7 +32,10 @@ Students need to:</p>
 <p><u><strong>MOE’S&nbsp;</strong><strong>Cyber-Wellness Education<br></strong></u>Cyber-wellness Education comprises&nbsp;</p>
 <p>a) the CW lessons in the formal curriculum and&nbsp;<br>
 b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
+
 <p>Schools are guided by the CW framework to plan and implement CW education which are customised to the student profile and school environment.</p>
+
+
 
 
 <img src="/images/cyber2.png">
