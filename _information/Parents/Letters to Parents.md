@@ -60,7 +60,7 @@ third_nav_title: Parents
 	<tbody>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="https://cms.isomer.gov.sg/sites/moe-damaisec/media/files/mediaDirectory/files%2FInformation%2FParents%20Letter%2F2023%2FTerm%201/editMediaSettings/schedule%20of%20moe-nie%20motivation%20intervention%20programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/mediaDirectory/files%2FInformation%2FParents%20Letter%2F2023%2FTerm%201/editMediaSettings/schedule%20of%20moe-nie%20motivation%20intervention%20programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">304 &amp; 305</span><br></td>
   </tr>
