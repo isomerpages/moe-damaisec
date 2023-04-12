@@ -11,18 +11,22 @@ third_nav_title: Parents
 </p><p>MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.</p>
 
 <p><strong><u>Principles</u></strong></p>
+
 <p>(1) Respect for Self and Others<br>
 Students need to:</p>
 <ul>
   <li>uphold their own dignity when online (e.g. share appropriate content and participate in only legal online activities)&nbsp;</li>
   <li>respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials).</li>
 </ul>
+
 <p>(2) Safe and Responsible Use<br>
 Students need to:</p>
 <ul>
   <li>have an understanding of the risks of harmful and illegal online behaviour, and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online).&nbsp;</li>
   <li>make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities).</li>
 </ul>
+
+
 <p>(3) Positive Peer Influence<br>
 Students need to:</p>
 <ul>
