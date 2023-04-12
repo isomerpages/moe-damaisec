@@ -160,8 +160,7 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <li><a href="/files/Resource%20Guide%20for%20Parents%20on%20CW_Bullying%20Hub.pdf">Resource Guide for Parents on CW_Bullying Hub</a></li>
 <li><a href="/files/Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf">Tip sheet for Parents-Excessive Internet Use</a></li>
 <li><a href="/files/Cyber%20Issues%20Handouts.pdf">Cyber Issues Handouts</a></li>
-<li><a href="/files/crushexplorer-familyagreement.pdf">crushexplorer-familyagreement</a></li>
-<li><a href="/files/Cyberwellness/Slides%20for%20Parents-Excessive%20Internet%20Use.pptx">Slides for Parents-Excessive Internet Use</a></li>
+
 <li><a href="/files/7-Conversation-Topics-November-2018.pdf">7-Conversation-Topics-November-2018</a>&nbsp;</li>
 <li><a href="/files/Youtube-Parents-Guide.pdf">Youtube-Parents-Guide</a></li>
 <li><a href="/files/WhatsApp-Parents-Guide.pdf">WhatsApp-Parents-Guide</a></li>
