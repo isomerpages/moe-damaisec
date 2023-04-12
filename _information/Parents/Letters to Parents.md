@@ -60,7 +60,7 @@ third_nav_title: Parents
 	<tbody>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="files/Information/Parents%2FLetter/Term%2F1/ schedule%20of%20moe-nie%20motivation%20intervention%20programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="files/Information/Parents%2FLetter/Term%2F1/schedule%20of%20moe-nie%20motivation%20intervention%20programme.pdf"><span style="text-decoration:none;color:#FAA156">Schedule of MOE-NIE Motivation Intervention Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">304 &amp; 305</span><br></td>
   </tr>
