@@ -33,10 +33,10 @@ Singapore Citizens in financial need can get assistance on school fees and other
 .tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
-    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">ype</span></th>
+		<th class="tg-f8vp"><span style="color:#666;background-color:#DDD"><p>Type</p></span></th>
     <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Eligibility Criteria</span></th>
     <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Remarks</span></th>
   </tr>
