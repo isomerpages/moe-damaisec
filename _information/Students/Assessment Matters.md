@@ -43,7 +43,7 @@ Termly Weighted Assessments (WA) are conducted regularly to gauge the learning p
 
   
 
-An End-of-year Examination (EOY) will be conducted at the end of each academic year for Secondary 1, 2 and 3 students.&nbsp; For students who are taking National Examination (GCE ‘N’ and ‘O’ Level Examination) at the end of the year, the school will conduct a Mid-year Examination at the end of Semester 1 and a Preliminary Examination at the end of third term.
+An End-of-year Examination (EOY) will be conducted at the end of each academic year for Secondary 1, 2 and 3 students.&nbsp; For students who are taking National Examination (GCE ‘N’ and ‘O’ Level Examination) at the end of the year, the school will conduct a Preliminary Examination at the end of third term.
 
   
 
