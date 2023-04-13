@@ -36,8 +36,12 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td style="width: 550px;">&nbsp;<img style="width: 250px;" src="/images/Staff Photos/mdm choo lee ming.jpg">
-<div style="text-align: center;"><a href="mailto:choo_lee_ming@schools.gov.sg" target="">Mdm Choo Lee Ming</a></div><div style="text-align: center;">Teacher Counsellor</div>
+<td style="width: 518px;">
+<div>
+<div><img style="width: 250px;" src="/images/Staff Photos/mdm choo lee ming.jpg"></div>
+<div style="text-align: center;"><a href="mailto:choo_lee_ming@schools.gov.sg" target="">Mdm Choo Lee Ming</a></div>
+<div style="text-align: center;">Teacher Counsellor</div>
+</div>
 </td>
 <td style="width: 518px;">
 <div>
