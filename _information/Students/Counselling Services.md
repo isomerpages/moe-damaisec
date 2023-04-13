@@ -22,16 +22,16 @@ third_nav_title: Students
 <tr>
 <td style="width: 550px;">
 <div>
-<div><img src="/images/mdmil.jpg"></div>
+<div><img src="/images/Staff Photos/ms ilyana saat.jpg"></div>
 <div style="text-align: center;"><a href="mailto:ilyana_saat@schools.gov.sg" target="">Mdm. Ilyana Saat</a></div>
-<div style="text-align: center;">Senior Allied Educator (Counselling)</div>
+<div style="text-align: center;">Senior School Counsellor</div>
 </div>
 </td>
 <td style="width: 518px;">
 <div>
-<div><img src="/images/mdmraj1.jpg"></div>
+<div><img src="/images/Staff Photos/ms rajeswari d-o kanagersundram.jpg"></div>
 <div style="text-align: center;"><a href="mailto:rajeswari_kanagersundram@schools.gov.sg" target="">Mdm. Rajeswari D/O Kanagersundram</a></div>
-<div style="text-align: center;">Allied Educator (Learning and Behavioural Support)</div>
+<div style="text-align: center;">Senior Special Education Needs Officer</div>
 </div>
 </td>
 </tr>
