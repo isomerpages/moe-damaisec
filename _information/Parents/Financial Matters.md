@@ -61,8 +61,9 @@ Singapore Citizens in financial need can get assistance on school fees and other
     <td class="tg-sdzj"><p>Gross Household Income &lt;= $4,400<br>Per Capita Income &lt;= $1,100</p><br></td>
     <td class="tg-sdzj"><p>Applicants who do not qualify for MOE-FAS will be considered for School-Based Financial Assistance (SAC-FAS).<br>For more information, please refer to </p>
 <ul>	
-	<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a></li><br><a href="/files/FAS%20Application%20Form%202023.pdf"><span style="text-decoration:none;color:#FAA156">
-</span></a><li><a href="/files/FAS%20Application%20Form%202023.pdf">MOE-FAS Application Form</a></li></ul></td>
+	<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a></li>
+<li>
+<a href="/files/FAS%20Application%20Form%202023.pdf">MOE-FAS Application Form</a></li></ul></td>
   </tr>
   <tr>
     <td class="tg-sdzj"><p>Opportunity Fund </p></td>
