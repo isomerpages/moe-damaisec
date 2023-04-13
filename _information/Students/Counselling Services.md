@@ -36,11 +36,13 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td style="width: 550px;">&nbsp;<br><img src="/images/mdmchoo.jpg">
-<div style="text-align: center;"><a href="mailto:choo_lee_ming@schools.gov.sg" target="">Mdm Choo Lee Ming</a></div>
+<td style="width: 550px;">&nbsp;<br><img src="/images/Staff Photos/mdm choo lee ming.jpg">
+<div style="text-align: center;"><a href="mailto:choo_lee_ming@schools.gov.sg" target="">Mdm Choo Lee Ming</a></div><div style="text-align: center;">Teacher Counsellor</div>
 </td>
 <td style="width: 518px;">&nbsp;</td>
 </tr>
+
+
 </tbody>
 </table>
 <p><strong>Who may benefit from Counselling?<br></strong>Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.&nbsp;<br>You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:</p>
