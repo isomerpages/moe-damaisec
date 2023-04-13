@@ -16,7 +16,7 @@ third_nav_title: Students
 </ul>
 <p>It may take some time for the above to happen and we encourage you to continue with the counselling sessions as requested by the counsellors.&nbsp;</p>
 <p><strong><u>The School Counselling Team</u></strong></p>
-<p>The school’s counselling team is made up of three key members: a Senior AED (Counselling) Ms Ilyana and Teacher Counsellor, Mdm Choo Lee Ming. The team also includes&nbsp;Ms Rajes,&nbsp;AED (Learning and Behavioural Support) who provide structured and systematic support to students with mild Special Educational Needs (SEN) in mainstream schools, and enable them to integrate better in the mainstream schools.&nbsp;</p>
+<p>The school’s counselling team is made up of four key members: a a Senior School Counsellor Ms Ilyana and Teacher Counsellors, Mdm Choo Lee Ming and Mdm Tan Boon Siew. The team also includes&nbsp;Ms Rajes Senior SEN Officer, who provide structured and systematic support to students with mild Special Educational Needs (SEN) in mainstream schools, and enable them to integrate better in the mainstream schools.&nbsp;</p>
 <table>
 <tbody>
 <tr>
