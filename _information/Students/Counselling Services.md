@@ -158,7 +158,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>eCounselling Online counselling service</li>
 </ul>
 </td>
-<td><p>www.eC2.sg</p></td>
+	<td><p><a target="_blank" href="www.eC2.sg">www.eC2.sg</a></p></td>
 </tr>
 </tbody>
 </table>
