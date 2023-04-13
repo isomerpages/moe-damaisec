@@ -10,7 +10,7 @@ third_nav_title: Students
 
 Textbooks and stationery can be purchased from our school bookshop. Online purchase and home delivery services are available only during the year-end period.  
 
-Opening Hours (in school):  7.30am to 3.00pm (Monday to Friday). Closed on Weekends and Public Holidays.
+Opening Hours (in school):&nbsp;&nbsp;7.30am to 3.00pm (Monday to Friday). Closed on Weekends and Public Holidays.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -21,7 +21,7 @@ Opening Hours (in school):  7.30am to 3.00pm (Monday to Friday). Closed on Wee
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p><table class="tg">
 <thead>
   <tr>
 		<th class="tg-0lax" colspan="2"><strong>Main Office</strong></th>
@@ -50,6 +50,7 @@ Opening Hours (in school):  7.30am to 3.00pm (Monday to Friday). Closed on Wee
   </tr>
 </tbody>
 </table>
+</p>
 
 ### **School Uniform and PE Attire Vendor**
 

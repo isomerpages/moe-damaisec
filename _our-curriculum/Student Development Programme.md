@@ -5,33 +5,32 @@ description: ""
 ---
 **Student Development through the Co-Curriculum**
 
-The Total Curriculum in Damai Secondary School comprises the Curriculum and the Co-Curriculum. Through the Total Curriculum, students receive a holistic education which provides them with balanced development across the moral, cognitive, social-emotional, physical and aesthetics domains.   
+The Total Curriculum in Damai Secondary School comprises the Curriculum and the Co-Curriculum. Through the Total Curriculum, students receive a holistic education which provides them with balanced development across the moral, cognitive, social-emotional, physical and aesthetics domains.&nbsp; &nbsp;
 
 The Co-Curriculum is integral to the holistic development of students. Through the Co-Curriculum, Damaians are provided with varied and authentic opportunities to develop their character and citizenry. The curriculum is anchored on values which determine Damaian’s beliefs and attitudes towards life, the people around him and the world at large. The curriculum will equip Damaians with the right attitude, knowledge and skills, developing each student to be a self-directed learner, a confident person, a concerned citizen and an active contributor.
 
-<img src="/images/SDT.jpg" 
-     style="width:75%">
+<img src="/images/SDT.jpg" style="width:75%">
 		 
 **Student Development At Damai**
 
 The Damai Student Development Team envisions all its students to be dynamic, resilient and ethical 21st century leaders and entrepreneurs, who will make a positive impact to the world around them. The team supports the school’s mission to imbue students with the right moral values, journey with them on their exploration to discover themselves, their interests and talents, and nurture them to always do their best.  
   
-Damaians enjoy a vibrant school experience through experiential learning in the key domains of Co-curricular Activities (CCAs), Learning for Life Programme (LLP) through Water Sports, Values-In-Action (VIA), Aesthetics, Level-wide Enrichment and Lifeskills Programmes.  The Character & Citizenship Education (CCE) lessons and these learning experiences are mapped out to allow a broad, varied and developmental approach towards acquiring the school’s motto of a **Purposeful and Meaningful Life**. The holistic development of Damaians is further well-supported by **building strong teacher-student relationship, home and community engagement**.  
+Damaians enjoy&nbsp;a vibrant school experience&nbsp;through experiential learning in the key domains of Co-curricular Activities (CCAs), Learning for Life Programme (LLP) through Water Sports, Values-In-Action (VIA),&nbsp;Aesthetics, Level-wide Enrichment and Lifeskills Programmes.&nbsp;&nbsp;The Character &amp; Citizenship Education (CCE) lessons and these learning experiences are mapped out to allow a broad, varied and developmental approach towards acquiring the school’s motto of&nbsp;a&nbsp;**Purposeful and Meaningful Life**. The holistic development of Damaians is further well-supported by&nbsp;**building strong teacher-student relationship, home and community engagement**.  
   
 
 **Role of Damai Student Development Team**  
 
-The Damai Student Development Team oversees the design and delivery of a holistic learning experience that all students undergo throughout their 4/5 years of education in Damai Secondary School. Its key role is to enhance the quality of school experience for Damaians, with emphasis on values education and the development of students’ socio-emotional competencies. It begins with Damaians undergoing the important transition phase from a primary school environment to a secondary school environment in their first year with the school, with incremental exposure and deeper exploration in character and citizenship education, leadership development and post-secondary education while aiming for academic excellence.  
+The Damai Student Development Team oversees the design and delivery of a holistic learning experience that all students undergo throughout their 4/5 years of education in Damai Secondary School. Its key role is to enhance the quality of school experience for Damaians, with emphasis on values education and the development of students’ socio-emotional competencies. It begins with Damaians undergoing the important transition phase from a primary school environment to a secondary school environment in their first year with the school, with incremental exposure and deeper exploration in character and citizenship education, leadership development and post-secondary education while aiming for academic excellence.&nbsp;&nbsp;
 
 Through the school’s Learning for Life Programme, CCA programmes, CCE lessons and VIA activities, students acquire important values and life-skills to help them work towards the school vision of leading a purposeful and meaningful life.
 
-The Student Development Team comprises of HOD CCE, HOD Discipline, HOD PE & CCA and the Year Heads, supported by SH Discipline and SHs Student Well-being.
+The Student Development Team comprises of HOD CCE, HOD Discipline, HOD PE &amp; CCA and the Year Heads, supported by SH Discipline and SHs Student Well-being.
 
 Each of the HODs look into their respective areas of responsibilities while the Year Heads oversee the student development programmes of the lower secondary or upper secondary. They work closely with level teachers and form teachers to build relationships with and understand the needs of individual students and, where appropriate, customise the implementation of the school’s student development programmes closely with the academic programmes. This will help to ensure that all students receive a holistic education with a rigorous academic programme, an enriching co-curriculum programme and a safe learning environment through Positive Discipline.
 
 To further strengthen prosocial and supportive peer network (including online), an SH Student Well-being oversees the following three areas through engendering a peer support culture in the learning, social and cyber spaces by coordinating across relevant teams (eg. CCE and Discipline):
 
-*   Peer Support & Relationships
+*   Peer Support &amp; Relationships
 *   Bullying Management
 *   Cyber Issues Management
 
@@ -49,19 +48,19 @@ Members of the 2023 Student Development Team:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Miss Lorraine Ng</span><br><span style="color:#222;background-color:#EAEAEA">HOD/CCE</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lim Jing Kai</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ng Zhi Xian</span><br><span style="color:#222;background-color:#EAEAEA">HOD/PE &amp; CCA</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Jackie Chan</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Secondary)</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Lenny Marlina</span><br><span style="color:#222;background-color:#EAEAEA">Mohammed</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Secondary)</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Miss Lorraine Ng<br><span style="color:#222;background-color:#EAEAEA">HOD/CCE</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mr Lim Jing Kai<br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mr Ng Zhi Xian<br><span style="color:#222;background-color:#EAEAEA">HOD/PE &amp; CCA</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mrs Jackie Chan<br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Secondary)</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Ms Lenny Marlina<br><span style="color:#222;background-color:#EAEAEA">Mohammed</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Secondary)</span></p></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ii8k"></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Nur Diyana</span><br><span style="color:#222;background-color:#EAEAEA">Osman</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Ms Nur Diyana<br><span style="color:#222;background-color:#EAEAEA">Osman</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></p></span><br></td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Rachel Teo</span><br><span style="color:#222;background-color:#EAEAEA">SH/Student-Well</span><br><span style="color:#222;background-color:#EAEAEA">Being</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mrs Rachel Teo<br><span style="color:#222;background-color:#EAEAEA">SH/Student-Well</span><br><span style="color:#222;background-color:#EAEAEA">Being</span></p></span></td>
     <td class="tg-ii8k"></td>
   </tr>
 </tbody>
