@@ -9,22 +9,22 @@ third_nav_title: Students
 * [Schedule of Weighted Assessments (Sec 1)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%201.pdf)  
 * [Schedule of Weighted Assessments (Sec 2)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%202.pdf)  
 * [Schedule of Weighted Assessments (Sec 3)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%203.pdf)  
-* [Schedule of Non-Weighted Assessments Sec (4&5)](/files/Schedule%20of%20Non-Weighted%20Assessments%20Sec%204%20%205.pdf)  
+* [Schedule of Non-Weighted Assessments Sec (4&amp;5)](/files/Schedule%20of%20Non-Weighted%20Assessments%20Sec%204%20%205.pdf)  
 
 **2023 Scheme of Assessment (Semester 1)**
 * [Scheme of Assessment (Sec 1)](/files/Scheme%20of%20Assessment%20Sec%201.pdf)  
 * [Scheme of Assessment (Sec 2)](/files/Scheme%20of%20Assessment%20Sec%202.pdf)  
 * [Scheme of Assessment (Sec 3)](/files/Scheme%20of%20Assessment%20Sec%203.pdf)  
-* [Scheme of Assessment (Sec 4&5)](/files/Scheme%20of%20Assessment%20Sec%2045.pdf)
+* [Scheme of Assessment (Sec 4&amp;5)](/files/Scheme%20of%20Assessment%20Sec%2045.pdf)
 
 **PHILOSOPHY**  
-Effective and meaningful assessments are essential elements that support students in acquiring the skills and competencies necessary to lead a purposeful and meaningful life. In Damai Secondary, we seek to provide quality student-centric academic programmes that will enable students to develop their potential and meet future challenges. Assessment provides students, teachers, parents and stakeholders with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry and teaching and learning process. It must thus be ongoing, unbiased, and designed to meet the needs of our diverse learning community.   
+Effective and meaningful assessments are essential elements that support students in acquiring the skills and competencies necessary to lead a purposeful and meaningful life. In Damai Secondary, we seek to provide quality student-centric academic programmes that will enable students to develop their potential and meet future challenges. Assessment provides students, teachers, parents and stakeholders with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry and teaching and learning process. It must thus be ongoing, unbiased, and designed to meet the needs of our diverse learning community.&nbsp;  
   
-**PRINCIPLES OF ASSESSMENT** 
+**PRINCIPLES OF ASSESSMENT**&nbsp;
 
 The Damai Assessment Policy is based on the Singapore Teaching Practice™, on the understanding that:
 
-*   Assessment forms an integral part of Teaching and Learning   
+*   Assessment forms an integral part of Teaching and Learning&nbsp;  
     
 *   Assessment must be aligned to the intended learning outcomes, content and pedagogy  
     
@@ -43,7 +43,7 @@ Termly Weighted Assessments (WA) are conducted regularly to gauge the learning p
 
   
 
-An End-of-year Examination (EOY) will be conducted at the end of each academic year for Secondary 1, 2 and 3 students.  For students who are taking National Examination (GCE ‘N’ and ‘O’ Level Examination) at the end of the year, the school will conduct a Mid-year Examination at the end of Semester 1 and a Preliminary Examination at the end of third term.
+An End-of-year Examination (EOY) will be conducted at the end of each academic year for Secondary 1, 2 and 3 students.&nbsp; For students who are taking National Examination (GCE ‘N’ and ‘O’ Level Examination) at the end of the year, the school will conduct a Mid-year Examination at the end of Semester 1 and a Preliminary Examination at the end of third term.
 
   
 
@@ -53,7 +53,7 @@ Performance at WA and EOY will determine students’ promotion, retention or lat
 
 **EFFECTIVE ASSESSMENT PRACTICES**
 
-Click [here](/files/contact-jul19%20(Ms%20Chan).pdf) to read what our Principal has to say about effective assessment practices in Damai.  
+Click&nbsp;[here](/files/contact-jul19%20(Ms%20Chan).pdf)&nbsp;to read what our Principal has to say about effective assessment practices in Damai.  
 
 **GRADING FOR WEIGHTED ASSESSMENT**  
 
@@ -65,9 +65,9 @@ Subject teachers will regularly record student scores in the various WA task/tes
 
   
 
-**ASSESSMENT PLAN 2022**  
+**ASSESSMENT PLAN**  
 
-The assessment plan for our Sec 1 to 3 students for 2022 is shown below:
+The assessment plan for our Sec 1 to 3 students is shown below:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
