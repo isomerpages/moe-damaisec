@@ -45,8 +45,17 @@ Singapore Citizens in financial need can get assistance on school fees and other
   <tr>
     <td class="tg-sdzj">MOE Financial Assistance Scheme <br>(MOE-FAS)<br></td>
     <td class="tg-sdzj">Gross Household Income &lt;= $3,000<br>Per Capita Income &lt;= $750<br></td>
-    <td class="tg-sdzj">For more information, please refer to <br><a href="/files/MOE%20FAS%20pamphlet%202023.pdf">MOE-FAS Pamphlet</a><br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="text-decoration:none;color:#EC8D3C">MOE Financial Assistance</span></a> <br><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a><br><a href="/files/FAS%20Application%20Form%202023.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a><br><br><br></td>
+    <td class="tg-sdzj">For more information, please refer to <br>
+<ul>
+<li>
+	<a href="/files/MOE%20FAS%20pamphlet%202023.pdf">MOE-FAS Pamphlet</a><br></li>
+<li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="text-decoration:none;color:#EC8D3C">MOE Financial Assistance</span></a> <br></li>
+
+<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a><br></li>
+<li><a href="/files/FAS%20Application%20Form%202023.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a><br><br><br></li></ul></td>
   </tr>
+
+	
   <tr>
     <td class="tg-sdzj">School-based Financial Assistance Scheme (SAC-FAS)<br></td>
     <td class="tg-sdzj">Gross Household Income &lt;= $4,400<br>Per Capita Income &lt;= $1,100<br></td>
