@@ -86,7 +86,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Trans Family Services (Bedok</li>
 </ul>
 </td>
-<td>6449-0762</td>
+	<td><p>6449-0762</p></td>
 </tr>
 <tr>
 <td>
@@ -94,7 +94,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Thye Hua Kwan Family Service Centre (Bedok) Provides services such as counselling, family life education, children and youth programmes and elderly services.</li>
 </ul>
 </td>
-<td>6449-1440</td>
+<td><p>6449-1440</p></td>
 </tr>
 <tr>
 <td>
@@ -102,7 +102,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Samaritans of Singapore (SOS) Provides emotional support to people who have difficulty coping during a crisis, who are thinking of committing suicide or are affected by a suicide</li>
 </ul>
 </td>
-<td>1800-221-4444 (24 hours)</td>
+<td><p>1800-221-4444 (24 hours)</p></td>
 </tr>
 <tr>
 <td>
@@ -110,7 +110,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Touchline</li>
 </ul>
 </td>
-<td>1800-377-2252</td>
+<td><p>1800-377-2252</p></td>
 </tr>
 <tr>
 <td>
@@ -118,7 +118,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Help123 (help123.sg) Get help for gaming addiction, internet-related issues and information on youth programmes</li>
 </ul>
 </td>
-<td>1800-6123-123</td>
+<td><p>1800-6123-123</p></td>
 </tr>
 <tr>
 <td>
@@ -126,7 +126,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Pregnancy Crisis Service Supports anyone who may be facing an unwanted, suspected or unexpected pregnancy</li>
 </ul>
 </td>
-<td>6339-9770(24 hours)</td>
+<td><p>6339-9770(24 hours)</p></td>
 </tr>
 <tr>
 <td>
@@ -134,7 +134,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>Babes Teenage unplanned pregnancy crisis helpline</li>
 </ul>
 </td>
-<td>8111-3535(24 hours)</td>
+<td><p>8111-3535(24 hours)</p></td>
 </tr>
 <tr>
 <td>
@@ -142,7 +142,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>CHAT Community Health Assessment Team Provides free mental health checks for those who are 16 to 30 years old.</li>
 </ul>
 </td>
-<td>6493-6500<br>6493-6501</td>
+<td><p>6493-6500<br>6493-6501</p></td>
 </tr>
 <tr>
 <td>
@@ -150,7 +150,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>IMH Emergency Hotline Urgent intervention for those who are facing a mental health crisis</li>
 </ul>
 </td>
-<td>6389-2222(24 hours)</td>
+<td><p>6389-2222(24 hours)</p></td>
 </tr>
 <tr>
 <td>
@@ -158,7 +158,7 @@ These are counselling hotlines and social work agencies that offer help to youth
 <li>eCounselling Online counselling service</li>
 </ul>
 </td>
-<td>www.eC2.sg</td>
+<td><p>www.eC2.sg</p></td>
 </tr>
 </tbody>
 </table>
