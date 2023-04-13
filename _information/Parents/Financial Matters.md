@@ -70,7 +70,7 @@ Singapore Citizens in financial need can get assistance on school fees and other
     <td class="tg-fwnj"><p>Gross Household Income &lt;= $5,400<br>Per Capita Income &lt;= $1,350</p><br></td>
     <td class="tg-sdzj"><p>Subsidies may be provided for enrichment programmes, overseas trips etc.<br>For more information, please refer to</p>
 <ul>
-	<li><a href="/files/Application_for_OF_Subsidy%2021%20Oct%202022.pdf">Opportunity Fund Application </a></li><a href="/files/Application_for_OF_Subsidy%2021%20Oct%202022.pdf">Form</a></ul></td>
+	<li><a href="/files/Application_for_OF_Subsidy%2021%20Oct%202022.pdf">Opportunity Fund Application Form</a></li></ul></td>
   </tr>
 </tbody>
 </table>
