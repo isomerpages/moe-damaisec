@@ -49,18 +49,18 @@ Members of the 2023 Student Development Team:
 <thead>
   <tr>
     <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Miss Lorraine Ng<br><span style="color:#222;background-color:#EAEAEA">HOD/CCE</span></p></span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lim Jing Kai</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ng Zhi Xian</span><br><span style="color:#222;background-color:#EAEAEA">HOD/PE &amp; CCA</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Jackie Chan</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Secondary)</span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Lenny Marlina</span><br><span style="color:#222;background-color:#EAEAEA">Mohammed</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Secondary)</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mr Lim Jing Kai<br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mr Ng Zhi Xian<br><span style="color:#222;background-color:#EAEAEA">HOD/PE &amp; CCA</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mrs Jackie Chan<br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Secondary)</span></p></span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Ms Lenny Marlina<br><span style="color:#222;background-color:#EAEAEA">Mohammed</span><br><span style="color:#222;background-color:#EAEAEA">Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Secondary)</span></p></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ii8k"></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Nur Diyana</span><br><span style="color:#222;background-color:#EAEAEA">Osman</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Ms Nur Diyana<br><span style="color:#222;background-color:#EAEAEA">Osman</span><br><span style="color:#222;background-color:#EAEAEA">SH/Discipline</span></p></span><br></td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Rachel Teo</span><br><span style="color:#222;background-color:#EAEAEA">SH/Student-Well</span><br><span style="color:#222;background-color:#EAEAEA">Being</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><p>Mrs Rachel Teo<br><span style="color:#222;background-color:#EAEAEA">SH/Student-Well</span><br><span style="color:#222;background-color:#EAEAEA">Being</span></p></span></td>
     <td class="tg-ii8k"></td>
   </tr>
 </tbody>
