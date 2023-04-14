@@ -101,7 +101,7 @@ and recognise that the
 readiness and interest in
 dating vary among
 individuals</td>
-    <td></td>
+    <td>Term 4 Week 1</td>
   </tr>
   <tr>
     <td></td>
