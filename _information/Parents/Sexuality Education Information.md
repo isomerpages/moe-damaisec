@@ -65,3 +65,55 @@ with various issues related to sexuality, which are of prime concern at this age
 <b>2023 Sexuality Education Lessons in CCE 2021</b>
 
 <b>Secondary 1</b>
+
+<table>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Lesson Title/Duration</th>
+    <th>Lesson Overview</th>
+    <th>Lesson Objectives<br><br>At the end of the lessons,<br>students will be able to:</th>
+    <th>Time Period<br><br>(e.g. Term 1 <br>Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Respectful<br>Relationships &amp; <br>Safety</td>
+    <td>Steady or Not<br><br>Lesson 1<br><br>(60 mins)</td>
+    <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+    <td>• recognise the importance
+of monitoring and
+managing our emotional
+reactions, in helpful ways
+that are reflective of our
+values and principles<br>
+• recognise that there are
+different forms of love (e.g.
+familial, platonic, romantic
+love)<br>
+• recognise the importance
+and understand what
+builds healthy and
+supportive relationships,
+both online and offline<br>
+• understand what dating is,
+and recognise that the
+readiness and interest in
+dating vary among
+individuals</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
