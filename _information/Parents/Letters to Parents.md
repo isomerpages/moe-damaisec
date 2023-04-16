@@ -27,6 +27,28 @@ third_nav_title: Parents
 <tbody>
 
 <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/staying safe at crowded places and use of improvised sparklers.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Staying Safe at Crowded Places and Use of Improvised Sparklers</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">14 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
+	
+<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/cultural performance exposure scheme 2023.pdf"><span style="text-decoration:none;color:#FAA156">Cultural Performance Exposure Scheme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">12 Apr 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 &amp; 2 CL</span><br></td>
