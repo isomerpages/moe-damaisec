@@ -79,8 +79,8 @@ In a nutshell, the learning objectives of the subject encapsulate the basic reta
 
 *   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level mathematics (4052).pdf">GCE O Level Mathematics
 *   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level additional mathematics (4049).pdf">GCE O Level Additional Mathematics
-*   [GCE N(A) Level Mathematics Syllabus A](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/4045_y20_sy.pdf)
-*   [GCE N(T) Level Mathematics Syllabus T](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/4046_y20_sy.pdf)
+*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level mathematics (4045).pdf">GCE N(A) Level Mathematics Syllabus A
+*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) mathematics (4046).pdf">GCE N(T) Level Mathematics Syllabus T
 
   
 
