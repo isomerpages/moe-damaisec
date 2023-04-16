@@ -62,10 +62,12 @@ with various issues related to sexuality, which are of prime concern at this age
 
 <b>At Damai Secondary School, the following Sexuality Education lessons will be taught in <u>2023:</u></b>
 
+<center>
 <b>2023 Sexuality Education Lessons in CCE 2021</b>
 
 <b>Secondary 1</b>
-
+</center>
+	
 <table>
 <thead>
   <tr>
