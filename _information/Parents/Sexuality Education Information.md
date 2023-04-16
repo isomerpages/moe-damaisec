@@ -56,6 +56,7 @@ consequences that may arise from such experimentation. The need for peer accepta
 overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build a strong sense of self-worth,
 personal conviction and an understanding of the possible consequences of sexual behaviour.
+
 7.Through the Sexuality Education lessons, secondary students will have the opportunity to develop a
 positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal
 with various issues related to sexuality, which are of prime concern at this age.
@@ -799,6 +800,7 @@ with our beliefs</td>
 Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a
 health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based
 programme.
+
 9.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves
 their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens
@@ -840,12 +842,15 @@ making</td>
 
 10.Parents may opt their children out of the Sexuality Education lessons, <i>eTeens</i> and/or supplementary
 sexuality education programmes by MOE-approved external providers.
+
 11.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an
 opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_GY_Opt%20Out%20Form.pdf).
 The completed form is to be submitted by 25/01/2023.
+
 12.Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out
 form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Opt%20Out%20Form.pdf). The
 completed form is to be submitted by 01/08/2023.
+
 13.Parents can contact the school’s Sexuality Education Coordinator Ms Lorraine Ng via email
 at <a href="mailto:ng_wei_yin_carrissa@schools.gov.sg">ng_wei_yin_carrissa@schools.gov.sg</a> for discussion or to seek clarification about the school’s Sexuality
 Education programme.
