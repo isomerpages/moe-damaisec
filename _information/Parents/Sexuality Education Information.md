@@ -64,7 +64,7 @@ with various issues related to sexuality, which are of prime concern at this age
 
 <center>
 <b>2023 Sexuality Education Lessons in CCE 2021</b>
-
+<br>
 <b>Secondary 1</b>
 </center>
 	
