@@ -838,5 +838,5 @@ The completed form is to be submitted by 25/01/2023.
 form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Opt%20Out%20Form.pdf). The
 completed form is to be submitted by 01/08/2023.
 13. Parents can contact the school’s Sexuality Education Coordinator Ms Lorraine Ng via email
-at ng_wei_yin_carrissa@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality
+at <a href="mailto:ng_wei_yin_carrissa@schools.gov.sg">ng_wei_yin_carrissa@schools.gov.sg</a> for discussion or to seek clarification about the school’s Sexuality
 Education programme.
