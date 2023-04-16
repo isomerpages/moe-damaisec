@@ -86,14 +86,14 @@ In a nutshell, the learning objectives of the subject encapsulate the basic reta
 
 **Principles of Accounts (POA)**
 
-*   [GCE O Level POA](https://www.seab.gov.sg/content/syllabus/olevel/2018Syllabus/7175_2018.pdf)&nbsp;
-*   [GCE N Level POA](https://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/7088_2017.pdf)&nbsp;
+*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level poa (7087).pdf">GCE O Level POA
+*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level poa (7086).pdf">GCE N Level POA
 
   
 
 **Retail Operations (RO)**
 
-*   [Retail Operations](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/a301_y20_sy.pdf)
+*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) retail operations (a301).pdf">Retail Operations
 
 
 <div>
