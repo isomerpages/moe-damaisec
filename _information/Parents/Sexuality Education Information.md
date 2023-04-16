@@ -726,3 +726,59 @@ beliefs</td>
   </tr>	
 </tbody>
 </table>
+
+<b>Secondary 5</b>
+
+<table>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Lesson Title/Duration</th>
+    <th>Lesson Overview</th>
+    <th>Lesson Objectives<br><br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br><br>(e.g.Term 1
+Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Respectful
+Relationships
+&amp; Safety</td>
+    <td>This is Where I
+Draw the Line<br><br>
+(60 mins)</td>
+    <td>In this lesson, students will
+understand that different
+individuals have different
+emotional and physical
+boundaries. This lesson
+highlights the need to
+respect the boundaries of
+others and reinforces the
+importance of showing
+respect to the opposite sex
+by using appropriate words
+and actions. Students will
+examine personal
+boundaries from different
+perspectives and learn the
+importance of making sound
+values-based decisions and
+acting in consideration of the
+well-being of themselves and
+others.</td>
+    <td>• understand that we
+strengthen our
+character when we
+commit to sound
+values-based
+viewpoints (e.g.
+respect for life) and
+decisions, and speak
+and act in alignment
+with our beliefs</td>
+    <td>Term 3 Week 1</td>
+  </tr>
+</tbody>
+</table>
