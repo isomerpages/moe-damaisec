@@ -77,23 +77,23 @@ In a nutshell, the learning objectives of the subject encapsulate the basic reta
 
 **Mathematics**  
 
-*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level mathematics (4052).pdf">GCE O Level Mathematics
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level additional mathematics (4049).pdf">GCE O Level Additional Mathematics
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level mathematics (4045).pdf">GCE N(A) Level Mathematics Syllabus A
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) mathematics (4046).pdf">GCE N(T) Level Mathematics Syllabus T
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level mathematics (4052).pdf">GCE O Level Mathematics</a>
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level additional mathematics (4049).pdf">GCE O Level Additional Mathematics</a>
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level mathematics (4045).pdf">GCE N(A) Level Mathematics Syllabus A</a>
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) mathematics (4046).pdf">GCE N(T) Level Mathematics Syllabus T</a>
 
   
 
 **Principles of Accounts (POA)**
 
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level poa (7087).pdf">GCE O Level POA
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level poa (7086).pdf">GCE N Level POA
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce o level poa (7087).pdf">GCE O Level POA</a>
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(a) level poa (7086).pdf">GCE N Level POA</a>
 
   
 
 **Retail Operations (RO)**
 
-*   </a><a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) retail operations (a301).pdf">Retail Operations
+*   <a href="/files/Our Curriculum/Academic Programmes/Mathematics and Commerce/Syllabus Links/gce n(t) retail operations (a301).pdf">Retail Operations</a>
 
 
 <div>
@@ -112,4 +112,4 @@ For normal academic curriculum, we adopt different modes of teaching to suit stu
 
 <img src="/images/math-1.png" style="width:75%">
 <img src="/images/math-2.png" style="width:75%">
-<img src="/images/math-3.png" style="width:75%"></a>
+<img src="/images/math-3.png" style="width:75%">
