@@ -196,8 +196,10 @@ copyright laws, etc.)</td>
 </tbody>
 </table>
 
+<center>
 <b>Secondary 2</b>
-
+</center>
+	
 <table>
 <thead>
   <tr>
@@ -205,7 +207,7 @@ copyright laws, etc.)</td>
     <th>Lesson Title/Duration</th>
     <th>Lesson Overview</th>
     <th>Lesson Objectives<br><br>At the end of the lesson, students will be able to:</th>
-    <th>Time Period<br><br>(e.g.Term 1
+    <th>Time Period<br><br>(e.g. Term 1
 Week 2)</th>
   </tr>
 </thead>
@@ -345,8 +347,10 @@ offline and online</td>
 </tbody>
 </table>
 
+<center>
 <b>Secondary 3</b>
-
+</center>
+	
 <table>
 <thead>
   <tr>
@@ -518,9 +522,10 @@ beliefs</td>
 </tbody>
 </table>
 
-
+<center>
 <b>Secondary 4</b>
-
+</center>
+	
 <table>
 <thead>
   <tr>
@@ -729,8 +734,10 @@ beliefs</td>
 </tbody>
 </table>
 
+<center>
 <b>Secondary 5</b>
-
+</center>
+	
 <table>
 <thead>
   <tr>
