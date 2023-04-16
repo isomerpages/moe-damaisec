@@ -342,3 +342,176 @@ offline and online</td>
   </tr>
 </tbody>
 </table>
+
+<b>Secondary 3</b>
+
+<table>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Lesson Title/Duration</th>
+    <th>Lesson Overview</th>
+    <th>Lesson Objectives<br><br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br><br>(e.g.Term 1
+Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Respectful
+Relationships &amp;
+Safety</td>
+    <td>Love Yourself,
+Love Others<br><br>
+Lesson 1A<br><br>
+(60 mins)</td>
+    <td>This lesson focuses on
+dating respectfully in
+healthy relationships.
+Students will learn about
+self-esteem, their sources
+of influence (e.g. friends’
+perception) on self-
+esteem, the impact of
+one’s self-esteem on our
+mental well-being as well
+as relationships with
+others. Students will also
+learn how emotional
+reactions can affect
+relationships positively or
+negatively. Students will
+also learn that maturity
+and readiness are
+important when entering
+into a dating relationship.</td>
+    <td>• know that self-
+perception and identity
+have an impact on our
+self-esteem and how we
+interact with others and
+the choices we make,
+both online and offline<br>
+• understand that
+expectations of oneself
+and others may differ
+and can affect one’s
+emotions, thoughts and
+behaviours<br>
+• recognise what healthy
+dating relationships
+involve and know that
+readiness is important
+when entering into a
+dating relationship</td>
+    <td>Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td>Mending a
+Broken Heart<br><br>
+Lesson 1B<br><br>
+(60 mins)</td>
+    <td>Students will learn how to
+manage their emotions if
+they were to face a
+breakup and know that
+relationship building
+involves person emotions
+and vulnerabilities, and
+changes and challenges.
+Students will also learn
+that a decision to end a
+relationship will have
+consequences on oneself
+and others, and that grief
+and loss due to rejections
+and broken relationships
+is normal and that one
+can recover from the
+experience. They will learn that there are
+healthy ways of coping
+with breakdowns in
+relationships and that
+family and friends are
+important pillars of
+support.</td>
+    <td>• know that relationship-
+building involves
+personal emotions and
+vulnerabilities, and
+changes and challenges<br>
+• know that a decision to
+end a relationship will
+have consequences on
+oneself and others<br>
+• know that grief and loss
+due to rejections and
+broken relationships is
+normal and one can
+recover from the
+experience<br>
+• know there are healthy
+ways of coping with broken relationships,
+and family and friends
+are important pillars of
+support</td>
+    <td>Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td>When Respect
+Takes Centre
+Stage<br><br>
+Lesson 2<br><br>
+(60 mins)</td>
+    <td>This lesson aims to help
+students think critically
+and make informed
+decisions in the contexts
+of sexting and voyeurism,
+and encourages students
+to exert a positive
+influence as a respectful
+online user. It will also
+deepen students’
+convictions about making
+moral decisions by taking
+into consideration the
+impact of their decisions
+and actions on their well-
+being and safety, their
+loved ones, and the
+community. Students
+learn that they have a
+right and responsibility to
+be safe and protect their
+personal space and body.
+They also learn that
+sexting, voyeurism and
+other related sexual
+offences are never
+justifiable and they can
+seek help in times of
+need.</td>
+    <td>• recognise the
+importance of being
+informed of social and
+moral issues of the day
+and the need to reflect
+on these issues, and
+weigh them against our
+own moral standpoints
+as we form our
+perspectives about them<br>
+• understand that we
+strengthen our character
+when we commit to
+sound values-based
+viewpoints (e.g. respect
+for life) and decisions,
+and speak and act in
+alignment with our
+beliefs</td>
+    <td>Term 3 Week 10</td>
+  </tr>
+</tbody>
+</table>
