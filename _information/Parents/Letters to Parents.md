@@ -27,7 +27,7 @@ third_nav_title: Parents
 <tbody>
 
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="files/Information/Parents/Parent Letter/2023/Term 2/sec 1na history learning journey to civic district.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1NA History Learning Journey to Civic District</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 1na history learning journey to civic district.pdf"><span style="text-decoration:none;color:#FAA156">Sec 1NA History Learning Journey to Civic District</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">14 Apr 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 (NA)</span><br></td>
   </tr>
