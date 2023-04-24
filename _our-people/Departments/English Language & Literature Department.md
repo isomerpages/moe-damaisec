@@ -11,6 +11,7 @@ third_nav_title: Departments
 |[Mdm Chan Siew Lei](mailto:chan_siew_lei@schools.gov.sg)|Teacher|
 [Miss Georgina Low Yuesi](mailto:low_yuesi_georgina@schools.gov.sg)|Teacher|
 |[Ms Maryam Anuar](mailto:maryam_anuar@schools.gov.sg)|Teacher|
+|[Mr Ray Ong Rui Xiang](mailto:ong_rui_xiang@schools.gov.sg)|Teacher|
 |[Mr Sidek Bin Terimoh](mailto:sidek_b_terimoh@schools.gov.sg)|Teacher|
 |[Miss Tan Chwee Kim](mailto:tan_chwee_kim@schools.gov.sg)|Teacher|
 ||
