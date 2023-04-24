@@ -14,4 +14,5 @@ third_nav_title: Departments
 |[Mr Ray Ong Rui Xiang](mailto:ong_rui_xiang@schools.gov.sg)|Teacher|
 |[Mr Sidek Bin Terimoh](mailto:sidek_b_terimoh@schools.gov.sg)|Teacher|
 |[Miss Tan Chwee Kim](mailto:tan_chwee_kim@schools.gov.sg)|Teacher|
+|[Mr Tan Jun Ming](mailto:tan_jun_ming@schools.gov.sg)|Teacher|
 ||
