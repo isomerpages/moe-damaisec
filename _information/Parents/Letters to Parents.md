@@ -41,9 +41,9 @@ third_nav_title: Parents
   </tr>
 	
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2 &amp; 3 may digital skills workshop.pdf"><span style="text-decoration:none;color:#FAA156">2 &amp; 3 May Digital Skills Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
   </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/23 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">23 May Civilian War Memorial Special Exhibition</span></a></td>
