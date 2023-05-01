@@ -46,9 +46,9 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
   </tr>
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/23 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">23 May Civilian War Memorial Special Exhibition</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">301, 302</span><br></td>
   </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/3 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">3 May Civilian War Memorial Special Exhibition</span></a></td>
