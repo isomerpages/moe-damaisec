@@ -53,7 +53,7 @@ third_nav_title: Parents
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/3 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">3 May Civilian War Memorial Special Exhibition</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 NT</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 (NT)</span><br></td>
   </tr>
 	
 	
