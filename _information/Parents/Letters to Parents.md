@@ -26,6 +26,36 @@ third_nav_title: Parents
 </thead>
 <tbody>
 
+
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/5 may digital skills workshop.pdf"><span style="text-decoration:none;color:#FAA156">5 May Digital Skills Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 CL</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/(amendment) 2 &amp; 3 may digital skills workshop.pdf"><span style="text-decoration:none;color:#FAA156">[Amendment] 2 &amp; 3 May Digital Skills Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 CL</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2 &amp; 3 may digital skills workshop.pdf"><span style="text-decoration:none;color:#FAA156">2 &amp; 3 May Digital Skills Workshop</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/23 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">23 May Civilian War Memorial Special Exhibition</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">301, 302</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/3 may civilian war memorial special exhibition.pdf"><span style="text-decoration:none;color:#FAA156">3 May Civilian War Memorial Special Exhibition</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">25 Apr 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 (NT)</span><br></td>
+  </tr>
+	
 	
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/learning journey to urban farming @ ubi (secondary 204-206).pdf"><span style="text-decoration:none;color:#FAA156">Learning Journey To Urban Farming @ Ubi (Secondary 204-206)</span></a></td>
