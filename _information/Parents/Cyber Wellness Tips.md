@@ -169,16 +169,13 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <ul>
 <li><a href="https://www.betterinternet.sg/" target="_blank" rel="noopener">Media Literacy Council</a></li>
 <li><a href="https://www.scamalert.sg/resources/videos" target="_blank" rel="noopener">National Crime Prevention Council</a></li>
+<li><a href="https://sure.nlb.gov.sg/" target="_blank" rel="noopener">S.U.R.E. by National Library Board</a></li>
+<li><a href="https://csa.gov.sg/programmes/sg-cyber-safe-students" target="_blank" rel="noopener">Cyber Security Agency</a></li>
 <li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
-<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
-<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
-<li><a href="https://www.betterinternet.sg/">Media Literacy Council (MLC)</a></li>
 <li><a href="https://www.commonsensemedia.org/">Common Sense Media: Age-Based Media Reviews for Families</a></li>
 </ul>
-<p><strong>Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
+<p><strong>Other Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
 <ul>
-<li><a href="/files/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child.pdf">[Parent Kit] Raising A Digitally Smart Child</a></li>
-
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
