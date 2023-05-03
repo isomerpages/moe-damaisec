@@ -6,6 +6,9 @@ third_nav_title: Parents
 ---
 <p><strong><u>What is Cyber-Wellness?</u></strong></p>
 <p>Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.</p>
+
+<p> Cyber Wellness in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p>
+
 <p><strong><u>MOE Cyber-Wellness Framework</u></strong>
 <img src="/images/cyber1.png">
 </p><p>MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.</p>
@@ -33,6 +36,17 @@ Students need to:</p>
   <li>be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).</li>
   <li>advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).</li>
 </ul>
+
+<p><strong><u>The 3 Cyber Wellness Key Messages</u></strong></p>
+
+<ul>
+ <li>Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities. </li>
+ <li>Be a safe and responsible user of technology and maintain a positive online presence. </li>
+ <li>Be responsible for personal well-being in the cyberspace. </li>
+</ul>
+
+
+
 <p><u><strong>MOE’S&nbsp;</strong><strong>Cyber-Wellness Education<br></strong></u>Cyber-wellness Education comprises&nbsp;</p>
 <p>a) the CW lessons in the formal curriculum and&nbsp;<br>
 b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
@@ -132,28 +146,37 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <p>The notAnoobie mobile app, developed by Singtel and TOUCH Cyber Wellness, aims to help parents understand and follow cyber-related developments and issues such as gaming, mobile technology and device addiction, social media dos and don’ts, as well as identifying and stopping cyber bullying, inappropriate content online and protecting personal privacy online. The app content includes articles, reviews, success stories, quizzes and daily tips.</p>
 <img style="width: 40%" src="/images/cyber3.png" align="left">
 <p>With this app, parents can now be armed with the knowledge on-the-go and help educate their children to be responsible digital citizens and look out for possible online dangers. This app will allow parents to harness the potential of the cyber world and better connect with their children and help families grow closer with mutual understanding and respect.<br>The app can be downloaded free from App Store and Google play stores by mobile users in Singapore on any network.</p>
-<p><strong>Schoolbag Articles:</strong></p>
-<ul>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" target="_blank" rel="noopener">Playsafe – Avoid online gaming addiction</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" target="_blank" rel="noopener">Safeguarding your child online</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently" target="_blank" rel="noopener">Exploring Online, Safely and Confidently</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" target="_blank" rel="noopener">Parents,the Guardians of Internet Safety</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" target="_blank" rel="noopener">Guidefor Parents on Setting Parental Controls</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" target="_blank" rel="noopener">UnderstandingCyber Wellness</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigating the Cyber World Safely</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
-</ul>
-<p><strong>Weblinks:</strong></p>
-<ul>
-<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
-<li><a href="https://www.betterinternet.sg/">Media Literacy Council (MLC)</a></li>
-<li><a href="https://www.commonsensemedia.org/">Common Sense Media: Age-Based Media Reviews for Families</a></li>
-</ul>
-<p><strong>Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
-<ul>
-<li><a href="/files/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child.pdf">[Parent Kit] Raising A Digitally Smart Child</a></li>
 
+<p><strong>From MOE:</strong></p>
+<ul>
+<li><a href="https://go.gov.sg/parentstheguardiansofinternetsafety" target="_blank" rel="noopener">Parents, the guardians of internet</a></li>
+<li><a href="https://go.gov.sg/guideforparentsonsettingparentalcontrols" target="_blank" rel="noopener">Guide for parents on setting parental controls</a></li>
+<li><a href="https://go.gov.sg/understandingcyberwellness" target="_blank" rel="noopener">Understanding cyber wellness</a></li>
+<li><a href="https://go.gov.sg/navigatingthecyberworldsafely" target="_blank" rel="noopener">Navigating the cyber world safely</a></li>
+<li><a href="https://go.gov.sg/ictinschools" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://go.gov.sg/playsafe" target="_blank" rel="noopener">Play safe – avoid online gaming addiction</a></li>
+<li><a href="https://go.gov.sg/safeguardingyourchildonline" target="_blank" rel="noopener">Safeguarding your child online</a></li>
+<li><a href="https://go.gov.sg/exploringonlinesafelyandconfidently" target="_blank" rel="noopener">Exploring online, safely and confidently</a></li>
+<li><a href="https://go.gov.sg/keepingourteenssafeonline" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf" target="_blank" rel="noopener">Parent kit - Supporting your child during full home-based learning</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" target="_blank" rel="noopener">Parent kit - Cyber wellness for your child</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" target="_blank" rel="noopener">Parent Kit - Raising A Digitally Smart Child</a></li>
+	</ul>
+
+
+
+<p><strong>From External Agencies:</strong></p>
+<ul>
+<li><a href="https://www.betterinternet.sg/" target="_blank" rel="noopener">Media Literacy Council</a></li>
+<li><a href="https://www.scamalert.sg/resources/videos" target="_blank" rel="noopener">National Crime Prevention Council</a></li>
+<li><a href="https://sure.nlb.gov.sg/" target="_blank" rel="noopener">S.U.R.E. by National Library Board</a></li>
+<li><a href="https://csa.gov.sg/programmes/sg-cyber-safe-students" target="_blank" rel="noopener">Cyber Security Agency</a></li>
+<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
+<li><a href="https://www.commonsensemedia.org/" target="_blank" rel="noopener">Common Sense Media: Age-Based Media Reviews for Families</a></li>
+</ul>
+<p><strong>Other Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
+<ul>
+<li><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/talking-to-your-child-about-internet-safety" target="_blank" rel="noopener">Talking to Your Child on Internet Safety</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
