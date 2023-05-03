@@ -23,6 +23,6 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 <p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p><strong>Selection Process</strong></p>
-<p>All applicants will be required to participate in an in-person interview and CCA trial from 27 June to 21 August 2022. Candidates will be assessed based on their Primary School records as well as performance in the interview and CCA trial.&nbsp;</p>
-<p>All applicants will be informed of the outcome of the selection process (Confirmed Offer, Waiting List or Unsuccessful) by&nbsp;<strong>12 September 2022.</strong></p>
+<p>All applicants will be required to participate in an in-person interview and CCA trial from 26 June to 11 September 2023. Candidates will be assessed based on their Primary School records as well as performance in the interview and CCA trial.&nbsp;</p>
+<p>All applicants will be informed of the outcome of the selection process (Confirmed Offer, Waiting List or Unsuccessful) by&nbsp;<strong>14 September 2023.</strong></p>
 <p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 - 4.</p>
