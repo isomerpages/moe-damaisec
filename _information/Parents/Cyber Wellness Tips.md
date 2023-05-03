@@ -36,6 +36,17 @@ Students need to:</p>
   <li>be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society).</li>
   <li>advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).</li>
 </ul>
+
+<p><strong><u>The 3 Cyber Wellness Key Messages</u></strong></p>
+
+<ul>
+ <li>Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities. </li>
+ <li>Be a safe and responsible user of technology and maintain a positive online presence. </li>
+ <li>Be responsible for personal well-being in the cyberspace. </li>
+</ul>
+
+
+
 <p><u><strong>MOE’S&nbsp;</strong><strong>Cyber-Wellness Education<br></strong></u>Cyber-wellness Education comprises&nbsp;</p>
 <p>a) the CW lessons in the formal curriculum and&nbsp;<br>
 b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.</p>
