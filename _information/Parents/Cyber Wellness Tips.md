@@ -172,7 +172,7 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <li><a href="https://sure.nlb.gov.sg/" target="_blank" rel="noopener">S.U.R.E. by National Library Board</a></li>
 <li><a href="https://csa.gov.sg/programmes/sg-cyber-safe-students" target="_blank" rel="noopener">Cyber Security Agency</a></li>
 <li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
-<li><a href="https://www.commonsensemedia.org/">Common Sense Media: Age-Based Media Reviews for Families</a></li>
+<li><a href="https://www.commonsensemedia.org/" target="_blank" rel="noopener">Common Sense Media: Age-Based Media Reviews for Families</a></li>
 </ul>
 <p><strong>Other Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
 <ul>
