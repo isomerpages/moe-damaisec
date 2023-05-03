@@ -164,20 +164,13 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 	</ul>
 
 
-<p><strong>Schoolbag Articles:</strong></p>
+
+<p><strong>From External Agencies:</strong></p>
 <ul>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction" target="_blank" rel="noopener">Playsafe – Avoid online gaming addiction</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" target="_blank" rel="noopener">Safeguarding your child online</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently" target="_blank" rel="noopener">Exploring Online, Safely and Confidently</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" target="_blank" rel="noopener">Parents,the Guardians of Internet Safety</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls" target="_blank" rel="noopener">Guidefor Parents on Setting Parental Controls</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" target="_blank" rel="noopener">UnderstandingCyber Wellness</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely" target="_blank" rel="noopener">Navigating the Cyber World Safely</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
-</ul>
-<p><strong>Weblinks:</strong></p>
-<ul>
+<li><a href="https://www.betterinternet.sg/" target="_blank" rel="noopener">Media Literacy Council</a></li>
+<li><a href="https://www.scamalert.sg/resources/videos" target="_blank" rel="noopener">National Crime Prevention Council</a></li>
+<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
+<li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
 <li><a href="https://bullyfree.sg/parents/" target="_blank" rel="noopener">Managing Bullying</a></li>
 <li><a href="https://www.betterinternet.sg/">Media Literacy Council (MLC)</a></li>
 <li><a href="https://www.commonsensemedia.org/">Common Sense Media: Age-Based Media Reviews for Families</a></li>
