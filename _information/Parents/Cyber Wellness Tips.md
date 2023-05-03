@@ -6,6 +6,9 @@ third_nav_title: Parents
 ---
 <p><strong><u>What is Cyber-Wellness?</u></strong></p>
 <p>Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.</p>
+
+<p> Cyber Wellness in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p>
+
 <p><strong><u>MOE Cyber-Wellness Framework</u></strong>
 <img src="/images/cyber1.png">
 </p><p>MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.</p>
