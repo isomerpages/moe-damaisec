@@ -151,17 +151,16 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <ul>
 <li><a href="https://go.gov.sg/parentstheguardiansofinternetsafety" target="_blank" rel="noopener">Parents, the guardians of internet</a></li>
 <li><a href="https://go.gov.sg/guideforparentsonsettingparentalcontrols" target="_blank" rel="noopener">Guide for parents on setting parental controls</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
-<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://go.gov.sg/understandingcyberwellness" target="_blank" rel="noopener">Understanding cyber wellness</a></li>
+<li><a href="https://go.gov.sg/navigatingthecyberworldsafely" target="_blank" rel="noopener">Navigating the cyber world safely</a></li>
+<li><a href="https://go.gov.sg/ictinschools" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://go.gov.sg/playsafe" target="_blank" rel="noopener">Play safe – avoid online gaming addiction</a></li>
+<li><a href="https://go.gov.sg/safeguardingyourchildonline" target="_blank" rel="noopener">Safeguarding your child online</a></li>
+<li><a href="https://go.gov.sg/exploringonlinesafelyandconfidently" target="_blank" rel="noopener">Exploring online, safely and confidently</a></li>
+<li><a href="https://go.gov.sg/keepingourteenssafeonline" target="_blank" rel="noopener">Keeping our teens safe online</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf" target="_blank" rel="noopener">Parent kit - Supporting your child during full home-based learning</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" target="_blank" rel="noopener">Parent kit - Cyber wellness for your child</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" target="_blank" rel="noopener">Parent Kit - Raising A Digitally Smart Child</a></li>
 	</ul>
 
 
