@@ -176,6 +176,7 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 </ul>
 <p><strong>Other Useful Cyber-Wellness References (Please click on links to download.)</strong></p>
 <ul>
+<li><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/talking-to-your-child-about-internet-safety" target="_blank" rel="noopener">Talking to Your Child on Internet Safety</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a></li>
 <li><a href="/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a></li>
