@@ -146,6 +146,25 @@ b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinfor
 <p>The notAnoobie mobile app, developed by Singtel and TOUCH Cyber Wellness, aims to help parents understand and follow cyber-related developments and issues such as gaming, mobile technology and device addiction, social media dos and don’ts, as well as identifying and stopping cyber bullying, inappropriate content online and protecting personal privacy online. The app content includes articles, reviews, success stories, quizzes and daily tips.</p>
 <img style="width: 40%" src="/images/cyber3.png" align="left">
 <p>With this app, parents can now be armed with the knowledge on-the-go and help educate their children to be responsible digital citizens and look out for possible online dangers. This app will allow parents to harness the potential of the cyber world and better connect with their children and help families grow closer with mutual understanding and respect.<br>The app can be downloaded free from App Store and Google play stores by mobile users in Singapore on any network.</p>
+
+<p><strong>From MOE:</strong></p>
+<ul>
+<li><a href="https://go.gov.sg/parentstheguardiansofinternetsafety" target="_blank" rel="noopener">Parents, the guardians of internet</a></li>
+<li><a href="https://go.gov.sg/guideforparentsonsettingparentalcontrols" target="_blank" rel="noopener">Guide for parents on setting parental controls</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
+	</ul>
+
+
 <p><strong>Schoolbag Articles:</strong></p>
 <ul>
 <li><a href="https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use" target="_blank" rel="noopener">ICT in Schools: To Use or Not to Use?</a></li>
