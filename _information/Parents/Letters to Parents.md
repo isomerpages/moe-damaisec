@@ -28,6 +28,16 @@ third_nav_title: Parents
 
 
 	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/careers day, 8 may 2023.pdf"><span style="text-decoration:none;color:#FAA156">Careers Day, 8 May 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/triple p l2 flyer_peer relationships.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
 	
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/5 may digital skills workshop.pdf"><span style="text-decoration:none;color:#FAA156">5 May Digital Skills Workshop</span></a></td>
