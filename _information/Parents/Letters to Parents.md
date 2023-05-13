@@ -41,9 +41,9 @@ third_nav_title: Parents
   </tr>
 	
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 4 inter-class games (handball).pdf"><span style="text-decoration:none;color:#FAA156">Sec 4 Inter-Class Games (Handball)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4</span><br></td>
   </tr>
 	
 <tr>
