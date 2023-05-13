@@ -26,7 +26,49 @@ third_nav_title: Parents
 </thead>
 <tbody>
 
-
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 2 via teaching digital skills to senior citizens.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 VIA: Teaching Digital Skills to Senior Citizens</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 el day letter.pdf"><span style="text-decoration:none;color:#FAA156">English Language (EL) Day</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+	
+	
+	
+	
+	
+	
 	
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/careers day, 8 may 2023.pdf"><span style="text-decoration:none;color:#FAA156">Careers Day, 8 May 2023</span></a></td>
