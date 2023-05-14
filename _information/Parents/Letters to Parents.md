@@ -28,13 +28,63 @@ third_nav_title: Parents
 
 
 	
+	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 1 inter-class games (football).pdf"><span style="text-decoration:none;color:#FAA156">Sec 1 Inter-Class Games (Football)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 2 inter-class games (floorball).pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 Inter-Class Games (Floorball)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 3 inter-class games (badminton).pdf"><span style="text-decoration:none;color:#FAA156">Sec 3 Inter-Class Games (Badminton)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 4 inter-class games (handball).pdf"><span style="text-decoration:none;color:#FAA156">Sec 4 Inter-Class Games (Handball)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/learning journey to edible garden city (secondary 1) 104 105.pdf"><span style="text-decoration:none;color:#FAA156">Learning Journey to Edible Garden City (Secondary 104, 105) </span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> 8 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">104, 105</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/sec 2 via teaching digital skills to senior citizens.pdf"><span style="text-decoration:none;color:#FAA156">Sec 2 VIA: Teaching Digital Skills to Senior Citizens</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 el day letter.pdf"><span style="text-decoration:none;color:#FAA156">English Language (EL) Day</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+	
+	
+	
+	
+	
+	
+	
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/careers day, 8 may 2023.pdf"><span style="text-decoration:none;color:#FAA156">Careers Day, 8 May 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 May 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
   </tr>
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/triple p l2 flyer_peer relationships.pdf"><span style="text-decoration:none;color:#FAA156">Peer Relationships Webinars &amp; Kopi Session for Grandparents by Morning Star (May 2023)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/peer relationships webinars &amp; kopi session for grandparents by morning star (may 2023).pdf"><span style="text-decoration:none;color:#FAA156">Peer Relationships Webinars &amp; Kopi Session for Grandparents by Morning Star (May 2023)</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 May 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
   </tr>
