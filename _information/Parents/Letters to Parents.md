@@ -26,7 +26,14 @@ third_nav_title: Parents
 </thead>
 <tbody>
 
-
+	
+	
+	
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2023 Applied Learning Modules ApLM@ITE</span><br><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 aplm@ite (design and build your glider).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE - Design and Build Your Glider)</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 aplm@ite (mobile robot in mechatronics).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE - Mobile Robot in Mechatronics)</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 aplm@ite (fitness for life).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE – Fitness for Life)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">9 Jan 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4</span></td>
+  </tr>
 	
 	
 	
