@@ -30,15 +30,21 @@ third_nav_title: Parents
 	
 	
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/preliminary examinations.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4/5 Preliminary Examinations</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">23 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/semangat yang baru forging a new singapore spirit.pdf"><span style="text-decoration:none;color:#FAA156">Semangat yang Baru: Forging a new Singapore Spirit</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">301, 302</span><br></td>
   </tr>
 
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/registration of singpass account for all sec 4 and sec 5 students.pdf"><span style="text-decoration:none;color:#FAA156">Registration of Singpass account for all Sec 4 and Sec 5 students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
   </tr>
 
 <tr>
