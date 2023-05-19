@@ -4,9 +4,11 @@ permalink: /information/students/assessment-matters/
 description: ""
 third_nav_title: Students
 ---
-**2023 Schedule of Weighted Assessments**  
+**2023 Preliminary Examination Timetable**  
 
-* [Schedule of Weighted Assessments (Sec 1)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%201.pdf)  
+* [undefined](files/Information/Students/Assessment/2023/2023 4n(a) preliminary exam timetable.pdf)
+* Secondary 4NT
+* Secondary 4E/5NA
 
 
 **2023 Schedule of Weighted Assessments**  
