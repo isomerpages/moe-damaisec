@@ -6,10 +6,9 @@ third_nav_title: Students
 ---
 **2023 Preliminary Examination Timetable**  
 
-* [undefined](files/Information/Students/Assessment/2023/2023 4n(a) preliminary exam timetable.pdf)
-* Secondary 4NT
-* Secondary 4E/5NA
-
+* <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(a) preliminary exam timetable.pdf">Secondary 4NA </a>
+* <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(t) preliminary exam timetable.pdf">Secondary 4NT </a>
+* <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4e5na preliminary exam timetable.pdf">Secondary 4E/5NA </a>
 
 **2023 Schedule of Weighted Assessments**  
 
