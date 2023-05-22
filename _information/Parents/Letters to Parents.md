@@ -26,7 +26,32 @@ third_nav_title: Parents
 </thead>
 <tbody>
 
+
 	
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/preliminary examinations.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 4/5 Preliminary Examinations</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">23 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/semangat yang baru forging a new singapore spirit.pdf"><span style="text-decoration:none;color:#FAA156">Semangat yang Baru: Forging a new Singapore Spirit</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">301, 302</span><br></td>
+  </tr>
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/registration of singpass account for all sec 4 and sec 5 students.pdf"><span style="text-decoration:none;color:#FAA156">Registration of Singpass account for all Sec 4 and Sec 5 students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
+  </tr>
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/travel declaration for mid-year school holiday.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for Mid-Year School Holiday</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">16 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 aplm@schools.pdf"><span style="text-decoration:none;color:#FAA156">2023 Applied Learning Modules (ApLM@Schools)</span></a></td>

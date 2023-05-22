@@ -4,7 +4,13 @@ permalink: /information/students/assessment-matters/
 description: ""
 third_nav_title: Students
 ---
+**2023 Preliminary Examination Timetable**  
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(a) preliminary exam timetable.pdf">Secondary 4NA </a> </td><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(t) preliminary exam timetable.pdf">Secondary 4NT </a> </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4e5na preliminary exam timetable.pdf">Secondary 4E/5NA </a></td></tr></thead></table>
+
+
 **2023 Schedule of Weighted Assessments**  
+
 
 * [Schedule of Weighted Assessments (Sec 1)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%201.pdf)  
 * [Schedule of Weighted Assessments (Sec 2)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%202.pdf)  
