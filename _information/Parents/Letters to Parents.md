@@ -26,7 +26,17 @@ third_nav_title: Parents
 </thead>
 <tbody>
 
-
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/polytechnic early admission exercise (eae).pdf"><span style="text-decoration:none;color:#FAA156">Polytechnic Early Admission Exercise (EAE)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">23 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402</span><br></td>
+  </tr>
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/invitation to attend moneysense for your child programmes.pdf"><span style="text-decoration:none;color:#FAA156">Invitation to attend MoneySense for Your Child (For Parents of Primary and Secondary School goers) programmes</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">23 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 	
 	
 <tr>
