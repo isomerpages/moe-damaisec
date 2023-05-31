@@ -28,9 +28,9 @@ third_nav_title: Parents
 
 
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Joint Advisory for June Holidays</span><br><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/spf joint school_secondary_jc infographic 1.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">SPF Joint School Secondary JC Infographic</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 6 - vape prevention_a3 poster.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE - Mobile Robot in Mechatronics)</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/2023 aplm@ite (fitness for life).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE – Fitness for Life)</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">16 May 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 (NA/NT)</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Joint Advisory for June Holidays</span><br><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/spf joint school_secondary_jc infographic 1.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">SPF Joint School Secondary JC Infographic</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 6 - vape prevention_a3 poster.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Vape Prevention Poster</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 7 - hpb-hsa joint advisory to parents and students_may 2023.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">HPB-HSA Joint Advisory</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">31 May 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span></td>
   </tr>
 		
 	
