@@ -57,23 +57,8 @@ third_nav_title: Parents
   </tr>
 </thead>
 	
-
-
-
-
-</table><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
-    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
-    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
-  </tr>
-</thead>
-<tbody>
-
 	
-	
-<tr>
+<tbody><tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 5 - act and scamshield infographic for moe (special broadcast).pdf"><span style="text-decoration:none;color:#FAA156">Special Broadcast on ACT and ScamShield</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 June 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
