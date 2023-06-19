@@ -4,10 +4,19 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<p></p><h4><strong>Term 3</strong></h4>
+<h4><strong>Term 3</strong></h4>
 
-
-<ul class="jekyllcodex_accordion">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+<p></p><ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Term 2</label><div>
@@ -22,7 +31,20 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<p></p><table class="tg">
+<p></p></div></li></ul><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+	
+
+
+
+
+</table><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -309,7 +331,7 @@ third_nav_title: Parents
 		
 </tbody></table>
 
-</div></li><li><input type="checkbox" id="accordion1">
+<li><input type="checkbox" id="accordion1">
 <label for="accordion1">Term 1</label><div>
 
 <style type="text/css">
@@ -520,4 +542,4 @@ third_nav_title: Parents
 
 
 	
-</table></div></li></ul>
+</table></div></li>
