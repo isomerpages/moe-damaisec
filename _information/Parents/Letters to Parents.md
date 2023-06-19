@@ -33,11 +33,12 @@ third_nav_title: Parents
 
 
 
-<p></p><ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Term 2</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -48,7 +49,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<p></p></div></li></ul><table class="tg">
+</p><p></p></div></li></ul><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -330,11 +331,13 @@ third_nav_title: Parents
 </tr>
 
 </tbody></table>
+<p></p>
 
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">Term 1</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -345,7 +348,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<p></p><table class="tg">
+</p><p></p><p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -536,6 +539,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
 </tbody>
+
+
 
 
 
