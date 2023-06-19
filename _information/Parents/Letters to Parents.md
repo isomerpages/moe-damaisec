@@ -35,8 +35,7 @@ third_nav_title: Parents
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Insert Accordion Title here</label><div>  
-<p>Insert content here</p>  
-</div></li>  
+<p>Insert content here
   
 
 
@@ -51,7 +50,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<p></p><p></p><table class="tg">
+</p><p></p><p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -333,14 +332,13 @@ third_nav_title: Parents
 </tr>
 
 </tbody></table>
-<p></p>
+<p></p>  
+</div></li>  
 
 
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Insert Accordion Title here</label><div>  
-<p>Insert content here
-
-</p><p>
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Term 1</label><div>  
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
