@@ -4,6 +4,25 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Insert Accordion Title here</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">Insert Accordion Title here</label><div>
+<p>Insert content here</p>
+</div></li>
+
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Insert Accordion Title here</label><div>
+<p>Insert content here</p>
+</div></li>
+
+</ul>
+
 <h4><strong>Term 2</strong></h4>
 
 <style type="text/css">
@@ -508,4 +527,5 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
 </tbody>
+	
 </table>
