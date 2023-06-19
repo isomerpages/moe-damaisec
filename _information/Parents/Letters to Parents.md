@@ -6,18 +6,13 @@ third_nav_title: Parents
 ---
 <ul class="jekyllcodex_accordion">
 
-<li><input type="checkbox" id="accordion1">
-<label for="accordion1">Insert Accordion Title here</label><div>
-<p>Insert content here</p>
-</div></li>
-
 <li><input type="checkbox" id="accordion2">
-<label for="accordion2">Insert Accordion Title here</label><div>
+<label for="accordion2">Term 2</label><div>
 <p>Insert content here</p>
 </div></li>
 
-<li><input type="checkbox" id="accordion3">
-<label for="accordion3">Insert Accordion Title here</label><div>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Term 1</label><div>
 <p>Insert content here</p>
 </div></li>
 
