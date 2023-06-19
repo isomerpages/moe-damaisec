@@ -538,9 +538,9 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
-</tbody>
+</tbody></table>
 
-
+&lt;\ul&gt;
 
 
 
@@ -548,4 +548,4 @@ third_nav_title: Parents
 
 
 	
-</table></div></li>
+</div></li>
