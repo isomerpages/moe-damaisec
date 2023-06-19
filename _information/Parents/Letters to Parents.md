@@ -8,12 +8,11 @@ third_nav_title: Parents
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Term 2</label><div>
-<p>Insert content here</p>
-</div></li>
+<p>Insert content here
 
 
 
-<h4><strong>Term 2</strong></h4>
+</p><h4><strong>Term 2</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -25,7 +24,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -307,11 +306,12 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
 </tr>
-		
+
+
 		
 </tbody></table>
 
-<li><input type="checkbox" id="accordion1">
+</div></li><li><input type="checkbox" id="accordion1">
 <label for="accordion1">Term 1</label><div>
 <p>
 
