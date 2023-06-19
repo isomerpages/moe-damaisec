@@ -4,13 +4,13 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
+<p></p><h4><strong>Term 3</strong></h4>
+
+
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Term 2</label><div>
-<p>
-
-</p><h4><strong>Term 2</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
