@@ -311,9 +311,6 @@ third_nav_title: Parents
 
 </div></li><li><input type="checkbox" id="accordion1">
 <label for="accordion1">Term 1</label><div>
-<p>
-
-</p><h4><strong>Term 1</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -516,6 +513,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
 </tbody>
+
+
 
 
 
