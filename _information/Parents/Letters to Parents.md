@@ -8,9 +8,7 @@ third_nav_title: Parents
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Term 2</label><div>
-<p>Insert content here
-
-
+<p>
 
 </p><h4><strong>Term 2</strong></h4>
 
