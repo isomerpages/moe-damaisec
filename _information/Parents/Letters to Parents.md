@@ -33,12 +33,9 @@ third_nav_title: Parents
 
 <ul class="jekyllcodex_accordion">  
   
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Insert Accordion Title here</label><div>  
-<p>Insert content here
-  
-
-
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Term 2</label><div>  
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
