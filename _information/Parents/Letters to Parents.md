@@ -4,7 +4,7 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 2</strong></h4>
+<h4><strong>Term 3</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -16,7 +16,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -24,8 +24,44 @@ third_nav_title: Parents
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
   </tr>
 </thead>
-<tbody>
+	<tbody>
+		
 
+
+</tbody></table>
+
+
+<ul class="jekyllcodex_accordion">  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Term 2</label><div>  
+<p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+</p><p></p><p></p><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+	
+	
+<tbody><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 5 - act and scamshield infographic for moe (special broadcast).pdf"><span style="text-decoration:none;color:#FAA156">Special Broadcast on ACT and ScamShield</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 June 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 
   <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Joint Advisory for June Holidays</span><br><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/spf joint school_secondary_jc infographic 1.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">SPF Secondary JC Infographic</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 6 - vape prevention_a3 poster.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">Vape Prevention Poster</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 2/attachment 7 - hpb-hsa joint advisory to parents and students_may 2023.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">HPB-HSA Joint Advisory</span></a></td>
@@ -291,15 +327,15 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Mar 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
 </tr>
-		
-		
+
 </tbody></table>
+<p></p>  
+</div></li>  
 
 
-
-
-<h4><strong>Term 1</strong></h4>
-
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Term 1</label><div>  
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -310,7 +346,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</p><p></p><p></p><p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -500,5 +536,9 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
-</tbody>
-</table>
+		
+  
+
+	
+
+</tbody></table></div></li></ul>

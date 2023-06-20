@@ -9,10 +9,10 @@ One of the components of the NDLP is the introduction of the Personal Learning D
 
 ![](/images/Digital%20Literacy%20Skills.png)
 
-Through the NDLP, Damai Secondary School aims to develop **_Future-Ready_** and **_Responsible Digital Learners_** who are:
+Through the NDLP, Damai Secondary School aims to develop&nbsp;**_Future-Ready_**&nbsp;and&nbsp;**_Responsible Digital Learners_**&nbsp;who are:
 
 *   self-directed and collaborative in their learning,
-*   equipped with 21st Century Competencies and Digital Literacies, and
+*   equipped with 21st&nbsp;Century Competencies and Digital Literacies, and
 *   imbued with sound moral values to be responsible users of technology.
 
 **Personal Learning Device**
@@ -21,22 +21,21 @@ At DSS, every student will be using the Apple iPad as their personal learning de
 
 The iPad is a lightweight device that offers students convenient learning on-the-move and is relatively easy to use. A full charge of the battery typically allows students to use the iPad for the entire curriculum hours. It allows for a seamless learning experience with existing teaching and learning technologies such as the Singapore Student Learning Space, Microsoft 365 and Google Suite, in addition to native Apple apps.
 
-<img src="/images/NDLP.png" 
-     style="width:75%">
+<img src="/images/NDLP.png" style="width:75%">
 		 
 **Financial Assistance**
 
 The cost of the device bundle can be paid using the student's Edusave account, after setting aside provision for payment of second tier miscellaneous fees.
 
-To ensure the affordability of devices, MOE has provided Edusave top-ups in 2020 to 2022 ($200 in each year) to all eligible SC students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.
+To ensure the affordability of devices, MOE has provided Edusave top-ups in 2020 to 2022 ($200 in each year) to all eligible SC students in primary and secondary schools.&nbsp;This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.
 
 Students under the MOE Financial Assistance Scheme for the year will automatically be subsidised for the PLD. Students who are currently not under the MOE Financial Assistance Scheme may approach the General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,400 or less, or Per Capita Income (PCI) is $1,100 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household.
 
-**Sec 1 Parents Letter & Briefing**
+**Sec 1 Parents Letter &amp; Briefing**
 
-[National Digital Literacy Programme (NDLP) 2023 Parents Letter](/files/To%20upload%20NDLP%20Briefing%20for%20Parents%202023.pdf)
+[National Digital Literacy Programme (NDLP) 2023 Parents Letter](/files/National%20Digital%20Literacy%20Programme%20NDLP%202023%20For%20Parents.pdf)
 
-[NDLP Briefing for Parents 2023](/files/National%20Digital%20Literacy%20Programme%20NDLP%202023%20For%20Parents.pdf)  
+[NDLP Briefing for Parents 2023](/files/To%20upload%20NDLP%20Briefing%20for%20Parents%202023.pdf)
 
 **Any Queries**  
 
@@ -44,9 +43,9 @@ Please refer to the following set of Frequently Asked Questions.
 
 [PLD Initiative FAQ for Parents](/files/PLD%20Initiative%20FAQ%20for%20Parents.pdf)  
 
-More details regarding the Device Management Application (DMA) can be found [here](/information/parents/device-management-application).
+More details regarding the Device Management Application (DMA) can be found&nbsp;[here](/information/parents/device-management-application).
 
-For any other queries on the NDLP, please contact the HOD ICT, Mr Loh Yan Xiang via his email [loh_yan_xiang@schools.gov.sg](mailto:Loh_yan_xiang@schools.gov.sg).
+For any other queries on the NDLP, please contact&nbsp;the HOD ICT, Mr Loh Yan Xiang via his email&nbsp;[loh_yan_xiang@schools.gov.sg](mailto:Loh_yan_xiang@schools.gov.sg).
 
 **Parent Handbook**
 
