@@ -14,7 +14,7 @@ description: ""
 <td>AM</td>
 </tr>
 <tr>
-<td><a href="mailto:Chew_Eng_heng@schools.gov.sg" target="">Mr Chew Eng Heng</a></td>
+<td><a href="mailto:Chew_Eng_heng@schools.gov.sg" target="">Mr Albert Chew Eng Heng</a></td>
 <td>OM</td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ description: ""
 <td>CSO&nbsp;</td>
 </tr>
 <tr>
-<td>Mr Ramli Sinin</td>
+<td>Mr Ramli Bin Sinin</td>
 <td>TSO&nbsp;</td>
 </tr>
 <tr>
@@ -50,11 +50,11 @@ description: ""
 <td>OSO</td>
 </tr>
 <tr>
-<td>Mr Mohd Latiff Vin Leman<br /></td>
-<td>OSO<br /></td>
+<td>Mr Mohd Latiff Vin Leman<br></td>
+<td>OSO<br></td>
 </tr>
 <tr>
-<td>Mr Tan Wan Watt&nbsp;<br /></td>
+<td>Mr Tan Wan Watt&nbsp;<br></td>
 <td>OSO</td>
 </tr>
 <tr>
