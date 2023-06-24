@@ -14,6 +14,8 @@ third_nav_title: Form Teachers
 |[Mr Tong Coleman](mailto:Tong_Coleman@schools.gov.sg)|303
 |[Mr Leroy Lee Wen Hock](mailto:lee_wen_hock_leroy@schools.gov.sg)|304
 |[Ms Nurmin Bte Ahmad](mailto:nurmin_ahmad@schools.gov.sg)|304
+|[Mr Tan Jun Ming](mailto:tan_Jun_Ming@schools.gov.sg)|304
 |[Mdm Choo Lee Ming](mailto:choo_lee_ming@schools.gov.sg)|305
 |[Mr Christopher Hoan Mow Kim](mailto:hoan_mow_kim@schools.gov.sg)|305
+|[Mr Chen Jingyang](mailto:chen_jing_yang@schools.gov.sg)|305
 ||
