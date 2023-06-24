@@ -17,4 +17,5 @@ third_nav_title: Form Teachers
 |[Mr Te Chee Hui](mailto:te_chee_hui@schools.gov.sg)|104
 |[Mdm Tan Boon Siew](mailto:tan_boon_siew@schools.gov.sg)|105
 |[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|105
+|[Mr Ong Rui Xiang Ray](mailto:ong_rui_xiang@schools.gov.sg)|105
 ||||
