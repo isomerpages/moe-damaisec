@@ -7,6 +7,7 @@ third_nav_title: Form Teachers
 | Form Teacher | Class| 
 | -------- | -------- | 
 |[Miss See Pei Zhen](mailto:see_pei_zhen@schools.gov.sg)|301
+|[Miss Andrea Wong Jie Yi](mailto:wong_jie_yi_andrea@schools.gov.sg)|301
 |[Mdm Georgina Low Yuesi](mailto:Low_Yuesi_Georgina@schools.gov.sg)|302
 |[Mdm Rahmayani Fitri Bte Rohaizat](mailto:rahmayani_fitri_rohaizat@schools.gov.sg)|302
 |[Mrs Clara Chng Xuehui](mailto:ong_xuehui_clara@schools.gov.sg)|303
