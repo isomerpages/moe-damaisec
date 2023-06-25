@@ -10,6 +10,7 @@ third_nav_title: Departments
 |[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|SH/ML
 |[Mr Amir Mizra s/o Abdul Majid](mailto:amir_mizra_abdul_majid@schools.gov.sg)|ST/ML
 |[Mrs Yiow Yee Ling](mailto:yap_yee_ling@schools.gov.sg)|ST/CL
+|[Miss Andrea Wong Jie Yi](mailto:wong_jie_yi_andrea@schools.gov.sg)|Teacher
 |[Miss Katijah Bte Juni](mailto:katijah_juni@schools.gov.sg)|Teacher
 |[Ms Mary Goh Hwee Ling](mailto:goh_hwee_ling_mary@schools.gov.sg)|Teacher
 |[Mdm Noorhafizah Bte Syed Yusof Shah](mailto:noorhafizah_syed_yusof_sha@schools.gov.sg)|Teacher

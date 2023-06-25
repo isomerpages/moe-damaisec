@@ -12,6 +12,7 @@ third_nav_title: Departments
 |[Mrs Rachel Teo Koh Yu Lin](mailto:yu_lin_rachel_koh@schools.gov.sg)|SH/SWB
 |[Mdm Nur Diyana](mailto:nur_diyana_osman@schools.gov.sg)|SH/Discipline
 |[Mr Lim Jing Kai](mailto:lim_jing_kai@schools.gov.sg)|SH/Discipline
+|[Ms Dolly Khoo Xuan](mailto:dolly_khoo@schools.gov.sg)|Teacher
 |[Mdm Rahmayani Fitri Bte Rohaizat](mailto:rahmayani_fitri_rohaizat@schools.gov.sg)|Teacher
 |[Miss See Pei Zhen](mailto:see_pei_zhen@schools.gov.sg)|Teacher
 |[Mr Tan Wei Zhi](mailto:tan_wei_zhi@schools.gov.sg)|Teacher
