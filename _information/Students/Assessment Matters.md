@@ -14,13 +14,6 @@ third_nav_title: Students
 * <a href="/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 June 2023.pdf">Schedule of Weighted Assessments 3 (Sec 1 - 3)</a>
 
 
-
-**2023 Scheme of Assessment (Semester 1)**
-* [Scheme of Assessment (Sec 1)](/files/Scheme%20of%20Assessment%20Sec%201.pdf)  
-* [Scheme of Assessment (Sec 2)](/files/Scheme%20of%20Assessment%20Sec%202.pdf)  
-* [Scheme of Assessment (Sec 3)](/files/Scheme%20of%20Assessment%20Sec%203.pdf)  
-* [Scheme of Assessment (Sec 4&amp;5)](/files/Scheme%20of%20Assessment%20Sec%2045.pdf)
-
 **PHILOSOPHY**  
 Effective and meaningful assessments are essential elements that support students in acquiring the skills and competencies necessary to lead a purposeful and meaningful life. In Damai Secondary, we seek to provide quality student-centric academic programmes that will enable students to develop their potential and meet future challenges. Assessment provides students, teachers, parents and stakeholders with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry and teaching and learning process. It must thus be ongoing, unbiased, and designed to meet the needs of our diverse learning community.&nbsp;  
   
