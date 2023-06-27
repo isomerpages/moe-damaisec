@@ -11,16 +11,8 @@ third_nav_title: Students
 
 **2023 Schedule of Weighted Assessments**  
 
-
-
 * <a href="/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 June 2023.pdf">Schedule of Weighted Assessments 3 (Sec 1 - 3)</a>
 
-* [Schedule of Weighted Assessments 3 (Sec 1 - 3)] (/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 June 2023.pdf)
-
-
-
-
-* [Schedule of Weighted Assessments 3 (Sec 1 - 3 ](/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 june 2023.pdf)  
 
 
 **2023 Scheme of Assessment (Semester 1)**
