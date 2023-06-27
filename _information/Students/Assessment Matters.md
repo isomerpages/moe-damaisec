@@ -12,10 +12,16 @@ third_nav_title: Students
 **2023 Schedule of Weighted Assessments**  
 
 
-* [Schedule of Weighted Assessments (Sec 1)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%201.pdf)  
-* [Schedule of Weighted Assessments (Sec 2)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%202.pdf)  
-* [Schedule of Weighted Assessments (Sec 3)](/files/Schedule%20of%20Weighted%20Assessments%20Sec%203.pdf)  
-* [Schedule of Non-Weighted Assessments Sec (4&amp;5)](/files/Schedule%20of%20Non-Weighted%20Assessments%20Sec%204%20%205.pdf)  
+
+* <a href="/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 June 2023.pdf">Schedule of Weighted Assessments 3 (Sec 1 - 3)</a>
+
+* [Schedule of Weighted Assessments 3 (Sec 1 - 3)] (/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 June 2023.pdf)
+
+
+
+
+* [Schedule of Weighted Assessments 3 (Sec 1 - 3 ](/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 june 2023.pdf)  
+
 
 **2023 Scheme of Assessment (Semester 1)**
 * [Scheme of Assessment (Sec 1)](/files/Scheme%20of%20Assessment%20Sec%201.pdf)  
