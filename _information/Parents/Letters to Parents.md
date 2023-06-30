@@ -26,6 +26,19 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
+		
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/2023 secondary 1 performing arts-based learning.pdf"><span style="text-decoration:none;color:#FAA156">2023 Secondary 1 Performing Arts-Based Learning</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">26 Jun 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/school health visit and hpv vaccination 2023.pdf"><span style="text-decoration:none;color:#FAA156">School Health Visit and HPV Vaccination 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">22 Jun 2023</span></td>
