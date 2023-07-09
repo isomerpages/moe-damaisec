@@ -46,9 +46,9 @@ third_nav_title: Parents
   </tr>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/submission of email addresses to receive form a for joint admissions exercise (jae).pdf"><span style="text-decoration:none;color:#FAA156">Submission of email addresses by all Sec 4E and 5NA students to receive Form A for Joint Admissions Exercise (JAE)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402</span><br></td>
   </tr>
 		
 <tr>
