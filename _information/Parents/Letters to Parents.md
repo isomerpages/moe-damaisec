@@ -26,23 +26,18 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
-
+		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/enhanced edusave and moe financial assistance schemes and revised miscellaneous fees structure.pdf"><span style="text-decoration:none;color:#FAA156">Enhanced Edusave And Moe Financial Assistance Schemes And Revised Miscellaneous Fees Structure From 2024
+</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">7 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 3</span><br></td>
   </tr>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
-  </tr>
-		
-<tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/parents gateway_ i can act against scams.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Scams</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
   </tr>
 		
 <tr>
