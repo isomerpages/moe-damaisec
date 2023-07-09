@@ -58,9 +58,9 @@ third_nav_title: Parents
   </tr>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/6th speech &amp; prize giving day 7 july 2023.pdf"><span style="text-decoration:none;color:#FAA156">6th Speech &amp; Prize Giving Day 7 July 2023</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Jun 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Students</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/(12 july) semangat yang baru exhibition (sec 2na students).pdf"><span style="text-decoration:none;color:#FAA156">[12 July] Semangat yang Baru exhibition (Sec 2NA students)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2NA</span><br></td>
   </tr>
 		
 <tr>
