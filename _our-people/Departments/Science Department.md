@@ -17,5 +17,6 @@ third_nav_title: Departments
 |[Miss See Pei Zhen](mailto:see_pei_zhen@schools.gov.sg)|Teacher
 |[Mr Tan Wei Zhi](mailto:tan_wei_zhi@schools.gov.sg)|Teacher
 |[Mr Tong Coleman](mailto:Tong_Coleman@schools.gov.sg)|Teacher
+|[Mr Ng Jun Wei](mailto:Ng_Jun_Wei_L@schools.gov.sg)|Teacher
 |Miss Jenny Low Kar Yee|Technical Support Staff (Science Lab)
 ||
