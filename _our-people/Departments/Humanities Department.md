@@ -13,4 +13,4 @@ third_nav_title: Departments
 |[Mrs Clara Chng Xuehui](mailto:ong_xuehui_clara@schools.gov.sg)|Teacher
 |[Ms Deneshwari D/O Thurairaja Singam](mailto:deneshwari_thurairaja_singam@schools.gov.sg)|Teacher
 |[Mr Teo Shu De](mailto:teo_shu_de@schools.gov.sg)|Teacher
-||
+|[Miss Sim Sarah Nicole](mailto:Sim_Sarah_Nicole@schools.gov.sg)|Untrained Teacher|
