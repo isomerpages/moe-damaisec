@@ -26,7 +26,12 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
-		
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/secondary 3nt experience ite programme (eip) at ite college west.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3NT Experience ITE Programme (EIP) at ITE College West</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">305</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/enhanced edusave and moe financial assistance schemes and revised miscellaneous fees structure.pdf"><span style="text-decoration:none;color:#FAA156">Enhanced Edusave And Moe Financial Assistance Schemes And Revised Miscellaneous Fees Structure From 2024
 </span></a></td>
