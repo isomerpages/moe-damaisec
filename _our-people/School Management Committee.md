@@ -21,7 +21,6 @@ description: ""
 [Ms Lenny Marlina](mailto:lenny_marlina_mohamed@schools.gov.sg)|YH/Upper Sec|
 |[Mr Lim Jing Kai](mailto:lim_jing_kai@schools.gov.sg)|SH/Discipline|
 |[Mdm Nur Diyana](mailto:nur_diyana_osman@schools.gov.sg)|SH/Discipline|
-|[Mdm Imelda Norazlina](mailto:imelda_norazlina_zulkefle@schools.gov.sg)|SH/Geog|
 |[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|SH/ML|
 |[Mrs Lee Pei Kee](mailto:chin_pei_kee@schools.gov.sg)|SH/Math|
 |[Mdm Rohasliza Binte Rohmadon](mailto:rohasliza_rohmadon@schools.gov.sg)|SH/NE&VIA|
