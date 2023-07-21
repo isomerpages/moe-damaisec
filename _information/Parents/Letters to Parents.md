@@ -26,7 +26,27 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
-
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/secondary 3 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3 Values in Action (VIA) Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/national day celebration 2023.pdf"><span style="text-decoration:none;color:#FAA156">National Day Celebration 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/secondary 3e ecg fair_worldskills asean.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3E ECG Fair (WorldSkill ASEAN)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">19 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">301, 302</span><br></td>
+  </tr>
+ <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2023 Applied Learning Modules ApLM@ITE</span><br><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 3/2023 applied learning modules (aplm@ite - building models with 3d printer).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE - Building Models with 3D Printer</span></a><br>- <a href="/files/Information/Parents/Parent Letter/2023/Term 3/2023 applied learning modules (aplm@ite - robo-pet my first programmable robot).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FAA156">ApLM@ITE - Robo-Pet: My First Programmable Robot</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">12 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2 (NA/NT)</span></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/secondary 3nt experience ite programme (eip) at ite college west.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3NT Experience ITE Programme (EIP) at ITE College West</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">10 Jul 2023</span></td>
