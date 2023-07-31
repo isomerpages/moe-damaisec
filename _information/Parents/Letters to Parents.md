@@ -26,7 +26,11 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
-		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/school health visit for secondary 1 &amp; 2 female students - hpv vaccination.pdf"><span style="text-decoration:none;color:#FAA156">School Health Visit for Secondary 1 &amp; 2 Female Students - HPV Vaccination</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">24 Jul 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 &amp; 2 Girls</span><br></td>
+  </tr>		
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/secondary 3 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 3 Values in Action (VIA) Programme</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">20 Jul 2023</span></td>
