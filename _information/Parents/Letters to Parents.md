@@ -34,9 +34,9 @@ third_nav_title: Parents
   </tr>
 		
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 2/secondary 1 values in action (via) programme.pdf"><span style="text-decoration:none;color:#FAA156">Secondary 1 Values In Action (VIA) Programme</span></a></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">27 Mar 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/(15 aug 2023) 2na geography learning journey to singapore mobility gallery.pdf"><span style="text-decoration:none;color:#FAA156">[15 AUG 2023] 2NA Geography Learning Journey to Singapore Mobility Gallery</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2NA</span><br></td>
   </tr>
 		
 <tr>
