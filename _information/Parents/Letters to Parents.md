@@ -26,6 +26,36 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/(16 aug 2023) 2e geography learning journey to singapore mobility gallery.pdf"><span style="text-decoration:none;color:#FAA156">[16 AUG 2023] 2E Geography Learning Journey to Singapore Mobility Gallery</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2E</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/(15 aug 2023) 2na geography learning journey to singapore mobility gallery.pdf"><span style="text-decoration:none;color:#FAA156">[15 AUG 2023] 2NA Geography Learning Journey to Singapore Mobility Gallery</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2NA</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/registration of national registration identity card (nric) in school.pdf"><span style="text-decoration:none;color:#FAA156">Registration of National Registration Identity Card (NRIC) in School</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Selected Sec 1 - 3</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/oral examinations for lower secondary.pdf"><span style="text-decoration:none;color:#FAA156">Lower Secondary Oral Examination</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 &amp; 2</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/achieving digital wellness.pdf"><span style="text-decoration:none;color:#FAA156">Achieving Digital Wellness</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">1 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/school health visit for secondary 1 &amp; 2 female students - hpv vaccination.pdf"><span style="text-decoration:none;color:#FAA156">School Health Visit for Secondary 1 &amp; 2 Female Students - HPV Vaccination</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">24 Jul 2023</span></td>
