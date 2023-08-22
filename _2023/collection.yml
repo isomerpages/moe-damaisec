@@ -2,5 +2,6 @@ collections:
   "2023":
     output: true
     order:
+      - National Day Observance Ceremony 2023.md
       - Kaki Bukit National Day Dinner.md
       - Musical Escapades.md
