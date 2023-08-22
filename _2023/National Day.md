@@ -10,4 +10,6 @@ In addition, students and staff had a go at the Teacher-Student Telematch to com
 
 The celebration came to a close with community singing of our National Day songs and prize presentation to classes and groups of students who won the various games or designed the most enjoyable and environmentally friendly carnival stalls. The sports carnival strengthened our Damaian identity as a school as well as our national identity of shared values and unity in diversity.</p>
 
-<img src="/images/Events/2023/National Day Observance/national day 2.png">
+<img src="/images/Events/2023/National Day Celebration/national day collage 1.png">
+<p>
+<img src="/images/Events/2023/National Day Celebration/national day collage 2.png"></p>
