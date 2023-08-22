@@ -26,7 +26,27 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/change of date of school health visit for secondary 1 &amp; 2 female students - hpv vaccination.pdf"><span style="text-decoration:none;color:#FAA156">Change of Date of School Health Visit for Secondary 1 &amp; 2 Female Students - HPV Vaccination</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 &amp; 2 Girls</span><br></td>
+  </tr>
 		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/subject combinations 2024 and streaming exercise.pdf"><span style="text-decoration:none;color:#FAA156">Subject Combinations 2024 and Streaming Exercise</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/extension of concessionary travel for sec 4 &amp; sec 5 students.pdf"><span style="text-decoration:none;color:#FAA156">Extension of Concessionary Travel for Sec 4 &amp; Sec 5 Students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
+  </tr>
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/parents gateway_beware of fake friend call scams.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Fake Friend Call Scams</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">12 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/(16 aug 2023) 2e geography learning journey to singapore mobility gallery.pdf"><span style="text-decoration:none;color:#FAA156">[16 AUG 2023] 2E Geography Learning Journey to Singapore Mobility Gallery</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Aug 2023</span></td>
