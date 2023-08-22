@@ -15,11 +15,12 @@ The band concluded the performance with the adrenaline-thumping _Gurenge_ from t
 
 The thunderous applause from the parents and siblings of the talented musicians and the public added an extra layer of warmth and pride to the performers, fuelling their passion to give their very best.</p>
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 48%;"><img src="/images/cnyy1.png"></td>
-<td style="width: 52%;"><img src="/images/cnyy2.png"><img src="/images/cnyy3.png"></td>
-</tr>
-</tbody>
-</table>
+<img src="/images/Events/2023/Musical Escapades/band 1.jpg">
+
+<center>Students and teachers in charge</center>
+
+<img src="/images/Events/2023/Musical Escapades/band 2.jpg">
+
+<p>
+
+<img src="/images/Events/2023/Musical Escapades/band 3.jpg"></p>
