@@ -9,3 +9,5 @@ The event commenced with two entertaining musical items by the Guzheng Ensemble.
 
 It was indeed a day of smiles and joy!
 </p>
+
+<img src="/images/Events/2023/Speech Day/speech day collage.png">
