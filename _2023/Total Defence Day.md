@@ -7,3 +7,5 @@ description: ""
 
 Our CCE lessons this year highlighted the issue of high level of food wastage in Singapore and how it could affect Singapore’s food security. Students also learnt that we can give ‘ugly food’ a chance to keep our food sources secure and sustainable. Students also gained greater awareness of Singapore’s ‘30 by 30’ initiative of meeting 30% of our nutritional needs locally and sustainably by 2030, and how we can support the ongoing initiative by purchasing local produce.
 </p>
+
+<img src="/images/Events/2023/Total Defence Day/tdd collage.png">
