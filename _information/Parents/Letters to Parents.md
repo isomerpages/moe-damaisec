@@ -37,7 +37,11 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Aug 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
   </tr>
-		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/extension of concessionary travel for sec 4 &amp; sec 5 students.pdf"><span style="text-decoration:none;color:#FAA156">Extension of Concessionary Travel for Sec 4 &amp; Sec 5 Students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 4 &amp; 5</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/parents gateway_beware of fake friend call scams.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Fake Friend Call Scams</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">12 Aug 2023</span></td>
