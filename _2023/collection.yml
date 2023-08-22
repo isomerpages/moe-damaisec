@@ -2,6 +2,7 @@ collections:
   "2023":
     output: true
     order:
+      - Chinese New Year.md
       - Hari Raya Celebration.md
       - National Day.md
       - Speech Day.md
