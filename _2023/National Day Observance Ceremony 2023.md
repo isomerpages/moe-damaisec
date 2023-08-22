@@ -9,3 +9,14 @@ During the parade segment, our Uniformed Group cadets marched in the state flag 
 
 <img src="/images/Events/2023/National Day Observance/national day 1.png">
 
+<p>Furthermore, our Dragonboat team was involved in the parade as part of the water contingent. They impressed the audience with their deft and coordinated rowing and contributed to a more exciting event for all. The sight of the vessels coming in to berth at the front of the parade square added to the grandeur of the event.</p>
+
+<img src="/images/Events/2023/National Day Observance/national day 2.png">
+
+<p>All in all, the event was a memorable one for our students and will certainly be one of their highlights for 2023. Through that experience, they strengthened their sense of belonging to the local community and nation. It was an opportunity for them to bond with their CCA mates while developing important values such as resilience and teamwork.</p>
+
+<img src="/images/Events/2023/National Day Observance/national day 3.png">
+
+<p></p>
+
+<img src="/images/Events/2023/National Day Observance/national day 4.png">
