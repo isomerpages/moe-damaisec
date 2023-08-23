@@ -17,10 +17,10 @@ The thunderous applause from the parents and siblings of the talented musicians 
 
 <img src="/images/Events/2023/Musical Escapades/band 1.jpg">
 
-<center><b>Students and teachers in charge</b></center>
+<p>
 
 <img src="/images/Events/2023/Musical Escapades/band 2.jpg">
 
-<p>
+</p><p>
 
 <img src="/images/Events/2023/Musical Escapades/band 3.jpg"></p>
