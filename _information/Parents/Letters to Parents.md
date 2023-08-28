@@ -26,6 +26,24 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/s3 end of year examination_ 28 aug 2023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary Three End-of-Year Examination 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/s2 end of year examination_ 28 aug 2023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary Two End-of-Year Examination 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 2</span><br></td>
+  </tr>
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/s1 end of year examination_ 28 aug 2023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary One End-of-Year Examination 2023</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/change of date of school health visit for secondary 1 &amp; 2 female students - hpv vaccination.pdf"><span style="text-decoration:none;color:#FAA156">Change of Date of School Health Visit for Secondary 1 &amp; 2 Female Students - HPV Vaccination</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Aug 2023</span></td>
