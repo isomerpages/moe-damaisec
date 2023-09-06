@@ -26,7 +26,17 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/travel declaration for september holidays.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for September Holidays</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">30 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>
 		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/learning journey to ikea.pdf"><span style="text-decoration:none;color:#FAA156">Learning Journey to IKEA</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">29 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 D&amp;T Students</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/s3 end of year examination_ 28 aug 2023.pdf"><span style="text-decoration:none;color:#FAA156">Secondary Three End-of-Year Examination 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">28 Aug 2023</span></td>
