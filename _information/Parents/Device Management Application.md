@@ -29,3 +29,6 @@ third_nav_title: Parents
 <p><strong>DMA Parents Guide (updated Apr 2023)<br></strong>
 	
 <a href="https://drive.google.com/file/d/1SB92mM1bZ_Xp1zOYVVSDXRiI3Ekmbmex/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Default Option</a><br><a href="https://drive.google.com/file/d/1sEgHAiU1FKcKzeA5wWhWy-F4hWe6wPiK/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option A</a><br><a href="https://drive.google.com/file/d/144qTQkTIIFsFQgZvzBrjf_COeXl9_2kQ/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option B</a></p>
+
+Video Guides:
+<br><a href="https://drive.google.com/file/d/1cnE-USRqRrwcNUXeNvqAHqi1Oy9Dykv3/view?usp=sharing" target="_blank" rel="noopener">Parent Account Password Reset</a><br><a href="https://drive.google.com/file/d/1sEgHAiU1FKcKzeA5wWhWy-F4hWe6wPiK/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option A</a><br><a href="https://drive.google.com/file/d/144qTQkTIIFsFQgZvzBrjf_COeXl9_2kQ/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option B</a><p></p>
