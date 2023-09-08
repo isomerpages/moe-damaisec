@@ -4,8 +4,7 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 3</strong></h4>
-
+<h4><strong>Term 4</strong></h4>
 
 
 
@@ -212,8 +211,8 @@ third_nav_title: Parents
   </tr>
 
 </tbody></table>
-<p></p>  
-</div></li>  
+</div></li></ul>
+  
 
 
 <ul class="jekyllcodex_accordion">  
@@ -726,4 +725,4 @@ third_nav_title: Parents
 
 	
 
-</tbody></table></div></li></ul></ul>
+</tbody></table></div></li></ul>
