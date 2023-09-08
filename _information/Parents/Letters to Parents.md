@@ -4,17 +4,7 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 4</strong></h4>
-
-
-
-
-
-<ul class="jekyllcodex_accordion">  
-  
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Term 3</label><div>  
-<p>
+<h4><strong>Term 3</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,7 +16,7 @@ third_nav_title: Parents
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
-</p><p></p><table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
@@ -210,9 +200,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5 </span><br></td>
   </tr>
 
+
 </tbody></table>
-</div></li></ul>
-  
 
 
 <ul class="jekyllcodex_accordion">  
