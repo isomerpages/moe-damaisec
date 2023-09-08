@@ -30,6 +30,38 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/travel declaration for september holidays.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for September Holidays</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">30 Aug 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr></tbody></table>
+
+
+
+<ul class="jekyllcodex_accordion">  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Term 3</label><div>  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+<p></p><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+	<tbody>
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 3/travel declaration for september holidays.pdf"><span style="text-decoration:none;color:#FAA156">Travel Declaration for September Holidays</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">30 Aug 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
   </tr>
 		
 <tr>
@@ -202,7 +234,7 @@ third_nav_title: Parents
 
 
 </tbody></table>
-
+</div></li></ul>
 
 <ul class="jekyllcodex_accordion">  
   
