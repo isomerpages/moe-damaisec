@@ -4,6 +4,8 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
+<ul class="jekyllcodex_accordion">  
+	
 <h4><strong>Term 4</strong></h4>
 
 <style type="text/css">
@@ -34,7 +36,7 @@ third_nav_title: Parents
 
 
 
-<ul class="jekyllcodex_accordion">  
+
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Term 3</label><div>  
@@ -232,9 +234,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5 </span><br></td>
   </tr>
 
-</tbody></table></div></li></ul>
+</tbody></table></div></li>
 
-<ul class="jekyllcodex_accordion">  
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Term 2</label><div>  
@@ -532,7 +533,7 @@ third_nav_title: Parents
 </tr>
 
 
-</tbody></table></div></li></ul>
+</tbody></table></div></li>
 
 
 <li><input type="checkbox" id="accordion1">  
@@ -738,4 +739,4 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
-</tbody></table></div></li>
+</tbody></table></div></li></ul>
