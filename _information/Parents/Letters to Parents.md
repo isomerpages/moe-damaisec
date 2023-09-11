@@ -531,9 +531,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
 </tr>
 
-</tbody></table>
-<p></p>  
-</div></li>  
+
+</tbody></table></div></li></ul>
 
 
 <li><input type="checkbox" id="accordion1">  
@@ -744,4 +743,4 @@ third_nav_title: Parents
 
 	
 
-</tbody></table></div></li></ul>
+</tbody></table></div></li>
