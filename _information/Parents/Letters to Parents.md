@@ -4,8 +4,42 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 3</strong></h4>
+<ul class="jekyllcodex_accordion">  
+	
+<h4><strong>Term 4</strong></h4>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+<p></p><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
+  </tr>
+</thead>
+	<tbody>
+
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/monitoring for scoliosis for secondary 3 and 4 students.pdff"><span style="text-decoration:none;color:#FAA156">Monitoring for Scoliosis for Secondary 3 and 4 Students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Sep 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 &amp; 4</span><br></td>
+  </tr></tbody></table>
+
+
+
+
+  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Term 3</label><div>  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -200,11 +234,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5 </span><br></td>
   </tr>
 
+</tbody></table></div></li>
 
-</tbody></table>
-
-
-<ul class="jekyllcodex_accordion">  
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Term 2</label><div>  
@@ -501,9 +532,8 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">401, 402, 403 &amp; 404</span><br></td>
 </tr>
 
-</tbody></table>
-<p></p>  
-</div></li>  
+
+</tbody></table></div></li>
 
 
 <li><input type="checkbox" id="accordion1">  
@@ -709,9 +739,4 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">21 Dec 2022</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span></td>
   </tr>
-		
-  
-
-	
-
 </tbody></table></div></li></ul>
