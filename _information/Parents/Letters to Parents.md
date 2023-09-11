@@ -36,8 +36,8 @@ third_nav_title: Parents
 
 <ul class="jekyllcodex_accordion">  
   
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Term 3</label><div>  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Term 3</label><div>  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
