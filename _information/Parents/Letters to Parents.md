@@ -4,7 +4,7 @@ permalink: /information/parents/letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-<h4><strong>Term 3</strong></h4>
+<h4><strong>Term 4</strong></h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
