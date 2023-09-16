@@ -27,6 +27,13 @@ third_nav_title: Parents
   </tr>
 </thead>
 	<tbody>
+		
+		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/exam fee rate change wef 2024 - international students.pdf"><span style="text-decoration:none;color:#FAA156">Removal of GST Subsidy Policy for International Students (IS)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">15 Sep 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">International Students</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/trends in international mathematics and science study (timss) 2023.pdf"><span style="text-decoration:none;color:#FAA156">Trends in International Mathematics and Science Study (TIMSS) 2023</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">13 Sep 2023</span></td>
