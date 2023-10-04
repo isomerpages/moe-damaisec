@@ -28,7 +28,11 @@ third_nav_title: Parents
 </thead>
 	<tbody>
 		
-		
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/police advisory on safeguarding your homes.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Safeguarding Your Homes</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">26 Sep 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
+  </tr>		
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/exam fee rate change wef 2024 - international students.pdf"><span style="text-decoration:none;color:#FAA156">Removal of GST Subsidy Policy for International Students (IS)</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">15 Sep 2023</span></td>
@@ -46,7 +50,7 @@ third_nav_title: Parents
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 5</span><br></td>
   </tr>
 <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/monitoring for scoliosis for secondary 3 and 4 students.pdff"><span style="text-decoration:none;color:#FAA156">Monitoring for Scoliosis for Secondary 3 and 4 Students</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/monitoring for scoliosis for secondary 3 and 4 students.pdf"><span style="text-decoration:none;color:#FAA156">Monitoring for Scoliosis for Secondary 3 and 4 Students</span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Sep 2023</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 &amp; 4</span><br></td>
   </tr></tbody></table>

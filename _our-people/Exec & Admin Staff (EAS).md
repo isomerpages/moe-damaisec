@@ -34,6 +34,10 @@ description: ""
 <td>CSO&nbsp;</td>
 </tr>
 <tr>
+<td><a href="mailto:Muhammad_Nur_Hidayat_Mohamed_A@schools.gov.sg" target="">Mr Muhammad Nur Hidayat Bin Mohamed</a>&nbsp;</td>
+<td>ICT Associate</td>
+</tr>
+<tr>
 <td>Mr Ramli Bin Sinin</td>
 <td>TSO&nbsp;</td>
 </tr>

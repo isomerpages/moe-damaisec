@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/.keep
       - Students/Assessment Matters.md
       - Students/Book List.md
       - Students/Bookshop and Uniform Vendors.md
@@ -11,9 +12,9 @@ collections:
       - Students/ICT Matters.md
       - Students/Library Catalogue.md
       - Students/Safety Matters.md
+      - Students/Streaming Exercise 2023.md
       - Students/Student Handbook.md
       - Students/Useful Student Links.md
-      - Students/.keep
       - Teachers.md
       - Parents/Letters to Parents.md
       - Parents/Cyber Wellness Tips.md
