@@ -42,6 +42,6 @@ Students can refer to the below documents for important information regarding th
 **For Graduating Students**
 
 
-Students who are graduating may refer to the following slides to back up their Student iCON data by 31 December 2023.
+Students who are graduating may refer to the following slides to back up their Student iCON data by **31 December 2023**.
 
 [Google Takeout Guide for Student iCON (2023)](/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf)
