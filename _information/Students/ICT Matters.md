@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 **ICT Support**
 
-Students can visit the **School-Based Service Desk** during the operating hours for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they need help with their Student Learning Space (SLS) account, Microsoft 365 Account, Student iCON account and/or want to ask questions related to Home-Based Learning.  
+Students can visit the **School-Based Service Desk** during the operating hours for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.
 
 Students who need to check their MIMS & MS365 username can do so via [go.gov.sg/dssuser](http://go.gov.sg/dssuser).
 
@@ -39,11 +39,9 @@ Students can refer to the below documents for important information regarding th
 [Troubleshooting iPad Profile Switching Issues](/files/Troubleshooting%20iPad%20Profile%20Switching%20Issues_Performing%20a%20Manual%20Sync.pdf)
 
 
-**Uninstallation of DMA for Graduating Students**
+**For Graduating Students**
 
 
-Students who are graduating can refer to the below documents for the DMA uninstallation instructions.
+Students who are graduating may refer to the following slides to back up their Student iCON data by 31 December 2023.
 
-[Note on Uninstallation of DMA for students in 403, 404, 405A, 405B](/files/Note%20on%20Uninstallation%20of%20DMA%20403%20404%20405A%20405B.pdf)  
-
-[Note on Uninstallation of DMA for students in 401, 402](/files/Note%20on%20Uninstallation%20of%20DMA%20For%20401%20%20402%20Students.pdf)
+[Google Takeout Guide for Student iCON (2023)](/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf)
