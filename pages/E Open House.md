@@ -12,5 +12,3 @@ Come and discover our exciting and vibrant student life at Damai Secondary Schoo
 **Interactive Virtual Tour and Sharing**
 
 Located by the edge of picturesque Bedok Reservoir, Damai Secondary has a vibrant campus. Join us for an interactive virtual tour of our programmes and school facilities!
-
- 
