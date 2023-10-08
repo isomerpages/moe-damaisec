@@ -8,7 +8,7 @@ third_nav_title: Our Accolades
 
 <ul class="jekyllcodex_accordion">  
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Term 2</label><div>  
+<label for="accordion2">2020</label><div>  
 <p>
 
 	
