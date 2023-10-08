@@ -15,8 +15,12 @@ third_nav_title: Our Accolades
 
 <p><strong><u>Caring Teacher Awards</u></strong></p>
 <p>The Caring Teacher Awards (CTA) are aimed at acknowledging teachers who show care and concern for the holistic development of their students and go the extra mile to ensure their students grow up to be confident and independent learners. We are thankful to have so many caring teachers in Damai Secondary School.</p>
+	
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion4">2023</label><div>  
+<p>
 
-<h4 style="text-align: center;"><strong>National Day Award Recipient 2023</strong></h4>
+</p><h4 style="text-align: center;"><strong>National Day Award Recipient 2023</strong></h4>
 
 <table>
 <tbody>
@@ -53,7 +57,7 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 
-
+<p></p><p></p></div></li>
 	
 
 	
