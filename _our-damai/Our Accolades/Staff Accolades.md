@@ -93,6 +93,9 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 	
+<h4 style="text-align: center;"><strong>Caring Teacher Award Recipients 2022</strong></h4>
+<img src="/images/Our Damai/Our Accolades/Staff Accolades/caring 2022.png">
+	
 <p></p><p></p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
