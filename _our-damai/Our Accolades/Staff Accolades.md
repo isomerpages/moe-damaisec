@@ -5,6 +5,18 @@ description: ""
 third_nav_title: Our Accolades
 ---
 <p>We congratulate the following staff members who have excelled in their work and have received awards in recognition of their achievements.</p>
+
+<ul class="jekyllcodex_accordion">  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Term 2</label><div>  
+<p>
+
+	
+	
+	
+	
+</p></div></li></ul>
+	
 <p><strong><u>National Day Awards</u></strong></p>
 <p>The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Damai Secondary School would like to congratulate our staff members who have been conferred the National Day Awards for their outstanding service and valuable contributions to the fraternity and nation.</p>
 
