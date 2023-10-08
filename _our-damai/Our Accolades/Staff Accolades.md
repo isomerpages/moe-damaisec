@@ -14,7 +14,35 @@ third_nav_title: Our Accolades
 <label for="accordion4">2022</label><div>  
 <p>
 	
-</p><p></p></div></li>
+</p><h4 style="text-align: center;"><strong>National Day Award Recipients 2022</strong></h4>
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><em>The Commendation Medal</em></td>
+<td style="text-align: center;"><em>The Efficiency Medal</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
+<td><img style="width: 250px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3">&nbsp;<em>The Long Service Medal</em></td>
+</tr>
+<tr>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg"></td>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg"></td>
+<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg"></td>
+</tr>
+</tbody>
+</table>
+	
+<p></p><p></p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">2021</label><div>  
@@ -54,33 +82,7 @@ third_nav_title: Our Accolades
 <p><strong><u>National Day Awards</u></strong></p>
 <p>The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Damai Secondary School would like to congratulate our staff members who have been conferred the National Day Awards for their outstanding service and valuable contributions to the fraternity and nation.</p>
 
-<h4 style="text-align: center;"><strong>National Day Award Recipients 2022</strong></h4>
 
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><em>The Commendation Medal</em></td>
-<td style="text-align: center;"><em>The Efficiency Medal</em></td>
-</tr>
-<tr>
-<td><img style="width: 250px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Sulina%20Pereira.jpg"></td>
-<td><img style="width: 250px;" src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mdm%20Hasimah%20Bte%20Kassim.jpg"></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="3">&nbsp;<em>The Long Service Medal</em></td>
-</tr>
-<tr>
-<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mrs%20Oh%20Wee%20Ming.jpg"></td>
-<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Miss%20Tan%20Chwee%20Kim.jpg"></td>
-<td><img src="/images/Our%20Damai/Our%20Accolades/Staff%20Accolades/Mr%20Te%20Chee%20Hui.jpg"></td>
-</tr>
-</tbody>
-</table>
 
 
 <h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
