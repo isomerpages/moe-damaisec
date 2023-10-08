@@ -17,7 +17,7 @@ third_nav_title: Our Accolades
 	<td style="text-align: center">&nbsp;<em>The Public Administration Medal (Silver)</em></td>
 </tr>
 <tr>
-<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
+<td><img style="width: 250px;" src="/images/Our Damai/Our Accolades/Staff Accolades/ms chan wan siong.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -30,7 +30,7 @@ third_nav_title: Our Accolades
 	<td style="text-align: center">&nbsp;<em>The Commendation Medal</em></td>
 </tr>
 <tr>
-<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
+<td><img style="width: 250px;" src="/images/Our Damai/Our Accolades/Staff Accolades/mr loh yan xiang.jpg"></td>
 </tr>
 </tbody>
 </table>
