@@ -22,8 +22,6 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 
-
-
 <table>
 <tbody>
 <tr>
@@ -31,6 +29,19 @@ third_nav_title: Our Accolades
 </tr>
 <tr>
 <td><img style="width: 250px;" src="/images/Our Damai/Our Accolades/Staff Accolades/mr loh yan xiang.jpg"></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3">&nbsp;<em>The Long Service Medal</em></td>
+</tr>
+<tr>
+<td><img src="/images/Our Damai/Our Accolades/Staff Accolades/mr sivakumar s-o viswanathan.jpg"></td>
+<td><img src="/images/Our Damai/Our Accolades/Staff Accolades/mr amir mizra s-o abdul majid.jpg"></td>
+<td><img src="/images/Our Damai/Our Accolades/Staff Accolades/mr lau hui cheng.jpg"></td>
 </tr>
 </tbody>
 </table>
