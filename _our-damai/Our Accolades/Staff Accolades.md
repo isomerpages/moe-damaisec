@@ -9,6 +9,32 @@ third_nav_title: Our Accolades
 <p><strong><u>National Day Awards</u></strong></p>
 <p>The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Damai Secondary School would like to congratulate our staff members who have been conferred the National Day Awards for their outstanding service and valuable contributions to the fraternity and nation.</p>
 
+<h4 style="text-align: center;"><strong>National Day Award Recipient 2023</strong></h4>
+
+<table>
+<tbody>
+<tr>
+	<td style="text-align: center">&nbsp;<em>The Public Administration Medal (Silver)</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table>
+<tbody>
+<tr>
+	<td style="text-align: center">&nbsp;<em>The Commendation Medal</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
+</tr>
+</tbody>
+</table>
+
 <ul class="jekyllcodex_accordion">  
 	
 
