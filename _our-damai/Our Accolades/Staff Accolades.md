@@ -88,13 +88,50 @@ third_nav_title: Our Accolades
 <label for="accordion3">2021</label><div>  
 <p>
 	
-</p><p></p></div></li>
+</p><h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
+
+<table>
+<tbody>
+<tr>
+	<td style="text-align: center">&nbsp;<em>The Commendation Medal</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
+</tr>
+</tbody>
+</table>
+	
+<p></p><p></p></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">2020</label><div>  
 <p>
 	
-</p><p></p></div></li>
+</p><h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="2">&nbsp;<em>The Commendation Medal</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/mrsiva.jpg"></td>
+<td><img style="width: 250px;" src="/images/mrthong.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="2">&nbsp;<em>The Long Service Medal</em></td>
+</tr>
+<tr>
+<td><img style="width: 250px;" src="/images/misslee.jpg"></td>
+<td><img style="width: 250px;" src="/images/mdmneo.jpg"></td>
+</tr>
+</tbody>
+</table>
+	
+<p></p><p></p></div></li>
 	
 	
 <li><input type="checkbox" id="accordion1">  
@@ -124,43 +161,10 @@ third_nav_title: Our Accolades
 
 
 
-<h4 style="text-align: center;"><strong>National Day Award Recipient 2021</strong></h4>
-
-<table>
-<tbody>
-<tr>
-	<td style="text-align: center">&nbsp;<em>The Commendation Medal</em></td>
-</tr>
-<tr>
-<td><img style="width: 250px;" src="/images/mdmseow.jpg"></td>
-</tr>
-</tbody>
-</table>
 
 
-<h4 style="text-align: center;"><strong>National Day Award Recipients 2020</strong></h4>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="2">&nbsp;<em>The Commendation Medal</em></td>
-</tr>
-<tr>
-<td><img style="width: 250px;" src="/images/mrsiva.jpg"></td>
-<td><img style="width: 250px;" src="/images/mrthong.jpg"></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="2">&nbsp;<em>The Long Service Medal</em></td>
-</tr>
-<tr>
-<td><img style="width: 250px;" src="/images/misslee.jpg"></td>
-<td><img style="width: 250px;" src="/images/mdmneo.jpg"></td>
-</tr>
-</tbody>
-</table>
+
+
 
 <p><strong><u>Academy of Singapore Teachers (AST) Awards</u></strong></p>
 <p>The Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.</p>
