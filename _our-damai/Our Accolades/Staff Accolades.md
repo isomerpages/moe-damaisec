@@ -4,14 +4,14 @@ permalink: /our-damai/our-accolades/staff-accolades/
 description: ""
 third_nav_title: Our Accolades
 ---
-<p>We congratulate the following staff members who have excelled in their work and have received awards in recognition of their achievements.</p>
+<ul class="jekyllcodex_accordion">  
+<p>We congratulate the staff members who have excelled in their work and have received the following awards in recognition of their achievements.</p>
 
 <p><strong><u>National Day Awards</u></strong></p>
 <p>The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Damai Secondary School would like to congratulate our staff members who have been conferred the National Day Awards for their outstanding service and valuable contributions to the fraternity and nation.</p>
 
 <p><strong><u>Academy of Singapore Teachers (AST) Awards</u></strong></p>
 <p>The Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.</p>
-
 
 <p><strong><u>Caring Teacher Awards</u></strong></p>
 <p>The Caring Teacher Awards (CTA) are aimed at acknowledging teachers who show care and concern for the holistic development of their students and go the extra mile to ensure their students grow up to be confident and independent learners. We are thankful to have so many caring teachers in Damai Secondary School.</p>
@@ -53,7 +53,7 @@ third_nav_title: Our Accolades
 </tbody>
 </table>
 
-<ul class="jekyllcodex_accordion">  
+
 	
 
 	
