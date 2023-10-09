@@ -19,14 +19,49 @@ third_nav_title: Parents
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
 <p></p><table class="tg">
-<thead>
+<!-- header for table --><thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
   </tr>
 </thead>
-	<tbody>
+	<!-- table body --><tbody>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/npcc enhanced csi course_home team academy.pdf"><span style="text-decoration:none;color:#FAA156">NPCC Enhanced CSI Course @ Home Team Academy</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 (NPCC)</span><br></td>
+  </tr>					
+	
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><span style="text-decoration:none;color:black">Sec 3 NE Learning Journey</span>
+				<br><br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 301_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 301</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 302_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 302</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 303_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 303</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 304_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 304</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 305_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 305</span></a>
+	</td>
+			
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span><br></td>
+  </tr>		
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><span style="text-decoration:none;color:black">Sec 1 NE Learning Journey</span>
+				<br><br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 101_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 101</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 102_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 102</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 103_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 103</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 104_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 104</span></a>
+	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 105_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 105</span></a>
+	</td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>		
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/parent's letter integration programme learning journey t42023.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme Learning Journey to Heritage Sites</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 3 International Students/Permanent Residents</span><br></td>
+  </tr>				
 		
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/police advisory on safeguarding your homes.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Safeguarding Your Homes</span></a></td>
