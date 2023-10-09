@@ -19,14 +19,33 @@ third_nav_title: Parents
 .tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
 </style>
 <p></p><table class="tg">
-<thead>
+<!-- header for table --><thead>
   <tr>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Letter / PG Notification</span></th>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Date</span></th>
     <th class="tg-yla0"><span style="color:inherit;background-color:transparent">For</span></th>
   </tr>
 </thead>
-	<tbody>
+	<!-- table body --><tbody>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><span style="text-decoration:none;color:black">Sec 1 NE Learning Journey</span>
+	
+			<br><br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 101_national education (ne) learning journey.pdf">•Sec 101</a>
+	<br>•Sec 102
+	<br>•Sec 103
+	<br>•Sec 104
+	<br>•Sec 105
+	
+	</td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>		
+	
+<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/parent's letter integration programme learning journey t42023.pdf"><span style="text-decoration:none;color:#FAA156">Integration Programme Learning Journey to Heritage Sites</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1 - 3 International Students/Permanent Residents</span><br></td>
+  </tr>				
 		
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/police advisory on safeguarding your homes.pdf"><span style="text-decoration:none;color:#FAA156">Police Advisory on Safeguarding Your Homes</span></a></td>
