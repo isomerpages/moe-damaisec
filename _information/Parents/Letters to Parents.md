@@ -27,7 +27,13 @@ third_nav_title: Parents
   </tr>
 </thead>
 	<!-- table body --><tbody>
-		<tr>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/npcc enhanced csi course_home team academy.pdf"><span style="text-decoration:none;color:#FAA156">NPCC Enhanced CSI Course @ Home Team Academy</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3 (NPCC)</span><br></td>
+  </tr>					
+	
+	<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><span style="text-decoration:none;color:black">Sec 3 NE Learning Journey</span>
 				<br><br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 301_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 301</span></a>
 	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 302_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 302</span></a>
@@ -36,8 +42,8 @@ third_nav_title: Parents
 	<br><a target="_blank" href="/files/Information/Parents/Parent Letter/2023/Term 4/sec 305_national education (ne) learning journey.pdf"><span style="text-decoration:none;color:#FAA156">•Sec 305</span></a>
 	</td>
 			
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2 Oct 2023</span></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3</span><br></td>
   </tr>		
 	<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><span style="text-decoration:none;color:black">Sec 1 NE Learning Journey</span>
