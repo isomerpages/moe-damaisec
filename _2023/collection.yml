@@ -2,8 +2,6 @@ collections:
   "2023":
     output: true
     order:
-      - Teachers' Day.md
-      - Graduation Day.md
       - Chinese New Year Celebration.md
       - Total Defence Day.md
       - Student Leaders' Investiture.md
@@ -13,3 +11,5 @@ collections:
       - National Day Observance Ceremony 2023.md
       - Musical Escapades.md
       - National Day.md
+      - Teachers' Day.md
+      - Graduation Day.md
