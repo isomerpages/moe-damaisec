@@ -90,7 +90,7 @@ Students can refer to the below documents for important information regarding th
 * Actions required
 <p> **At least one day before the DMA uninstallation. **Please ensure that all data on your PLD have been backed-up (e.g. saved to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the factory reset is performed before the DMA can be uninstalled.
 **On the day of DMA uninstallation**. Please ensure that your PLD is switched on and connected to the internet from 6.00 a.m. to 11.00 p.m., and refrain from using the PLD during that period. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly.
-**After the DMA has been uninstalled. **You may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.</p>
+**After the DMA has been uninstalled. **You may refer to the this  <a href="/files/Information/Students/ICT Matters/(for students) instructions for dma uninstallation.pdf">document</a> for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.</p>
 * Technical Support
 <p>Should your child/ward require technical assistance to perform the back-up or if you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, he/she can go to the ICT room during working hours.
 </p>
