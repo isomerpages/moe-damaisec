@@ -6,9 +6,9 @@ third_nav_title: Students
 ---
 **ICT Support**
 
-Students can visit the **School-Based Service Desk** during the operating hours for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.
+Students can visit the&nbsp;**School-Based Service Desk**&nbsp;during the operating hours&nbsp;for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they&nbsp;need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.
 
-Students who need to check their MIMS & MS365 username can do so via [go.gov.sg/dssuser](http://go.gov.sg/dssuser).
+Students who need to check their MIMS &amp; MS365 username can do so via&nbsp;[go.gov.sg/dssuser](http://go.gov.sg/dssuser).
 
 ![](/images/School-Based%20Service%20Desk.jpg)
 
@@ -39,9 +39,61 @@ Students can refer to the below documents for important information regarding th
 [Troubleshooting iPad Profile Switching Issues](/files/Troubleshooting%20iPad%20Profile%20Switching%20Issues_Performing%20a%20Manual%20Sync.pdf)
 
 
-**For Graduating Students**
+# For Graduating Students
 
 
-Students who are graduating may refer to the following slides to back up their Student iCON data by **31 December 2023**.
+**Backing up of student iCON data**
+* Students who are graduating may refer to the this set of <a href="/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf">slides</a> to back up their Student iCON data by **31 December 2023**.
 
-[Google Takeout Guide for Student iCON (2023)](/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf)
+
+**Uninstallation of DMA**
+
+The schedule for DMA uninstallation is as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cpkk{background-color:#ffce93;border-color:#343434;text-align:center;vertical-align:top}
+.tg .tg-96w5{background-color:#ffce93;border-color:#343434;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ur59{border-color:#343434;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cpkk"><span style="font-weight:bold">Stream</span></th>
+    <th class="tg-96w5">Uninstallation Date</th>
+    <th class="tg-96w5">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ur59">Sec 4NT</td>
+    <td class="tg-ur59">30 Oct 2023</td>
+    <td class="tg-ur59"></td>
+  </tr>
+  <tr>
+    <td class="tg-ur59">Sec 4Exp / 5NA</td>
+    <td class="tg-ur59">13 Nov 2023</td>
+    <td class="tg-ur59"></td>
+  </tr>
+  <tr>
+    <td class="tg-ur59">Sec 4NA</td>
+    <td class="tg-ur59">To be updated</td>
+    <td class="tg-ur59">DMA for students who are not eligible for Sec 5NA will be uninstalled 1 week after release of N Levels results.<br><br>DMA for students who are confirmed for DPP or PFP will be uninstalled 1 week after the last official school day.<br><br>DMA for students who are continuing for Sec 5NA in 2024 will not be uninstalled.</td>
+  </tr>
+</tbody>
+</table>
+
+<strong>Actions required</strong>
+<p><b>At least one day before the DMA uninstallation</b>. Please ensure that all data on your PLD have been backed-up (e.g. saved to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the factory reset is performed before the DMA can be uninstalled.</p>
+
+<p><b>On the day of DMA uninstallation</b>. Please ensure that your PLD is switched on and connected to the internet from 6.00 a.m. to 11.00 p.m., and refrain from using the PLD during that period. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly.</p>
+
+<p><b>After the DMA has been uninstalled. </b>You may refer to this  <a href="/files/Information/Students/ICT Matters/(for students) instructions for dma uninstallation.pdf">document</a> for instructions to check if the DMA has been successfully uninstalled from your PLD.</p>
+
+<strong> Technical Support</strong>
+<p>Should you require technical assistance to perform the back-up or if you find that the DMA in your PLD has not been uninstalled properly, you can go to the ICT room during working hours.
+</p>
