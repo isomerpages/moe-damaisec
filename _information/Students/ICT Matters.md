@@ -6,9 +6,9 @@ third_nav_title: Students
 ---
 **ICT Support**
 
-Students can visit the **School-Based Service Desk** during the operating hours for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.
+Students can visit the&nbsp;**School-Based Service Desk**&nbsp;during the operating hours&nbsp;for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form ([go.gov.sg/damaisechelpdesk](http://go.gov.sg/damaisechelpdesk)) if they&nbsp;need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.
 
-Students who need to check their MIMS & MS365 username can do so via [go.gov.sg/dssuser](http://go.gov.sg/dssuser).
+Students who need to check their MIMS &amp; MS365 username can do so via&nbsp;[go.gov.sg/dssuser](http://go.gov.sg/dssuser).
 
 ![](/images/School-Based%20Service%20Desk.jpg)
 
@@ -42,6 +42,47 @@ Students can refer to the below documents for important information regarding th
 **For Graduating Students**
 
 
-Students who are graduating may refer to the following slides to back up their Student iCON data by **31 December 2023**.
+**Backing up of student iCON data**
+* Students who are graduating may refer to the following slides to back up their Student iCON data by **31 December 2023**.
 
-[Google Takeout Guide for Student iCON (2023)](/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf)
+* [Google Takeout Guide for Student iCON (2023)](/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf)
+
+Uninstallation of DMA
+ The schedule for DMA uninstallation is as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cpkk{background-color:#ffce93;border-color:#343434;text-align:center;vertical-align:top}
+.tg .tg-96w5{background-color:#ffce93;border-color:#343434;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ur59{border-color:#343434;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cpkk"><span style="font-weight:bold">Stream</span></th>
+    <th class="tg-96w5">Uninstallation Date</th>
+    <th class="tg-96w5">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ur59">Sec 4NT</td>
+    <td class="tg-ur59">30 Oct 2023</td>
+    <td class="tg-ur59"></td>
+  </tr>
+  <tr>
+    <td class="tg-ur59">Sec 4Exp / 5NA</td>
+    <td class="tg-ur59">13 Nov 2023</td>
+    <td class="tg-ur59"></td>
+  </tr>
+  <tr>
+    <td class="tg-ur59">Sec 4NA</td>
+    <td class="tg-ur59">To be updated</td>
+    <td class="tg-ur59">DMA for students who are not eligible for Sec 5NA will be uninstalled 1 week after release of N Levels results.<br><br>DMA for students who are confirmed for DPP or PFP will be uninstalled 1 week after the last official school day.<br><br>DMA for students who are continuing for Sec 5NA in 2024 will not be uninstalled.</td>
+  </tr>
+</tbody>
+</table>
