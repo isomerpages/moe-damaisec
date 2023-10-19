@@ -48,11 +48,11 @@ Singapore Citizens in financial need can get assistance on school fees and other
     <td class="tg-sdzj"><p>For more information, please refer to</p>
 <ul>
 <li>
-	<a href="/files/MOE%20FAS%20pamphlet%202023.pdf">MOE-FAS Pamphlet</a><br></li>
+	<a href="/files/Information/FAS/2024/2024 moe fas pamphlet.pdf">MOE-FAS Pamphlet</a><br></li>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="text-decoration:none;color:#EC8D3C">MOE Financial Assistance</span></a> <br></li>
 
 <li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a><br></li>
-<li><a href="/files/FAS%20Application%20Form%202023.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a></li></ul></td>
+<li><a href="/files/Information/FAS/2024/2024 moe fas application form.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a></li></ul></td>
   </tr>
 
 	
