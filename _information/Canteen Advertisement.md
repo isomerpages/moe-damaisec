@@ -13,7 +13,7 @@ description: ""
 | Malay Cooked Food     | 15 November 2023     | Non-Halal     |
 <p>
 <b>Application Procedure</b>
-</p><ol type="1">
+</p><ol>
 <li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 </li><li>Attached the following documents together with the application form:
 
