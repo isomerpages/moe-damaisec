@@ -27,7 +27,21 @@ third_nav_title: Parents
   </tr>
 </thead>
 	<!-- table body --><tbody>
-	
+		<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/sec_1_codeforfun_enrichment_programme.pdf"><span style="text-decoration:none;color:#FAA156">Code for Fun Enrichement Programme</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 1</span><br></td>
+  </tr>
+		<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/sec_3na_experience_ite_programme(eip).pdf"><span style="text-decoration:none;color:#FAA156">Sec 3NA  Experience ITE Programme (EIP)</span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">17 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Sec 3NA</span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/dma_uninstallation.pdf"><span style="text-decoration:none;color:#FAA156">Uninstalling the Device Management Application (DMA) from your child’s /ward’s Personal Learning Device (PLD) </span></a></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">16 Oct 2023</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">405</span><br></td>
+  </tr>
 <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><a href="/files/Information/Parents/Parent Letter/2023/Term 4/2024 moe-obs challenge programme.pdf"><span style="text-decoration:none;color:#FAA156">2024 MOE-OBS Challenge Programme </span></a></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">13 Oct 2023</span></td>
