@@ -21,7 +21,8 @@ description: ""
 <li>Photocopy of the NRIC (front and back)
 </li><li>List of proposed menu and pricing for all items
 </li><li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-	</li></ul><p></p>
+	</li></ul>
+	<p></p>
 	<p>
 Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing">Application Form</a></p>
 
@@ -40,13 +41,12 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 </li></ul>
 	</li></ul>
 </li></ol>
-
+<p></p>
 <p>
 	<b>How to get to our school?</b>
 	</p><ul>
 		<li>Bus number: 5, 21, 59, 65 &amp; 228 – 3-5 minutes walking distance
 			</li></ul>
-			<p></p>
 	<p>
 	<b>Interest applicants must meet the following criteria:</b>
 	</p><ul>
@@ -61,4 +61,3 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 </li><li>Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).
 </li><li>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 			</li></ul>
-			<p></p>
