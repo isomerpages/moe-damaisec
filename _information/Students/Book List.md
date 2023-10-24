@@ -35,8 +35,6 @@ third_nav_title: Students
 </tr>
 </tbody>
 </table>
-
-
 <p><strong>Secondary 3</strong></p>
 <table width="0">
 <tbody>
