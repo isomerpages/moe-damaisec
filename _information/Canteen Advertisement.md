@@ -3,10 +3,34 @@ title: Canteen Advertisement
 permalink: /information/canteen/
 description: ""
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-pqll{color:#FAA156;text-align:left;vertical-align:top}
+</style>
+
 <p><b>Damai Secondary School</b> would like to invite interested applicants to operate the following stalls in our school canteen with effect from 2 January 2024.</p>
+<table class="tg">
+<thead>
+		<tr>
+			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Type of Stall</span></th>
+			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Closing Date</span></th>
+			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Requirements</span></th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td class="tg-cly1">
+		</td></tr></tbody>
+	
+	</table>
 
-
-
+<p></p>
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Chinese Cooked Food     | 15 November 2023     | Non-Halal     |
