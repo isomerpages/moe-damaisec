@@ -22,4 +22,10 @@ sections:
           description: ""
           url: https://vle.learning.moe.edu.sg/login
       background: /images/Banner/isomer banner 11 (1080 by 400).gif
+  - infobar:
+      title: e-Open House
+      subtitle: Damai Secondary School
+      id: infobar
+      description: It’s happening soon – our e-Open House. Do join us on this exciting
+        virtual journey from 18 November 2023 onwards.
 ---
