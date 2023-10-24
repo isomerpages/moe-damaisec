@@ -4,7 +4,7 @@ permalink: /information/students/book-list/
 description: ""
 third_nav_title: Students
 ---
-<p>Please click the links below for the 2023 Booklist:</p>
+<p>Please click the links below for the 2024 Booklist:</p>
 <p><strong>Secondary 1</strong></p>
 <table width="0">
 <tbody>
