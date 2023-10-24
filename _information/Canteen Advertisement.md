@@ -71,8 +71,8 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 	<b>How to get to our school?</b>
 	</p>
 	<ul>
-		<li>Bus number: 5, 21, 59, 65 &amp; 228 – 3-5 minutes walking distance
-			</li></ul>
+		<li>Bus number: 5, 21, 59, 65 &amp; 228 – 3-5 minutes walking distance</li>
+</ul>
 	<p>
 	<b>Interest applicants must meet the following criteria:</b>
 	</p>
