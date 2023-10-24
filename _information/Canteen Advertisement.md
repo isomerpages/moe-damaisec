@@ -66,7 +66,7 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 </li></ul>
 	</li></ul>
 </ol>
-<p></p>
+
 <p>
 	<b>How to get to our school?</b>
 	</p><ul>
