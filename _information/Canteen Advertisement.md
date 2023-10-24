@@ -69,20 +69,22 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 
 <p>
 	<b>How to get to our school?</b>
-	</p><ul>
+	</p>
+	<ul>
 		<li>Bus number: 5, 21, 59, 65 &amp; 228 – 3-5 minutes walking distance
 			</li></ul>
 	<p>
 	<b>Interest applicants must meet the following criteria:</b>
-	</p><ul>
-		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-</li><li>Able to provide good service and quality food with prices determined in consultation with the school.
-</li><li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines –(https://www.hpb.gov.sg/schools/school-programmes).
-</li><li>Able to maintain high standard of food safety and personal hygiene.
-</li><li>Healthy and fit to operate the stall.
-</li><li>School/Catering experience preferred.
-</li><li>Successful applicant must personally operate the stall during canteen operation hours.
-</li><li>Proposed menu with price list must be attached to the application form for our consideration.
-</li><li>Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).
-</li><li>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
-			</li></ul>
+	</p>
+	<ul>
+		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+	<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
+	<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines –(https://www.hpb.gov.sg/schools/school-programmes).</li>
+	<li>Able to maintain high standard of food safety and personal hygiene.</li>
+	<li>Healthy and fit to operate the stall.</li>
+	<li>School/Catering experience preferred.</li>
+	<li>Successful applicant must personally operate the stall during canteen operation hours.</li>
+	<li>Proposed menu with price list must be attached to the application form for our consideration.</li>
+	<li>Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).</li>
+	<li>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</li>
+</ul>
