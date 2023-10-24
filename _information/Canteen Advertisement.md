@@ -15,43 +15,44 @@ description: ""
 </style>
 
 <p><b>Damai Secondary School</b> would like to invite interested applicants to operate the following stalls in our school canteen with effect from 2 January 2024.</p>
+
 <table class="tg">
 <thead>
-		<tr>
-			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Type of Stall</span></th>
-			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Closing Date</span></th>
-			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Requirements</span></th>
-		</tr>
-		</thead>
-		<tbody>
-		<tr>
-			<td class="tg-cly1">
-		</td></tr></tbody>
-	
-	</table>
+	<tr>
+		<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Type of Stall </span></th>
+		<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Closing Date </span></th>
+			<th class="tg-yla0"><span style="color:inherit;background-color:transparent">Requirements </span></th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td class="tg-cly1">Chinese Cooked Food</td>
+		<td class="tg-cly1">15 November 2023</td>
+			<td class="tg-cly1">Non-Halal</td>
+	</tr>
+	<tr>
+		<td class="tg-cly1">Malay Cooked Food</td>
+		<td class="tg-cly1">15 November 2023</td>
+			<td class="tg-cly1">Halal</td>
+	</tr>
+	</tbody>
+</table>
 
-<p></p>
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Chinese Cooked Food     | 15 November 2023     | Non-Halal     |
-| Malay Cooked Food     | 15 November 2023     | Non-Halal     |
 <p>
 <b>Application Procedure</b>
-</p><ol>
+</p>
+<ol>
 <li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-</li><li>Attached the following documents together with the application form:
-
+	</li><li>Attached the following documents together with the application form:</li>
 <ul>
 <li>Photocopy of the NRIC (front and back)
 </li><li>List of proposed menu and pricing for all items
 </li><li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 	</li></ul>
-	<p></p>
 	<p>
 Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing">Application Form</a></p>
 
-<p>
-</p></li><li>Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+<li>Submit the completed application form and documents by closing date via email OR to the School’s General Office.</li>
 
 <ul><li>Address: 4800 Bedok Reservoir Road Singapore 479229
 
@@ -64,7 +65,7 @@ Click here for <a target="_blank" href="https://drive.google.com/file/d/13IZ7aNb
 </li><li>Mdm Hasimah Bte Kassim (CSO)
 </li></ul>
 	</li></ul>
-</li></ol>
+</ol>
 <p></p>
 <p>
 	<b>How to get to our school?</b>
