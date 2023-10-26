@@ -26,6 +26,6 @@ sections:
       title: e-Open House
       subtitle: Damai Secondary School
       id: infobar
-      description: It’s happening soon – our e-Open House. Do join us on this exciting
-        virtual journey from 18 November 2023 onwards.
+      description: It’s happening soon –  Do join us on this exciting virtual journey
+        from 18 November '23 onwards.
 ---
