@@ -22,10 +22,10 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td style="text-align: center;" width="209">
-<p><strong><a href="/files/Information/Students/BookList/2024/2024_dmss_s2exp_booklist.pdf">Secondary 2 Express 2024 Textbook List&nbsp;</a></strong></p>
+<p><strong><a href="/files/Information/Students/BookList/2024/dmss_s2_exp_booklist_updated.pdf">Secondary 2 Express 2024 Textbook List&nbsp;</a></strong></p>
 </td>
 <td style="text-align: center;" width="209">
-<p>&nbsp;<strong>&nbsp;<a href="/files/Information/Students/BookList/2024/2024_dmss_s2na_booklist.pdf">Secondary 2 Normal Academic 2024 Textbook List&nbsp;</a></strong></p>
+<p>&nbsp;<strong>&nbsp;<a href="/files/Information/Students/BookList/2024/dmss_s2_na_booklist_updated.pdf">Secondary 2 Normal Academic 2024 Textbook List&nbsp;</a></strong></p>
 </td>
 
 	

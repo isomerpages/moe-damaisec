@@ -3,6 +3,8 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>e-Open House</strong><br>It’s happening soon – our e-Open House. Do join us on this exciting virtual journey from 18 November 2023 onwards.
+</p>
 <p><strong>Sec 1 - 3 End of Year Examination Timetable</strong><br>Click&nbsp;<strong><a href="/information/students/assessment-matters" target="_blank" rel="noopener">here</a></strong>&nbsp;to download the Sec 1 - 3 Examination Timetable.</p>
 
 <p><strong>2023 Sem 2 Class Timetable</strong><br>Click&nbsp;<strong><a href="/information/students/class-timetable" target="_blank" rel="noopener">here</a></strong>&nbsp;to view and download the Class Timetable for 2023 Semester 2.</p>
