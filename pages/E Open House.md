@@ -39,10 +39,6 @@ At Damai Secondary, we work closely with our parents to bring out the best in ev
 
 Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-group/" target="_blank" rel="noopener">here</a> to find out more about our Parent Support Group
 
-**Go on a Virtual Tour**
+**Have A Question/Comment?**
 
-Located by the edge of picturesque Bedok Reservoir, Damai Secondary has a vibrant campus. Join us for a virtual tour of our s
-
-**Go on a Virtual Tour**
-
-Located by the edge of picturesque Bedok Reservoir, Damai Secondary has a vibrant campus. Join us for a virtual tour of our s
+For further queries, drop us a note at <a href="mailto:damai_ss@moe.edu.sg" target="_blank" rel="noopener">damai_ss@moe.edu.sg  </a>or call us at 6443 6848.
