@@ -38,13 +38,13 @@ Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondar
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><a href="/information/news-and-events/2023/chinese-new-year-celebration/"><img src="/images/Events/2023/Event Icons/chinese new year.png"></a></td>
-<td style="width: 50%;"><a href="/information/news-and-events/2023/total-defence-day/"><img src="/images/Events/2023/Event Icons/total defence day.png"></a></td>
+<td style="width: 50%;"><a href="/https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img src="/images/E Open House/2023/curriculum2023.png"></a></td>
+<td style="width: 50%;"><a href="/https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img src="/images/E Open House/2023/cca2023.png"></a></td>
 </tr>
 </tbody>
 <tbody><tr>
-<td style="width: 50%;"><a href="/information/news-and-events/2023/student-leaders-investiture/"><img src="/images/Events/2023/Event Icons/investiture.png"></a></td>
-<td style="width: 50%;"><a href="/information/news-and-events/2023/hari-raya-celebration/"><img src="/images/Events/2023/Event Icons/hari raya.png"></a></td>
+<td style="width: 50%;"><a href="/https://www.damaisec.moe.edu.sg/our-curriculum/student-development-programme/"><img src="/images/E Open House/2023/student development2023.png"></a></td>
+<td style="width: 50%;"><a href="/https://www.damaisec.moe.edu.sg/our-curriculum/character-and-citizenship-education/"><img src="/images/E Open House/2023/cce2023.png"></a></td>
 </tr>
 </tbody>
 </table>
