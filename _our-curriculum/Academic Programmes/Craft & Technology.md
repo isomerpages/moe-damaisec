@@ -57,8 +57,8 @@ third_nav_title: Academic Programmes
 <ul>
 <li><a href="http://www.seab.gov.sg/content/syllabus/olevel/2017Syllabus/6123_2017.pdf" target="_blank" rel="noopener">Upper Secondary Express Course Art Syllabus</a></li>
 <li><a href="https://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/6125_2017.pdf" target="_blank" rel="noopener">Upper Secondary Normal Academic Course Art Syllabus</a></li>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/6128_y20_sy.pdf" target="_blank" rel="noopener">Upper Secondary Normal Technical Course Art Syllabus</a></li>
-<li><a href="https://www.moe.gov.sg/education/syllabuses/arts-education/" target="_blank" rel="noopener">Lower Secondary Arts (Art and Music) Syllabus</a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf" target="_blank" rel="noopener">Upper Secondary Normal Technical Course Art Syllabus</a></li>
+
 </ul>
 <p><strong><u>Signature Programmes</u></strong></p>
 <ul>
