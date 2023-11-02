@@ -43,4 +43,4 @@ Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-grou
 
 **Have A Question/Comment?**
 
-For further queries, drop us a note at <a href="mailto:damai_ss@moe.edu.sg" target="_blank" rel="noopener">damai_ss@moe.edu.sg  </a>or call us at 6443 6848.
+For further queries, drop us a note at <a href="mailto:damai_ss@moe.edu.sg">damai_ss@moe.edu.sg  </a>or call us at 6443 6848.
