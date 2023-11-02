@@ -35,6 +35,20 @@ Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondar
 
 **Click on the icons below to learn more about our specific programmes!**
 
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><a href="/information/news-and-events/2023/chinese-new-year-celebration/"><img src="/images/Events/2023/Event Icons/chinese new year.png"></a></td>
+<td style="width: 50%;"><a href="/information/news-and-events/2023/total-defence-day/"><img src="/images/Events/2023/Event Icons/total defence day.png"></a></td>
+</tr>
+</tbody>
+<tbody><tr>
+<td style="width: 50%;"><a href="/information/news-and-events/2023/student-leaders-investiture/"><img src="/images/Events/2023/Event Icons/investiture.png"></a></td>
+<td style="width: 50%;"><a href="/information/news-and-events/2023/hari-raya-celebration/"><img src="/images/Events/2023/Event Icons/hari raya.png"></a></td>
+</tr>
+</tbody>
+</table>
+
 **Parent Support Group**
 
 At Damai Secondary, we work closely with our parents to bring out the best in every child. 
