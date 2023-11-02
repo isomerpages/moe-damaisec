@@ -31,7 +31,7 @@ Damai Secondary embraces the use of technology as a key enabler to spark the joy
 
 **Full Subject-Based Banding**
 
-Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondary students to better meet their learning needs. Read <a href="https://www.damaisec.moe.edu.sg/information/full-subject-based-banding" target="_blank" rel="noopener">here</a> for more information.
+Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondary students to better meet their learning needs. Read <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" target="_blank" rel="noopener">here</a> for more information.
 
 **Click on the icons below to learn more about our specific programmes!**
 
