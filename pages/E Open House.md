@@ -25,6 +25,17 @@ Our Learning for Life Programme (LLP), <i>Character Development through Water an
 
 Our Applied Learning Programme (ALP), <i>Environmental Sciences and Sustainability</i>, inspires students to go on a journey of self-exploration and self-discovery, and hone their 21st century competencies, innovative spirit and awareness of major environmental issues. Check out our ALP <a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" target="_blank" rel="noopener">here</a>.
 
+**National Digital Literacy Programme**
+
+Damai Secondary embraces the use of technology as a key enabler to spark the joy of learning in all our students and empower them to be confident, self-directed and future-ready citizens. All students at Damai Secondary acquire an iPad as a Personal Learning Device (PLD), enabling them to tap on digital resources to learn according to their needs and interests, and collaborate with one another, anytime and anywhere. Click <a href="https://www.damaisec.moe.edu.sg/our-curriculum/national-digital-literacy-programme/" target="_blank" rel="noopener">here</a> for more information. 
+
+**Full Subject-Based Banding**
+
+Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondary students to better meet their learning needs. Read <a href="https://www.damaisec.moe.edu.sg/information/full-subject-based-banding" target="_blank" rel="noopener">here</a> for more information.
+
+**Go on a Virtual Tour**
+
+Located by the edge of picturesque Bedok Reservoir, Damai Secondary has a vibrant campus. Join us for a virtual tour of our s
 
 **Go on a Virtual Tour**
 
