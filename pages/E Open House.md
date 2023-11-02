@@ -35,7 +35,7 @@ Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondar
 
 **Click on the icons below to learn more about our specific programmes!**
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
 <td style="width: 50%;"><a href="/https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img src="/images/E Open House/2023/curriculum2023.png"></a></td>
