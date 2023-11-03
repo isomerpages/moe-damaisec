@@ -10,64 +10,36 @@ variant: markdown
 
 <p>The incorporation of authentic resources, performance tasks and novel activities such as choral reading, poetry-writing, dramatisation into our curriculum highlights our deep commitment to raise our students’ attainment level and make learning a joy for them. </p>
 
-<p><strong><u>Curriculum</u></strong></p>
-
-The English Language and Literature department adopts two approaches to provide our students with language learning experience which is engaging and purposeful:&nbsp;  
-
-*   Building a strong foundation
-*   Providing rich language for all&nbsp;
-
-The department is guided by the principles and teaching processes of the English Language and Literature Teaching and Learning. Our thematic approach caters to various learning styles and intelligences for greater engagement. In addition, the department adopts two modes of assessments to monitor and assess students’ learning and bridge learning gaps:  
-
-*   Assessment of Learning
-*   Assessment for Learning
-
-<div>
-<p><strong><u>Syllabus Links</u></strong></p>
-</div>
-
-**English**
-
-*   [English Express](/files/1184_y23_sy.pdf)
-*   [Normal Academic](/files/1190_y23_sy.pdf)
-*   [Normal Technical](/files/1195_y23_sy.pdf)
-
-
-**Literature**
-
-*   [Literature](/files/Assessment%20Syllabus%20for%20Damai%20Secondary%20Lower%20Secondary%20Literature.pdf)
-
-<div>
 <p><strong><u>Highlights</u></strong></p>
-</div>
-  
-
-**A Day in Court Student Seminar 2022**
-
-This exclusive virtual event gave students a better understanding of the role of the State Courts in the Singapore Judiciary, and what they may do should they or their friends encounter incidents of harassment and bullying. Students partook in character building activities and even interacted with judges!
-
   
 
 **National Schools Literature Festival**
 
-The National Schools Literature Festival is the biggest literary programme organised for students in Singapore.&nbsp; Held annually, the festival has provided opportunities for students to share their passion and love for Literature through inter-school competitions such as debates, choral reading and book trailers. In this year’s festival, our students’ passion certainly shone through as they lit up the festival with their moving literary interpretations and performances. Against tough competition from many other schools, our Secondary One Choral Reading Team attained the bronze award while our Secondary Four Debate Team emerged as winners in their respective events.
-
-  
-
-**National Public Speaking Competitions**
-
-As part of the department’s efforts to develop each student into a confident and competent speaker, lessons on presentation skills are included in the lesson packages and students are trained for competitions such as the National Public Speaking Competitions (NPSC) and Singapore Secondary School Debating Championships.&nbsp;&nbsp;
-
-  
+<p>The National Schools Literature Festival is the biggest literary programme organised for students in Singapore. Held annually, the festival has provided opportunities for students to share their passion and love for Literature through inter-school competitions such as debates, choral reading and book trailers. In this festival, our students’ passion certainly shines through as they light up the festival with their moving literary interpretations and performances. Our achievements include clinching a bronze award in the Choral Reading category and champion award in the Debate category. </p>
 
 **Learning Journeys and In-House Workshops**
 
-In addition, learning journeys to watch performances are also organised to expose students to different literary forms. To deepen students' love and appreciation for English Language and Literature, Drama and Choral Reading workshops are conducted by our teachers for the Lower Secondary students.&nbsp;
-
-  
+Learning journeys to watch performances are organised to expose students to different literary forms. To build students’ confidence and mastery of the language, Public Speaking workshops are conducted for the lower secondary. 
 
 **Achievements and Highlights**
 
+<ul>
+	<li>M.E.S.H. Learning Journey to Little India 2023
+</li><li>English Language Day 2023
+</li><li>Public Speaking Workshop 2023
+</li><li>English is Fun Assembly Programme 2023
+</li><li>Participation in A Day In Court Student Seminar 2022
+</li><li>Singapore Secondary Schools Debating Championships 2019
+</li><li>Sec 1 In-House Drama Workshop with Guest Speaker, Dr Geraldine Song 
+</li><li>Sec 2 In-House Choral Reading Workshop with Guest Speaker, Dr Dennis Yeo 
+</li><li>Sec 2 National Gallery Literature Learning Journey 
+</li><li>National Schools Literature Festival 2019:
+<ul>
+	<li>Winners in Upper Secondary Set Text Debate
+</li><li>3rd Placing in Lower Secondary Choral Reading
+</li><li>Participants in Lower Secondary Book Trailer
+	</li></ul>
+	</li></ul>
 *   Participants in A Day In Court Student Seminar 2022
 *   Singapore Secondary Schools Debating Championships 2019
 *   Sec 1 In-House Drama Workshop with Guest Speaker, Dr Geraldine Song&nbsp;
