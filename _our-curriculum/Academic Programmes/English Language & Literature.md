@@ -78,11 +78,9 @@ Learning journeys to watch performances are organised to expose students to diff
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/Curriculum/English/2023 el is fun assembly.jpg">
+			<img src="/images/Curriculum/English/2023 el is fun assembly.JPG">
 		</td>
-		<td>
-			<img src="/images/Curriculum/English/2023 public speaking programme.jpg">
-	</td>
+
 	</tr>
 </tbody>
 </table>
