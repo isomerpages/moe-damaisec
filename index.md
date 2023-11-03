@@ -26,7 +26,7 @@ sections:
       title: e-Open House
       subtitle: Damai Secondary School
       id: infobar
-      description: Come and Get to Know Us! Visit Our e-Open House Now!
+      description: "Come and Get to Know Us! Visit Our e-Open House Now! We await you. "
       url: https://www.damaisec.moe.edu.sg/e-open-house/
-      button: We await you … click here.
+      button: click here
 ---
