@@ -28,4 +28,6 @@ sections:
       id: infobar
       description: It’s happening soon –  Do join us on this exciting virtual journey
         from 18 November '23 onwards.
+      url: https://www.damaisec.moe.edu.sg/e-open-house/
+      button: MOre information here
 ---
