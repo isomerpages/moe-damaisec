@@ -79,11 +79,9 @@ Learning journeys to watch performances are organised to expose students to diff
 	<tr>
 		<td>
 			<img src="/images/Curriculum/English/2023 el is fun assembly.jpg">
-2023 EL Day - Jeopardy Quiz.
 		</td>
 		<td>
 			<img src="/images/Curriculum/English/2023 public speaking programme.jpg">
-2023 EL Day - Jeopardy Quiz.
 	</td>
 	</tr>
 </tbody>
