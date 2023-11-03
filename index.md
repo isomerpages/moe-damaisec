@@ -26,6 +26,7 @@ sections:
       title: e-Open House
       subtitle: Damai Secondary School
       id: infobar
-      description: It’s happening soon –  Do join us on this exciting virtual journey
-        from 18 November '23 onwards.
+      description: Come and Get to Know Us! Visit Our e-Open House Now! We await you.
+      url: https://www.damaisec.moe.edu.sg/e-open-house/
+      button: click here
 ---

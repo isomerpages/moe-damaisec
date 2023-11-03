@@ -1,7 +1,8 @@
 ---
-title: E Open House
+title: e Open House
 permalink: /e-open-house/
 description: ""
+variant: tiptap
 ---
 ![](/images/E%20Open%20House/2023/motd2023.png)
 
