@@ -41,23 +41,27 @@ variant: markdown
 </table>
 
 <figure>
-<img src="/images/National%20Day%20Observance%20KB.jpg">
-<figcaption> <strong>NCC National Day Observance Ceremony 2022 at Kaki Bukit
+<img src="/images/CCA/NCC/ncc_2023_1.jpg">
+<figcaption> <strong>NCC National Day Observance Ceremony @ PAssion Wave at Bedok Reservoir with other uniformed group CCAs
 </strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/National%20Day%20Observance%20BR.jpg">
-<figcaption> <strong>NCC National Day Observance Ceremony 2022 at Bedok Reservoir</strong> </figcaption>
+<img src="/images/CCA/NCC/ncc_2023_2.jpg">
+<figcaption> <strong>NCC Sports Championship</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Promotion%20of%20Sec%203%20cadets.jpg">
-<figcaption> <strong>Promotion of Sec 3 Cadets</strong> </figcaption>
+<img src="/images/CCA/NCC/ncc_2023_3.jpg">
+<figcaption> <strong>NCC Laser Run</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/army%20open%20house.jpg">
-<img src="/images/Army%20Open%20House%202.jpg">
-<figcaption> <strong>Army Open House 2022  </strong> </figcaption>
+<img src="/images/CCA/NCC/ncc_2023_4.jpg">
+<figcaption> <strong>NCC Affirmation Ceremony  </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/CCA/NCC/ncc_2023_5.jpg">
+<figcaption> <strong>Army Open House 2022</strong> </figcaption>
 </figure>
