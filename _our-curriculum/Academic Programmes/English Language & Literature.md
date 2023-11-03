@@ -40,17 +40,6 @@ Learning journeys to watch performances are organised to expose students to diff
 </li><li>Participants in Lower Secondary Book Trailer
 	</li></ul>
 	</li></ul>
-*   Participants in A Day In Court Student Seminar 2022
-*   Singapore Secondary Schools Debating Championships 2019
-*   Sec 1 In-House Drama Workshop with Guest Speaker, Dr Geraldine Song&nbsp;
-*   Sec 2 In-House Choral Reading Workshop with Guest Speaker, Dr Dennis Yeo&nbsp;
-*   Sec 2 National Gallery Literature Learning Journey&nbsp;
-*   National Schools Literature Festival 2019:
-
-*   Winners in Upper Secondary Set Text Debate
-*   3rd (Bronze) in Lower Secondary Choral Reading
-*   Participants in Lower Secondary Book Trailer
-
 
 <table>
 <tbody>
@@ -71,8 +60,7 @@ Learning journeys to watch performances are organised to expose students to diff
 </td>
 </tr>
 <tr>
-<td><img src="/images/el5.jpg">
-<div>Sec 1 In-House Drama Workshop: Students experimenting with body language to convey emotions.</div>
+<td><img src="/images/A%20Day%20in%20Court%20Student%20Seminar.jpg">A Day in Court Student Seminar
 </td>
 <td><img src="/images/el6.jpg">
 <div>Sec 1 In-House Drama Workshop: Students drawing out the image that came to their mind after listening to a piece of music.</div>
@@ -83,7 +71,20 @@ Learning journeys to watch performances are organised to expose students to diff
 <td><img src="/images/el8.jpg">Sec 2 In-House Drama Workshop: Dr Dennis Yeo keeping his audience captivated during his talk on the importance of learning Literature.</td>
 </tr>
 <tr>
-	<td><img src="/images/A%20Day%20in%20Court%20Student%20Seminar.jpg">A Day in Court Student Seminar</td>
+	<td><img src="/images/Curriculum/English/2023 el day - illustrating a story activity.jpg">
+2023 EL Day - Illustrating a Story (Class Activity).</td>
+	<td><img src="/images/Curriculum/English/2023 el day - jeopardy quiz.jpg">
+2023 EL Day - Jeopardy Quiz.</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/Curriculum/English/2023 el is fun assembly.jpg">
+2023 EL Day - Jeopardy Quiz.
+		</td>
+		<td>
+			<img src="/images/Curriculum/English/2023 public speaking programme.jpg">
+2023 EL Day - Jeopardy Quiz.
+	</td>
 	</tr>
 </tbody>
 </table>
