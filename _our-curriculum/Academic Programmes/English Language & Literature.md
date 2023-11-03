@@ -3,24 +3,19 @@ title: English Language & Literature
 permalink: /our-curriculum/academic-programmes/english-language-n-literature/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
-<div>
+
 <p><strong><u>Department Focus</u></strong></p>
-</div>
-The English Language and Literature department strives to inculcate a love and appreciation for the language as well as develop effective and affective language use in our students. We equip our students with the language confidence and communicative competence to become empathetic communicators, discerning readers and creative inquirers who are ready to take on the challenges of the 21st century. 
 
-The incorporation of authentic resources, performance tasks and novel activities such as choral reading, poetry-writing, dramatisation and national seminar into our curriculum highlights our deep commitment to raise our students’ attainment level and make learning a joy for them. 
+<p>The incorporation of authentic resources, performance tasks and novel activities such as choral reading, poetry-writing, dramatisation into our curriculum highlights our deep commitment to raise our students’ attainment level and make learning a joy for them. </p>
 
-_“To learn a language is to have one more window from which to look at the world.”_
-
-<div>
 <p><strong><u>Curriculum</u></strong></p>
-</div>
 
-The English Language and Literature department adopts two approaches to provide our students with language learning experience which is engaging and purposeful:   
+The English Language and Literature department adopts two approaches to provide our students with language learning experience which is engaging and purposeful:&nbsp;  
 
 *   Building a strong foundation
-*   Providing rich language for all 
+*   Providing rich language for all&nbsp;
 
 The department is guided by the principles and teaching processes of the English Language and Literature Teaching and Learning. Our thematic approach caters to various learning styles and intelligences for greater engagement. In addition, the department adopts two modes of assessments to monitor and assess students’ learning and bridge learning gaps:  
 
@@ -55,19 +50,19 @@ This exclusive virtual event gave students a better understanding of the role of
 
 **National Schools Literature Festival**
 
-The National Schools Literature Festival is the biggest literary programme organised for students in Singapore.  Held annually, the festival has provided opportunities for students to share their passion and love for Literature through inter-school competitions such as debates, choral reading and book trailers. In this year’s festival, our students’ passion certainly shone through as they lit up the festival with their moving literary interpretations and performances. Against tough competition from many other schools, our Secondary One Choral Reading Team attained the bronze award while our Secondary Four Debate Team emerged as winners in their respective events.
+The National Schools Literature Festival is the biggest literary programme organised for students in Singapore.&nbsp; Held annually, the festival has provided opportunities for students to share their passion and love for Literature through inter-school competitions such as debates, choral reading and book trailers. In this year’s festival, our students’ passion certainly shone through as they lit up the festival with their moving literary interpretations and performances. Against tough competition from many other schools, our Secondary One Choral Reading Team attained the bronze award while our Secondary Four Debate Team emerged as winners in their respective events.
 
   
 
 **National Public Speaking Competitions**
 
-As part of the department’s efforts to develop each student into a confident and competent speaker, lessons on presentation skills are included in the lesson packages and students are trained for competitions such as the National Public Speaking Competitions (NPSC) and Singapore Secondary School Debating Championships.  
+As part of the department’s efforts to develop each student into a confident and competent speaker, lessons on presentation skills are included in the lesson packages and students are trained for competitions such as the National Public Speaking Competitions (NPSC) and Singapore Secondary School Debating Championships.&nbsp;&nbsp;
 
   
 
 **Learning Journeys and In-House Workshops**
 
-In addition, learning journeys to watch performances are also organised to expose students to different literary forms. To deepen students' love and appreciation for English Language and Literature, Drama and Choral Reading workshops are conducted by our teachers for the Lower Secondary students. 
+In addition, learning journeys to watch performances are also organised to expose students to different literary forms. To deepen students' love and appreciation for English Language and Literature, Drama and Choral Reading workshops are conducted by our teachers for the Lower Secondary students.&nbsp;
 
   
 
@@ -75,9 +70,9 @@ In addition, learning journeys to watch performances are also organised to expos
 
 *   Participants in A Day In Court Student Seminar 2022
 *   Singapore Secondary Schools Debating Championships 2019
-*   Sec 1 In-House Drama Workshop with Guest Speaker, Dr Geraldine Song 
-*   Sec 2 In-House Choral Reading Workshop with Guest Speaker, Dr Dennis Yeo 
-*   Sec 2 National Gallery Literature Learning Journey 
+*   Sec 1 In-House Drama Workshop with Guest Speaker, Dr Geraldine Song&nbsp;
+*   Sec 2 In-House Choral Reading Workshop with Guest Speaker, Dr Dennis Yeo&nbsp;
+*   Sec 2 National Gallery Literature Learning Journey&nbsp;
 *   National Schools Literature Festival 2019:
 
 *   Winners in Upper Secondary Set Text Debate
@@ -97,7 +92,7 @@ In addition, learning journeys to watch performances are also organised to expos
 </tr>
 <tr>
 <td><img src="/images/el3.jpg">
-<div>Sec 4 Literature students got a real treat to watch reowned local playwright, Haresh Sharma&rsquo;s Off Centre at the Esplanade.</div>
+<div>Sec 4 Literature students got a real treat to watch reowned local playwright, Haresh Sharma’s Off Centre at the Esplanade.</div>
 </td>
 <td><img src="/images/el4.jpg">
 <div>Critical Analysis and Essay Writing Workshop conducted by Ethos Books for our graduating Literature students.</div>
