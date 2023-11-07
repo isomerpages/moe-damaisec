@@ -11,8 +11,8 @@ variant: markdown
 <p><strong>Secondary One – Introduction to Water &amp; Adventure Sports</strong></p>
 <p>Character and leadership development starts in Secondary One through the Water &amp; Adventure Sports Camp. The camp introduces students to Water &amp; Adventure Sports, and provides an avenue for students to forge new friendships and bond with their peers and camp leaders.&nbsp;</p>
 <p>Secondary One students also begin their LLP journey with Outdoor Education incorporated into their PE lessons. Additionally, through the Sports Education Programme (SEP), students also begin to explore their own interests in adventure sports through electives like abseiling and rock-climbing.&nbsp;</p>
-<img src="/images/Curriculum/LLP/2023_sec1_01.jpg">
-<img src="/images/Curriculum/LLP/2023_sec1_02.jpg">
+<img src="/images/Curriculum/LLP/2023_sec1_01.JPG">
+<img src="/images/Curriculum/LLP/2023_sec1_02.JPG">
 <p><strong>Secondary Two – Exploring Adventure Sports&nbsp;</strong></p>
 <p>Secondary Two students continue their LLP journey and acquire more advanced skills such as navigation and outdoor cooking through their Outdoor Education lessons. Students will also have the opportunity to take part in Adventure Sports at a higher level, such as Urban Abseiling and Sports Climbing through the Level 2 Sports Education Programme. </p>
 
