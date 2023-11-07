@@ -3,6 +3,7 @@ title: ICT Matters
 permalink: /information/students/ict-matters/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 **ICT Support**
 
@@ -76,7 +77,7 @@ The schedule for DMA uninstallation is as follows:
   </tr>
   <tr>
     <td class="tg-ur59">Sec 4Exp / 5NA</td>
-    <td class="tg-ur59">13 Nov 2023</td>
+    <td class="tg-ur59">14 Nov 2023</td>
     <td class="tg-ur59"></td>
   </tr>
   <tr>
