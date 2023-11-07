@@ -23,20 +23,27 @@ The Inter-school Dragonboat competition further gives the boys a common goal whi
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 B division Inter-school Dragonboat Competition - Participation</span></th>
+    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"><u>2023 B division Inter-school Dragonboat Competition</u><br>6th in DB10 race</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 C division Inter-school Dragonboat Competition - 4th Position</span></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"><u>2023 C division Inter-school Dragonboat Competition - 4th Position</u><br>4th in DB10 race</span></td>
+  </tr>
+	  <tr>
+			<td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"><u>VIA Events</u><br>
+			PAssionWaVe Bedok Reservoir Official Opening<br>
+			National Day Observance Ceremony @ Bedok Reservoir</span></td>
   </tr>
 </tbody>
 </table>
 
-<img src="/images/Picture1.jpg" style="width:75%">
+<img src="/images/CCA/Dragonboat/2023_dragonboat_01.jpg" style="width:75%">
 
-<img src="/images/Picture2.jpg" style="width:75%">
-		 
-<img src="/images/Picture3.jpg" style="width:75%">
+<img src="/images/CCA/Dragonboat/2023_dragonboat_02.jpg" style="width:75%">
 
-<img src="/images/Picture4-1.jpg" style="width:75%">
+<img src="/images/CCA/Dragonboat/2023_dragonboat_03.jpg" style="width:75%">
+
+<img src="/images/CCA/Dragonboat/2023_dragonboat_04.jpg" style="width:75%">
+
+<img src="/images/CCA/Dragonboat/2023_dragonboat_05.jpg" style="width:75%">
