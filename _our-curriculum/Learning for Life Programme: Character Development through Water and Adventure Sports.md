@@ -18,17 +18,17 @@ variant: markdown
 
 <p>Students also take part in the clean-up of the waterways at Bedok Reservoir. Students apply the water confidence they have acquired to contribute to the community and environment. Through the programme, students will learn service to community, respect for the environment, as well as the importance of Singapore's water resource. </p>
 
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec2_01.JPG">
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec2_02.JPG">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec2_01.jpg">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec2_02.jpg">
 <p><strong>Secondary Three – Service, Community, and Citizenship</strong></p>
 <p>Secondary Three students all take part in the Outward Bound Singapore Challenge Programme. Through this 5D4N residential camp, students will develop resilience, teamwork, and the courage to overcome obstacles in life. </p>
 <p>Secondary Three students will also attend the Dragonboat Orientation Programme, where they will learn the importance of teamwork and resilience. Beyond that, students will also learn about the rich cultural significance the sport holds in Singapore and the region. </p>
 
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec3_01.JPG">
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec3_02.JPG">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec3_01.jpg">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec3_02.jpg">
 <p><strong>Secondary Four – Lifelong Learning and Beyond</strong></p>
 <p>The highlight of the Secondary Four LLP is the Water Sports Electives. Students will further explore their interest in a variety of water sports such as surfing, stand-up paddling, and scuba-diving. Students learn to step out of their comfort zone and begin a lifelong journey beyond the school gates.&nbsp;</p>
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec4_01.JPG">
-<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec4_02.JPG">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec4_01.jpg">
+<img style="max-width:60%" src="/images/Curriculum/LLP/2023_sec4_02.jpg">
 <p><strong><u>Water Sports CCA</u></strong></p>
 <p>The school offers two water sports CCA in line with our LLP for students who wish to pursue their interests at a higher level. Students who are keen can apply to join the Canoeing (girls) or Dragonboat (boys) CCA, where they will train under professional coaches and take part in competitive races.&nbsp;</p>
