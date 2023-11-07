@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: markdown
 ---
-<div align="center"><img style="max-width:40%" src="/images/CCA/Canoeing/2023_canoe.png"></div>
+<div align="center"><img style="max-width:20%" src="/images/CCA/Canoeing/2023_canoe.png"></div>
 
 <p>With teamwork, passion, and respect as our motto, the Damai Canoeing team defies the notion that size determines success.  Through working and becoming stronger together, we hope that our canoeists can become ambassadors of the sport and develop their leadership skills during the process. We believe that every canoeist can learn and grow, and we, as teachers and parents, need to work together to facilitate that process.</p>
   
@@ -98,9 +98,9 @@ _There will be additional training sessions during competition season_.
 </tbody>
 </table>
 
-<img src="/images/CCA/Canoeing/2023_canoe_01.png"><br>
-<img src="/images/CCA/Canoeing/2023_canoe_02.jpg"><br>
-<img src="/images/CCA/Canoeing/2023_canoe_03.jpg"><br>
-<img src="/images/CCA/Canoeing/2023_canoe_04.jpg"><br>
-<img src="/images/CCA/Canoeing/2023_canoe_05.jpg"><br>
-<img style="max-width:60%" src="/images/CCA/Canoeing/2023_canoe_06.jpg"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_01.png"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_02.jpg"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_03.jpg"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_04.jpg"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_05.jpg"><br>
+<img style="max-width:50%" src="/images/CCA/Canoeing/2023_canoe_06.jpg"><br>
