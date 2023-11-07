@@ -3,14 +3,16 @@ title: "Learning for Life Programme: Character Development through Water and
   Adventure Sports"
 permalink: /our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/
 description: ""
+variant: markdown
 ---
 <p>The Learning for Life Programme (LLP) provides students with real-life experiences to develop character and values, cultivate positive attitudes, self expression and strengthen their people skills. The focus area for our school's LLP is 'Character Development through Water and Adventure Sports.'</p>
 <p>The LLP is aligned to the school's vision and mission of developing students who lead purposeful and meaningful lives guided by strong moral values and a spirit to explore their interests and talents. Through authentic learning experiences in water and adventure sports, the programme develops character, leadership and citizenship competencies in our students.&nbsp;</p>
 <p><strong><u>Level Programmes</u></strong></p>
-<p><strong>Secondary One – Introduction to Water &amp; Adventure Sport</strong><strong>s</strong></p>
+<p><strong>Secondary One – Introduction to Water &amp; Adventure Sports</strong></p>
 <p>Character and leadership development starts in Secondary One through the Water &amp; Adventure Sports Camp. The camp introduces students to Water &amp; Adventure Sports, and provides an avenue for students to forge new friendships and bond with their peers and camp leaders.&nbsp;</p>
 <p>Secondary One students also begin their LLP journey with Outdoor Education incorporated into their PE lessons. Additionally, through the Sports Education Programme (SEP), students also begin to explore their own interests in adventure sports through electives like abseiling and rock-climbing.&nbsp;</p>
-<img src="/images/llp1.png">
+<img src="/images/Curriculum/LLP/2023_sec1_01.jpg">
+<img src="/images/Curriculum/LLP/2023_sec1_02.jpg">
 <p><strong>Secondary Two – Exploring Adventure Sports&nbsp;</strong></p>
 <p>Secondary Two students continue their LLP journey and acquire more advanced skills such as navigation and outdoor cooking through their Outdoor Education lessons. Students will also have the opportunity to take part in Adventure Sports at a higher level, such as Urban Abseiling and Sports Climbing through the Level 2 Sports Education Programme. </p>
 
