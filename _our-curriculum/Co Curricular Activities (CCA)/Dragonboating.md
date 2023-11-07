@@ -3,16 +3,13 @@ title: Dragonboating
 permalink: /our-curriculum/co-curricular-activities-cca/dragonboating/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
-The Damai Dragonboat team is an exhilarating water sports CCA that is part of the school's Learning for Life Programme (LLP). 
+The Damai Dragonboat team is an exhilarating water sports CCA that is part of the school's Learning for Life Programme (LLP).&nbsp;
 
-  
+The Dragonboat team challenges its members to go beyond their limits. Challenging weekly training sessions hone the students' skills and techniques and teach them the value of resilience.&nbsp;
 
-The Dragonboat team challenges its members to go beyond their limits. Challenging weekly training sessions hone the students' skills and techniques and teach them the value of resilience. 
-
-  
-
-The return to normalcy from Covid restrictions has increased water training time and allowed our boys to develop the sense of team that is essential to the Dragonboat experience. The Inter-school Dragonboat competition further gave the boys a common goal that bonded them in their efforts – the synchronicity of the hard pulls can only be achieved during training and have to be demonstrated during competition.
+The Inter-school Dragonboat competition further gives the boys a common goal which bonds them in their efforts – the synchronicity of the hard pulls can only be achieved during training and have to be demonstrated during competition.
 
 <h4><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></h4>
 <style type="text/css">
@@ -36,14 +33,10 @@ The return to normalcy from Covid restrictions has increased water training time
 </tbody>
 </table>
 
-<img src="/images/Picture1.jpg" 
-     style="width:75%">
+<img src="/images/Picture1.jpg" style="width:75%">
 
-<img src="/images/Picture2.jpg" 
-     style="width:75%">
+<img src="/images/Picture2.jpg" style="width:75%">
 		 
-<img src="/images/Picture3.jpg" 
-     style="width:75%">
+<img src="/images/Picture3.jpg" style="width:75%">
 
-<img src="/images/Picture4-1.jpg" 
-     style="width:75%">
+<img src="/images/Picture4-1.jpg" style="width:75%">
