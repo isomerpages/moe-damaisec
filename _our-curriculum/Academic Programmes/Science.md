@@ -95,8 +95,8 @@ variant: markdown
 	</tbody>
 	</table>
 
-<p><strong><u>Curriculum<br></u></strong>The syllabus of secondary school science education in Singapore is based on the Science Curriculum Framework of the Ministry of Education, Singapore. It emphasises the need for a balance in the acquisition of knowledge, skills and attitudes towards science.</p>
-<img style="width: 40%;" src="/images/sci1.jpg">
+<p><strong><u>Curriculum<br></u></strong>The syllabus of secondary school science education in Singapore is based on the Science Curriculum Framework of the Ministry of Education, Singapore. It emphasises the need for a balance between the acquisition of Core Ideas, Practices, and Values, Ethics and Attitudes in Science. In addition, as and when the topics lend themselves, the technological applications, social implications and the value aspects of Science are also considered. It also emphasises the broad coverage of fundamental concepts in the natural and physical world.</p>
+<img src="/images/Curriculum/Science/2023_science_6.png">
 <p>Ministry of Education Singapore, Lower Secondary Science Syllabus Exp/N(A) (2007) Curriculum Planning and Development Division. Available at:<br><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-secondary-2013.pdf" target="_blank" rel="noopener">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-secondary-2013.pdf</a>&nbsp;</p>
 <p>Central&nbsp;to this framework is instilling the passion of studying science through inquiry. The model partners students as the inquirer and teachers as the leader of inquiry. Science as inquiry aims to improve students’ learning by getting them to be more participative. This would provide students with an authentic learning experience and a higher level of engagement. The curriculum design seeks to enable students to view the pursuit of science as meaningful and useful.</p>
 <p><strong><u>Syllabus Links</u></strong></p>
