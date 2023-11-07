@@ -29,9 +29,9 @@ variant: markdown
 			<td>&nbsp;</td>
 				<td>&nbsp;</td>
 			<td>&nbsp;</td>
-				<td style="text-align: center;">G3</td>
-				<td style="text-align: center;">G2</td>
-				<td style="text-align: center;">G1</td>
+				<th style="text-align: center;">G3</th>
+				<th style="text-align: center;">G2</th>
+				<th style="text-align: center;">G1</th>
 			</tr>
 		<tr>
 			<td style="text-align: center;">1</td>
@@ -40,6 +40,22 @@ variant: markdown
 				<td style="text-align: center;">✓</td>
 				<td style="text-align: center;">✓</td>
 				<td style="text-align: center;">✓</td>
+			</tr>
+			<tr>
+			<th style="text-align: center;">No</th>
+			<th style="text-align: center;">Curriculum Subjects</th>
+			<th style="text-align: center;">Level</th>
+			<th style="text-align: center;">EXP</th>
+				<th style="text-align: center;">NA</th>
+				<th style="text-align: center;">NT</th>
+		</tr>
+			<tr>
+			<td style="text-align: center;">1</td>
+				<td style="text-align: center;">Science</td>
+			<td style="text-align: center;">S2</td>
+				<td style="text-align: center;">✓</td>
+				<td style="text-align: center;">✓</td>
+				<td style="text-align: center;">&nbsp;</td>
 			</tr>
 	</tbody>
 	</table>
