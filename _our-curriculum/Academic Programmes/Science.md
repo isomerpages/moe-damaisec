@@ -114,34 +114,34 @@ Within this framework, the pair of hands metaphorically represents the dynamic r
 </tr>
 <tr>
 <td>1</td>
-<td><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-secondary-2013.pdf" target="_blank" rel="noopener">Lower Secondary Sciences (Express / Normal Academic)</a></td>
+<td><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" target="_blank" rel="noopener">Lower Secondary Sciences (Express / Normal Academic)</a></td>
 </tr>
 <tr>
 <td>2</td>
-<td><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-upper-secondary-2014.pdf" target="_blank" rel="noopener">Normal Technical Sciences (Lower Sec)</a></td>
+<td><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf" target="_blank" rel="noopener">Normal Technical Sciences (Lower Sec)</a></td>
 </tr>
 <tr>
 <td colspan="2"><strong>National Examination Syllabus</strong></td>
 </tr>
 <tr>
 <td>3</td>
-<td><a href="https://www.seab.gov.sg/content/syllabus/nlevel/2018Syllabus/5148_2018.pdf" target="_blank" rel="noopener">Normal Technical Sciences (Upper Sec – 5148)</a></td>
+<td><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" target="_blank" rel="noopener">Normal Technical Sciences (Upper Sec – 5148)</a></td>
 </tr>
 <tr>
 <td>4</td>
-<td><a href="https://www.seab.gov.sg/content/syllabus/olevel/2018Syllabus/5076_2018.pdf" target="_blank" rel="noopener">Combined Science (Physics, Chemistry) (Express - 5076)</a></td>
+<td><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sy.pdf" target="_blank" rel="noopener">Combined Science (Physics, Chemistry) (Express - 5086)</a></td>
 </tr>
 <tr>
 <td>5</td>
-<td><a href="https://www.seab.gov.sg/content/syllabus/nlevel/2018Syllabus/5105_2018.pdf" target="_blank" rel="noopener">Combined Science (Physics, Chemistry) (Normal Academic - 5105)</a></td>
+<td><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5106_y24_sy.pdf" target="_blank" rel="noopener">Combined Science (Physics, Chemistry) (Normal Academic - 5105)</a></td>
 </tr>
 <tr>
 <td>6</td>
-<td><a href="https://www.seab.gov.sg/content/syllabus/olevel/2018Syllabus/6091_2018.pdf" target="_blank" rel="noopener">Physics (6091)</a>&nbsp;</td>
+<td><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" target="_blank" rel="noopener">Physics (6091)</a></td>
 </tr>
 <tr>
 <td>7</td>
-<td><a href="https://www.seab.gov.sg/content/syllabus/olevel/2018Syllabus/6092_2018.pdf" target="_blank" rel="noopener">Chemistry (6092)</a></td>
+<td><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf" target="_blank" rel="noopener">Chemistry (6092)</a></td>
 </tr>
 </tbody>
 </table>
