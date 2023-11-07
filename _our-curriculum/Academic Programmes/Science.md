@@ -37,9 +37,9 @@ variant: markdown
 			<td style="text-align: center;">1</td>
 				<td style="text-align: center;">Science</td>
 			<td style="text-align: center;">S1</td>
-				<td>G3</td>
-				<td>G2</td>
-				<td>G1</td>
+				<td style="text-align: center;">✓</td>
+				<td style="text-align: center;">✓</td>
+				<td style="text-align: center;">✓</td>
 			</tr>
 	</tbody>
 	</table>
