@@ -103,4 +103,4 @@ _There will be additional training sessions during competition season_.
 <img src="/images/CCA/Canoeing/2023_canoe_03.jpg"><br>
 <img src="/images/CCA/Canoeing/2023_canoe_04.jpg"><br>
 <img src="/images/CCA/Canoeing/2023_canoe_05.jpg"><br>
-<img src="/images/CCA/Canoeing/2023_canoe_06.jpg"><br>
+<img style="max-width:60%" src="/images/CCA/Canoeing/2023_canoe_06.jpg"><br>
