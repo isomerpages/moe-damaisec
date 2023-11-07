@@ -97,8 +97,15 @@ variant: markdown
 
 <p><strong><u>Curriculum<br></u></strong>The syllabus of secondary school science education in Singapore is based on the Science Curriculum Framework of the Ministry of Education, Singapore. It emphasises the need for a balance between the acquisition of Core Ideas, Practices, and Values, Ethics and Attitudes in Science. In addition, as and when the topics lend themselves, the technological applications, social implications and the value aspects of Science are also considered. It also emphasises the broad coverage of fundamental concepts in the natural and physical world.</p>
 <img style="max-width:60%" src="/images/Curriculum/Science/2023_science_6.png">
-<p>Ministry of Education Singapore, Lower Secondary Science Syllabus Exp/N(A) (2007) Curriculum Planning and Development Division. Available at:<br><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-secondary-2013.pdf" target="_blank" rel="noopener">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-lower-secondary-2013.pdf</a>&nbsp;</p>
-<p>Central&nbsp;to this framework is instilling the passion of studying science through inquiry. The model partners students as the inquirer and teachers as the leader of inquiry. Science as inquiry aims to improve students’ learning by getting them to be more participative. This would provide students with an authentic learning experience and a higher level of engagement. The curriculum design seeks to enable students to view the pursuit of science as meaningful and useful.</p>
+<h6>Ministry of Education Singapore, 2021 Science (Lower Secondary Express / Normal (Academic)) Syllabuses <br><small>2020 Curriculum Planning and Development Division</small></h6>
+
+<p>Available at:<br><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" target="_blank" rel="noopener"> 2021 Science Syllabus (Lower Secondary)</a></p>
+<p>Our Science Curriculum Framework serves as the cornerstone of science education in Singapore, designed to equip our students with a robust foundation in Science for Life and Society. This framework revolves around the three guiding principles, collectively known as the "INs" – inspire, inquire, and innovate, shaping the holistic educational experience we aim to provide to our students.</p>
+<p>
+The outer circle of this framework symbolizes the critical components that constitute the bedrock of a comprehensive science education: Core Ideas, Practices, and Values, Ethics, and Attitudes.</p>
+<p>
+Within this framework, the pair of hands metaphorically represents the dynamic roles our students assume as inquisitive learners, actively engaging in their scientific pursuits. They receive unwavering support from our dedicated educators and collaborative partners who serve as proficient facilitators, imparting both the thrill and the intrinsic value of scientific knowledge to our students. This partnership in the realm of learning and teaching extends beyond the boundaries of the classroom to include various stakeholders. Together, we collectively nurture and fuel our students' sense of curiosity and innovation, inspire their intellectual growth, and foster a deep appreciation for the practical applications of science in their daily lives, society, and the broader environment.
+</p>
 <p><strong><u>Syllabus Links</u></strong></p>
 <table border="1">
 <tbody>
