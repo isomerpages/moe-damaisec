@@ -147,40 +147,12 @@ Within this framework, the pair of hands metaphorically represents the dynamic r
 </table>
 <div>
 <p><strong><u>Signature Programmes<br></u></strong>Damai Secondary believes in making science come alive through authentic learning experiences and learning journeys.</p>
-<table border="1">
-<tbody>
-<tr>
-<th>Level</th>
-<th>Subject</th>
-<th>Programme</th>
-<th>Theme</th>
-</tr>
-<tr>
-<td>Secondary 1</td>
-<td>Science</td>
-<td>Gardens By The Bay</td>
-<td>Diversity</td>
-</tr>
-<tr>
-<td>Secondary 2</td>
-<td>Science</td>
-<td>DNA Lab at Science Centre</td>
-<td>Life Science</td>
-</tr>
-</tbody>
-</table>
-<p>Students who have a keen interest in science are welcome to join the DSS Science Outreach Programme. In this programme, students will be taught science communication skills to present and lead trails. The series of workshops cover topics in Chemistry, Physics and Physiology.</p>
-<img src="/images/sci2.png">
-	<p><strong><u>Other Programmes</u></strong></p>
-<p><strong>International Science Drama Competition (ISDC)</strong><br>Organised by the Singapore Science Centre, the International Science Drama Competition (ISDC) provides students an opportunity to explore the realms of both science and theatre. In line with the United Nations declaration that 2019 is the International Year of the Periodic Table of Chemical Elements, the theme for ISDC 2019 is “Chemistry Makes Life Better”.&nbsp;</p>
-<p>A team of seven Secondary 3 students represented Damai Secondary School in the ISDC 2019. Under the mentorship of their teachers, they conceptualised an original Harry Potter themed script and performance entitled ‘Defeating the Soul Seekers’. It encapsulated the various benefits that Chemistry has brought to people in daily life. The development to the actualisation of the performance spanned a total of three months.&nbsp;</p>
-<p>The team cleared the preliminary online auditions and was shortlisted as one of the five finalists out of over 20 schools in Singapore. They then performed live at the Singapore Science Centre on 13 April 2019 and met with stiff competition against other schools. The team eventually attained a Merit Award in the Open Category, and one of the team members, Shabir Dhaifullah Bin Safian from Sec 301, won the Outstanding Performer Award in the Open Category.&nbsp;</p>
-<p>The students expressed that through their participation in the ISDC 2019, they experienced the joy of learning as they were able to apply their conceptual knowledge on a novel context.&nbsp;</p>
-<p>Well done, The Team Who Must Not Be Named!</p>
-<img src="/images/sci3.png">
-	<p><strong>Young Science Ambassadors Programme (YSAP)<br></strong>A team of five Secondary 3 students representing Damai Secondary School was selected by the Singapore Science Centre to participate in the Youth Science Ambassadors Programme (YSAP) 2019.&nbsp;</p>
-<p>Under the YSAP, students were trained and mentored to work on a community project using a STEM approach. The training programmes were fully sponsored by Temasek Foundation Nurtures (TFN), and in return, students had to commit to using the skills learnt for community outreach. The series of programmes were conducted during the June holidays. They taught project research skills and techniques for oral presentation and science communication.</p>
-<p>As part of YSAP, the team visited Loving Heart Multi-Service Centre (Jurong) and interacted with the senior citizens there, looking out for any challenge that the elderly might face. The team observed that there are a number of senior citizens with dementia who require support in the conduct of daily routines (i.e. consumption of medications, attending activities and doctor’s appointments etc.). That inspired the team to brainstorm how they could make lives easier for the elderly. Together, they designed an augmented reality (AR)-based personal assistant prototype that encompasses a pair of glasses and a watch. When worn, it offers an interactive notification display to set daily reminders for the elderly at selected times. It also has a buzzer and LEDs that will be activated once an elderly falls, causing the pair of glasses to enter emergency mode. This then triggers the device to contact the main caregivers, alerting them of the incident.&nbsp;</p>
-<p>Their project idea (named project ARdent) was very well-received and the team was selected to give a speech to the masses at the STEM Showcase on 29 June 2019. This was in addition to the setting up of a booth to further engage members of the public at JCanopy. The team took the opportunity to put their science communication skills to good use. A few enterprises saw potential in the further development of their project; one of them sponsored the team’s competition registration fees in the International Invention Innovation Competition in Canada (iCAN) 2019. Their participation in iCAN 2019 scored them a Gold Award. Additionally, the Singapore Science Centre also selected the team for a publicity video shoot that serves to inspire more students to join YSAP 2020, raising the profile of the programme.&nbsp;</p>
-<p>The team expressed that their participation in YSAP 2019 has enabled them to give back to the community while gleaning new knowledge and broadening their horizons.&nbsp;Well done, Project ARdent!</p>
-<img src="/images/sci4.png"></div>
+<img src="/images/Curriculum/Science/2023_science_01.png">
+	
+<p>Our Secondary One and Two students embarked on captivating Science Learning Journeys that provided immersive experiences, enhancing their scientific knowledge and fostering a deeper understanding of sustainability.</p>
+	<p>
+In the heart of our city, the Secondary One students explored a hidden gem—an edible garden. Here, they delved into the world of vermicomposting, observing the remarkable transformation of food waste into nutrient-rich compost. A captivating sensory garden tour introduced them to the wonders of diverse plant life, while uncovering the secrets behind the health benefits of microgreens added an extra layer of fascination.</p>
+<img src="/images/Curriculum/Science/2023_science_02.png">
+<p>The Secondary Two students ventured into the world of Agritisan, a local startup dedicated to agricultural education and urban farming. Engaging discussions on food sustainability and green job prospects broadened their horizons. They actively participated in a rooftop urban farm tour, engaging in the fulfilling tasks of harvesting and seeding. Furthermore, an enlightening eco-enzymes workshop empowered them to craft their own eco-enzymes from food waste, utilizing citrus peels.</p>
+<p>These enlightening learning journeys nurtured our students' scientific acumen, cultivating a deep-rooted understanding of sustainable practices and the significance of urban farming. Through these hands-on experiences, our students have developed a newfound appreciation for the intricate interplay between science and the world in which they live.
+	</p></div>
