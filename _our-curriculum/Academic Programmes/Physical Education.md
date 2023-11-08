@@ -1,8 +1,9 @@
 ---
 title: Physical Education
-permalink: /our-curriculum/academic-programmes/physical-education
+permalink: /our-curriculum/academic-programmes/physical-education/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 <p><strong><u>Department Focus</u></strong></p>
 <p>The&nbsp;Physical Education (PE) department aims to inculcate the joy of physical activity in our students. The PE programmes provide students with hands-on experiences to learn a variety of sports and games, deepen their understanding of physical health and fitness, and develop an appreciation of the outdoors.</p>
@@ -24,12 +25,12 @@ third_nav_title: Academic Programmes
 <table>
 <tbody>
 <tr>
-<td><img src="/images/pe1.jpg">Damai Fitness Day</td>
-<td><img src="/images/pe2.jpg">Sec 2 Cohort Camp</td>
+<td><img style="max-width:80%" src="/images/Curriculum/PE/2023_s1_football_icg.JPG">Sec 1 Inter-Class Games (Football)</td>
+<td><img style="max-width:80%" src="/images/Curriculum/PE/2023_s2_frisbee_icg.JPG">Sec 2 Inter-Class Games (Frisbee)</td>
 </tr>
 <tr>
-<td><img src="/images/pe3.jpg">Damai Health Week</td>
-<td><img src="/images/pe4.jpg">Damai Health Week</td>
+<td><img style="max-width:80%" src="/images/Curriculum/PE/2023_s2_rockclimbing.jpg">Sec 2 Rock Climbing</td>
+<td><img style="max-width:80%" src="/images/Curriculum/PE/2023_s3_badminton_icg.JPG">Sec 3 Inter-Class Games (Badminton)</td>
 </tr>
 </tbody>
 </table>
