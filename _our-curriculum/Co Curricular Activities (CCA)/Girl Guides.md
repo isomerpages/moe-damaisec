@@ -54,21 +54,26 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<img style="width: 75%;" src="/images/gg.jpg">
-<p style="text-align: center;"><strong><em>Chief Commissioner, Tan Shi Qing with her Baden Powell Award, and Ms Nurmin at the Girl Guides Award Ceremony 2022</em></strong></p>
-<img style="width: 75%;" src="/images/gg1.jpg">
-<p style="text-align: center;"><strong><em>Secondary 1 Orientation 2022- UG try-out</em></strong></p>
-<img style="width: 90%;" src="/images/gg2.jpg">
-<p style="text-align: center;"><strong><em>Footdrill</em></strong></p>
-<img style="width: 50%;" src="/images/gg3.jpg">
-<p style="text-align: center;"><strong><em>Free Being Me Advocacy Badge</em></strong></p>
-<img style="width: 75%;" src="/images/gg4.jpg">
-<p style="text-align: center;"><strong><em>Team Bonding- Let’s Play Frisbee!</em></strong></p>
-<img style="width: 75%;" src="/images/gg5.jpg">
-<p style="text-align: center;"><strong><em>Proficiency Badge Basket Weaving</em></strong></p>
-<img style="width: 75%;" src="/images/gg6.jpg">
-<p style="text-align: center;"><strong><em>East Division Day 2022- Snack Making Competition (3rd place)</em></strong></p>
-<img style="width: 65%;" src="/images/gg7.jpg">
-<p style="text-align: center;"><strong>World Thinking Day- Plogathon 2022 (Recycled Tool Bag)</strong></p>
-<img style="width: 55%;" src="/images/gg8.jpg">
-<p style="text-align: center;"><em><strong>Secondary 4 Handover Ceremony 2022</strong></em></p>
+<img style="width: 75%;" src="/images/CCA/Girl Guide/2023_GG_01.jpg">
+<p style="text-align: center;"><strong><em>Learning Basic First Aid</em></strong></p>
+<img style="width: 75%;" src="/images/CCA/Girl Guide/2023_GG_02.jpg">
+<p style="text-align: center;"><strong><em>Commemorating World Thinking Day 2023</em></strong></p>
+<img style="width: 90%;" src="/images/CCA/Girl Guide/2023_GG_03.jpg">
+<p style="text-align: center;"><strong><em>VIA at St John's Home for the Elderly</em></strong></p>
+<img style="width: 50%;" src="/images/CCA/Girl Guide/2023_GG_04.jpg">
+<p style="text-align: center;"><strong><em>Combined Uniform Group Marching Contingent at the National Day Observance Ceremony at Passion Wave led by Tasya Mandela Yang</em></strong></p>
+<img style="width: 75%;" src="/images/CCA/Girl Guide/2023_GG_05.jpg">
+<p style="text-align: center;"><strong><em>Making Coasters using Sustainable Resources at East Division Learning Day 2023</em></strong></p>
+<img style="width: 75%;" src="/images/CCA/Girl Guide/2023_GG_06.jpg">
+<p style="text-align: center;"><strong><em>Maxine Yow Xuan received the Baden Powell Award at the Girl Guides Award Ceremony 2023</em></strong></p>
+<img style="width: 75%;" src="/images/CCA/Girl Guide/2023_GG_07.jpg">
+<p style="text-align: center;"><strong><em>Collaboration with Fengshan Primary School Brownie for Plogathon during World Thinking Day Celebration 2023</em></strong></p>
+<img style="width: 65%;" src="/images/CCA/Girl Guide/2023_GG_08.jpg">
+<p style="text-align: center;"><strong>Guides after one of their bonding activities
+</strong></p>
+<img style="width: 55%;" src="/images/CCA/Girl Guide/2023_GG_09.jpg">
+<p style="text-align: center;"><em><strong>Guides doing their Yeoman Service at Girl Guides Shop</strong></em></p>
+<img style="width: 55%;" src="/images/CCA/Girl Guide/2023_GG_10.jpg">
+<p style="text-align: center;"><em><strong>Our Sec 4 guides enjoying their treat during the Sec 4 Handover Ceremony</strong></em></p>
+<img style="width: 55%;" src="/images/CCA/Girl Guide/2023_GG_11.jpg">
+<p style="text-align: center;"><em><strong>Sec 1 UG try-out 2023</strong></em></p>
