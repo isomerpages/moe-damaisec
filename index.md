@@ -23,10 +23,10 @@ sections:
           url: https://vle.learning.moe.edu.sg/login
       background: /images/Banner/isomer banner 11 (1080 by 400).gif
   - infobar:
-      title: e-Open House
-      subtitle: Damai Secondary School
+      title: Release of GCE N(A)/N(T) Results 2023
       id: infobar
-      description: Come and Get to Know Us! Visit Our e-Open House Now! We await you.
-      url: https://www.damaisec.moe.edu.sg/e-open-house/
+      description: Click on the below link to view details on the release of the GCE
+        N(A)/N(T) results.
+      url: /information/students/release-of-gce-nant-results-2023/
       button: click here
 ---
