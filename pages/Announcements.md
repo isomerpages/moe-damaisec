@@ -2,13 +2,6 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: tiptap
 ---
-<p><strong>e-Open House</strong><br>It’s happening soon – our e-Open House. Do join us on this exciting virtual journey from 18 November 2023 onwards.
-</p>
-<p><strong>Sec 1 - 3 End of Year Examination Timetable</strong><br>Click&nbsp;<strong><a href="/information/students/assessment-matters" target="_blank" rel="noopener">here</a></strong>&nbsp;to download the Sec 1 - 3 Examination Timetable.</p>
-
-<p><strong>2023 Sem 2 Class Timetable</strong><br>Click&nbsp;<strong><a href="/information/students/class-timetable" target="_blank" rel="noopener">here</a></strong>&nbsp;to view and download the Class Timetable for 2023 Semester 2.</p>
-<p><strong>2023 School Calendar (June-December)</strong><br>Click&nbsp;<strong><a href="/files/Information/Calendar of Events/2023 school calendar damai sec (for students) (jun - dec 2023).pdf" target="_blank" rel="noopener">here</a></strong>&nbsp;to view the 2023 School Calendar (updated 20 June 2023).</p>
-
-<p><strong>Sec 4 &amp; 5 Prelim Exam Timetable</strong><br>Click&nbsp;<strong><a href="/information/students/assessment-matters" target="_blank" rel="noopener">here</a></strong>&nbsp;to download the Sec 4 &amp; 5 Preliminary Examination Timetable.</p>
-<p><strong>Full Subject-Based Banding</strong><br>Click&nbsp;<strong><a href="/information/full-subject-based-banding" target="_blank" rel="noopener">here</a></strong>&nbsp;to learn more about Full Subject-Based Banding which is implemented in Damai Secondary School starting from 2022.</p>
+<p><strong>Release of GCE N(A)/N(T) Results 2023</strong><br>Click <a href="https://www.damaisec.moe.edu.sg/information/students/release-of-gce-nant-results-2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> to view details on the release of the GCE N(A)/N(T) results.</p><p><strong>e-Open House</strong><br>Visit our e-Open House <a href="https://damaisec.moe.edu.sg/e-open-house/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p></p>
