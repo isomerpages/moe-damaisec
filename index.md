@@ -28,4 +28,20 @@ sections:
         N(A)/N(T) results.
       url: /information/students/release-of-gce-nant-results-2023/
       button: click here
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Warm Welcome to 2023 Sec 1 Cohort
+          date: 20 December 2023
+          announcement: For information on Sec 1 registration and administrative matters,
+            please click on the link below.
+          link_text: Click Here
+          link_url: https://www.damaisec.moe.edu.sg/information/parents/information-for-2024-sec-1-cohort/
+        - title: Release of GCE N(A)/N(T) Results 2023
+          date: 18 December 2023
+          announcement: Click on the below link to view details on the release of the GCE
+            N(A)/N(T) results.
+          link_text: Click Here
+          link_url: /information/students/release-of-gce-nant-results-2023/
 ---
