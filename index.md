@@ -21,13 +21,6 @@ sections:
           description: ""
           url: https://vle.learning.moe.edu.sg/login
       background: /images/Banner/isomer banner 11 (1080 by 400).gif
-  - infobar:
-      title: Release of GCE N(A)/N(T) Results 2023
-      id: infobar
-      description: Click on the below link to view details on the release of the GCE
-        N(A)/N(T) results.
-      url: /information/students/release-of-gce-nant-results-2023/
-      button: click here
   - announcements:
       title: Announcements
       id: announcements
@@ -40,8 +33,8 @@ sections:
           link_url: https://www.damaisec.moe.edu.sg/information/parents/information-for-2024-sec-1-cohort/
         - title: Release of GCE N(A)/N(T) Results 2023
           date: 18 December 2023
-          announcement: Click on the below link to view details on the release of the GCE
-            N(A)/N(T) results.
+          announcement: To view details on the release of the GCE N(A)/N(T) results,
+            please click on the link below.
           link_text: Click Here
           link_url: /information/students/release-of-gce-nant-results-2023/
 ---
