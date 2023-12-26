@@ -22,7 +22,7 @@ variant: markdown
 |[Mrs Jackie Chan Neo Ai Ling](mailto:neo_ai_ling_jackie@schools.gov.sg)|YH/Upper Sec|
 [Ms Lenny Marlina](mailto:lenny_marlina_mohamed@schools.gov.sg)|YH/Lower Sec|
 |[Mr Lim Jing Kai](mailto:lim_jing_kai@schools.gov.sg)|SH/Discipline|
-|[Mdm Teo Shu De](mailto:teo_shu_de@schools.gov.sg)|SH/Discipline|
+|[Mr Teo Shu De](mailto:teo_shu_de@schools.gov.sg)|SH/Discipline|
 |[Ms See Pei Zhen](mailto:see_pei_zhen@schools.gov.sg)|SH/Chemistry|
 |[Ms Jasmine Pang Miin Lih](mailto:Pang_Miin_Lih@schools.gov.sg)|SH/EL|
 |[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|SH/ML|
