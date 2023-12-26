@@ -3,19 +3,6 @@ title: Sec 1 Form Teachers
 permalink: /our-people/form-teachers/sec-1-form-teachers/
 description: ""
 third_nav_title: Form Teachers
+variant: tiptap
 ---
-| Form Teacher | Class| 
-| -------- | -------- | 
-|[Mrs Yiow Yee Ling](mailto:yap_yee_ling@schools.gov.sg)|101
-|[Mr Chan Wai Meng](mailto:chan_wai_meng@schools.gov.sg)|101
-|[Ms Marilyn Foo Xin Yee](mailto:foo_xin_yee_marilyn@schools.gov.sg)|102
-|[Miss Davora Lim Sim Mui](mailto:lim_sim_mui_davora@schools.gov.sg)|102
-|[Ms Dolly Khoo Xuan](mailto:dolly_khoo@schools.gov.sg)|102
-|[Mr Teo Shu De](mailto:teo_shu_de@schools.gov.sg)|103
-|[Mdm Siti Hawa Bte Shaini](mailto:siti_hawa_shaini@schools.gov.sg)|103
-|[Mdm Noorhafizah Bte Syed Yusof Shah](mailto:noorhafizah_syed_yusof_sha@schools.gov.sg)|104
-|[Mr Te Chee Hui](mailto:te_chee_hui@schools.gov.sg)|104
-|[Mdm Tan Boon Siew](mailto:tan_boon_siew@schools.gov.sg)|105
-|[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|105
-|[Mr Ong Rui Xiang Ray](mailto:ong_rui_xiang@schools.gov.sg)|105
-||||
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Form Teacher</p></th><th rowspan="1" colspan="1"><p>Class</p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:chua_yan_yi_alvina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alvina Chua Yan Yi</a></p></td><td rowspan="2" colspan="1"><p>101</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:chan_wai_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mary Goh Hwee Ling</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Tay_Ee_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tay Ee Teng</a></p></td><td rowspan="2" colspan="1"><p>102</p><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Tan_Jun_Ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Jun Ming</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Evangeline_Anne_Lim_Shyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Evangeline Anne Lim Shyan Ying</a></p></td><td rowspan="2" colspan="1"><p>103</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Ong_Rui_Xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Rui Xiang Ray</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Sidek_B_Terimoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sidek Bin Terimoh</a></p></td><td rowspan="2" colspan="1"><p>104</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:deneshwari_thurairaja_singam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deneshwari</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Salahudeen_Sayed_Mobarak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Salahudeen Bin Sayed Mobarak</a></p></td><td rowspan="2" colspan="1"><p>105</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Sng_Gek_Hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Sng Gek Hoon</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Tan_Chwee_Kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Chwee Kim</a></p></td><td rowspan="2" colspan="1"><p>106</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Amir_Mizra_Abdul_Majid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Amir Mizra S/O Abdul Majid</a></p></td></tr></tbody></table><p></p>
