@@ -3,19 +3,6 @@ title: Sec 3 Form Teachers
 permalink: /our-people/form-teachers/sec-3-form-teachers/
 description: ""
 third_nav_title: Form Teachers
+variant: tiptap
 ---
-| Form Teacher | Class| 
-| -------- | -------- | 
-|[Miss See Pei Zhen](mailto:see_pei_zhen@schools.gov.sg)|301
-|[Miss Andrea Wong Jie Yi](mailto:wong_jie_yi_andrea@schools.gov.sg)|301
-|[Mdm Georgina Low Yuesi](mailto:Low_Yuesi_Georgina@schools.gov.sg)|302
-|[Mdm Rahmayani Fitri Bte Rohaizat](mailto:rahmayani_fitri_rohaizat@schools.gov.sg)|302
-|[Mrs Clara Chng Xuehui](mailto:ong_xuehui_clara@schools.gov.sg)|303
-|[Mr Tong Coleman](mailto:Tong_Coleman@schools.gov.sg)|303
-|[Mr Leroy Lee Wen Hock](mailto:lee_wen_hock_leroy@schools.gov.sg)|304
-|[Ms Nurmin Bte Ahmad](mailto:nurmin_ahmad@schools.gov.sg)|304
-|[Mr Tan Jun Ming](mailto:tan_Jun_Ming@schools.gov.sg)|304
-|[Mdm Choo Lee Ming](mailto:choo_lee_ming@schools.gov.sg)|305
-|[Mr Christopher Hoan Mow Kim](mailto:hoan_mow_kim@schools.gov.sg)|305
-|[Mr Chen Jingyang](mailto:chen_jing_yang@schools.gov.sg)|305
-||
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Form Teacher</p></th><th rowspan="1" colspan="1"><p>Class</p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:see_pei_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Cristy Therese Lin</a></p></td><td rowspan="2" colspan="1"><p>301</p><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:wong_jie_yi_andrea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lin Jiehui</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Low_Yuesi_Georgina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Ho Yong Cheah</a></p></td><td rowspan="2" colspan="1"><p>302</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:rahmayani_fitri_rohaizat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Magdalene Chan</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:ong_xuehui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohasliza Bte Rohmadon</a></p></td><td rowspan="2" colspan="1"><p>303</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:Tong_Coleman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lau Hui Cheng</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:lee_wen_hock_leroy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Siew Lei</a></p></td><td rowspan="2" colspan="1"><p>304</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:nurmin_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Wei Zhi</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:choo_lee_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Khatijah</a></p></td><td rowspan="3" colspan="1"><p>305</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:hoan_mow_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Viknesh S/O M Pasupathi</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="mailto:chen_jing_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nor Zubaidah Bte Hassan</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
