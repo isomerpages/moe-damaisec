@@ -2,6 +2,7 @@
 title: Exec & Admin Staff (EAS)
 permalink: /our-people/exec-n-admin-staff-eas/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -34,7 +35,7 @@ description: ""
 <td>CSO&nbsp;</td>
 </tr>
 <tr>
-<td><a href="mailto:Muhammad_Nur_Hidayat_Mohamed_A@schools.gov.sg" target="">Mr Muhammad Nur Hidayat Bin Mohamed</a>&nbsp;</td>
+<td><a href="mailto:Muhammad_Nur_Hidayat_Mohamed_A@schools.gov.sg" target="">Mr Muhd Nur Hidayat Bin Mohd Hamid</a>&nbsp;</td>
 <td>ICT Associate</td>
 </tr>
 <tr>
@@ -54,13 +55,10 @@ description: ""
 <td>OSO</td>
 </tr>
 <tr>
-<td>Mr Mohd Latiff Vin Leman<br></td>
+<td>Mr Mohd Latiff Bin Leman<br></td>
 <td>OSO<br></td>
 </tr>
-<tr>
-<td>Mr Tan Wan Watt&nbsp;<br></td>
-<td>OSO</td>
-</tr>
+
 <tr>
 <td>Miss Zaridah Bte Ismall</td>
 <td>OSO&nbsp;</td>
