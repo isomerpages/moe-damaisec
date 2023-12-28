@@ -2,6 +2,7 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 <p><strong>A Nurturing School Experience through Character &amp; Citizenship Education</strong></p>
 <p>Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. CCE 2021 provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. Important aspects of CCE, such as National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), are integrated within a school-wide approach. This is essential for students to internalize the necessary values, attitudes, and competencies to become self-directed learners, confident people, active contributors, and concerned citizens, which are the desired outcomes of education.</p>
@@ -83,8 +84,7 @@ description: ""
 <p><strong>Sexuality Education @ Damai</strong></p>
 <p>Sexuality Education in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p><strong>Link To MOE Sexuality Education Website:<br></strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education</a>&nbsp;</p>
-<p><strong>Mental Health Awareness @ Damai</strong></p>
-<p>With the increasing importance of mental health awareness and education, Damai Secondary School has engaged TOUCH to extend their mental health workshop to the students. In addition to the mental health lessons taught in school, they will reinforce what they have learnt through the engaging activities in the workshop.&nbsp;</p>
+
 <p><strong>Education and Career Guidance @ Damai</strong></p>
 <p>The approach to ECG at Damai is guided by a developmental framework which highlights ECG as a process that takes over one’s life span. Damai’s ECG programme reflects the school motto: Aspire, Explore, Achieve.</p>
 <p>The table below summarizes ECG @Damai:</p>
@@ -139,8 +139,8 @@ description: ""
         <ul>
           <li>ECG Lessons to explore subject combination, post-secondary options and planning pathways</li>
           <li>&nbsp;Sharing on subject combination &amp; post-secondary options and career choices by institutes of higher learning</li>
-          <li>Exposure at ITE (for Normal Technical)</li>
-          <li>&nbsp;Elective Modules (for Normal Technical)</li>
+          <li>Exposure at ITE</li>
+          <li>ApLM@ITE</li>
         </ul>
       </td>
     </tr>
@@ -152,8 +152,8 @@ description: ""
         <ul>
           <li>&nbsp;ECG Lessons to explore career skills &amp; values and plan post-secondary options</li>
           <li>Talk on PFP/DPP by institutes of higher learning</li>
-          <li>&nbsp;Polytechnic course attachments &amp; Job Attachment Programme</li>
-          <li>&nbsp;Elective Modules (Normal Academic &amp; Technical)</li>
+          <li>Job Attachment Programme</li>
+          <li>ApLM@ITE and ApLM@Poly</li>
         </ul>
       </td>
     </tr>
@@ -170,9 +170,9 @@ description: ""
           <li>ECG Lessons to reinforce educational &amp; career pathways &amp; make informed decisions</li>
           <li>Talk on JAE/JIE by higher institutes of learning</li>
           <li>Course advising and experience by institutes of higher learning</li>
-          <li>Career Fair / Open House Visit</li>
+          <li>Career Fair</li>
           <li>Workshop on EAE Writing</li>
-          <li>Elective Module (Normal Academic &amp; Technical)</li>
+          <li>ApLM@Poly</li>
         </ul>
       </td>
     </tr>
