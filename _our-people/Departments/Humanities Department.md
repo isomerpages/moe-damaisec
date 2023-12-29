@@ -14,4 +14,4 @@ variant: markdown
 |[Miss Chua Yan Yi Alvina](mailto:Chua_Yan_yi_alvina@schools.gov.sg)|Teacher
 |[Mrs Clara Chng Xuehui](mailto:ong_xuehui_clara@schools.gov.sg)|Teacher
 |[Ms Deneshwari D/O Thurairaja Singam](mailto:deneshwari_thurairaja_singam@schools.gov.sg)|Teacher|
-[Mdm Magdalene](mailto:magdalene_chua_may_er@schools.gov.sg)|Teacher
+[Mdm Magdalene Chan](mailto:magdalene_chan_may_er@schools.gov.sg)|Teacher
