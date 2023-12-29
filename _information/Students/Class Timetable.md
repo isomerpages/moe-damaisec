@@ -3,11 +3,12 @@ title: Class Timetable
 permalink: /information/students/class-timetable/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-[Updated 23 Jun 2023]
+[Updated 29 December 2023]
 
-The Class Timetable for 2023 Semester 2 is available for download.&nbsp;  
+The Class Timetable for 2024 Semester 1 is available for download.&nbsp;  
 
 Click on the link below to download the timetable. 
 
-<a href="/files/Information/Students/Timetable/2023/2023 sem 2 timetable.pdf">2023 Sem 2 Timetable (Classes)</a>
+[2024 Semester 1 Timetable (Classes)](/files/2024/Timetable/2024_Sem_1_Timetable_v19d___classes.pdf)
