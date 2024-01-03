@@ -8,7 +8,6 @@ variant: markdown
 | Name | Designation| 
 | -------- | -------- | 
 |[Mdm Soraya Suleiman](mailto:soraya_suleiman@schools.gov.sg)|HOD/C&T
-|[Mr Alvin Ho Yong Cheah](mailto:ho_yong_cheah_alvin@schools.gov.sg)|Teacher
 |[Mr Chan Wai Meng](mailto:chan_wai_meng@schools.gov.sg)|Teacher
 |[Miss Evangeline Anne Lim Shyan Ying](mailto:Evangeline_Anne_Lim_Shyan@schools.gov.sg)|Teacher
 |[Ms Liyana Athirah Bte Zainal Abidin](mailto:liyana_athirah_zainal_abidin@schools.gov.sg)|Teacher
