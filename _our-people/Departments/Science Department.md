@@ -16,6 +16,6 @@ variant: markdown
 |[Ms Dolly Khoo Xuan](mailto:dolly_khoo@schools.gov.sg)|Teacher
 |[Mdm Rahmayani Fitri Bte Rohaizat](mailto:rahmayani_fitri_rohaizat@schools.gov.sg)|Teacher
 |[Mr Tan Wei Zhi](mailto:tan_wei_zhi@schools.gov.sg)|Teacher
-|[Mr Lau Hui Cheng](mailto:tan_wei_zhi@schools.gov.sg)|Teacher
+|[Mr Lau Hui Cheng](mailto:lau_hui_cheng@schools.gov.sg)|Teacher
 |Miss Jenny Low Kar Yee|Technical Support Staff (Science Lab)
 ||
