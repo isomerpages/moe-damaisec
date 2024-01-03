@@ -1,0 +1,12 @@
+---
+title: Latest News & Events
+permalink: /latest-news-n-events/
+description: ""
+---
+
+<p><strong>Responsible Food Consumption &amp; Compost-making</strong><br />Want to know how Damai Secondary teaches its students and their families about responsible food consumption and compost-making? Watch the&nbsp;<strong><a href="https://www.channelnewsasia.com/watch/cna-green-plan/sustainable-living-2646101" target="_blank" rel="noopener">CNA Green Plan video</a></strong>&nbsp;to find out.</p>
+<p><strong>Appreciating the work of our non-teaching staff</strong><br />Our students gained a deeper appreciation of the work that goes into maintaining a clean school environment recently. Click&nbsp;<strong><a href="https://www.facebook.com/100064594847808/posts/260477056115454/" target="_blank" rel="noopener">here</a></strong>&nbsp;to read more about it on MOE Facebook.</p>
+<p><strong>Applied Learning Programme</strong><br />Our Applied Learning Programme: Environmental Sciences and Sustainability inspires our students to go on a journey of self-exploration and self-discovery. Read more about it on MOE&nbsp;<strong><a href="https://www.facebook.com/moesingapore/posts/234976775332149" target="_blank" rel="noopener">Facebook</a></strong>&nbsp;and&nbsp;<strong><a href="https://www.schoolbag.edu.sg/story/building-an-alp-in-environmental-science-from-the-ground-up" target="_blank" rel="noopener">Schoolbag</a></strong>.</p>
+<p><strong>Water Sports @ DSS</strong><br />Damaians have the rare opportunity to experience interesting water sports. Click&nbsp;<strong><a href="https://www.facebook.com/6788957003/posts/10160770833117004/" target="_blank" rel="noopener">here</a></strong>&nbsp;to read more about it on MOE Facebook page.</p>
+<p><strong>The Edge</strong><br />Our student activity centre, The Edge, was featured in MOE Facebook page. Read more about it&nbsp;<strong><a href="https://m.facebook.com/story.php?story_fbid=10160758968797004&amp;id=6788957003&amp;sfnsn=mo" target="_blank" rel="noopener">here</a></strong>.</p>
+<p><strong>Damai Students in the News</strong><br />Our Damaians have done us proud in displaying resilience and passion in the face of challenges to succeed in competitions and their academic endeavours. Click&nbsp;<strong><a href="/our-damai/our-accolades/student-accolades" target="_blank" rel="noopener">here</a></strong>&nbsp;to read about our Damaians in the news!</p>
