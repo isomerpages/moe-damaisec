@@ -56,5 +56,5 @@ variant: markdown
 </table>
 <br>
 
-![NPCC_2401](/images/CCA/NPCC101.png)
-![NPCC_2402](/images/CCA/NPCC102.png)</p>
+<img alt="NPCC_2401" src="/images/CCA/NPCC101.png">
+<img alt="NPCC_2402" src="/images/CCA/NPCC102.png"></p>
