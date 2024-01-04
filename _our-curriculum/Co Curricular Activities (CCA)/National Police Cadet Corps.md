@@ -3,20 +3,21 @@ title: National Police Cadet Corps
 permalink: /our-curriculum/co-curricular-activities-cca/national-police-cadet-corps/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <p>The National Police Cadet Corps (NPCC) aims to cultivate cadets to be unique and to lead and serve in a challenging world.&nbsp;</p>
 <p>As the only uniformed youth organisation with a close affiliation with the Singapore Police Force, our cadets are exposed to unique opportunities, gaining exposure and familiarity with Singapore's crime prevention efforts to build a Safe and Secure Home.&nbsp;</p>
 <p>Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop the cadets into Caring and Responsible Citizens.&nbsp;</p>
 
-**Signature Programmes** 
+**Signature Programmes**&nbsp;
 
 *   Crime Prevention
 *   .22 Revolver Shooting
 *   Crime Scene Investigation
 *   Adventure Training Camps
 *   Area Games Day
-*   Drill & Campcraft Related activities
-*   Unit Service Day & Related activities
+*   Drill &amp; Campcraft Related activities
+*   Unit Service Day &amp; Related activities
 
 
 <p><strong>Achievements</strong>
@@ -40,7 +41,7 @@ third_nav_title: Co Curricular Activities (CCA)
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">NPCC Unit Overall Proficiency Award 2021 - Gold  </span></td>
   </tr>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> NDP Observance Ceremony 2022</span></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> NDP Observance Ceremony 2023</span></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> NPCC Best Unit Cadet</span></td>
@@ -49,15 +50,11 @@ third_nav_title: Co Curricular Activities (CCA)
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Adventure Training Camp </span></td>
   </tr>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Day Enrichment at Camp Resilience</span></td>
-  </tr>
-  <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Passing Out Parade</span></td>
   </tr>
 </tbody>
 </table>
 <br>
-<img src="/images/npcc1.png" 
-     style="width:75%">
-<img src="/images/npcc2.png" 
-     style="width:75%">
+
+![NPCC_2401](/images/CCA/NPCC101.png)
+![NPCC_2402](/images/CCA/NPCC102.png)</p>
