@@ -30,7 +30,7 @@ sections:
           announcement: To view details on the release of the GCE O-Level results, please
             click on the link below.
           link_text: Click Here
-          link_url: https://damaisec.moe.edu.sg/information/students/permalink/
+          link_url: /information/students/release-of-o-level-results-2023/
         - title: Warm Welcome to 2023 Sec 1 Cohort
           date: 20 December 2023
           announcement: For information on Sec 1 registration and administrative matters,
