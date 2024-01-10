@@ -11,4 +11,4 @@ The Class Timetable for 2024 Semester 1 is available for download.&nbsp;
 
 Click on the link below to download the timetable. 
 
-[2024 Semester 1 Timetable (Classes)](/files/2024/Timetable/2024_Sem_1_Timetable_v19d___classes.pdf)
+[2024 Semester 1 Timetable (Classes)](/files/2024/Timetable/2024_Sem_1_Timetable_v21d___classes.pdf)
