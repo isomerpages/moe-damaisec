@@ -3,10 +3,11 @@ title: Co–Curricular Activities (CCA)
 permalink: /our-curriculum/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <p><strong>Links &amp; Resources</strong></p>
 <ul>
-<li><a href="/files/2023%20Sec%201%20CCA%20Briefing.pdf" target="_blank" rel="noopener">2023 Sec 1 CCA Briefing</a></li>
+<li><a href="/files/2024/2024_Sec_1_CCA_Briefing_.pdf" target="_blank" rel="noopener">2024 Sec 1 CCA Briefing</a></li>
 </ul>
 <p><strong>Co-Curricular Activities&nbsp;</strong></p>
 <p>Co-Curricular Activities play a key role in the holistic development of our students. The framework for CCA is anchored in the values of developing students' interests in life-long recreational activities and broadening students' experiences.&nbsp;</p>
