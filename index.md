@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Semester 1 Schedule for Assessments
+          date: 15 January 2024
+          announcement: Click on the link below to view and download the Semester 1
+            Schedule for Assessments
+          link_text: Click Here
+          link_url: /information/students/assessment-matters/
         - title: Release of 2023 GCE O-Level Examination Results
           date: 08 January 2024
           announcement: To view details on the release of the GCE O-Level results, please
