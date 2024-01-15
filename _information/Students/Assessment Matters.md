@@ -3,6 +3,7 @@ title: Assessment Matters
 permalink: /information/students/assessment-matters/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 **2023 End-of-Year Examination Timetable**  
 
@@ -13,16 +14,15 @@ third_nav_title: Students
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(a) preliminary exam timetable.pdf">Secondary 4NA </a> </td><td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4n(t) preliminary exam timetable.pdf">Secondary 4NT </a> </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/2023 4e5na preliminary exam timetable.pdf">Secondary 4E/5NA </a></td></tr></thead></table>
 
 
-**2023 Schedule of Weighted Assessments**  
+**2024 Schedule of Weighted Assessments**  
 
-* <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/schedule of weighted assessment 3 (sec 1-3) - updated on 27 june 2023.pdf">Schedule of Weighted Assessments 3 (Sec 1 - 3)</a>
+* [Schedule of Weighted Assessments - Sec 1](/files/2024/Schedule_of_Weighted_Assessments__Sec_1_.pdf)
+* [Schedule of Weighted Assessments - Sec 2](/files/2024/Schedule_of_Weighted_Assessments__Sec_2_.pdf)
+* [Schedule of Weighted Assessments - Sec 3](/files/2024/Schedule_of_Weighted_Assessments__Sec_3_.pdf)
 
-**2023 Scheme of Weighted Assessments**  
+**2024 Schedule of Non-Weighted Assessments** 
 
-* <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/scheme of assessment (wa3) - sec 1.pdf">Scheme of Assessment (WA3) - Sec 1</a>
-*  <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/scheme of assessment (wa3) - sec 2.pdf">Scheme of Assessment (WA3) - Sec 2</a>
-*  <a rel="noopener" target="_blank" href="/files/Information/Students/Assessment/2023/scheme of assessment (wa3) - sec 3.pdf">Scheme of Assessment (WA3) - Sec 3</a>
-
+* [Schedule of Non-Weighted Assessment - Sec 4/5](/files/2024/Schedule_of_Non_Weighted_Assessments__Sec_4_5_.pdf)
 
 **PHILOSOPHY**  
 Effective and meaningful assessments are essential elements that support students in acquiring the skills and competencies necessary to lead a purposeful and meaningful life. In Damai Secondary, we seek to provide quality student-centric academic programmes that will enable students to develop their potential and meet future challenges. Assessment provides students, teachers, parents and stakeholders with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry and teaching and learning process. It must thus be ongoing, unbiased, and designed to meet the needs of our diverse learning community.&nbsp;  
