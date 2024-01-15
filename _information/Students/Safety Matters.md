@@ -23,7 +23,7 @@ Both the mission and vision underpin high levels of safety consciousness so that
 
 Click **[here](/files/2024/2024___Student___Safety_15_Jan.pdf)** for School Safety Briefing slides.
 
-Students who are cycling to school are required to register via https://go.gov.sg/dsscyclistregister2024.  
+Students who are cycling to school are required to register via [this link](https://go.gov.sg/dsscyclistregister2024).
 
 **Update**: Bicycles without handbrakes will not be allowed from 1 Sep 2021.
 
