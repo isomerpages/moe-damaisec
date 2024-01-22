@@ -789,7 +789,7 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends beyo
 their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens
 programme is that students are empowered to make wise, informed and sensible decisions.
 
-<b>At Damai Secondary School, the eTeens programme will be implemented as follows in 2023:</b>
+<b>At Damai Secondary School, the eTeens programme will be implemented as follows in 2024:</b>
 
 <table>
 <thead>
@@ -827,12 +827,12 @@ making</td>
 sexuality education programmes by MOE-approved external providers.
 
 11.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an
-opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_GY_Opt%20Out%20Form.pdf).
-The completed form is to be submitted by 25/01/2023.
+opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2024/Annex_A_GY_Opt_Out_Form.pdf).
+The completed form is to be submitted by 31/01/2024.
 
 12.Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out
-form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Opt%20Out%20Form.pdf). The
-completed form is to be submitted by 01/08/2023.
+form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2024/Annex_B_eTeens_Opt_Out_Form.pdf). The
+completed form is to be submitted by 31/01/2024. 
 
 13.Parents can contact the school’s Sexuality Education Coordinator Ms Lorraine Ng via email
 at <a href="mailto:ng_wei_yin_carrissa@schools.gov.sg">ng_wei_yin_carrissa@schools.gov.sg</a> for discussion or to seek clarification about the school’s Sexuality
