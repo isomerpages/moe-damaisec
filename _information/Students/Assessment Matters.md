@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
+**2024 Scheme of Assessments**
+
+* [Scheme of Assessment - Sec 1](/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_1_.pdf)
+*  [Scheme of Assessment - Sec 2](/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_2_.pdf) 
+* [Scheme of Assessment - Sec 3](/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_3_.pdf)
+* [Scheme of Assessment - Sec 4/5](/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_4_5_.pdf)
 
 **2024 Schedule of Weighted Assessments (Semester 1)** 
 
