@@ -3,6 +3,7 @@ title: Device Management Application
 permalink: /information/parents/device-management-application/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <p>Our students' Personal Learning Devices (PLD) have been installed with a Device Management Application (DMA) to ensure that they use the PLD for learning in a safe digital environment.&nbsp;The following DMA settings are in place as a default:</p>
 <ul>
@@ -25,7 +26,7 @@ third_nav_title: Parents
 <p>Please refer to&nbsp;<a href="/files/DMA%20Annex%20B.pdf" target="_blank" rel="noopener">Annex B</a>&nbsp;for details of these after-school options.</p>
 <p>If you wish to choose Option A or Option B, or update your email address for the Parent Portal, please fill in the online option form&nbsp;<a href="https://go.gov.sg/dssdmasetting" target="_blank" rel="noopener">https://go.gov.sg/dssdmasetting</a>.&nbsp;</p>
 <p>Parents/guardians can request to change your choice of DMA settings at any time through the same link. However, please note that changes to the DMA after-school options will only take effect at the end of every week.</p>
-<p>For further enquiries, please contact the HOD/ICT Mr Loh Yan Xiang at&nbsp;<a href="mailto:loh_yan_xiang@schools.gov.sg" target="">loh_yan_xiang@schools.gov.sg</a>.&nbsp;</p>
+<p>For further enquiries, please contact the HOD/ICT Mrs Lee Pei Kee at&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" target="">chin_pei_kee@schools.gov.sg</a>.&nbsp;</p>
 <p><strong>DMA Parents Guide (updated Apr 2023)<br></strong>
 	
 <a href="https://drive.google.com/file/d/1SB92mM1bZ_Xp1zOYVVSDXRiI3Ekmbmex/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Default Option</a><br><a href="https://drive.google.com/file/d/1sEgHAiU1FKcKzeA5wWhWy-F4hWe6wPiK/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option A</a><br><a href="https://drive.google.com/file/d/144qTQkTIIFsFQgZvzBrjf_COeXl9_2kQ/view?usp=sharing" target="_blank" rel="noopener">DMA Parent Guide - Option B</a></p>
