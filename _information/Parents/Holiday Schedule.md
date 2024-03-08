@@ -207,7 +207,7 @@ variant: tiptap
 <p>SJCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>730AM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -236,7 +236,7 @@ variant: tiptap
 <p>17th NCC Advanced Drills Course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8AM - 5PM daily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -265,7 +265,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>930AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -294,7 +294,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10AM - 1230PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -323,7 +323,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1PM - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -352,7 +352,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>930AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -381,7 +381,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1PM - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -410,7 +410,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1pm - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -439,7 +439,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -468,7 +468,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -497,7 +497,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -526,7 +526,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -555,7 +555,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -584,7 +584,7 @@ variant: tiptap
 <p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
