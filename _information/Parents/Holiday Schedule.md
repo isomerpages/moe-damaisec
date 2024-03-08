@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h4><strong>2024 March Holidays</strong></h4>
-<h5><strong>Non CCA Programme</strong></h5>
+<h3><strong>2024 March Holidays</strong></h3>
+<h4><strong>Non CCA Programme</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -157,7 +157,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>CCA Programme</strong>
-</p>
+<h4><br><strong>CCA Programme</strong></h4>
 <p></p>
