@@ -204,7 +204,7 @@ variant: tiptap
 <p>Canoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SJCC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>17th NCC Advanced Drills Course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -262,7 +262,7 @@ variant: tiptap
 <p>Guzheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -320,7 +320,7 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -349,7 +349,7 @@ variant: tiptap
 <p>Guzheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -378,7 +378,7 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -407,7 +407,7 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -436,7 +436,7 @@ variant: tiptap
 <p>Canoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -465,7 +465,7 @@ variant: tiptap
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -494,7 +494,7 @@ variant: tiptap
 <p>Ethnic Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -523,7 +523,7 @@ variant: tiptap
 <p>Canoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -552,7 +552,7 @@ variant: tiptap
 <p>Ethnic Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -581,7 +581,7 @@ variant: tiptap
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
