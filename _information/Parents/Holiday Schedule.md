@@ -210,7 +210,7 @@ variant: tiptap
 <p>730AM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -239,7 +239,7 @@ variant: tiptap
 <p>8AM - 5PM daily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Sec 3 NCC Cadet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +268,7 @@ variant: tiptap
 <p>930AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -297,7 +297,7 @@ variant: tiptap
 <p>10AM - 1230PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -326,7 +326,7 @@ variant: tiptap
 <p>1PM - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -355,7 +355,7 @@ variant: tiptap
 <p>930AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -384,7 +384,7 @@ variant: tiptap
 <p>1PM - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -413,7 +413,7 @@ variant: tiptap
 <p>1pm - 4PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -442,7 +442,7 @@ variant: tiptap
 <p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -471,7 +471,7 @@ variant: tiptap
 <p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>B Division School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -500,7 +500,7 @@ variant: tiptap
 <p>9AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -529,7 +529,7 @@ variant: tiptap
 <p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -558,7 +558,7 @@ variant: tiptap
 <p>9AM - 12PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -587,7 +587,7 @@ variant: tiptap
 <p>3PM - 6PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>B Division School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
