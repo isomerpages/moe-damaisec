@@ -245,7 +245,7 @@ variant: tiptap
 <p>Christopher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NCC Campus, Amoy Quee Camp</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ variant: tiptap
 <p>Marilyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geog Room</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +303,7 @@ variant: tiptap
 <p>Andrea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ISH Level 2</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ variant: tiptap
 <p>Chan SL / Sidek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Music Room / Band Room</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ variant: tiptap
 <p>Miss Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geog Room</p>
 </td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@ variant: tiptap
 <p>Sidek / Deen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Music Room / Band Room</p>
 </td>
 </tr>
 <tr>
@@ -419,7 +419,7 @@ variant: tiptap
 <p>Alvin / Deen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geog Room</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ variant: tiptap
 <p>Mdm Yani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hall</p>
 </td>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ variant: tiptap
 <p>Mdm Hafizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hall</p>
 </td>
 </tr>
 <tr>
