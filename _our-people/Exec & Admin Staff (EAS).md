@@ -19,10 +19,6 @@ variant: markdown
 <td>OM</td>
 </tr>
 <tr>
-<td><a href="mailto:TOH_Boon_Chiang@schools.gov.sg" target="">Mr Toh Boon Chiang</a>&nbsp;</td>
-<td>AE&nbsp;</td>
-</tr>
-<tr>
 <td><a href="mailto:hasimah_kassim@schools.gov.sg" target="">Mdm Hasimah Binte Kassim</a>&nbsp;</td>
 <td>CSO</td>
 </tr>
