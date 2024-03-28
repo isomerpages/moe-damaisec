@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### Term 2
+
+| **Letter/PG Notifcation** | **Date** | **For** |
+| -------- | -------- | -------- |
+||||
+||||
+||||
+||||
+|[Sec 2 Cohort Leadership Workshop on 26 March 2024 (Tuesday)](/files/2024/PG/08032024_Sec_2_Cohort_Leadership_Workshop_on_26_March_2024__Tuesday_.pdf)|8 Mar 2024|Sec 2|
+|[Sec 2 Cohort Leadership Workshop on 26 March 2024 (Tuesday)](/files/2024/PG/08032024_Sec_2_Cohort_Leadership_Workshop_on_26_March_2024__Tuesday_.pdf)|8 Mar 2024|Sec 2|
+
 #### Term Break (March)
 
 | **Letter/PG Notifcation** | **Date** | **For** |
