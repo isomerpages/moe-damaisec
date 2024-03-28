@@ -5,16 +5,24 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-#### Term 1
+#### Term Break (March)
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
 ||||
-||||
-||||
-||||
-||||
-||||
+
+#### Term 1
+
+| **Letter/PG Notifcation** | **Date** | **For** |
+| -------- | -------- | -------- |
+|[Dragonboat CCA for Sec 1s](/files/2024/PG/07032024_Dragonboat_CCA_for_Sec_1s.pdf)|7 Mar 2024|Sec 104/105/106|
+|[Learning Journey To Pasir Ris Park Mangroves](/files/2024/PG/04032024_Learning_Journey_To_Pasir_Ris_Park_Mangroves__104_106_.pdf)|4 Mar 2024|Sec 104/105/106|
+|[Learning Journey To Pasir Ris Park Mangroves](/files/2024/PG/04032024_Learning_Journey_To_Pasir_Ris_Park_Mangroves.pdf)|4 Mar 2024|Sec 101/102/103|
+|[Police Advisory for Parents/Guardians on Shop Theft](/files/2024/PG/02032024_Police_Advisory_on_Shop_Theft.pdf)|2 Mar 2024|All|
+|[Police Advisory on Concert Ticket Scams](/files/2024/PG/02032024_Police_Advisory_on_Concert_Ticket_Scams.pdf)|2 Mar 2024|All|
+|[Invitation to Participate in M3@Bedok Post-Budget 2024 Dialogue](/files/2024/PG/29022024_Invitation_to_Participate_in_M3_Bedok_Post_Budget_2024_Dialogue.pdf)|29 Feb 2024|Sec 4|
+|[Geography Challenge](/files/2024/PG/29022024_Geography_Challenge.pdf)|28 Feb 2024|Participants of Geography Challenge|
+|[2024 National Chinese Challenge](/files/2024/PG/28022024_2024_National_Chinese_Challenge.pdf)|28 Feb 2024|Participants of National Chinese Challenge|
 |[Integration Programme (8 March 2024)](/files/2024/PG/26022024_Integration_Programme__8_March_2024_.pdf)|26 Feb 2024|IS|
 |[Collection of Personal Learning Device (PLD) 2024](/files/2024/PG/26022024_Collection_of_Personal_Learning_Device__PLD__2024.pdf)|26 Feb 2024|Sec 1|
 |[405 VIA](/files/2024/PG/23022024_405_VIA.pdf)|23 Feb 2024|Sec 405|
