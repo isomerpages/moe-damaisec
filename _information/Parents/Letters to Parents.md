@@ -11,9 +11,14 @@ variant: markdown
 | -------- | -------- | -------- |
 ||||
 ||||
-||||
-||||
-|[Sec 2 Cohort Leadership Workshop on 26 March 2024 (Tuesday)](/files/2024/PG/08032024_Sec_2_Cohort_Leadership_Workshop_on_26_March_2024__Tuesday_.pdf)|8 Mar 2024|Sec 2|
+|[NPCC Visit to Criminal Investigation Department on 8 Apr 2024](/files/2024/PG/21032024_NPCC_Visit_to_Criminal_Investigation_Department_on_8_Apr_2024.pdf)|21 Mar 2024|NPCC|
+|[Learning Journey to ComCrop)](/files/2024/PG/20032024_Learning_Journey_to_ComCrop_3_Apr.pdf)|15 Mar 2024|Sec 104/105/106|
+|[Learning Journey to ComCrop)](/files/2024/PG/20032024_Learning_Journey_to_ComCrop_2_Apr.pdf)|15 Mar 2024|Sec 101/102/103|
+|[Sec 401 to 404 Learning Journey to Nanyang Polytechnic (28 March 2024)](/files/2024/PG/15032024_Sec_401_to_404_Learning_Journey_to_Nanyang_Polytechnic__28_March_2024_.pdf)|15 Mar 2024|Sec 4|
+|[Secondary 3-5 Careers Day on 22 March 2024](/files/2024/PG/15032024_Secondary_3_to_5_Careers_Day_on_22_March_2024.pdf)|15 Mar 2024|Sec 3/4/5|
+|[Secondary 2 Careers Day on 22 March 2024](/files/2024/PG/15032024_Secondary_2_Careers_Day_on_22_March_2024.pdf)|15 Mar 2024|Sec 2|
+|[Secondary 1 HBL Day on 22 March 2024](/files/2024/PG/15032024_Secondary_1_HBL_Day_on_22_March_2024.pdf)|15 Mar 2024|Sec 1|
+|[Secondary 1 Public Speaking Workshop](/files/2024/PG/13032024_Secondary_1_Public_Speaking_Workshop.pdf)|13 Mar 2024|Sec 1|
 |[Sec 2 Cohort Leadership Workshop on 26 March 2024 (Tuesday)](/files/2024/PG/08032024_Sec_2_Cohort_Leadership_Workshop_on_26_March_2024__Tuesday_.pdf)|8 Mar 2024|Sec 2|
 
 #### Term Break (March)
