@@ -10,6 +10,8 @@ variant: markdown
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
 ||||
+|[March Holiday Practice Sessions](/files/2024/PG/07032024_March_Holiday_Practice_Sessions.pdf)|7 Mar 2024|Sec 4|
+|[EPIC-STEM Learning Journey on 12 Mar 2024](/files/2024/PG/07032024_EPIC_STEM_Learning_Journey_on_12_Mar_2024.pdf)|7 Mar 2024|Sec 4|
 |[Extra March Holiday Training](/files/2024/PG/06032024_Extra_March_Holiday_Training.pdf)|4 Mar 2024|Netball|
 |[Geography Remedial Lessons During the March School Holidays](/files/2024/PG/04032024_Geography_Remedial_Lessons_During_the_March_School_Holidays.pdf)|4 Mar 2024|Sec 402|
 
