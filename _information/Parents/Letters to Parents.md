@@ -24,7 +24,7 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
+|[Greetings from Choir](/files/2024/PG/29012024_Greetings_from_Choir.pdf)|24 Jan 2024|Sec 1 Choir|
 |[(14 Feb 24) 4N Geography Learning Journey around Bedok](/files/2024/PG/20240125__14_Feb_24___4N_Geography_Learning_Journey_around_Bedok.pdf)|24 Jan 2024|Sec 4N|
 |[(07 Feb 24) 4E Geography Learning Journey around Bedok](/files/2024/PG/20240125__07_Feb_24___4E_Geography_Learning_Journey_around_Bedok.pdf)|24 Jan 2024|Sec 4E|
 |[GCE O Level D&T Coursework](/files/2024/PG/20240124_GCE_O_Level_DT_Coursework.pdf)|24 Jan 2024|Sec 4E|
