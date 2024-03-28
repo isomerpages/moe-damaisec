@@ -20,6 +20,14 @@ variant: markdown
 ||||
 ||||
 ||||
+||||
+||||
+|[Welcome to Choir!](/files/2024/PG/31012024_Welcome_to_Choir.pdf)|31 Jan 2024|Sec 1 Choir|
+|[Modern Dance CCA](/files/2024/PG/31012024_Modern_Dance_CCA.pdf)|31 Jan 2024|Sec 1 Modern Dance|
+|[Welcoming Secondary 1 to Girl Guides 2024](/files/2024/PG/31012024_Welcoming_Secondary_1_to_Girl_Guides_2024.pdf)|31 Jan 2024|Sec 1 Girl Guides|
+|[Sec 1 Guzheng CCA Allocation](/files/2024/PG/31012024_Sec_1_Guzheng_CCA_Allocation.pdf)|31 Jan 2024|Sec 1 Guzheng|
+|[Netball CCA 2024 (Sec 1)](/files/2024/PG/31012024_Netball_CCA_S1.pdf)|31 Jan 2024|Sec 1 Netball|
+|[Welcome to NCC (NCC as allocated CCA)](/files/2024/PG/31012024_Welcome_to_NCC.pdf)|31 Jan 2024|Sec 1 NCC|
 |[A warm welcome to Damai Symphonic Band!](/files/2024/PG/31012024_A_warm_welcome_to_Damai_Symphonic_Band.pdf)|31 Jan 2024|Sec 1 Band|
 |[Welcome Message to Drama Club Sec 1s](/files/2024/PG/31012024_Welcome_to_Drama_Club_Sec_1s.pdf)|31 Jan 2024|Sec 1 Drama Club|
 |[Welcome Message to Art Club](/files/2024/PG/31012024_Welcome_Message_to_Art_Club.pdf)|31 Jan 2024|Sec 1 Art Club|
