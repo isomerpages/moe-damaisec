@@ -9,6 +9,7 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[2024 Secondary 1 CCA Selection](files/2024/PG/20240119_2024_Sec_1_CCA_Selection.pdf)|19 Jan 2024|Sec 1|
 |[Secondary 2NT Experience ITE Programme (EIP) at ITE College East](/files/Information/Parents/Parent%20Letter/Jan162024_S2NT_EIP.pdf) | 16 Jan 2024| Sec 2NT|
 |[Learning Journey to Agape Village Agri-Experience Centre](/files/Information/Parents/Parent%20Letter/Jan162024_S2_LJ_2.pdf)| 16 Jan 2024| Sec 201/202|
 |[Learning Journey to Agape Village Agri-Experience Centre](/files/Information/Parents/Parent%20Letter/Jan162024_S2_LJ.pdf)| 16 Jan 2024| Sec 203/204/205|
