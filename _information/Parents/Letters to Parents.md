@@ -18,8 +18,8 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
-||||
+|[2024 EL Day](/files/2024/PG/23022024_2024_EL_Day.pdf)|23 Feb 2024|Sec 1/2|
+|[2024 B Division Rugby Competition Match Updates and Extra Training Sessions](/files/2024/PG/22022024_2024_B_Division_Rugby_Competition_Match_Updates_and_Extra_Training_Sessions.pdf)|22 Feb 2024|Rugby|
 |[What can you do if your teen spend too much time online?](/files/2024/PG/22022024_What_can_you_do_if_your_teen_spend_too_much_time_online.pdf)|22 Feb 2024|All|
 |[Cultural Performance Exposure Scheme](/files/2024/PG/22022024_Cultural_Performance_Exposure_Scheme.pdf)|22 Feb 2024|Sec 1/2|
 |[Sec 4E5N ApLM@Poly – Fun with F&B Entrepreneurship](/files/2024/PG/21022024_Sec_4E5N_ApLM_Poly___Fun_with_F_B_Entrepreneurship.pdf)|21 Feb 2024|Sec 4E/5N|
