@@ -15,9 +15,9 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
-||||
-||||
+|[Integration Programme (8 March 2024)](/files/2024/PG/26022024_Integration_Programme__8_March_2024_.pdf)|26 Feb 2024|IS|
+|[Collection of Personal Learning Device (PLD) 2024](/files/2024/PG/26022024_Collection_of_Personal_Learning_Device__PLD__2024.pdf)|26 Feb 2024|Sec 1|
+|[405 VIA](/files/2024/PG/23022024_405_VIA.pdf)|23 Feb 2024|Sec 405|
 |[2024 EL Day](/files/2024/PG/23022024_2024_EL_Day.pdf)|23 Feb 2024|Sec 1/2|
 |[2024 B Division Rugby Competition Match Updates and Extra Training Sessions](/files/2024/PG/22022024_2024_B_Division_Rugby_Competition_Match_Updates_and_Extra_Training_Sessions.pdf)|22 Feb 2024|Rugby|
 |[What can you do if your teen spend too much time online?](/files/2024/PG/22022024_What_can_you_do_if_your_teen_spend_too_much_time_online.pdf)|22 Feb 2024|All|
