@@ -18,8 +18,8 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
-||||
+|[Welcome to Canoeing](/files/2024/PG/20240202_Welcome_to_Canoeing.pdf)|2 Feb 2024|Sec 1 Canoe|
+|[Welcome Message for NPCC CCA](/files/2024/PG/31012024_Welcome_Message_for_NPCC_CCA.pdf)|31 Jan 2024|Sec 1 NPCC|
 |[Welcome Message to Art Club](/files/2024/PG/31012024_Welcome_Message_to_Art_Club.pdf)|31 Jan 2024|Sec 1 Art Club|
 |[Welcome Message to Ethnic Dance Club](/files/2024/PG/31012024_Welcome_Message_to_Ethnic_Dance_Club.pdf)|31 Jan 2024|Sec 1 Ethnic Dance Club|
 |[Welcome to Choir!](/files/2024/PG/31012024_Welcome_to_Choir.pdf)|31 Jan 2024|Sec 1 Choir|
