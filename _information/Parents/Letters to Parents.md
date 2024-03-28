@@ -10,12 +10,14 @@ variant: markdown
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
 ||||
+|[Extra March Holiday Training](/files/2024/PG/06032024_Extra_March_Holiday_Training.pdf)|4 Mar 2024|Netball|
+|[Geography Remedial Lessons During the March School Holidays](/files/2024/PG/04032024_Geography_Remedial_Lessons_During_the_March_School_Holidays.pdf)|4 Mar 2024|Sec 402|
 
 #### Term 1
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
-|[Dragonboat CCA for Sec 1s](/files/2024/PG/07032024_Dragonboat_CCA_for_Sec_1s.pdf)|7 Mar 2024|Sec 104/105/106|
+|[Dragonboat CCA for Sec 1s](/files/2024/PG/07032024_Dragonboat_CCA_for_Sec_1s.pdf)|7 Mar 2024|Sec 1 Dragonboat|
 |[Learning Journey To Pasir Ris Park Mangroves](/files/2024/PG/04032024_Learning_Journey_To_Pasir_Ris_Park_Mangroves__104_106_.pdf)|4 Mar 2024|Sec 104/105/106|
 |[Learning Journey To Pasir Ris Park Mangroves](/files/2024/PG/04032024_Learning_Journey_To_Pasir_Ris_Park_Mangroves.pdf)|4 Mar 2024|Sec 101/102/103|
 |[Police Advisory for Parents/Guardians on Shop Theft](/files/2024/PG/02032024_Police_Advisory_on_Shop_Theft.pdf)|2 Mar 2024|All|
