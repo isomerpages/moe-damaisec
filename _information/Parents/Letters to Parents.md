@@ -20,7 +20,7 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
+|[A warm welcome to Damai Symphonic Band!](/files/2024/PG/31012024_A_warm_welcome_to_Damai_Symphonic_Band.pdf)|31 Jan 2024|Sec 1 Band|
 |[Welcome Message to Drama Club Sec 1s](/files/2024/PG/31012024_Welcome_to_Drama_Club_Sec_1s.pdf)|31 Jan 2024|Sec 1 Drama Club|
 |[Welcome Message to Art Club](/files/2024/PG/31012024_Welcome_Message_to_Art_Club.pdf)|31 Jan 2024|Sec 1 Art Club|
 |[Welcome Message and Important Information for Secondary 1 CCA Rugby Training](/files/2024/PG/31012024_Welcome_Message_Sec_1_CCA_Rugby_Training.pdf)|31 Jan 2024|Sec 1 Rugby|
