@@ -9,6 +9,25 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+|[Sec 3E ApLM@Poly Dates (For your forward planning)](/files/2024/PG/20240123_Sec_3E_ApLM_Poly_Dates__For_your_forward_planning_.pdf)|23 Jan 2024|Sec 301, 302|
+|[2024 Secondary 2 G3 Historical Investigation Learning Journey to Former Ford Factory](/files/2024/PG/20240123_Sec_2_G3_Historical_Investigation_Learning_Journey_to_Former_Ford_Factory.pdf)|23 Jan 2024|Sec 2|
+|[2024 Secondary 2 G2 Historical Investigation](/files/2024/PG/20240123_2024_Secondary_2_G2_Historical_Investigation.pdf)|23 Jan 2024|Sec 2|
+|[Chinese and Malay Language Fortnight](/files/2024/PG/20240122_Chinese_and_Malay_Languages_Fortnight.pdf)|22 Jan 2024|All|
 |[2024 Secondary 1 CCA Selection](/files/2024/PG/20240119_2024_Sec_1_CCA_Selection.pdf)|19 Jan 2024|Sec 1|
 |[Secondary 2NT Experience ITE Programme (EIP) at ITE College East](/files/Information/Parents/Parent%20Letter/Jan162024_S2NT_EIP.pdf) | 16 Jan 2024| Sec 2NT|
 |[Learning Journey to Agape Village Agri-Experience Centre](/files/Information/Parents/Parent%20Letter/Jan162024_S2_LJ_2.pdf)| 16 Jan 2024| Sec 201/202|
