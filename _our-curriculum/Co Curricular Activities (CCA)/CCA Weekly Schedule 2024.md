@@ -28,8 +28,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Dolly Khoo (IC)</p>
+<p>Mr Coleman Tong</p>
+<p>Mdm Katijah Bte Juni</p>
 <p>Mdm Rohasliza
-<br>Mr Coleman Tong
 <br>
 <br>Instructor: Ms Shona Chan Wai Kay</p>
 </td>
@@ -53,7 +55,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Te Chee Hui (i/c)
-<br>Mr Viknesh
+<br>Mr Tan Jun Ming</p>
+<p>Mr Zhu Liang</p>
+<p>Mr Lin Jiehui
 <br>
 <br>Instructor: Mr Faris Siddek
 <br>
@@ -77,7 +81,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Alvina Chua (i/c)
 <br>Miss Zubaidah
-<br>Mdm Sahira
+<br>Ms Andrea Wong</p>
+<p>Ms Afza
 <br>
 <br>Instructor: Ms Batrisyia binte Mohammed Fadzil
 <br>
@@ -104,8 +109,8 @@ variant: tiptap
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sidek Terimoh (i/c)
-<br>Mr Amir
+<p>Mr Viknesh (i/c)
+<br>Mr Chen Jingyang
 <br>Mr Ray Ong
 <br>
 <br>
@@ -153,9 +158,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Evangeline Lim (i/c)
-<br>Ms Davora Lim
+<br>Ms Goh Hwee Ling Mary
 <br>
-<br>Instructor: Mr Sean Foo
+<br>Instructor: Mr Shaun Jarrod Tan
 <br>
 </p>
 </td>
@@ -174,9 +179,10 @@ variant: tiptap
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deneshwari
+<p>Ms Deneshwari (IC)</p>
+<p>Miss Wirda
 <br>
-<br>Instructor: Ms Aishwariyah Shanmuganathan
+<br>Instructor: Ms Chua Hui Ling Regina
 <br>
 </p>
 </td>
@@ -191,8 +197,8 @@ variant: tiptap
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maryam (i/c)
-<br>Mrs Yiow Yee ling
+<p>Mrs Yiow Yee Ling (IC)</p>
+<p>Ms Michelle Chin
 <br>
 <br>Instructor: Ms Yeo Bee Loon</p>
 </td>
@@ -254,10 +260,11 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Chuay Leng (i/c)
-<br>Mr Alvin Ho
-<br>Mdm Nurul Ain
-<br>Mdm Chan Siew Lei
+<p>Mr Alvin Ho (IC)
+<br>Mdm Chan Siew Lei</p>
+<p>Mr Sidek</p>
+<p>Mr Salahudeen</p>
+<p>Mdm Nurul Ain
 <br>
 <br>
 <br>Instructor:
@@ -307,6 +314,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nurmin Ahmad (i/c)
 <br>Ms Tan Chwee Kim</p>
+<p>Ms Jasmine Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Monday</u> 
@@ -325,8 +333,11 @@ variant: tiptap
 <p>NCC (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Zhi Qiang (i/c)
-<br>Mr Christopher Hoan
+<p>Mr Christopher Hoan (IC)</p>
+<p>Mr Kang Zhi Qiang</p>
+<p>Mr Amir</p>
+<p>Mr Goh Hong Fei</p>
+<p>Mr Nicholas Ong
 <br>
 <br>
 </p>
@@ -342,12 +353,10 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Shu De (i/c)
-<br>Mr Tan Wei Zhi
-<br>Ms Tay Ee Teng
+<p>Ms Tay Ee Teng (IC)
 <br>Ms See Pei Zhen
-<br>
-</p>
+<br>Mr Teo Shu De
+<br>Mr Tan Wei Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Monday</u> 
@@ -390,8 +399,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liyana (i/c)
-<br>Mdm Siti Hawa
+<p>Mdm Siti Hawa (IC)</p>
+<p>Ms Michelle Lim
 <br>
 </p>
 </td>
@@ -408,7 +417,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Hui Cheng (i/c)
+<p>Mr Lau Hui Cheng (i/c)</p>
+<p>Mr Leroy Lee
 <br>
 </p>
 </td>
