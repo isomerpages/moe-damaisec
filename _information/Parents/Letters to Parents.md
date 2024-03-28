@@ -14,9 +14,9 @@ variant: markdown
 ||||
 ||||
 ||||
-||||
-||||
-|[Commemorating 40 years of Total Defence](/files/2024/PG/06022024_Commemorating_40_years_of_Total_Defence.pdf)|6 Feb 2024|Damai Symphonic Band|
+|[2024 Peer Support Leader Workshops](/files/2024/PG/15022024_2024_Peer_Support_Leader_Workshops.pdf)|15 Feb 2024|All Peer Support Leader|
+|[Change in 401 Chemistry Lesson Timing on Even Tuesdays](/files/2024/PG/15022024_Change_in_401_Chemistry_Lesson_Timing_on_Even_Tuesdays.pdf)|15 Feb 2024|Sec 4|
+|[Commemorating 40 years of Total Defence](/files/2024/PG/06022024_Commemorating_40_years_of_Total_Defence.pdf)|6 Feb 2024|All|
 |[Semester 1 Damai Symphonic Band](/files/2024/PG/06022024_Semester_1_Damai_Symphonic_Band_Notice.pdf)|6 Feb 2024|Damai Symphonic Band|
 |[Unofficial Canoeing Training Outside of CCA Hours](/files/2024/PG/06022024_Unofficial_Canoeing_Training_Outside_of_CCA_Hours.pdf)|6 Feb 2024|NCC|
 |[Welcome to NCC (Term 1 newsletter)](/files/2024/PG/05022024_Welcome_to_NCC__Term_1_newsleter_.pdf)|5 Feb 2024|NCC|
