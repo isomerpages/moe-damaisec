@@ -38,7 +38,7 @@ variant: tiptap
 <br>3.15 - 6pm
 <br>Bedok Reservoir
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3.15 - 6pm
 <br>Bedok Reservoir
 <br>
@@ -65,7 +65,7 @@ variant: tiptap
 <br>3 - 6pm
 <br>Bedok Reservoir
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>Bedok Reservoir</p>
 </td>
@@ -89,7 +89,7 @@ variant: tiptap
 <br>3 - 6pm
 <br>ISH
 <br>
-<br><u>Tuesday</u>
+<br><u>Tuesday</u> 
 <br>3 - 6pm (Peak Season, depending on availability of coach)
 <br>ISH</p>
 <p></p>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>3 - 6pm (Peak Season)</p>
 <p>School Field
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>School Field</p>
 </td>
@@ -164,7 +164,7 @@ variant: tiptap
 <br>3 - 6pm
 <br>AVT
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>AVT</p>
 </td>
@@ -181,9 +181,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Thursday</u>
+<p><u>Thursday</u> 
 <br>3 - 6pm
-<br>Library Mezzanine</p>
+<br>Dance Studio</p>
 </td>
 </tr>
 <tr>
@@ -197,11 +197,11 @@ variant: tiptap
 <br>Instructor: Ms Yeo Bee Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u>
+<p><u>Monday</u> 
 <br>3 - 6pm
 <br>School Hall
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>School Hall</p>
 </td>
@@ -219,11 +219,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u>
+<p><u>Monday</u> 
 <br>3 - 6pm
 <br>Geog / Humanities Room
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>Geog / Humanities Room</p>
 </td>
@@ -244,7 +244,7 @@ variant: tiptap
 <br>3 - 6pm
 <br>School Hall
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>School Hall</p>
 </td>
@@ -274,12 +274,12 @@ variant: tiptap
 <p><u>Monday</u> 
 <br>3 - 6pm
 <br>Music / Band Room
-<br>205A, 205B, 104, 105, 106 CR
 <br>
-<br><u>Thursday</u>
+<br><u>Thursday</u> 
 <br>3 - 6pm
 <br>Music / Band Room
-<br>205A, 205B, 104, 105, 106 CR</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -309,15 +309,15 @@ variant: tiptap
 <br>Ms Tan Chwee Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u>
-<br>3 - 4pm <strong>(Sec 1 - 2 Cadets)</strong> 
-<br>3 - 4.30pm <strong>(Sec 3 - 4 Planning &amp; EXCO Cadets)</strong> 
+<p><u>Monday</u> 
+<br>3 - 4pm <strong>(All)</strong> 
+<br>4 - 430pm <strong>(Sec 3 &amp; 4 Exco Planning)</strong> 
 <br>3 - 4.30pm <strong>(All Cadets - for HQ Adhoc/Make Up session)</strong> 
-<br>E1-1 Classroom
+<br>E1-1 Classroom/Girl Guides Bench
 <br>
-<br><u>Thursday</u>
-<br>3 - 6pm
-<br>E1-1 Classroom</p>
+<br><u>Thursday</u> 
+<br>3.15 - 6pm (All)
+<br>E1-2 Classroom/Girl Guides Bench</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Thursday</u>
+<p><u>Thursday</u> 
 <br>3 - 6pm
 <br>E1-4, E1-5 Classroom</p>
 </td>
@@ -359,12 +359,8 @@ variant: tiptap
 <br>3 - 6pm
 <br>D1-3, 104 and 105 Classroom
 <br>
-<br><u>Sec 3 &amp; Sec 4</u> cadets will attend <u>Monday</u> training sessions.
-<br>
 <br><u>All cadets</u> will attend <u>Thursday</u> training sessions.
 <br>
-<br>In the event that Lower Sec cadets need to attend ad-hoc training on Mondays,
-<br>a separate announcement will be made.
 <br>
 </p>
 </td>
@@ -417,7 +413,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Thursday</u>
+<p><u>Thursday</u> 
 <br>3 - 6pm
 <br>Computer Lab 2</p>
 </td>
