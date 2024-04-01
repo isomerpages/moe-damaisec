@@ -71,16 +71,4 @@ and lead a purposeful and meaningful life.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/mrang.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/mschan1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SAC_new.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/mrlai.jpg">
-</div>
 <p></p>
