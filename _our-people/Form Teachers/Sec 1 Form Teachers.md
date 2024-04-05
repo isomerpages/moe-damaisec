@@ -20,13 +20,19 @@ variant: tiptap
 <p><a href="mailto:chua_yan_yi_alvina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alvina Chua Yan Yi</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>101</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Goh_Hwee_Ling_Mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mary Goh Hwee Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nicholas_Ong_Yew_Hui_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Ong Yew Hui</a>
 </p>
 </td>
 </tr>
@@ -96,13 +102,19 @@ variant: tiptap
 <p><a href="mailto:Tan_Chwee_Kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Chwee Kim</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>106</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Amir_Mizra_Abdul_Majid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Amir Mizra S/O Abdul Majid</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Afza_Fahmidah_Amir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Afza Fahmidah Binte Amir</a>
 </p>
 </td>
 </tr>
