@@ -9,6 +9,10 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Police Advisory for Parents/Guardians on Sexual Offences](/files/2024/PG/20240402_Police_Advisory_for_ParentsGuardians_on_Sexual_Offences.pdf)|2 Apr 2024|All|
+|[Early Dismissal for Muslim Students on Eve of Hari Raya Puasa (9 Apr '24)](/files/2024/PG/20240402_Early_Dismissal_for_Muslim_Students_on_Eve_of_Hari_Raya_Puasa.pdf)|2 Apr 2024|All|
+|[Measures to Manage High Temperature](/files/2024/PG/20240402_Measures_to_Manage_High_Temperature.pdf)|2 Apr 2024|All|
+|[Issuance of 2024 Term 1 Pupil's Progress Report](/files/2024/PG/20240326_Issuance_of_2024_Term_1_Pupil_s_Progress_Report.pdf)|26 Mar 2024|All|
 |[Issuance of 2024 Term 1 Pupil's Progress Report](/files/2024/PG/20240326_Issuance_of_2024_Term_1_Pupil_s_Progress_Report.pdf)|26 Mar 2024|All|
 |[401 Class-Initiated VIA Project on 22 Apr 2024](/files/2024/PG/20240326_401_Class_initiated_VIA_project_on_22_Apr_2024.pdf)|26 Mar 2024|Sec 401|
 |[401 Class-Initiated VIA Project on 9 May 2024](/files/2024/PG/20240326_401_Class_initiated_VIA_project_on_9_May_2024.pdf)|26 Mar 2024|Sec 401|
