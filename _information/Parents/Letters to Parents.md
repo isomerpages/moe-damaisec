@@ -9,7 +9,7 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
-|[Sec 1 Performing Arts-Based Learning](/files/2024/PG/04292024_Sec_1_Performing_Arts_Learning.pdf)|29 Apr 2024|Sec 1|
+|[Secondary One Performing Arts-Based Learning](/files/2024/PG/04292024_Sec_1_Performing_Arts_Learning.pdf)|29 Apr 2024|Sec 1|
 |[Ngee Ann Poly Xperience (EAE edition) 2024 - 25 May (9.30 am to 1 pm)](/files/2024/PG/04252024_Ngee_Ann_Poly_Xperience.pdf)|25 Apr 2024|Sec 4/5|
 |[[ITE] An Online Lunchtime Conversation with Education & Career Coaches for Parents (2 May, 12pm)](/files/2024/PG/04252024_ITE_An_Online_Lunchtime_Conversation.pdf)|25 Apr 2024|Sec 3/4|
 |[Mother Tongue Language Examinations](/files/2024/PG/04242024_MT_Language_Examinations.pdf)|24 Apr 2024|Sec 4|
