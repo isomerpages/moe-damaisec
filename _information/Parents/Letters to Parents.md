@@ -9,6 +9,13 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Secondary One Performing Arts-Based Learning](/files/2024/PG/04292024_Sec_1_Performing_Arts_Learning.pdf)|29 Apr 2024|Sec 1|
+|[Ngee Ann Poly Xperience (EAE edition) 2024 - 25 May (9.30 am to 1 pm)](/files/2024/PG/04252024_Ngee_Ann_Poly_Xperience.pdf)|25 Apr 2024|Sec 4/5|
+|[[ITE] An Online Lunchtime Conversation with Education & Career Coaches for Parents (2 May, 12pm)](/files/2024/PG/04252024_ITE_An_Online_Lunchtime_Conversation.pdf)|25 Apr 2024|Sec 3/4|
+|[Mother Tongue Language Examinations](/files/2024/PG/04242024_MT_Language_Examinations.pdf)|24 Apr 2024|Sec 4|
+|[Class Initiated VIA Project](/files/2024/PG/04232024_Class_Initiated_VIA_Project.pdf)|19 Apr 2024|Sec 404|
+|[401 Class-Initiated VIA Project on 10 May 2024](/files/2024/PG/04232024_401_Classinitiated_VIA_Project_on_10_May_2024.pdf)|19 Apr 2024|Sec 401|
+|[2024 NSG B Division Bowl Rugby Semi-Final](/files/2024/PG/04192024_2024_NSG_B_Division_Bowl_Rugby_Semi_Final.pdf)|19 Apr 2024|Rugby|
 |[Police Advisory for Parents/Guardians on Sexual Offences](/files/2024/PG/20240402_Police_Advisory_for_ParentsGuardians_on_Sexual_Offences.pdf)|2 Apr 2024|All|
 |[Early Dismissal for Muslim Students on Eve of Hari Raya Puasa (9 Apr '24)](/files/2024/PG/20240402_Early_Dismissal_for_Muslim_Students_on_Eve_of_Hari_Raya_Puasa.pdf)|2 Apr 2024|All|
 |[Measures to Manage High Temperature](/files/2024/PG/20240402_Measures_to_Manage_High_Temperature.pdf)|2 Apr 2024|All|
