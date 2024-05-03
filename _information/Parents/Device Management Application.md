@@ -25,7 +25,7 @@ variant: markdown
 </ul>
 <p>Please refer to&nbsp;<a href="/files/DMA%20Annex%20B.pdf" target="_blank" rel="noopener">Annex B</a>&nbsp;for details of these after-school options.</p>
 <p>If you wish to choose Option A or Option B, or update your email address for the Parent Portal, please fill in the online option form&nbsp;<a href="https://go.gov.sg/dssdmasetting" target="_blank" rel="noopener">https://go.gov.sg/dssdmasetting</a>.&nbsp;</p>
-<p>Parents/guardians can request to change your choice of DMA settings at any time through the same link. However, please note that changes to the DMA after-school options will only take effect at the end of every week.</p>
+<p>Parents/guardians can request to change your choice of DMA settings at any time through the same link. However, please note that changes to the DMA after-school options will only take effect at the end of every month.</p>
 <p>For further enquiries, please contact the HOD/ICT Mrs Lee Pei Kee at&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" target="">chin_pei_kee@schools.gov.sg</a>.&nbsp;</p>
 <p><strong>DMA Parents Guide (updated Apr 2023)<br></strong>
 	
