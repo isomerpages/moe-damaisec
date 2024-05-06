@@ -25,7 +25,7 @@ in the following areas to apply to our school via the DSA-Sec exercise:</p>
 <p>e. Choir</p>
 <p>f. Girl Guides</p>
 <p>g. National Police Cadet Corps (NPCC)</p>
-<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </em>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p><strong>Application Process</strong>
 </p>
