@@ -9,6 +9,9 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[2024 Sec 4 & 5 Preliminary Examinations](/files/2024/PG/2024_Sec_4___5_Preliminary_Examination.pdf)|20 May 2024|Sec 4/5|
+|[Class Initiated VIA Project](/files/2024/PG/05162024_Class_Initiated_VIA.pdf)|16 May 2024|Sec 402|
+|[Travel Declaration for Mid-Year Holiday (June 2024)](/files/2024/PG/05152024_Travel_Declaration_for_Mid_Year_Holiday.pdf)|15 May 2024|All|
 |[Registration for Modular French/German for Term 3 2024](/files/2024/PG/05122024___Registration_for_Modular_FrenchGerman_for_Term_3_2024.pdf)|12 May 2024|All|
 |[Sec 4 Inter-Class Games (Volleyball)](/files/2024/PG/05062024___Sec_4_Inter_Class_Games__Volleyball_.pdf)|06 May 2024|Sec 4|
 |[Sec 3 Inter-Class Games (Badminton)](/files/2024/PG/05062024___Sec_3_Inter_Class_Games__Badminton_.pdf)|06 May 2024|Sec 3|
