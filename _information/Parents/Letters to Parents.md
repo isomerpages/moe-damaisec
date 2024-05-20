@@ -9,6 +9,14 @@ variant: markdown
 
 | **Letter/PG Notifcation** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[2024 Sec 4 & 5 Preliminary Examinations](/files/2024/PG/2024_Sec_4___5_Preliminary_Examination.pdf)|20 May 2024|Sec 4/5|
+|[Class Initiated VIA Project](/files/2024/PG/05162024_Class_Initiated_VIA.pdf)|16 May 2024|Sec 402|
+|[Travel Declaration for Mid-Year Holiday (June 2024)](/files/2024/PG/05152024_Travel_Declaration_for_Mid_Year_Holiday.pdf)|15 May 2024|All|
+|[Registration for Modular French/German for Term 3 2024](/files/2024/PG/05122024___Registration_for_Modular_FrenchGerman_for_Term_3_2024.pdf)|12 May 2024|All|
+|[Sec 4 Inter-Class Games (Volleyball)](/files/2024/PG/05062024___Sec_4_Inter_Class_Games__Volleyball_.pdf)|06 May 2024|Sec 4|
+|[Sec 3 Inter-Class Games (Badminton)](/files/2024/PG/05062024___Sec_3_Inter_Class_Games__Badminton_.pdf)|06 May 2024|Sec 3|
+|[Sec 2 Inter-Class Games (Floorball)](/files/2024/PG/05062024___Sec_2_Inter_Class_Games__Floorball_.pdf)|06 May 2024|Sec 2|
+|[Sec 1 Inter-Class Games (Football)](/files/2024/PG/05062024___Sec_1_Inter_Class_Games__Football_.pdf)|06 May 2024|Sec 1|
 |[Secondary One Performing Arts-Based Learning](/files/2024/PG/04292024_Sec_1_Performing_Arts_Learning.pdf)|29 Apr 2024|Sec 1|
 |[Ngee Ann Poly Xperience (EAE edition) 2024 - 25 May (9.30 am to 1 pm)](/files/2024/PG/04252024_Ngee_Ann_Poly_Xperience.pdf)|25 Apr 2024|Sec 4/5|
 |[[ITE] An Online Lunchtime Conversation with Education & Career Coaches for Parents (2 May, 12pm)](/files/2024/PG/04252024_ITE_An_Online_Lunchtime_Conversation.pdf)|25 Apr 2024|Sec 3/4|
