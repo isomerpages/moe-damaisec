@@ -22,6 +22,11 @@ variant: markdown
 
 * [Schedule of Non-Weighted Assessment - Sec 4/5](/files/2024/Schedule_of_Non_Weighted_Assessments__Sec_4_5_.pdf)
 
+**Prelimary Examination Timetable**
+* [2024 4E5NA Preliminary Exam Timetable](/files/2024/2024_4E5NA_Preliminary_Exam_Timetable.pdf)
+* [2024 4N(A) Preliminary Exam Timetable](/files/2024/2024_4N_A__Preliminary_Exam_Timetable.pdf)
+* [2024 4N(T) Preliminary Exam Timetable](/files/2024/2024_4N_T__Preliminary_Exam_Timetable.pdf)
+
 **PHILOSOPHY**  
 Effective and meaningful assessments are essential elements that support students in acquiring the skills and competencies necessary to lead a purposeful and meaningful life. In Damai Secondary, we seek to provide quality student-centric academic programmes that will enable students to develop their potential and meet future challenges. Assessment provides students, teachers, parents and stakeholders with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry and teaching and learning process. It must thus be ongoing, unbiased, and designed to meet the needs of our diverse learning community.&nbsp;  
   
