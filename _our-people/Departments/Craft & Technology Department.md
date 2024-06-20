@@ -15,5 +15,6 @@ variant: markdown
 |[Miss Sng Gek Hoon](mailto:sng_gek_hoon@schools.gov.sg)|Teacher
 |[Mdm Tan Boon Siew](mailto:tan_boon_siew@schools.gov.sg)|Teacher
 |[Mr Salahudeen Bin Sayed Mobarak](mailto:salahudeen_sayed_mobarak@schools.gov.sg)|Teacher
+|[Ms Lim Xue Mei Michelle](mailto:Lim_Xue_Mei_Michelle_A@schools.gov.sg)|Teacher
 |[Mr Ramli Bin Sinin](mailto:ramli_sinin@schools.gov.sg)|Technical Support Staff (D&T Workshop)
 ||
