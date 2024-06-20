@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Form Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_shu_de@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Shu De</a>
+<p><a href="mailto:Siti_Hawa_Shaini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hawa Bte Shaini</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -62,13 +66,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Hawa_Shaini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hawa Bte Shaini</a>
+<p><a href="mailto:Michelle_Chin_Jia_Ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chin Jia Ee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Michelle_Chin_Jia_Ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chin Jia Ee</a>
+<p><a href="mailto:Pang_Miin_Lih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Pang Miin Lih</a>
 </p>
 </td>
 </tr>
