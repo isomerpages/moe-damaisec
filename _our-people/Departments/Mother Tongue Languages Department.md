@@ -9,7 +9,6 @@ variant: markdown
 | -------- | -------- |
 |[Mr Kong Hou Kit](mailto:kong_hou_kit@schools.gov.sg)|HOD/MTL
 |[Mdm Nur Sahira](mailto:nur_sahira_ramlee@schools.gov.sg)|SH/ML
-|[Mr Amir Mizra s/o Abdul Majid](mailto:amir_mizra_abdul_majid@schools.gov.sg)|ST/ML
 |[Mrs Yiow Yee Ling](mailto:yap_yee_ling@schools.gov.sg)|ST/CL
 |[Ms Andrea Wong Jie Yi](mailto:wong_jie_yi_andrea@schools.gov.sg)|Teacher
 |[Miss Katijah Bte Juni](mailto:katijah_juni@schools.gov.sg)|Teacher
@@ -20,4 +19,6 @@ variant: markdown
 |[Miss Tay Ee Teng](mailto:tay_ee_teng@schools.gov.sg)|Teacher
 |[Mr Zhu Liang](mailto:zhu_liang@schools.gov.sg)|Teacher
 |[Mr Goh Hong Fei](mailto:goh_hong_fei@schools.gov.sg)|Teacher
+|[Ms Michelle Chin Jia Ee](mailto:Michelle_Chin_Jia_Ee@schools.gov.sg)|Teacher
+|[Ms Afza Fahmidah Bte Amir](mailto:Afza_Fahmidah_Amir@schools.gov.sg)|Teacher
 ||
