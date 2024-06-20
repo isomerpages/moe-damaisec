@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Form Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -81,19 +85,13 @@ variant: tiptap
 <p><a href="mailto:Katijah_Juni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Katijah</a>
 </p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>305</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Viknesh_M_Pasupathi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Viknesh S/O M Pasupathi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nor_Zubaidah_Hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nor Zubaidah Bte Hassan</a>
 </p>
 </td>
 </tr>
