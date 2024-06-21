@@ -7,7 +7,7 @@ variant: markdown
 ---
 [Updated 21 June 2024]
 
-The Class Timetable for 2024 Semester 1 is available for download.&nbsp;  
+The Class Timetable for 2024 Semester 2 is available for download.&nbsp;  
 
 Click on the link below to download the timetable. 
 
