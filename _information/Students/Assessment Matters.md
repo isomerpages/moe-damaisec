@@ -13,8 +13,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024/2024_4N_A__Preliminary_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 4N</a>
-<a href="/files/2024_4N_A__Preliminary_Exam_Timetable__updated_on_25_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="/files/2024/2024_4N_A__Preliminary_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">A) Preliminary Exam Timetable</a>
+<p><a href="/files/2024_4N_A__Preliminary_Exam_Timetable__updated_on_25_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 4N(A) Preliminary Exam Timetable</a>
 </p>
 </li>
 <li>
