@@ -28,7 +28,7 @@ sections:
         - title: Semester 2 Schedule for Assessments
           date: 27 June 2024
           announcement: Click on the link below to view and download the Semester 2
-            Schedule for Assessment2
+            Schedule for Assessment
           link_text: Click Here
           link_url: /information/students/assessment-matters/
         - title: Sec 4 & 5 Preliminary Examination Timetable (2024)
