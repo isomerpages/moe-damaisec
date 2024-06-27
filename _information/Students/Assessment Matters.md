@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p><strong>2024 Schedule of Weighted Assessment (Semester 2) </strong>
+<p><strong>2024 Schedule of Weighted Assessment (Semester 2)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
