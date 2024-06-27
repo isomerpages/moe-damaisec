@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p><strong>2024 Schedule of Weighted Assessment (Semester 2)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024/PG/Schedule_of_Weighted_Assessment_3__Sec_1_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 1 to Sec 3)</a>
+</p>
+</li>
+</ul>
 <p><strong>2024 Sec 4 &amp; 5 Preliminary Examination Timetable</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -21,7 +29,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>2024 Scheme of Assessments</strong>
+<p><strong>2024 Scheme of Assessment</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,23 +49,23 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>2024 Schedule of Weighted Assessments (Semester 1)</strong>
+<p><strong>2024 Schedule of Weighted Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessments - Sec 1</a>
+<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessments - Sec 2</a>
+<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessments - Sec 3</a>
+<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 3</a>
 </p>
 </li>
 </ul>
-<p><strong>2024 Schedule of Non-Weighted Assessments (Semester 1)</strong>
+<p><strong>2024 Schedule of Non-Weighted Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
