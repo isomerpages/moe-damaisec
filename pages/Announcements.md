@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p><strong>Semester 2 Schedule of Assessment</strong>
+<p><strong>Semester 2 Schedule for Assessment</strong>
 </p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/information/students/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view and download the Semester 2 Schedule of Assessment.</p>
