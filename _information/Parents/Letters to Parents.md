@@ -5,9 +5,24 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-#### Term 2
+#### Term 3
 
 | **Letter/PG Notifcation** | **Date** | **For** |
+| -------- | -------- | -------- |
+|[In-School Lessons for Sec 4 and 5s on HBL Day in Semester 2](/files/2024/PG/06262024_In_School_Lessons_for_Sec_4_and_5s_on_HBL_Day_in_Semester_2.pdf)|26 June 2024|Sec 4/5|
+|[Early School Dismissal on 3 July 2024](/files/2024/PG/06252024___Early_School_Dismissal_on_3_July_2024.pdf)|25 June 2024|All|
+|[Start of Term 3 & Update on Attire](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|All|
+|[School Health Visit for Secondary 1 to 2 Students 2024](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|Sec 1/2|
+
+#### Semester Break (June)
+| **Letter/PG Notifcation** | **Date** | **For** |
+| -------- | -------- | -------- |
+|[Oral Intensive Programme](/files/2024/PG/05242024_Oral_Intensive_Programme.pdf)|24 May 2024|Sec 4/5|
+|[Joint Mid Year School Advisory for the June Holidays](/files/2024/PG/05222024_Joint_MId_Year_School_Advisory_for_the_June_Holidays.pdf)|22 May 2024|All|
+
+#### Term 2
+
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[2024 Sec 4 & 5 Preliminary Examinations](/files/2024/PG/2024_Sec_4___5_Preliminary_Examination.pdf)|20 May 2024|Sec 4/5|
 |[Class Initiated VIA Project](/files/2024/PG/05162024_Class_Initiated_VIA.pdf)|16 May 2024|Sec 402|
@@ -47,7 +62,7 @@ variant: markdown
 
 #### Term Break (March)
 
-| **Letter/PG Notifcation** | **Date** | **For** |
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[March Holiday Practice Sessions](/files/2024/PG/07032024_March_Holiday_Practice_Sessions.pdf)|7 Mar 2024|Sec 4|
 |[EPIC-STEM Learning Journey on 12 Mar 2024](/files/2024/PG/07032024_EPIC_STEM_Learning_Journey_on_12_Mar_2024.pdf)|7 Mar 2024|Sec 4|
@@ -56,7 +71,7 @@ variant: markdown
 
 #### Term 1
 
-| **Letter/PG Notifcation** | **Date** | **For** |
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[Dragonboat CCA for Sec 1s](/files/2024/PG/07032024_Dragonboat_CCA_for_Sec_1s.pdf)|7 Mar 2024|Sec 1 Dragonboat|
 |[Learning Journey To Pasir Ris Park Mangroves](/files/2024/PG/04032024_Learning_Journey_To_Pasir_Ris_Park_Mangroves__104_106_.pdf)|4 Mar 2024|Sec 104/105/106|
