@@ -25,16 +25,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Semester 2 Schedule for Assessments
+          date: 27 June 2024
+          announcement: Click on the link below to view and download the Semester 2
+            Schedule for Assessment2
+          link_text: Click Here
+          link_url: /information/students/assessment-matters/
         - title: Sec 4 & 5 Preliminary Examination Timetable (2024)
           date: 20 May 2024
           announcement: Click on the link below to view the Sec 4 & 5 Preliminary
             Examination Timetable for 2024.
-          link_text: Click Here
-          link_url: /information/students/assessment-matters/
-        - title: Semester 1 Schedule for Assessments
-          date: 15 January 2024
-          announcement: Click on the link below to view and download the Semester 1
-            Schedule for Assessments
           link_text: Click Here
           link_url: /information/students/assessment-matters/
         - title: Release of 2023 GCE O-Level Examination Results
