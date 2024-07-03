@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-[Updated 21 June 2024]
+[Updated 2 July 2024]
 
 The Class Timetable for 2024 Semester 2 is available for download.&nbsp;  
 
