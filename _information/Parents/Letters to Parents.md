@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Term 3
 
-| **Letter/PG Notifcation** | **Date** | **For** |
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All|
 |[Police Advisory for Parents/Guardians on Rioting](/files/2024/PG/07032024_Police_Advisory_for_ParentsGuardians_on_Rioting.pdf)|03 July 2024|All|
