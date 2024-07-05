@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p><strong>2024 Scheme of Assessment (Semester 2)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 3</a>
+</p>
+</li>
+</ul>
 <p><strong>2024 Schedule of Weighted Assessment (Semester 2)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -29,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>2024 Scheme of Assessment</strong>
+<p><strong>2024 Scheme of Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
