@@ -18,6 +18,7 @@ variant: markdown
 |[School Health Visit for Secondary 1 to 2 Students 2024](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|Sec 1/2|
 
 #### Semester Break (June)
+
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[Oral Intensive Programme](/files/2024/PG/05242024_Oral_Intensive_Programme.pdf)|24 May 2024|Sec 4/5|
