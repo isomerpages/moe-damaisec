@@ -15,7 +15,7 @@ variant: markdown
 |[School Health Visit for Secondary 1 to 2 Students 2024](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|Sec 1/2|
 
 #### Semester Break (June)
-| **Letter/PG Notifcation** | **Date** | **For** |
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[Oral Intensive Programme](/files/2024/PG/05242024_Oral_Intensive_Programme.pdf)|24 May 2024|Sec 4/5|
 |[Joint Mid Year School Advisory for the June Holidays](/files/2024/PG/05222024_Joint_MId_Year_School_Advisory_for_the_June_Holidays.pdf)|22 May 2024|All|
