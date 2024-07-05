@@ -7,14 +7,18 @@ variant: markdown
 ---
 #### Term 3
 
-| **Letter/PG Notifcation** | **Date** | **For** |
+| **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All|
+|[Police Advisory for Parents/Guardians on Rioting](/files/2024/PG/07032024_Police_Advisory_for_ParentsGuardians_on_Rioting.pdf)|03 July 2024|All|
+|[The Art of Managing Stress - Triple P Way](/files/2024/PG/06272024_The_Art_of_Managing_Stress_Triple_P_Way.pdf)|27 June 2024|All|
 |[In-School Lessons for Sec 4 and 5s on HBL Day in Semester 2](/files/2024/PG/06262024_In_School_Lessons_for_Sec_4_and_5s_on_HBL_Day_in_Semester_2.pdf)|26 June 2024|Sec 4/5|
 |[Early School Dismissal on 3 July 2024](/files/2024/PG/06252024___Early_School_Dismissal_on_3_July_2024.pdf)|25 June 2024|All|
 |[Start of Term 3 & Update on Attire](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|All|
 |[School Health Visit for Secondary 1 to 2 Students 2024](/files/2024/PG/05302024_School_Health_Visit_for_Sec_1_to_2_Students_2024.pdf)|30 May 2024|Sec 1/2|
 
 #### Semester Break (June)
+
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
 |[Oral Intensive Programme](/files/2024/PG/05242024_Oral_Intensive_Programme.pdf)|24 May 2024|Sec 4/5|
