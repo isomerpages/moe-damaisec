@@ -9,6 +9,16 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Removal of MObile Guardian (MG) Device Management Application (DMA) from iPad Personal Learning Devices (PLDs)](/files/2024/PG/08062024_Removal_of_MG.pdf)|06 August 2024|All|
+|[Postponement of Science Weighted Assessment 3](/files/2024/PG/08052024_Postponement_of_Science_WA3_S2.pdf)|05 August 2024|Sec 2|
+|[Postponement of Science Weighted Assessment 3](/files/2024/PG/08052024_Postponement_of_Science_WA3_S1.pdf)|05 August 2024|Sec 1|
+|[Police Advisory For Parents/Guardians on Youth Hanging Out Late](/files/2024/PG/08022024_Police_Advisory_on_Youth_Hanging_Out_Late.pdf)|02 August 2024|All|
+|[2024 Lower Sec EL and MTL Oral Exams](/files/2024/PG/08012024_2024_Lower_Sec_EL_MTL_Oral_Exams.pdf)|01 August 2024|Sec 1/2|
+|[Achieving Digital Wellness-The Triple P Way](/files/2024/PG/07302024_Achieving_Digital_Wellness.pdf)|30 July 2024|All||
+[Secondary 1 Values in Action - Kayak N Klean](/files/2024/PG/07232024_S1_VIA_KNK_Letter.pdf)|23 July 2024|Sec 1||
+[National Day Celebration on 8 August 2024](/files/2024/PG/07222024_National_Day_Celebration.pdf)|22 July 2024|All||
+[Home-Based Learning (HBL) Days on 23-25 July](/files/2024/PG/07182024_HBL_23_25_July.pdf)|18 July 2024|All||
+[NDP NE Show 20 July (Sat), 5.30PM](/files/2024/PG/07152024_NDP_NE_Show.pdf)|15 July 2024|Sec 3|
 |[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All|
 |[Police Advisory for Parents/Guardians on Rioting](/files/2024/PG/07032024_Police_Advisory_for_ParentsGuardians_on_Rioting.pdf)|03 July 2024|All|
 |[The Art of Managing Stress - Triple P Way](/files/2024/PG/06272024_The_Art_of_Managing_Stress_Triple_P_Way.pdf)|27 June 2024|All|
