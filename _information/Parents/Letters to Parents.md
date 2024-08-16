@@ -9,6 +9,8 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All||[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All||[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All||[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All||[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All||[Achieving Digital Wellness-The Triple P Way](/files/2024/PG/07302024_Achieving_Digital_Wellness.pdf)|30 July 2024|All||[National Day Celebration on 8 August 2024](/files/2024/PG/07222024_National_Day_Celebration.pdf)|22 July 2024|All||[Home-Based Learning (HBL) Days on 23-25 July](/files/2024/PG/07182024_HBL_23_25_July.pdf)|18 July 2024|All||
+[NDP NE Show 20 July (Sat), 5.30PM](/files/2024/PG/07152024_NDP_NE_Show.pdf)|15 July 2024|Sec 3|
 |[Secondary 3 Values in Action (VIA) Programme](/files/2024/PG/07042024_Sec_3_VIA_PG_Letter.pdf)|04 July 2024|All|
 |[Police Advisory for Parents/Guardians on Rioting](/files/2024/PG/07032024_Police_Advisory_for_ParentsGuardians_on_Rioting.pdf)|03 July 2024|All|
 |[The Art of Managing Stress - Triple P Way](/files/2024/PG/06272024_The_Art_of_Managing_Stress_Triple_P_Way.pdf)|27 June 2024|All|
