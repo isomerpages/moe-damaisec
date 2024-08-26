@@ -16,23 +16,7 @@ variant: markdown
 *  Voices of Singapore
 
 <p><strong>Our Choral Director<br></strong>Mr Sean Foo</p>
-<p><strong>Achievements</strong><strong> &amp; Highlights</strong></p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</span></th>
-  </tr>
-</thead>
-	</table>
 
 ![Singapore Youth Festival](/images/CCA/Photo_A_Singapore_Youth_Festival.jpg)
 <center>Singapore Youth Festival</center>
