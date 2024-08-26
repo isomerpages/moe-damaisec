@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: End-of-Year Examination Timetable (2024)
+          date: 26 August 2024
+          announcement: Click on the link below to view and download the End-of-Year
+            Examination Timetable
+          link_text: Click Here
+          link_url: /information/students/assessment-matters/
         - title: Semester 2 Schedule for Assessments
           date: 27 June 2024
           announcement: Click on the link below to view and download the Semester 2
@@ -49,10 +55,4 @@ sections:
             please click on the link below.
           link_text: Click Here
           link_url: https://www.damaisec.moe.edu.sg/information/parents/information-for-2024-sec-1-cohort/
-        - title: Release of GCE N(A)/N(T) Results 2023
-          date: 18 December 2023
-          announcement: To view details on the release of the GCE N(A)/N(T) results,
-            please click on the link below.
-          link_text: Click Here
-          link_url: /information/students/release-of-gce-nant-results-2023/
 ---
