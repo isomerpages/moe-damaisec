@@ -4,11 +4,11 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p><strong>End-of-Year Examination Timetable</strong>
+<p><strong>End-of-Year Examination Timetable (2024)</strong>
 </p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/information/students/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view and download the End-of-Year Examination Timetable.</p>
-<p><strong>Semester 2 Schedule for Assessment</strong>
+<p><strong>Semester 2 Schedule for Assessment (2024)</strong>
 </p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/information/students/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view and download the Semester 2 Schedule of Assessment.</p>
