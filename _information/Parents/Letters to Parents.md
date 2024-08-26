@@ -9,7 +9,9 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
-|[Removal of MObile Guardian (MG) Device Management Application (DMA) from iPad Personal Learning Devices (PLDs)](/files/2024/PG/08062024_Removal_of_MG.pdf)|06 August 2024|All|
+|[Early Dismissal on Thursday, 29 Aug 2024](/files/2024/PG/082324_Early_Dismissal_Thursday_29_August.pdf)|23 August 2024|All|
+|[Subject Combinations 2025 and Streaming Exercise](/files/2024/PG/08202024_Subject_Combinations_2025_and_Streaming_Exercise.pdf)|20 August 2024|All|
+|[Removal of Mobile Guardian (MG) Device Management Application (DMA) from iPad Personal Learning Devices (PLDs)](/files/2024/PG/08062024_Removal_of_MG.pdf)|06 August 2024|All|
 |[Postponement of Science Weighted Assessment 3](/files/2024/PG/08052024_Postponement_of_Science_WA3_S2.pdf)|05 August 2024|Sec 2|
 |[Postponement of Science Weighted Assessment 3](/files/2024/PG/08052024_Postponement_of_Science_WA3_S1.pdf)|05 August 2024|Sec 1|
 |[Police Advisory For Parents/Guardians on Youth Hanging Out Late](/files/2024/PG/08022024_Police_Advisory_on_Youth_Hanging_Out_Late.pdf)|02 August 2024|All|
