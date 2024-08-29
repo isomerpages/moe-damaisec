@@ -3,10 +3,112 @@ title: Streaming Exercise 2024
 permalink: /information/students/streaming-exercise-2024/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
-![](/images/Information/Students/Streaming%20Exercise/2023/2023%20schedule.jpg)
-<p>Click on this <a rel="noopener" target="_blank" href="/files/Information/Students/Streaming Exercise/2023/2023 sec 2 streaming exercise guide briefing for students.pdf">link</a> to view the briefing slides for streaming exercise.</p>
-
-<p>Click on each of the activity to access the guide.</p>
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#ffce93;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Activity</span></th><th style="background-color:#ffce93;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Form Availability</th><th style="background-color:#ffce93;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Form Link</th></tr></thead><tbody><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Streaming Exercise/2023/1 guide to submit subject combination choices.pdf">Submit subject combination choices </a></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between <span style="font-weight:bold">27 October, 0800 hr</span> and <span style="font-weight:bold">3 November, 2359 hr</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="https://go.gov.sg/dss-streaming-23">https://go.gov.sg/dss-streaming-23</a></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Streaming Exercise/2023/2 guide to view subject combination offered and appeal for change of subjects.pdf">View subject combination offered and appeal for change of subjects </a></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between <span style="font-weight:bold">9 November, 1000 hr</span> and <span style="font-weight:bold">10 November, 1200 hr</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="https://go.gov.sg/dss-streaming-23-result">https://go.gov.sg/dss-streaming-23-result</a></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Streaming Exercise/2023/3 guide to view 2024 class &amp; subject combination allocated.pdf">View 2024 final subject combination</a></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">From <span style="font-weight:bold">17 November, 1200 hr</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="https://go.gov.sg/dss-streaming-23-final-result">https://go.gov.sg/dss-streaming-23-final-result</a></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="/files/Information/Students/Streaming Exercise/2023/3 guide to view 2024 class &amp; subject combination allocated.pdf">View 2024 class  allocation</a></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">From <span style="font-weight:bold">21 November</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a rel="noopener" target="_blank" href="https://go.gov.sg/dss-streaming-23-class">https://go.gov.sg/dss-streaming-23-class</a></td></tr></tbody></table>
+<h3>Sec 2 Streaming Exercise 2024</h3>
+<p><strong>PG Notice to Parent/Guardian and Annexes A</strong>
+</p>
+<p>Click <strong><a href="/files/2024/PG/08202024_Subject_Combinations_2025_and_Streaming_Exercise.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
+access the PG notice sent to parent/guardian on 20 August 2024, Annexes
+A of subject combinations offered for the respective streams are shown
+below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1qgi-Vk6zUs7d3BXLIleafJDo1QND8SYC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 Exp Subject Combinations 2025.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Aj5LVCOQHBRTigdbTAQWAAZ9Fa7XZK0q/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 NA Subject Combinations 2025.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Vuq6tk4eWmjlyyaZQpcTlH0cR-LUwFs-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 NT Subject Combinations 2025.pdf</a>
+</p>
+</li>
+</ul>
+<p>Please refer to the table below for the timelines with regard to the Sec
+2 Streaming Exercise:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="StreamingExercise2024" src="/images/streaming_exercise_2024.png">
+</div>
+<p><strong>Note to students:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consult your parents, teachers and/or
+the ECG Counsellor to guide you in making an informed decision for your
+subject combination choices.</p>
+<p>If you require ECG counselling to understand how your subject combination
+will shape further education and career choices, you may seek counselling
+and advice from our school’s ECG counsellor, Mr Edwin Khong.</p>
+<p>The link for booking an appointment is below:</p>
+<p><a href="https://go.gov.sg/dssecgcappointmentbooking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssecgcappointmentbooking</a>
+</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check this page for All Ears Form links,
+detailed guides and updated information on the Streaming Exercise.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adhere to the deadlines as no late submissions
+will be accepted.</p>
+<p><strong>Detailed guides and links <em>(will only be made available from 25 October 2024 onwards)</em></strong>
+</p>
+<p>Click on the links below to access.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Link to Detailed Guides</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Availability</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Submission of subject combination choices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Between 25 October 2024, 8.00 am to 1 November 2024, 11.59 pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>View subject combination offered and acknowledgement</p>
+<p>&nbsp;</p>
+<p>Appeal for change of subjects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Between 7 November 2024, 9.00 am and 8 November 2024, 3.00 pm</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>By 8 November 2024, 3.00 pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>View finalised 2025 Secondary 3 Subject Combination allocation and classes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>From 15 November 2024, 12 noon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
