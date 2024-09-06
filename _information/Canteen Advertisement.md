@@ -52,7 +52,6 @@ the hardcopy form, please do so from <strong><u>9 September 2024 to 20 September
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
-<p>&nbsp;</p>
 <p>Please submit the following to the General Office by <strong><u>27 September 2024 (Friday) by 4.00pm</u></strong>
 </p>
 <p>a. Completed application form;</p>
@@ -61,7 +60,6 @@ the hardcopy form, please do so from <strong><u>9 September 2024 to 20 September
 Basic Food Hygiene Course); and</p>
 <p>c. List of Proposed Food Items for Sale. <strong>Please include a picture of each food item with the respective stated prices.</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong><u>Interview and Food Tasting</u></strong>
 </p>
 <p>Please note that only shortlisted applicants will be invited for an interview
@@ -69,10 +67,8 @@ and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant(s) are expected to commerce operation of the stall
 by <strong><u>2&nbsp; January 2025 (Thursday).</u></strong>
 </p>
-<p>&nbsp;</p>
 <p><strong><u>Enquiries</u></strong>
 </p>
 <p>Please contact <u>Mdm Hasimah</u> (CSO) or Ms <u>Cynthia Soh</u> (Administration
 Manager) at <strong>6443 6848</strong> for clarifications.</p>
-<p>&nbsp;</p>
 <p>Thank you.</p>
