@@ -4,4 +4,75 @@ permalink: /information/canteen/
 description: ""
 variant: tiptap
 ---
-<p><strong>Damai Secondary School</strong> would like to invite interested applicants to operate the following stalls in our school canteen with effect from 22 January 2024.</p><p>Should you know of anyone who is interested, please help to circulate this info.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Type of Stall</p></th><th rowspan="1" colspan="1"><p>Closing Date</p></th><th rowspan="1" colspan="1"><p>Requirements</p></th></tr><tr><td rowspan="1" colspan="1"><p>Chinese Cooked Food</p></td><td rowspan="1" colspan="1"><p>29 December 2023</p></td><td rowspan="1" colspan="1"><p>Non-halal</p></td></tr></tbody></table><p><strong>Application Procedure</strong></p><ol><li><p>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p></li><li><p>Attach the following documents together with the application form:</p><ul data-tight="true" class="tight"><li><p>Photocopy of the NRIC (front and back)</p></li><li><p>List of proposed menu and pricing for all items</p></li><li><p>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</p></li></ul></li><li><p>Click here for <a href="https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></p></li><li><p>Submit the completed application form and documents by closing date via email OR to the School’s General Office.</p><ul data-tight="true" class="tight"><li><p>Address: 4800 Bedok Reservoir Road Singapore 479229</p></li><li><p>Contact No: 6443 6848</p></li><li><p>Email: <a href="mailto:Damai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Damai_ss@moe.edu.sg</a></p></li><li><p>Contact Person:</p><ul data-tight="true" class="tight"><li><p>Mr Toh Boon Chiang (Administrative Executive)</p></li><li><p>Mdm Hasimah Bte Kassim (CSO)</p></li></ul></li></ul></li></ol><p><strong>How to get to our school?</strong></p><ul data-tight="true" class="tight"><li><p>Bus number: 5, 21, 59, 65 &amp; 228 – 3-5 minutes walking distance</p></li></ul><p>&nbsp;<strong>Interested applicants must meet the following criteria:</strong></p><ul data-tight="true" class="tight"><li><p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</p></li><li><p>Able to provide good service and quality food with prices determined in consultation with the school.</p></li><li><p>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines –(<a href="https://www.hpb.gov.sg/schools/school-programmes" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes</a>).</p></li><li><p>Able to maintain high standard of food safety and personal hygiene.</p></li><li><p>Healthy and fit to operate the stall.</p></li><li><p>School/Catering experience preferred.</p></li><li><p>Successful applicant must personally operate the stall during canteen operation hours.</p></li><li><p>Proposed menu with price list must be attached to the application form for our consideration.</p></li><li><p>Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).</p></li><li><p>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</p></li></ul><p></p>
+<p>Damai Secondary School has a vacancy for the following canteen stall <strong><u>Japanese/Korean Stall</u></strong> starting
+from <strong><u>2 January 2025</u></strong>.</p>
+<p><strong><u>Requirements</u></strong>
+</p>
+<p>Interested applicants must satisfy the following requirements:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Must be Singapore Citizen or Singapore Permanent Resident</p>
+</li>
+<li>
+<p>Be healthy and fit</p>
+</li>
+<li>
+<p>Able to provide food that meet the health/nutritional standards set by <strong>Health Promotion Board</strong> in
+the “<strong>Healthy Meals in Schools Programme</strong>”* and carry the <strong>Healthier Choice Symbol/Healthier Snack Symbol Logo</strong>.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices</p>
+</li>
+<li>
+<p>Able to observe a high standard of food and personal hygiene</p>
+</li>
+<li>
+<p>Preferably have some catering experience or experience in running a school
+canteen stall</p>
+</li>
+<li>
+<p>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic
+Food Hygiene Course conducted by any of the accredited training providers
+appointed by Skillsfuture Singapore. The applicant will then be required
+to apply for a hawker licence from Singapore Food Agency upon successful
+course completion</p>
+<p></p>
+</li>
+</ol>
+<p>*Must comply with the Healthy Meals in Schools Programme Guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</p>
+<p><strong>Application Procedure</strong>
+</p>
+<p>Interested applicants may download the application form (as attached)
+or obtain a hardcopy from the school’s General Office (Monday to Friday
+– 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
+the hardcopy form, please do so from <strong><u>9 September 2024 to 20 September 2024</u></strong>.
+&nbsp;</p>
+<p><strong>School’s Address:</strong>
+</p>
+<p>Damai Secondary School</p>
+<p>4800 Bedok Reservoir Road</p>
+<p>Singapore 479229</p>
+<p>&nbsp;</p>
+<p>Please submit the following to the General Office by <strong><u>27 September 2024 (Friday) by 4.00pm</u></strong>
+</p>
+<p>a. Completed application form;</p>
+<p>b. Supporting documents</p>
+<p>(E.g. Photocopy of NRIC – Front and Back, and relevant certificate e.g.
+Basic Food Hygiene Course); and</p>
+<p>c. List of Proposed Food Items for Sale. <strong>Please include a picture of each food item with the respective stated prices.</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Interview and Food Tasting</u></strong>
+</p>
+<p>Please note that only shortlisted applicants will be invited for an interview
+and may be required to provide food sampling (at applicant’s own expense).
+Successful applicant(s) are expected to commerce operation of the stall
+by <strong><u>2&nbsp; January 2025 (Thursday).</u></strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Enquiries</u></strong>
+</p>
+<p>Please contact <u>Mdm Hasimah</u> (CSO) or Ms <u>Cynthia Soh</u> (Administration
+Manager) at <strong>6443 6848</strong> for clarifications.</p>
+<p>&nbsp;</p>
+<p>Thank you.</p>
