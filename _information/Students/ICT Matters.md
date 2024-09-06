@@ -5,4 +5,35 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p><strong>ICT Support</strong></p><p>Students can visit the&nbsp;<strong>School-Based Service Desk</strong>&nbsp;during the operating hours&nbsp;for assistance with their ICT accounts or Personal Learning Devices (PLDs). Alternatively, students can fill in the form (<a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/damaisechelpdesk</a>) if they&nbsp;need help with their Student Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student iCON account.</p><p>Students who need to check their MIMS &amp; MS365 username can do so via&nbsp;<a href="http://go.gov.sg/dssuser" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/dssuser</a>.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/School-Based%20Service%20Desk.jpg"></div><p><strong>Start of Year ICT Setup</strong></p><p>Students can refer to the below guide on actions to be taken to set up their ICT accounts.</p><p><a href="/files/2023%20Start%20of%20Year%20ICT%20Setup%20Sec%202%20-%205.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Start of Year ICT Setup Sec 2 - 5</a></p><p><strong>Student Learning Space (SLS)</strong></p><p>Students can refer to the below guide on managing their SLS Account.</p><p><a href="/files/SLS%20Account%20Management%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Account Management Guide</a></p><p>From 1 Dec 2022, students will log in to SLS using their MIMS/Student iCON username and password.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS%20Login%20via%20MIMS%20Poster.png"></div><p><strong>Personal Learning Device (PLD)</strong></p><p>Students can refer to the below documents for important information regarding the PLD.</p><p><a href="/files/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a></p><p><a href="/files/Troubleshooting%20iPad%20Profile%20Switching%20Issues_Performing%20a%20Manual%20Sync.pdf" rel="noopener noreferrer nofollow" target="_blank">Troubleshooting iPad Profile Switching Issues</a></p><h1>For Graduating Students</h1><p><strong>Backing up of student iCON data</strong></p><ul data-tight="true" class="tight"><li><p>Students who are graduating may refer to the this set of <a href="/files/Information/Students/ICT%20Matters/google%20takeout%20guide%20for%20student%20icon%20(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">slides</a> to back up their Student iCON data by <strong>31 December 2023</strong>.</p></li></ul><p><strong>Uninstallation of DMA</strong></p><p>The schedule for DMA uninstallation for <strong><u>2023 Sec 4NA</u></strong> students is as follows:</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Group</p></th><th rowspan="1" colspan="1"><p>Uninstallation Date</p></th></tr><tr><td rowspan="1" colspan="1"><p>Students not eligible for Sec 5NA</p></td><td rowspan="1" colspan="1"><p>27 Dec 2023</p></td></tr><tr><td rowspan="1" colspan="1"><p>Students who are confirmed for DPP or PFP&nbsp;</p></td><td rowspan="1" colspan="1"><p>1 week after last official school day in 2024</p></td></tr><tr><td rowspan="1" colspan="1"><p>Students continuing with Sec 5NA</p></td><td rowspan="1" colspan="1"><p>DMA will not be uninstalled</p></td></tr></tbody></table><p><strong>Actions required</strong></p><p><strong>At least one day before the DMA uninstallation</strong>. Please ensure that all data on your PLD have been backed-up (e.g. saved to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the factory reset is performed before the DMA can be uninstalled.</p><p><strong>On the day of DMA uninstallation</strong>. Please ensure that your PLD is switched on and connected to the internet from 6.00 a.m. to 11.00 p.m., and refrain from using the PLD during that period. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly.</p><p><strong>After the DMA has been uninstalled. </strong>You may refer to this <a href="/files/Information/Students/ICT Matters/(for students) instructions for dma uninstallation.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a> for instructions to check if the DMA has been successfully uninstalled from your PLD.</p><p><strong>Technical Support</strong></p><p>Should you require technical assistance to perform the back-up or if you find that the DMA in your PLD has not been uninstalled properly, you can go to the ICT room during working hours.</p>
+<p><strong>ICT Support</strong>
+</p>
+<p>Students can visit the&nbsp;<strong>School-Based Service Desk</strong>&nbsp;during
+the operating hours&nbsp;for assistance with their ICT accounts or Personal
+Learning Devices (PLDs). Alternatively, students can fill in the form (
+<a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/damaisechelpdesk</a>) if they&nbsp;need help with their Student
+Learning Space (SLS) account, Microsoft 365 Account and/or MIMS / Student
+iCON account.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School-Based%20Service%20Desk.jpg">
+</div>
+<p><strong>Student Learning Space (SLS)</strong>
+</p>
+<p>Students can refer to the below guide on managing their SLS Account.</p>
+<p><a href="/files/SLS%20Account%20Management%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Account Management Guide</a>
+</p>
+<p>From 1 Dec 2022, students will log in to SLS using their MIMS/Student
+iCON username and password.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS%20Login%20via%20MIMS%20Poster.png">
+</div>
+<p><strong>Personal Learning Device (PLD)</strong>
+</p>
+<p>Students can refer to the below documents for important information regarding
+the PLD.</p>
+<p><a href="/files/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+</p>
+<p><strong>Technical Support</strong>
+</p>
+<p>Should you require technical assistance to perform the back-up or if you
+find that the DMA in your PLD has not been uninstalled properly, you can
+go to the ICT room during working hours.</p>
