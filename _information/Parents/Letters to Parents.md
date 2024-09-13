@@ -9,6 +9,11 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Mental Well-Being Workshop for Parents](/files/2024/PG/09112024_Mental_wellbeing_parents.pdf)|11 September 2024|All|
+|[Early School Dismissal on 10 and 12 September 2024](/files/2024/PG/09062024_Early_School_Dismissal_on_1012Sep.pdf)|06 September 2024|All|
+|[Dealing with Exam Stress](/files/2024/PG/09042024_Dealing_with_Exam_Stress.pdf)|04 September 2024|All|
+|[Police Advisory for Parents/Guaridans on MATA-verse](/files/2024/PG/08282024_Police_Advisory_for_PG_on_MataVerse.pdf)|28 August 2024|All|
+|[End-of-Year Examination for Sec 1 to Sec 3](/files/2024/PG/08262024_EOY_Exams_S123.pdf)|26 August 2024|Sec 1 - 3|
 |[Early Dismissal on Thursday, 29 Aug 2024](/files/2024/PG/082324_Early_Dismissal_Thursday_29_August.pdf)|23 August 2024|All|
 |[Subject Combinations 2025 and Streaming Exercise](/files/2024/PG/08202024_Subject_Combinations_2025_and_Streaming_Exercise.pdf)|20 August 2024|All|
 |[Removal of Mobile Guardian (MG) Device Management Application (DMA) from iPad Personal Learning Devices (PLDs)](/files/2024/PG/08062024_Removal_of_MG.pdf)|06 August 2024|All|
