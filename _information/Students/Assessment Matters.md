@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Sec_3_EOY_Examination_Timetable_9Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Year Examination Timetable - Sec 3</a>
+<p><a href="/files/2024_EOY_Exam_Timetable_Sec_3__updated_on_13_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Year Examination Timetable - Sec 3 (Updated 13 Sep '24)</a>
 </p>
 </li>
 </ul>
