@@ -3,6 +3,7 @@ title: Craft & Technology
 permalink: /our-curriculum/academic-programmes/craft-n-technology/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 <div>
 <p><strong><u>Department Focus</u></strong></p>
@@ -39,27 +40,13 @@ third_nav_title: Academic Programmes
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf" target="_blank" rel="noopener">GCE O Level</a></li>
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6073_y22_sy.pdf" target="_blank" rel="noopener">GCE N(A) Level&nbsp;</a></li>
 </ul>
-<p><strong>Food and Consumer Education (Lower Secondary)</strong></p>
-<ul>
-<li><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/food-consumer-education.pdf" target="_blank" rel="noopener">Food and Consumer Education (Lower Secondary)</a></li>
-</ul>
 <p><strong>Design and Technology (Upper Secondary)</strong></p>
 <ul>
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/7059_y22_sy.pdf" target="_blank" rel="noopener">GCE O Level</a></li>
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7055_y22_sy.pdf" target="_blank" rel="noopener">GCE N(A) Level&nbsp;</a></li>
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7062_y22_sy.pdf" target="_blank" rel="noopener">GCE N(T) Level&nbsp;</a></li>
 </ul>
-<p><strong>Design and Technology (Lower Secondary)</strong></p>
-<ul>
-<li><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/2017-d-amp-t-lower-secondary-syllabus.pdf" target="_blank" rel="noopener">Design and Technology (Lower Secondary)</a></li>
-</ul>
-<p><strong>Art and Music</strong></p>
-<ul>
-<li><a href="http://www.seab.gov.sg/content/syllabus/olevel/2017Syllabus/6123_2017.pdf" target="_blank" rel="noopener">Upper Secondary Express Course Art Syllabus</a></li>
-<li><a href="https://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/6125_2017.pdf" target="_blank" rel="noopener">Upper Secondary Normal Academic Course Art Syllabus</a></li>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf" target="_blank" rel="noopener">Upper Secondary Normal Technical Course Art Syllabus</a></li>
 
-</ul>
 <p><strong><u>Signature Programmes</u></strong></p>
 <ul>
 <li>Learning journey to Baking Industry for selected Secondary Three NFS students</li>
