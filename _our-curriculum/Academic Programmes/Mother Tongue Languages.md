@@ -11,8 +11,6 @@ variant: markdown
 <p>The&nbsp;Mother Tongue Languages (MTL) department seeks to adopt innovative teaching and learning strategies to build a solid foundation in students for the learning of Mother Tongue Languages as well to cultivate in students a strong interest in their respective Mother Tongue languages and cultures.</p>
 <p><strong><u>Curriculum</u></strong></p>
 <p>In&nbsp;Damai Secondary School, the MTL teachers adopt various teaching pedagogies and infuse ICT components into daily MTL lessons. The department strives to equip students with crucial language and cultural competencies to help widen their horizon and enable them to tap into opportunities in the regional and global environment in the future.&nbsp;</p>
-<p><strong><u>Syllabus Links</u></strong></p>
-<p>Please refer to the following link for more information on the different MTL syllabuses<br><a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/" target="_blank" rel="noopener">https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/</a><br>Chinese: 2011 Chinese Language (Secondary) Syllabus<br>Malay: 2011 Malay Language (Secondary) Syllabus</p>
 
 <p><strong><u>Signature Programmes</u></strong></p>
 <p><strong>MTL Fortnight Activities &amp; Language Camp<br></strong>The objectives of these activities are:</p>
