@@ -3,12 +3,13 @@ title: Computing
 permalink: /our-curriculum/academic-programmes/computing/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 <div>
 <p><strong><u>Department Focus</u></strong></p>
 </div>  
 
-The Computing Department aims to develop **_Future-Ready_** and **_Responsible Digital Learners_** who are equipped with skills in using a variety of application software such as MS Word and PowerPoint to accomplish tasks and to communicate ideas. During Computer Applications (CPA) lessons, students also learn computation thinking and problem-solving skills and to be self-directed in their learning through the use of instructional videos.
+The Computing Department aims to develop&nbsp;**_Future-Ready_**&nbsp;and&nbsp;**_Responsible Digital Learners_**&nbsp;who are equipped with skills in using a variety of application software such as MS Word and PowerPoint to accomplish tasks and to communicate ideas. During Computer Applications (CPA) lessons, students also learn computation thinking and problem-solving skills and to be self-directed in their learning through the use of instructional videos.
 
   
 
@@ -18,7 +19,7 @@ Teachers employ a range of instructional strategies to meet the learning needs o
 
 **Computer Applications (CPA)**  
 
-Computer Applications (CPA) aims to prepare our Normal (Technical) students to be technologically adept citizens, who are able to function and contribute effectively in an increasingly technologically-driven world. We equip our students with foundational and crucial computer knowledge and skills to enable them to acquire the necessary 21st century skills to be future ready.
+Computer Applications&nbsp;(CPA) aims to prepare our Normal (Technical) students to be technologically adept citizens, who are able to function and contribute effectively in an increasingly technologically-driven world. We equip our students with foundational and crucial computer knowledge and skills to enable them to acquire the necessary 21st century skills to be future ready.
 
 <div>
 <p><strong><u>Curriculum</u></strong></p>
@@ -26,23 +27,15 @@ Computer Applications (CPA) aims to prepare our Normal (Technical) students to 
 
 **Computer Applications (CPA) Curriculum**
 
-The CPA lower secondary syllabus focuses on equipping students with fundamental ICT skills that will support learning of the other NT subjects and are useful in their personal lives. At the upper secondary levels, the syllabus focuses on higher-order thinking skills. Students taking CPA will learn problem solving skills and basic programming concepts and skills. Basic programming concepts and skills will be learnt through simple animation and game design; and eventually, applied to solve problems in everyday context. This serves to better prepare students for further studies in programming and media-related courses; as well as for the work place and future learning. There are six compulsory modules in the subject. These modules are: (1) Computer Fundamentals, (2) Media Elements, (3) Document Processing, (4) Spreadsheets, (5) Multimedia Communication, and (6) Media Computing. 
+The CPA lower secondary syllabus focuses on equipping students with fundamental ICT skills that will support learning of the other NT subjects and are useful in their personal lives. At the upper secondary levels, the syllabus focuses on higher-order thinking skills. Students taking CPA will learn problem solving skills and basic programming concepts and skills. Basic programming concepts and skills will be learnt through simple animation and game design; and eventually, applied to solve problems in everyday context. This serves to better prepare students for further studies in programming and media-related courses; as well as for the work place and future learning. There are six compulsory modules in the subject. These modules are: (1) Computer Fundamentals, (2) Media Elements, (3) Document Processing, (4) Spreadsheets, (5) Multimedia Communication, and (6) Media Computing.&nbsp;
 
 The CPA unit’s teaching and learning approach serves to promote self-directed learning in our students through the use of instructional videos during lessons. Besides using pen and paper mode of assessment, the teachers will also use ICT tools to make assessment fun, engaging and meaningful to our students.
-
-<div>
-<p><strong><u>Syllabus Link</u></strong></p>
-</div>
-
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/7018_y20_sy.pdf">GCE N Level CPA Paper 7018</a></p>
-
-<div>
 <p><strong><u>Signature Programme</u></strong></p>
-</div>
+
 
 **Engaging students through fostering the joy of learning with new dimensional experiences in Scratch 2.0**
 
-Damai’s Computer Applications (CPA) team engages our CPA NT students with the use of Augmented Reality functionality in Scratch programming and incorporates such functionality into the CPA curriculum. The team strives to enhance the 'joy of learning' CPA in the students through new dimensional experiences. Specifically, the Augmented Reality functionality in Scratch 2.0 enables the students to display virtual objects on a real-world space seen through a camera and also allows the students to interact physically with the virtual objects. This provides an authentic learning experience for the students to be realistically involved in the game playing as they control the movement of virtual objects with their hands in contrast with the traditional gaming platform where interaction is through a keyboard or mouse.
+Damai’s&nbsp;Computer Applications (CPA) team engages our CPA NT students with the use of Augmented Reality functionality in Scratch programming and incorporates such functionality into the CPA curriculum. The team strives to enhance the 'joy of learning' CPA in the students through new dimensional experiences. Specifically, the Augmented Reality functionality in Scratch 2.0 enables the students to display virtual objects on a real-world space seen through a camera and also allows the students to interact physically with the virtual objects. This provides an authentic learning experience for the students to be realistically involved in the game playing as they control the movement of virtual objects with their hands in contrast with the traditional gaming platform where interaction is through a keyboard or mouse.
 
 <img src="/images/comp1.png">
 
@@ -109,5 +102,4 @@ Our students have done the school proud in the competition and below are their a
 </tbody>
 </table>
 
-<img src="/images/computing.png" 
-     style="width:75%">
+<img src="/images/computing.png" style="width:75%">
