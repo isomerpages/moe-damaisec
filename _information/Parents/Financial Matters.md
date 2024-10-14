@@ -3,6 +3,7 @@ title: Financial Matters
 permalink: /information/parents/financial-matters/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ### **School Fees**
 
@@ -48,11 +49,11 @@ Singapore Citizens in financial need can get assistance on school fees and other
     <td class="tg-sdzj"><p>For more information, please refer to</p>
 <ul>
 <li>
-	<a href="/files/Information/FAS/2024/2024 moe fas pamphlet.pdf">MOE-FAS Pamphlet</a><br></li>
+	<a href="/files/2024/Document_4a_MOE_FAS_pamphlet__EL_.pdf">MOE-FAS Pamphlet</a><br></li>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="text-decoration:none;color:#EC8D3C">MOE Financial Assistance</span></a> <br></li>
 
 <li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a><br></li>
-<li><a href="/files/Information/FAS/2024/2024 moe fas application form.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a></li></ul></td>
+<li><a href="/files/2024/MOE_FAS_Application_Form_2025.pdf"><span style="text-decoration:none;color:#FAA156">MOE-FAS Application Form</span></a></li></ul></td>
   </tr>
 
 	
@@ -63,7 +64,7 @@ Singapore Citizens in financial need can get assistance on school fees and other
 <ul>	
 	<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a></li>
 <li>
-<a href="/files/Information/FAS/2024/2024 moe fas application form.pdf">MOE-FAS Application Form</a></li></ul></td>
+<a href="/files/2024/MOE_FAS_Application_Form_2025.pdf">MOE-FAS Application Form</a></li></ul></td>
   </tr>
   <tr>
     <td class="tg-sdzj"><p>Opportunity Fund </p></td>
