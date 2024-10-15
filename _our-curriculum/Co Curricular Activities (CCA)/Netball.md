@@ -3,83 +3,157 @@ title: Netball
 permalink: /our-curriculum/co-curricular-activities-cca/netball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-The Damai Netball team provides a rigorous, holistic and customised training programme for its talented members which focuses developing skills and the ability to play as a team, as well as instilling discipline.   
-
-  
-
-The team is coached by Coach Batrisyia and every training session is tailored to work on the athletes' tactical, technical and physical competencies. The team is committed to supporting the development and growth of its members' competencies. Apart from that, the team takes part in various competitions which provide competitive opportunities to sharpen its members' skills. 
-
-  
-
-**Signature Programmes**
-
-
-*   Leadership Training Programme
-*   Participation in External Carnivals (i.e. Pronet7))
-*   Volunteering for External Events (i.e. Mission Food Beach Netball & Netball Super League)
-
-<p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">East Zone Netball 'B' Division Competition 2022 - Participation </span></th>
-  </tr>
-</thead>
+<p>The Damai Netball team provides a rigorous, holistic and customised training
+programme for its talented members which focuses on developing skills and
+the ability to play as a team as well as instilling discipline.</p>
+<p>The team is coached by Coach Neo and every training session is tailored
+to work on the athletes’ tactical, technical and physical competencies.
+The team is committed to supporting the development and growth of its members’
+competencies. Apart from that, the team takes part in various competitions
+which provide competitive opportunities to sharpen its members’ skills.</p>
+<p><strong>Signature Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leadership Training Programme</p>
+</li>
+<li>
+<p>Participation in External Carnivals (i.e. Pronet7))</p>
+</li>
+<li>
+<p>Volunteering for External Events (i.e. Mission Food Beach Netball &amp;
+Netball Super League)</p>
+</li>
+</ul>
+<p><strong>Achievements&nbsp;&amp; Highlights</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">East Zone Netball 'C' Division Competition 2022 - Participation </span></td>
-  </tr>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Daisy Tan Netball Carnival  'B' Division 2019 - 8th Place</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Daisy Tan Netball Carnival 'C' Division 2019 - Participation</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Pronet7 Invitational 14 &amp; U and 17 &amp; U Netball Competition - Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Deloitte Pesta Sukan Netball Carnival 'B' Division 2019 - 6th Place</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Deloitte Pesta Sukan Netball Carnival 'C' Division 2019 - 2nd &amp; 4th Place</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball 'B' Division Competition 2024 - Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball 'C' Division Competition League D 2024 - Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Netball 'B' Division Competition 2023 - Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Netball 'C' Division Competition 2023 - Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speed Netball Carnival 2023 (Under 17) for 'C' Division Girls - 2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Netball 'B' Division Competition 2022 - Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Netball 'C' Division Competition 2022 - Participation</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img src="/images/net2.jpg">
-<p style="text-align: center;"><strong><em>Netball CCA Practices</em></strong></p>
-
-<figure>
-<img src="/images/B%20Division%202022.jpg">
-<figcaption> <strong>B Division ‘2022</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/C%20Division%202022.jpg">
-<figcaption> <strong>C Division ‘2022</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Celebrating%20the%20Netball%20Graduates%20of%20Class%202022.jpg">
-<figcaption> <strong>Celebrating the Netball Graduates of Class 2022</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/netball%20friendly.jpg">
-<figcaption> <strong>Netball Friendlies</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/netball%20carnival.jpg">
-<figcaption> <strong>Netball carnival at Pronet7</strong> </figcaption>
-</figure>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/net2.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball CCA Practices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/netball_2025_01.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>'B' Division 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/netball_2025_02.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>'C' Division 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/netball_2025_03.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebrating the Netball Graduates of Class 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/netball_2025_04.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball Friendlies with Alumni</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/netball_2025_05.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speed Netball Carnival 2023 at St. Hilda’s Secondary School</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
