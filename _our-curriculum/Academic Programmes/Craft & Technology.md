@@ -83,66 +83,7 @@ ever-evolving world.</p>
 </p>
 </li>
 </ul>
-<p><strong><u>Signature Programmes</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Learning journey to Baking Industry for selected Secondary Three NFS students</p>
-</li>
-<li>
-<p>Learning journey to IKEA Tampines for selected Secondary Two D&amp;T students</p>
-</li>
-<li>
-<p>Damai Health Week - Healthy Cooking Competition (interdisciplinary)</p>
-</li>
-<li>
-<p>Elective Module - Create a product for fundraising for all Secondary One
-students</p>
-</li>
-<li>
-<p>Project Work - Theme: Health and Obesity for all Secondary Two students</p>
-</li>
-<li>
-<p>ICT-based Music lessons: I-Garage Band</p>
-</li>
-<li>
-<p>World Music</p>
-</li>
-<li>
-<p>ICT-based Music lessons: MTV Project</p>
-</li>
-<li>
-<p>Keyboard lessons</p>
-</li>
-<li>
-<p>ICT in art lessons: art critique</p>
-</li>
-<li>
-<p>Pencil shading, acrylic painting, lino printing (IBL)</p>
-</li>
-<li>
-<p>ICT in art lessons: art critique</p>
-</li>
-<li>
-<p>Painting</p>
-</li>
-<li>
-<p>ICT in art lessons: Photography and Social Media (Virtual Art critic)</p>
-</li>
-<li>
-<p>Mixed Media</p>
-</li>
-<li>
-<p>Coursework</p>
-</li>
-</ul>
-<p><strong><u>Achievements</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Commendation for D&amp;T Awards 2019</p>
-</li>
-</ul>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -150,33 +91,62 @@ students</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cnt1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_01.jpg">
 </div>
-<p>Students whipping up healthy snacks</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_02.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_03.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cnt2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_04.jpg">
 </div>
-<p>Healthy Egg Muffins</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cnt3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_05.jpg">
 </div>
-<p>Aesthetics Week performances.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cnt4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_06.jpg">
 </div>
-<p>Students analyzing some of the IKEA products through users’ experience.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_07.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CraftAndTech/2025_08.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
