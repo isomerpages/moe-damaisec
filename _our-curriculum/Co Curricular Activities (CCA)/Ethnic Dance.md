@@ -3,49 +3,61 @@ title: Ethnic Dance
 permalink: /our-curriculum/co-curricular-activities-cca/ethnic-dance/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-The Damai Ethnic Dance seeks to expose students to various cultural dances. The weekly dance practices provide opportunities for the development of coordination, grace and rhythmic sense through the use of movement, drama and music in the students. 
-
-  
-
-Members get to experience, appreciate and enjoy different cultural dances and genres. They learn to express themselves through various dance movements. Members spread their passion through dance and display their talents through public performances and competitions every year. 
-
-  
-
-**Signature Programmes**
-
-*   Public Performance for Special Events (Hari Raya) 
-*   Participate in School Performances (Speech Day, Chinese New Year) 
-*   Participate in School Public Performance (School Musical etc)
-
-
-<p><strong>Achievements</strong><strong>&nbsp;&amp; Highlights</strong></p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Distinction (2021)</span></th>
-  </tr>
-</thead>
+<p>As part of the school’s mission to support the holistic development of
+students, Ethnic Dance provides students with a platform to discover their
+interests and talents. In Ethnic Dance, we aim to instill in students a
+sense of graciousness and provide opportunities for students to develop
+a lifelong passion for the arts under the guidance of our dedicated and
+experienced dance instructor. We hope to nurture our students’ creative
+expression, enrich social, cultural and historical awareness, and develop
+character and social emotional competencies.</p>
+<p><strong>Signature Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Performance for Special Events (National Day and Hari Raya)&nbsp;</p>
+</li>
+<li>
+<p>Participate in School Performances (Speech Day, Chinese New Year and Hari
+Raya)&nbsp;</p>
+</li>
+<li>
+<p>Singapore Youth Festival Art Presentation</p>
+</li>
+</ul>
+<p><strong>Achievements&nbsp;&amp; Highlights</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Arts Presentation - Certificate of Accomplishment (2019)</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Arts Presentation - Certificate of Accomplishment (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Arts Presentation - Certificate of Accomplishment (2021)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Arts Presentation - Certificate of Accomplishment (2019)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img src="/images/ed-1.png" 
-     style="width:75%">
-		 
-<img src="/images/ed-2.png" 
-     style="width:75%">
-		 
-<img src="/images/ed-3.png" 
-     style="width:75%">
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/ed-1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/ed-2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/ed-3.png">
+</div>
+<p></p>
