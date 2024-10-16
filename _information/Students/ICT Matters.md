@@ -37,3 +37,20 @@ the PLD.</p>
 <p>Should you require technical assistance to perform the back-up or if you
 find that the DMA in your PLD has not been uninstalled properly, you can
 go to the ICT room during working hours.</p>
+<p><strong>Guides for Students</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Guides/For_Graduating_Students__Google_Takeout_Guide_for_Student_iCON__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to backing up Student iCON</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guides/guide_for_students_to_save_on_external_storage.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to backing up PLD (iPad) to External Storage</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Guides/Guide_for_Savings_files_from_ipad_to_cloud.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to backing up PLD (iPad) to Cloud</a>
+</p>
+</li>
+</ul>
+<p></p>
