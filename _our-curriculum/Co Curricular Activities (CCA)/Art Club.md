@@ -227,9 +227,8 @@ the school’s garden</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;Isabelle Choo Ka-Yin’s (106) artwork was selected as one of the Top
-30 submissions for the Singapore Art Museum’s&nbsp;This&nbsp;Little&nbsp;Red&nbsp;Dot...
+<p>Isabelle Choo Ka-Yin’s (106) artwork was selected as one of the Top 30
+submissions for the Singapore Art Museum’s&nbsp;This&nbsp;Little&nbsp;Red&nbsp;Dot...
 National Day giveaway</p>
 </td>
 </tr>
