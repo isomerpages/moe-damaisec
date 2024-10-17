@@ -9,6 +9,11 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[Student iCON Google Takeout Poster and Guide for Graduating Students](/files/2024/PG/10162024_Student_ICON_Guide_for_Graduating_Students.pdf)|16 October 2024|Sec 4/5|
+|[Removal of School-Managed Apple ID](/files/2024/PG/10162024_Removal_of_School_Managed_Apple_ID.pdf)|16 October 2024|Sec 4/5|
+|[Code for Fun Enrichment Programme](/files/2024/PG/10112024_Code_for_Fun_Enrichment_Programme.pdf)|11 October 2024|Sec 1|
+|[Raising Confident and Resilient Teens Workshop](/files/2024/PG/10082024_Raising_Confident_and_Resilient_Teens_Workshop.pdf)|08 October 2024|All|
+|[Early School Dismissal on 10 and 12 September 2024]
 |[Mental Well-Being Workshop for Parents](/files/2024/PG/09112024_Mental_wellbeing_parents.pdf)|11 September 2024|All|
 |[Early School Dismissal on 10 and 12 September 2024](/files/2024/PG/09062024_Early_School_Dismissal_on_1012Sep.pdf)|06 September 2024|All|
 |[Dealing with Exam Stress](/files/2024/PG/09042024_Dealing_with_Exam_Stress.pdf)|04 September 2024|All|
