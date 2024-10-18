@@ -93,12 +93,10 @@ Make adjustments along the way, with a flexible mindset for Plan B.</p>
 <p>MySkillsFuture:&nbsp;<a href="http://www.myskillsfuture.gov.sg/secondary" rel="noopener" target="_blank">www.myskillsfuture.gov.sg/secondary</a>
 </p>
 <p>MOE Post-Secondary Education Brochure can be downloaded&nbsp;<a href="https://www.damaisec.moe.edu.sg/files/post-secondary-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>MOE guide to ECG for parents:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
+<p>MOE guide to ECG for parents: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
 <p>Additional information on ECG can be found on MOE’s website at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/education-and-career-guidance-in-schools</a>
 </p>
 <p>You can also find out more about the various educational pathways for
-your child at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape/explore-pathway.html</a>
+your child at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape/explore-pathway.html</a>
 </p>
