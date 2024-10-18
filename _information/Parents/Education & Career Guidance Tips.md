@@ -96,10 +96,9 @@ Make adjustments along the way, with a flexible mindset for Plan B.</p>
 <p>MOE guide to ECG for parents:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
-<p>Additional information on ECG can be found on MOE’s website at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/education-and-career-guidance-in-schools</a>
+<p>Additional information on ECG can be found on MOE’s website at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/education-and-career-guidance-in-schools</a>
 </p>
 <p>You can also find out more about the various educational pathways for
 your child at:</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape/explore-pathway.html</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape/explore-pathway.html</a>
 </p>
