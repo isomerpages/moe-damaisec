@@ -46,32 +46,34 @@ innovative technologies being used to optimise land, energy and water usage.
 This hands-on experience offers them a deeper insight into environmental
 sustainability and the crucial role of urban farming in ensuring food security
 for the future.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_01.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_01.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_02.jpg">
-</div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_03.jpg">
+</div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_03.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Curriculum/ALP/ALP_2025_02.jpg">
 </div>
-</th>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
