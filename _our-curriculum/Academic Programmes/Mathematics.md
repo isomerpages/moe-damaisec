@@ -50,10 +50,6 @@ can easily relate to, and through the use of newspaper articles when real-life
 examples are available. Whenever possible, connections to learning from
 previous topics are made to help students see the links between the different
 topics in the syllabus.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Computer Applications (CPA)</strong>&nbsp;</p>
 <p>The CPA lower secondary syllabus focuses on equipping students with fundamental
 ICT skills that will support the learning of other Normal (Technical) subjects
@@ -76,21 +72,22 @@ ICT tools to make assessment fun, engaging and meaningful to our students.</p>
 </p>
 <p>Over a two-year period, Secondary 3 and 4 students in the Normal (Technical)
 course will learn how to promote a retail store’s products, manage its
-inventory and serve customers. During this period of time, there is hands-on
-learning where students are exposed to the world of retailing through practical
-and theory lessons in a simulated retail setting.&nbsp;</p>
+inventory and learn more about the basics of livestreaming. During these
+2 years, there is hands-on learning where students are exposed to the world
+of retailing through practical and theory lessons in a simulated retail
+setting, and learn to promote their products online through a livestreaming
+session.</p>
 <p>Retailing skills such as handling and displaying merchandise, managing
-inventory levels, performing housekeeping duties and interacting with customers
-are emphasised. On top of these, the curriculum also calls for soft skills
-to be taught. Aside from learning how to effectively engage a customer,
-the importance of teamwork and being professional when a customer is angry
-or frustrated is also highlighted in lessons.&nbsp;</p>
-<p>Self-directed learning is another characteristic of the syllabus where
-students would need to independently research for their practical assessments
-and presentations.&nbsp;</p>
+inventory levels, performing housekeeping duties and the different aspects
+of online retailing are taught. Students will get to learn more about website
+building, promoting products and services through short videos and engaging
+with customers through their own livestream.</p>
+<p>Self-directed learning is another characteristic of the syllabus. Students
+would need to independently research for their practical assessments and
+presentations.&nbsp;</p>
 <p>In a nutshell, the learning objectives of the subject encapsulate the
 basic retailing skills needed for students to better appreciate and understand
-the industry.&nbsp;</p>
+the ever-changing industry.&nbsp;</p>
 <p><strong><u>Signature Programmes</u></strong>
 </p>
 <p>As a department, we have organised various signature programmes to engage
@@ -105,7 +102,7 @@ quizzes and questions related to Mathematics and Principle of Accounts.
 As a result, all the students always enjoy themselves and have fun with
 their classmates during the programme.</p>
 <p>In class, we adopt different modes of teaching to suit students of different
-readiness and interests. For example, we adopt Differential Instruction
+readiness and interests. For example, we adopt Differentiated Instruction
 during lesson times so that all the students can benefit from the differentiated
 scaffolding and support provided to them.</p>
 <table style="minWidth: 25px">

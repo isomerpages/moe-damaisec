@@ -3,30 +3,149 @@ title: Mother Tongue Languages
 permalink: /our-curriculum/academic-programmes/mother-tongue-languages/
 description: ""
 third_nav_title: Academic Programmes
-variant: markdown
+variant: tiptap
 ---
-<div>
-<p><strong><u>Department Focus</u></strong></p>
-</div>
-<p>The&nbsp;Mother Tongue Languages (MTL) department seeks to adopt innovative teaching and learning strategies to build a solid foundation in students for the learning of Mother Tongue Languages as well to cultivate in students a strong interest in their respective Mother Tongue languages and cultures.</p>
-<p><strong><u>Curriculum</u></strong></p>
-<p>In&nbsp;Damai Secondary School, the MTL teachers adopt various teaching pedagogies and infuse ICT components into daily MTL lessons. The department strives to equip students with crucial language and cultural competencies to help widen their horizon and enable them to tap into opportunities in the regional and global environment in the future.&nbsp;</p>
-
-<p><strong><u>Signature Programmes</u></strong></p>
-<p><strong>MTL Fortnight Activities &amp; Language Camp<br></strong>The objectives of these activities are:</p>
-<p>1) To create a conducive environment to promote MTL usage and learning beyond MTL lessons<br>2) To&nbsp;provide opportunities for students to enhance their knowledge and instill a passion towards their Mother Tongue language and culture</p>
-<p>This year, Damai Secondary School conducted a range of activities related to MTL and cultures for the students to participate in. Among these activities were hands-on sessions on Chinese Tea Appreciation, making traditional kuehs, making shadow puppets etc.&nbsp;</p>
-<table>
+<p><strong><u>Department Focus</u></strong>
+</p>
+<p>In Damai Secondary School, the Mother Tongue Languages (MTL) teachers
+adopt various teaching pedagogies and infuse ICT components into daily
+MTL lessons. In addition, teachers leverage on Differentiated Instruction
+(DI) strategies to support students in their learning. The department strives
+to equip students with crucial language and 21CC competencies to help widen
+their horizons and enable them to tap into opportunities in the regional
+and global environment in the future. The MTL department seeks to adopt
+innovative teaching and learning strategies to build a solid foundation
+for students in learning MTL as well as cultivate a strong interest in
+their respective Mother Tongue languages and cultures.</p>
+<p><strong><u>Curriculum</u></strong>
+</p>
+<p>In Damai Secondary School, the MTL teachers adopt various teaching pedagogies
+and infuse ICT components into daily MTL lessons. The department strives
+to equip students with crucial language and cultural competencies to help
+widen their horizon and enable them to tap into opportunities in the regional
+and global environment in the future.</p>
+<p><strong><u>Signature Programmes</u><br></strong>MTL Fortnight Activities
+<br>The objectives of these activities are:</p>
+<p>To create a conducive environment to promote MTL usage and learning beyond
+MTL lessons</p>
+<p>To provide opportunities for students to enhance their knowledge and develop
+a passion for&nbsp;their mother tongue and culture</p>
+<p>This year, Damai Secondary School conducted a range of activities related
+to MTL and culture for the students to participate in. Among these activities
+were hands-on sessions on traditional arts and crafts, performing arts
+appreciation and vlogging.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td><img src="/images/mt1.jpg">Chinese students practising their skills in making Chinese Tea.</td>
-<td><img src="/images/mt2.jpg">Malay students learning to make traditional kuehs.</td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_02.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students were guided in creating fan paintings（扇画） with ink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students had the opportunity to don traditional Chinese Opera costumes
+during a performance by Tok Tok Chiang Wayang.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_03.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_04.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Model of a mini kampung house made of wood with students in the background
+making the craft.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students were guided to play Angklung and Genderang harmoniously.</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Reading Programmes<br></strong>The MTL department believes in the importance of instilling in students the passion for reading and enhancing their language ability through writing. This year, the department organised a mini book fair to encourage students to purchase story books for their own reading.</p>
-<img src="/images/mt3.png">
-<p style="text-align: center;">2019 Mini MTL Book Fair</p>
-<p><strong>Cultural Performance Exposure Scheme (CPES)<br></strong>The&nbsp;CPES “文化随意门” 计划 is an initiative by the school to promote Chinese Language Learning through exposing students to Chinese Language-related cultural performances and programmes by local and foreign artistes. To enhance the learning experience for students, the Chinese Language unit arranges for Chinese Language classes to view cultural performances in theatre.&nbsp;</p>
-<p><strong>Bengkel Rentas Ilmu 2019 (ML)<br></strong>Bengkel Rentas Ilmu is a workshop that was organised for the Secondary 4 &amp; 5 Malay Language students from different secondary schools in the cluster. Teachers were invited to share different examination skills with the students to prepare them for their National Mother Tongue Language Examinations.</p>
-<img src="/images/mt4.jpg">
+<p><strong>Reading Programmes<br></strong>To instill an interest in reading
+in our students, the secondary one to three students embarked on the Reading
+Programme. Students of every level were assigned at least one reading material
+and teachers utilise class discussions, online games and other class activities
+to reinforce students’ understanding of the text.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_05.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_06.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kahoot game to consolidate the students’ learning</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pertandingan Bahas 4PM Peringkat Menengah 2024</strong>
+</p>
+<p>In February 2024, three Secondary 3 students participated in the annual
+Malay Debate Competition organised by the Malay Youth Literary Association
+(4PM). The students prepared themselves for the topics and trained hard.
+Their efforts bore fruit as one of them, Nabilah Maisarah (302), received
+the <em>Excellent Debater</em> award.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_07.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nabilah Maisarah (302) presenting her arguments to the panel of judges</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
