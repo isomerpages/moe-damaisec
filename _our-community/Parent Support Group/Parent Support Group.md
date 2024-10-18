@@ -55,12 +55,178 @@ to journey with their child.</p>
 <p>You may wish to contact our PSG Liaison Officers for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Nur Sahira Ramlee at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Nur_sahira_ramlee@schools.gov.sg</a>
+<p>Mdm Nur Sahira Ramlee at&nbsp;<a href="mailto:Nur_sahira_ramlee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_sahira_ramlee@schools.gov.sg</a>
 </p>
 </li>
 <li>
-<p>Miss Tan Chwee Kim at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Tan_chwee_kim@schools.gov.sg</a>
+<p>Miss Tan Chwee Kim at&nbsp;<a href="mailto:Tan_chwee_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_chwee_kim@schools.gov.sg</a>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_02.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_03.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Lohei 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Core Team Meet Up in March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by one of the PSG parents on Careers’ Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_04.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_05.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_06.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A token of appreciation to our PSG chairperson during the 7<sup>th</sup> Speech
+&amp; Prize Giving Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Meet Up in May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG rugby parents ready to give their support at rugby tournaments</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_07.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_08.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_09.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG serving lunch to our sec 1 campers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG all ready to render help during Sec 1 Camp meal times</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG serving lunch to our sec 1 campers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_12.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG distributing snacks during National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our PSG Team @ Marina Bay Waterfront</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Games session by PSG during National Day Celebration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_13.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community/PSG/PSG_2025_15.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Support Circles Zonal Session 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Support Circles Zonal Session with MOS, Ms Gan Siow Huang, Ministry
+of Education &amp; Ministry of Manpower</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thank you, PSG, for the ice-cream treat during Teachers’ Day</p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p></p>
