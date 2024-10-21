@@ -114,58 +114,274 @@ Cancer Society and many more)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_gg_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_01.jpg">
 </div>
-<p><strong><em>Learning Basic First Aid</em></strong>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Commemorating World Thinking Day 2024 at Tampines Hub</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_gg_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_02.jpg">
 </div>
-<p><strong><em>Commemorating World Thinking Day 2023</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_gg_03.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong><em>VIA at St John's Home for the Elderly</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_gg_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_03.jpg">
 </div>
-<p><strong><em>Combined Uniform Group Marching Contingent at the National Day Observance Ceremony at Passion Wave led by Tasya Mandela Yang</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Our Girls Advocating for Composting at East Division Day 2024</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_04.jpg">
 </div>
-<p><strong><em>Making Coasters using Sustainable Resources at East Division Learning Day 2023</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Tasya Mandela Yang (401) and Xylene Toh (402) posing for a photo with their parents and Ms Chan during the Baden Powell Award Ceremony 2024</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_05.jpg">
 </div>
-<p><strong><em>Maxine Yow Xuan received the Baden Powell Award at the Girl Guides Award Ceremony 2023</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Campcraft - learning to tie the lashings for a kitchen shelter</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_06.jpg">
 </div>
-<p><strong><em>Collaboration with Fengshan Primary School Brownie for Plogathon during World Thinking Day Celebration 2023</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Guides during one of their bonding activities</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_07.jpg">
 </div>
-<p><strong>Guides after one of their bonding activities</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Preparing for Outdoor Cooking during camp</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_09.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_08.jpg">
 </div>
-<p><strong><em>Guides doing their Yeoman Service at Girl Guides Shop</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Wishing our graduating guides all the best!</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_09.jpg">
 </div>
-<p><strong><em>Our Sec 4 guides enjoying their treat during the Sec 4 Handover Ceremony</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Sec 1 UG try-out 2024</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/CCA/Girl Guide/2023_GG_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_10.jpg">
 </div>
-<p><strong><em>Sec 1 UG try-out 2023</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Evangeline and Anabelle facilitating an online workshop during East Division Learning Day 2024</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
