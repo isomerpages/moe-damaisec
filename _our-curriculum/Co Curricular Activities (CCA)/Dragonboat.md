@@ -1,6 +1,6 @@
 ---
-title: Dragonboating
-permalink: /our-curriculum/co-curricular-activities-cca/dragonboating/
+title: Dragonboat
+permalink: /our-curriculum/co-curricular-activities-cca/dragonboat/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
