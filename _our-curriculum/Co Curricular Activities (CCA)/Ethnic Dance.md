@@ -36,12 +36,12 @@ Raya)&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Arts Presentation - Certificate of Accomplishment (2023)</p>
+<p>Singapore Youth Arts Presentation - Certificate of Distinction (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Arts Presentation - Certificate of Accomplishment (2021)</p>
+<p>Singapore Youth Arts Presentation - Certificate of Distinction (2021)</p>
 </td>
 </tr>
 <tr>
