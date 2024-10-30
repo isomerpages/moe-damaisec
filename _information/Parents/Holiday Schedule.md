@@ -50,7 +50,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5-Nov - 6-Nov</p>
+<p>5 - 6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday - Wednesday</p>
@@ -69,6 +69,32 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Harmony Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Oct - 1 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday - Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bridging Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 11.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected S1 - S3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lavinia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classrooms</p>
 </td>
 </tr>
 </tbody>
