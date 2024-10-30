@@ -10,7 +10,7 @@ variant: markdown
 
 Come and discover our exciting and vibrant student life at Damai Secondary School’s e-Open House. Join us in 2024 for a purposeful and meaningful secondary school experience!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xo3ZW2F4smU?si=cEdAEQfLgWvgF19X" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/enU8mlADqS4?si=6GedAHnKgvL2r_S7" height="315" width="560"></iframe>
 
 **Go on a Virtual Tour**
 
