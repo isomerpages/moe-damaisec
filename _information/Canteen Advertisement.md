@@ -45,14 +45,14 @@ course completion</p>
 <p>Interested applicants may download the application form (as attached)
 or obtain a hardcopy from the school’s General Office (Monday to Friday
 – 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
-the hardcopy form, please do so from <strong><u>9 September 2024 to 20 September 2024</u></strong>.
+the hardcopy form, please do so from <strong><u>now to 22 November 2024</u></strong>.
 &nbsp;</p>
 <p><strong>School’s Address:</strong>
 </p>
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
-<p>Please submit the following to the General Office by <strong><u>27 September 2024 (Friday) by 4.00pm</u></strong>
+<p>Please submit the following to the General Office by <strong><u>29 November 2024 (Friday) by 4.00pm</u></strong>
 </p>
 <p>a. Completed application form;</p>
 <p>b. Supporting documents</p>
