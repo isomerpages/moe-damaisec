@@ -2,6 +2,7 @@ collections:
   2024-events:
     output: true
     order:
+      - Minister Chan Chun Sing's Visit.md
       - Graduation Day.md
       - Teachers' Day.md
       - National Day.md
