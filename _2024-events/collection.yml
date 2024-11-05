@@ -2,6 +2,7 @@ collections:
   2024-events:
     output: true
     order:
+      - Teachers' Day.md
       - National Day.md
       - Speech Day.md
       - Hari Raya.md
