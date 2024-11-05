@@ -1,4 +1,5 @@
 collections:
   2024-events:
     output: true
-    order: []
+    order:
+      - Chinese New Year.md
