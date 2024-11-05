@@ -2,4 +2,5 @@ collections:
   2024-events:
     output: true
     order:
+      - Total Defence Day.md
       - Chinese New Year.md
