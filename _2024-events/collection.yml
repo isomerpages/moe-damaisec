@@ -2,6 +2,7 @@ collections:
   2024-events:
     output: true
     order:
+      - Graduation Day.md
       - Teachers' Day.md
       - National Day.md
       - Speech Day.md
