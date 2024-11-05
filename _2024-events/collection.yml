@@ -2,5 +2,6 @@ collections:
   2024-events:
     output: true
     order:
+      - Student Leaders' Investiture.md
       - Total Defence Day.md
       - Chinese New Year.md
