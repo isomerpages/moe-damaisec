@@ -2,7 +2,7 @@
 layout: homepage
 title: Damai Secondary School
 description: Brief site description here
-image: /images/Our Damai/dmsslogo.svg
+image: /images/dmsslogo.svg
 permalink: /
 notification: ""
 sections:
