@@ -2,62 +2,109 @@
 title: e Open House
 permalink: /e-open-house/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/E%20Open%20House/2023/motd2023.png)
-
-**Learn about Student Life in the School**
-
-Come and discover our exciting and vibrant student life at Damai Secondary School’s e-Open House. Join us in 2024 for a purposeful and meaningful secondary school experience!
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/enU8mlADqS4?si=6GedAHnKgvL2r_S7" height="315" width="560"></iframe>
-
-**Go on a Virtual Tour**
-
-Located by the edge of picturesque Bedok Reservoir, Damai Secondary has a vibrant campus. Join us for a virtual tour of our school facilities!
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zSzRqhXYTYA?si=HcY7e3rgQN-t4wZf" height="315" width="560"></iframe>
-
-**Photo Highlights**
-
-There is never a dull moment in Damai Secondary School as our students continue to Aspire, Explore and Achieve. Check out the annual photo highlights of our school events <a href="https://www.damaisec.moe.edu.sg/information/news-and-events/2023/" target="_blank" rel="noopener">here</a>.
-
-**Signature Programmes**
-
-Our Learning for Life Programme (LLP), <i>Character Development through Water and Adventure Sports</i>, provides students with real-life experiences to develop character and values, cultivate positive attitudes, self-expression and strengthen their people skills. Check out our LLP <a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" target="_blank" rel="noopener">here</a>.
-
-Our Applied Learning Programme (ALP), <i>Environmental Sciences and Sustainability</i>, inspires students to go on a journey of self-exploration and self-discovery, and hone their 21st century competencies, innovative spirit and awareness of major environmental issues. Check out our ALP <a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" target="_blank" rel="noopener">here</a>.
-
-**National Digital Literacy Programme**
-
-Damai Secondary embraces the use of technology as a key enabler to spark the joy of learning in all our students and empower them to be confident, self-directed and future-ready citizens. All students at Damai Secondary acquire an iPad as a Personal Learning Device (PLD), enabling them to tap on digital resources to learn according to their needs and interests, and collaborate with one another, anytime and anywhere. Click <a href="https://www.damaisec.moe.edu.sg/our-curriculum/national-digital-literacy-programme/" target="_blank" rel="noopener">here</a> for more information. 
-
-**Full Subject-Based Banding**
-
-Damai Secondary offers Full Subject-Based Banding in 2024 for all lower secondary students to better meet their learning needs. Read <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" target="_blank" rel="noopener">here</a> for more information.
-
-**Click on the icons below to learn more about our specific programmes!**
-
-<table style="border-collapse: collapse; width: 100%;">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh1.jpg">
+</div>
+<p><strong>Explore Student Life at Damai Secondary School!</strong>
+</p>
+<p>Get ready to experience the energy and spirit of Damai Secondary School
+at our e-Open House 2024! Dive into the vibrant world of student life,
+where every activity and opportunity is designed to make students’ secondary
+school journey purposeful and meaningful. Come and discover what it means
+to be part of the Damai family!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/enU8mlADqS4?si=6GedAHnKgvL2r_S7"></iframe>
+</div>
+<p><strong>Take a Virtual Tour of Damai Secondary School!</strong>
+</p>
+<p>Discover Damai Secondary’s vibrant campus, beautifully set along the scenic
+Bedok Reservoir. Join us on an immersive virtual tour to explore our modern
+facilities and experience the welcoming atmosphere that makes our school
+unique!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zSzRqhXYTYA?si=HcY7e3rgQN-t4wZf"></iframe>
+</div>
+<p></p>
+<p><strong>Photo Highlights</strong>
+</p>
+<p>At Damai Secondary School, there’s never a dull moment! Our students are
+always Aspiring, Exploring, and Achieving. From lively events to meaningful
+activities, each moment captured reflects the vibrant spirit of our school
+community. Browse our annual photo highlights to see our students in action
+<a href="https://www.damaisec.moe.edu.sg/2024/" rel="noopener" target="_blank">here</a>.</p>
+<p><strong>Signature Programmes</strong>
+</p>
+<p><strong>Learning for Life Programme (LLP): Character Development through Water and Adventure Sports</strong>
+</p>
+<p>Our LLP immerses students in real-life experiences that build character,
+instill values, and cultivate positive attitudes. Through exciting water
+and adventure sports, students also strengthen their people skills, develop
+self-expression, and foster resilience. Dive into the details of our LLP
+<a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" rel="noopener" target="_blank">here</a>!</p>
+<p><strong>Applied Learning Programme (ALP): Environmental Sciences and Sustainability</strong>
+</p>
+<p>The ALP at Damai Secondary takes students on a journey of self-discovery,
+inspiring curiosity and an innovative spirit. Through hands-on learning
+in Environmental Sciences, students develop 21st-century competencies and
+gain awareness of key environmental challenges. Learn more about how our
+ALP empowers students for a sustainable future <a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" rel="noopener" target="_blank">here</a>!</p>
+<p><strong>National Digital Literacy Programme</strong>
+</p>
+<p>At Damai Secondary, we harness the power of technology to ignite a passion
+for learning in every student. Our National Digital Literacy Programme
+empowers students to become confident, self-directed, and future-ready
+citizens. Each student is equipped with an iPad as a Personal Learning
+Device (PLD), unlocking a world of digital resources tailored to individual
+learning needs and interests. With their PLD, students can learn and collaborate
+anytime, anywhere. Discover more about how we are enhancing digital literacy
+at Damai Secondary <a href="https://www.damaisec.moe.edu.sg/our-curriculum/national-digital-literacy-programme/" rel="noopener" target="_blank">here</a>!</p>
+<p><strong>Full Subject-Based Banding</strong>
+</p>
+<p>Damai Secondary offers Full Subject-Based Banding for all lower secondary
+students, designed to cater to their unique learning needs. This approach
+provides a more personalised educational journey, ensuring every student
+can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener" target="_blank">here</a>.</p>
+<p><strong>Click on the icons below to learn more about our specific programmes!</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;"><a href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img src="/images/E Open House/2023/curriculum2023.png"></a></td>
-<td style="width: 50%;"><a href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img src="/images/E Open House/2023/cca2023.png"></a></td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh2.jpg"></a>
+<h4>Our Curriculum</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh3.jpg"></a>
+<h4>Our CCA</h4>
+</td>
 </tr>
-</tbody>
-<tbody><tr>
-<td style="width: 50%;"><a href="https://www.damaisec.moe.edu.sg/our-curriculum/student-development-programme/"><img src="/images/E Open House/2023/student development2023.png"></a></td>
-<td style="width: 50%;"><a href="https://www.damaisec.moe.edu.sg/our-curriculum/character-and-citizenship-education/"><img src="/images/E Open House/2023/cce2023.png"></a></td>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/student-development-programme/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/E Open House/eoh4.jpg"></a>
+<h4>Our Student Development</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh5.jpg"></a>
+<h4>Our CCE</h4>
+</td>
 </tr>
 </tbody>
 </table>
-
-**Parent Support Group**
-
-At Damai Secondary, we work closely with our parents to bring out the best in every child. 
-
-Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-group/" target="_blank" rel="noopener">here</a> to find out more about our Parent Support Group
-
-**Have A Question/Comment?**
-
-For further queries, drop us a note at <a href="mailto:damai_ss@moe.edu.sg">damai_ss@moe.edu.sg  </a>or call us at 6443 6848.
+<h4><strong>Parent Support Group</strong></h4>
+<p>At Damai Secondary, we collaborate closely with parents to nurture each
+child’s potential and success.</p>
+<p>Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-group/" rel="noopener" target="_blank">here</a> to
+find out more about our Parent Support Group.</p>
+<p><strong>Have A Question/Comment?</strong>
+</p>
+<p>For any inquiries, feel free to reach out to us!
+<br>📧 Email: <a href="mailto:damai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damai_ss@moe.edu.sg</a>
+<br>📞 Call: 6443 6848</p>
