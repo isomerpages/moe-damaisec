@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>e-Open House 2024</strong>
+</p>
+<p>Click <a href="https://www.damaisec.moe.edu.sg/e-open-house/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+have an e-tour for our e-Open House 2024!</p>
 <p><strong>End-of-Year Examination Timetable (2024)</strong>
 </p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/information/students/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
