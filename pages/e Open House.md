@@ -79,23 +79,38 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh2.jpg">
+</div>
+<h4>Our Curriculum</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh3.jpg">
+</div>
+<h4>Our CCA</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/E Open House/eoh4.jpg">
+</div>
+<h4>Our Student Development</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh5.jpg">
+</div>
+<h4>Our CCE</h4>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Parent Support Group</strong>
-</p>
+<h4><strong>Parent Support Group</strong></h4>
 <p>At Damai Secondary, we collaborate closely with parents to nurture each
 child’s potential and success.</p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-group/" rel="noopener" target="_blank">here</a> to
