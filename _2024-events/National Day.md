@@ -1,6 +1,6 @@
 ---
 title: National Day
-permalink: /2024/national-day/
+permalink: /information/news-and-events/2024/national-day/
 variant: tiptap
 description: ""
 ---

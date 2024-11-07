@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year
-permalink: /2024/chinese-new-year/
+permalink: /information/news-and-events/2024/chinese-new-year/
 variant: tiptap
 description: ""
 ---

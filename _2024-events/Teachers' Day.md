@@ -1,6 +1,6 @@
 ---
 title: Teachers' Day
-permalink: /2024/teachers-day/
+permalink: /information/news-and-events/2024/teachers-day/
 variant: tiptap
 description: ""
 ---

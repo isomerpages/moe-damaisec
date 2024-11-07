@@ -1,6 +1,6 @@
 ---
 title: French & German Ambassador's Visit
-permalink: /2024/french-german-ambassador-s-visit/
+permalink: /information/news-and-events/2024/french-german-ambassador-s-visit/
 variant: tiptap
 description: ""
 ---

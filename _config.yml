@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dl3fsqtoqpfkg.amplifyapp.com
 prod: https://master.dl3fsqtoqpfkg.amplifyapp.com
-shareicon: /images/Our Damai/dmsslogo.svg
+shareicon: /images/dmsslogo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

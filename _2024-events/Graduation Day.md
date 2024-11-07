@@ -1,6 +1,6 @@
 ---
 title: Graduation Day
-permalink: /2024/graduation-day/
+permalink: /information/news-and-events/2024/graduation-day/
 variant: tiptap
 description: ""
 ---

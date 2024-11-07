@@ -1,6 +1,6 @@
 ---
 title: Speech Day
-permalink: /2024/speech-day/
+permalink: /information/news-and-events/2024/speech-day/
 variant: tiptap
 description: ""
 ---

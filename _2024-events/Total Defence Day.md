@@ -1,6 +1,6 @@
 ---
 title: Total Defence Day
-permalink: /2024/total-defence-day/
+permalink: /information/news-and-events/2024/total-defence-day/
 variant: tiptap
 description: ""
 ---

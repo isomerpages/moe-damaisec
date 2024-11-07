@@ -1,6 +1,6 @@
 ---
 title: Minister Chan Chun Sing's Visit
-permalink: /minister-chan-chun-sing-s-visit/
+permalink: /information/news-and-events/2024/minister-chan-chun-sing-s-visit/
 variant: tiptap
 description: ""
 ---

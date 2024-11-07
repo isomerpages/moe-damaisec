@@ -1,6 +1,6 @@
 ---
 title: Student Leaders' Investiture
-permalink: /2024/student-leaders-investiture/
+permalink: /information/news-and-events/2024/student-leaders-investiture/
 variant: tiptap
 description: ""
 ---

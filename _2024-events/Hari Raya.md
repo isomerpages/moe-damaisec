@@ -1,6 +1,6 @@
 ---
 title: Hari Raya
-permalink: /2024/hari-raya/
+permalink: /information/news-and-events/2024/hari-raya/
 variant: tiptap
 description: ""
 ---
