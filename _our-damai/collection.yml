@@ -2,7 +2,6 @@ collections:
   our-damai:
     output: true
     order:
-      - e Open House.md
       - Principal's Foreword.md
       - Vision, Mission, Values & Motto.md
       - School Crest & Song.md
