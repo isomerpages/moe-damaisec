@@ -40,7 +40,7 @@ community. Browse our annual photo highlights to see our students in action
 <p><strong>Learning for Life Programme (LLP): Character Development through Water and Adventure Sports</strong>
 </p>
 <p>Our LLP immerses students in real-life experiences that build character,
-instill values, and cultivate positive attitudes. Through exciting water
+instil values, and cultivate positive attitudes. Through exciting water
 and adventure sports, students also strengthen their people skills, develop
 self-expression, and foster resilience. Dive into the details of our LLP
 <a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" rel="noopener" target="_blank">here</a>!</p>
@@ -48,7 +48,7 @@ self-expression, and foster resilience. Dive into the details of our LLP
 </p>
 <p>The ALP at Damai Secondary takes students on a journey of self-discovery,
 inspiring curiosity and an innovative spirit. Through hands-on learning
-in Environmental Sciences, students develop 21st-century competencies and
+in Environmental Sciences, students develop 21st century competencies and
 gain awareness of key environmental challenges. Learn more about how our
 ALP empowers students for a sustainable future <a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" rel="noopener" target="_blank">here</a>!</p>
 <p><strong>National Digital Literacy Programme</strong>
