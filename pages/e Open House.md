@@ -34,7 +34,7 @@ unique!</p>
 always Aspiring, Exploring, and Achieving. From lively events to meaningful
 activities, each moment captured reflects the vibrant spirit of our school
 community. Browse our annual photo highlights to see our students in action
-<a href="https://www.damaisec.moe.edu.sg/2024/" rel="noopener" target="_blank">here</a>.</p>
+<a href="https://www.damaisec.moe.edu.sg/information/news-and-events/2024/" rel="noopener" target="_blank">here</a>.</p>
 <p><strong>Signature Programmes</strong>
 </p>
 <p><strong>Learning for Life Programme (LLP): Character Development through Water and Adventure Sports</strong>
