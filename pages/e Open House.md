@@ -78,7 +78,7 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4></h4><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_01.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_01.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_02.png"></a>
