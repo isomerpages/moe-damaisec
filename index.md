@@ -20,7 +20,7 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      background: /images/Banner/gifbanner_01.gif
+      background: /images/Banner/gifban_02.gif
   - infopic:
       title: e-Open House 2024
       id: infopic
