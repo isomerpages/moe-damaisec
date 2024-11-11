@@ -4,7 +4,7 @@ permalink: /e-open-house/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3>2024 e-Open House</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh1.jpg">
 </div>
@@ -79,21 +79,21 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh2.jpg"></a>
-<h4>Our Curriculum</h4>
+<h4>Our CCA</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh3.jpg"></a>
-<h4>Our CCA</h4>
+<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/E Open House/eoh3.jpg"></a>
+<h4>Our Curriculum</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/student-development-programme/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/E Open House/eoh4.jpg"></a>
-<h4>Our Student Development</h4>
+<h4>Our CCE</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh5.jpg"></a>
-<h4>Our CCE</h4>
+<h4>Our Student Development</h4>
 </td>
 </tr>
 </tbody>
