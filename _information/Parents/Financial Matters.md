@@ -58,9 +58,9 @@ Singapore Citizens in financial need can get assistance on school fees and other
 
 	
   <tr>
-    <td class="tg-sdzj"><p>School-based Financial Assistance Scheme (SAC-FAS)</p><br></td>
+    <td class="tg-sdzj"><p>School-based Financial Assistance Scheme (School-based-FAS)</p><br></td>
     <td class="tg-sdzj"><p>Gross Household Income &lt;= $4,400<br>Per Capita Income &lt;= $1,100</p><br></td>
-    <td class="tg-sdzj"><p>Applicants who do not qualify for MOE-FAS will be considered for School-Based Financial Assistance (SAC-FAS).<br>For more information, please refer to </p>
+    <td class="tg-sdzj"><p>Applicants who do not qualify for MOE-FAS will be considered for School-Based Financial Assistance (School-based-FAS).<br>For more information, please refer to </p>
 <ul>	
 	<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a></li>
 <li>
