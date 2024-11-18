@@ -294,9 +294,6 @@ informed decisions</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Link To Education &amp; Career Guidance Website:<br></strong>
-<a href="https://www.myskillsfuture.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.sg/content/student/en/secondary.html</a>
-</p>
 <p><strong>Cyber Wellness Education @ Damai</strong>
 </p>
 <p>Cyber Wellness refers to the positive well-being of internet users.&nbsp;
