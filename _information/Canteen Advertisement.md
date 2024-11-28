@@ -65,10 +65,10 @@ Basic Food Hygiene Course); and</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant(s) are expected to commerce operation of the stall
-by <strong><u>2&nbsp; January 2025 (Thursday).</u></strong>
+by <strong><u>13 January 2025 (Monday).</u></strong>
 </p>
 <p><strong><u>Enquiries</u></strong>
 </p>
 <p>Please contact <u>Mdm Hasimah</u> (CSO) or Ms <u>Cynthia Soh</u> (Administration
 Manager) at <strong>6443 6848</strong> for clarifications.</p>
-<p>Thank you.</p>
+<p>Thank you.3</p>
