@@ -15,7 +15,7 @@ schools as well: Bedok North Secondary and Damai Secondary School. We are
 also happy to invite our fresh graduates of the new Damai Secondary to
 join as well.&nbsp;</p>
 <p>Please click on the link below to register and be updated on developments
-and events of the school. The form will take less than 5 minutes to complete.</p>
+and events of the school. The form will take less than 10 minutes to complete.</p>
 <p>Register&nbsp;<a href="https://go.gov.sg/dss-alumni" rel="noopener" target="_blank">HERE</a>!</p>
 <h4>Congratulations to our Alumni for their outstanding achievements in post-secondary education</h4>
 <div class="isomer-image-wrapper">
