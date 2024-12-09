@@ -33,16 +33,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: End-of-Year Examination Timetable (2024)
-          date: 26 August 2024
-          announcement: Click on the link below to view and download the End-of-Year
-            Examination Timetable
-          link_text: Click Here
-          link_url: /information/students/assessment-matters/
-        - title: Semester 2 Schedule for Assessments
-          date: 27 June 2024
-          announcement: Click on the link below to view and download the Semester 2
-            Schedule for Assessment
-          link_text: Click Here
-          link_url: /information/students/assessment-matters/
+        - title: GCE N(A) & N(T) Examination Results 2024
+          date: 09 December 2024
+          announcement: Click the link below to view the announcement details for the
+            results.
+          link_text: Details here!
+          link_url: information/students/release-of-gce-nant-results-2024/
 ---
