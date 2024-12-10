@@ -2,9 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Students/Release of GCE O Level Examination Results 2023.md
-      - Students/Release of GCE N(A) & N(T) Results 2024.md
       - Students/.keep
+      - Students/Release of GCE N(A) & N(T) Examination Results 2024.md
+      - Students/Release of GCE O Level Examination Results 2023.md
       - Students/Assessment Matters.md
       - Students/Book List.md
       - Students/Bookshop and Uniform Vendors.md

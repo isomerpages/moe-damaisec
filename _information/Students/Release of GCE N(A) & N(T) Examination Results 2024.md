@@ -1,5 +1,5 @@
 ---
-title: Release of GCE N(A) & N(T) Results 2024
+title: Release of GCE N(A) & N(T) Examination Results 2024
 permalink: /information/students/release-of-gce-nant-results-2024/
 variant: tiptap
 description: ""
