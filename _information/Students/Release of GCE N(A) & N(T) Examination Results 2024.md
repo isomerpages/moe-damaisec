@@ -29,4 +29,32 @@ produce the relevant documents for the school’s verification when collecting
 the results.</p>
 </li>
 </ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Resources (PDF Documents)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/N level/1__A_Guide_to_Post_Secondary_Admissions_Exercises.pdf" rel="noopener nofollow" target="_blank">A Guide to Post Secondary Admissions Exercises (PDF)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/N level/2__ite_course_booklet_2025.pdf" rel="noopener nofollow" target="_blank">ITE Course Booklet 2025 (PDF)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/N level/3__ITE_admission_and_course_information_brochure_jan_2025.pdf" rel="noopener nofollow" target="_blank">ITE Admission and Course Information Brochure - January 2025 (PDF)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
