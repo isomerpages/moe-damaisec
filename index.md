@@ -27,7 +27,7 @@ sections:
       announcement_items:
         - title: Information for 2025 Sec 1 Cohort
           date: 17 December 2024
-          announcement: Click the link below to find out more for 2025's Sec 1 Cohort
+          announcement: Click the link below to find out more for 2025 Sec 1 Cohort
           link_text: Details here.
           link_url: https://www.damaisec.moe.edu.sg/information/parents/information-for-sec-1-cohort/
         - title: GCE N(A) & N(T) Examination Results 2024
