@@ -284,7 +284,7 @@ online and what is cool amongst his/her friends.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
+<p><a href="https://www.scamshield.gov.sg/videos/" rel="noopener noreferrer nofollow" target="_blank">National Crime Prevention Council</a>
 </p>
 </li>
 <li>

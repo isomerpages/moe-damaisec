@@ -9,7 +9,7 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th><img src="/images/ul1.jpg"></th>
+<th></th>
 <th><a href="https://www.hrp.gov.sg/hrp/#/"><img src="/images/ul2.jpg"></a></th>
 <th><a href="https://rbs.avero-tech.com/"><img src="/images/ul13.jpg"></a></th>
 </tr>
@@ -20,7 +20,7 @@ variant: markdown
 </tr>
 <tr>
 <td><a href="https://www.office.com/"><img src="/images/ul7.jpg"></a></td>
-<td><img src="/images/ul8.jpg"></td>
+
 <td><a href="https://pg.moe.edu.sg/"><img src="/images/ul9.jpg"></a></td>
 </tr>
 <tr>
