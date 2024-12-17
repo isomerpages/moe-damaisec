@@ -7,7 +7,7 @@ third_nav_title: Parents
 ---
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E-Registration</strong>
 </p>
-<p>Please complete the online registration form via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssregistration2025</a> by
+<p>Please complete the online registration form via <a href="https://go.gov.sg/dssregistration2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssregistration2025</a> by
 Friday, 20 December 2024.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeals for Transfer</strong>
 </p>
@@ -20,7 +20,7 @@ Friday, 20 December 2024.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For non-medical appeals to join
-Damai Secondary School, please complete this <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssappealform2025</a> by
+Damai Secondary School, please complete this <a href="https://go.gov.sg/dssappealform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssappealform2025</a> by
 Friday, 20 December 2024, 5.00 pm.</p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ impairments), you could submit your appeal together with supporting documents</p
 <td rowspan="1" colspan="1">
 <p>i. at the General Office on Friday, 20 December 2024 between 8.30am and
 12.00 pm, or</p>
-<p>ii. Write to Mr Ng Cheng Keong, Vice-Principal, at email: <a rel="noopener noreferrer nofollow" target="_blank">Ng_Cheng_Keong@schools.gov.sg</a> by
+<p>ii. Write to Mr Ng Cheng Keong, Vice-Principal, at email: <a href="mailto:Ng_Cheng_Keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Cheng_Keong@schools.gov.sg</a> by
 9.00am, 20 December 2024.</p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ online with either home delivery or self-collection option.</p>
 <p>Online purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<p><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 <p>&nbsp;</p>
 </td>
