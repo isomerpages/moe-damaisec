@@ -21,14 +21,6 @@ sections:
           description: ""
           url: https://vle.learning.moe.edu.sg/login
       background: /images/Banner/Dmssbanner2024.gif
-  - infopic:
-      title: e-Open House 2024
-      id: infopic
-      description: Tour our e-Open House 2024!
-      button: Tour here
-      url: https://www.damaisec.moe.edu.sg/e-open-house/
-      image: /images/E Open House/eoh1.jpg
-      alt: eOpen House 2024
   - announcements:
       title: Announcements
       id: announcements
@@ -44,4 +36,12 @@ sections:
             results.
           link_text: Details here!
           link_url: information/students/release-of-gce-nant-results-2024/
+  - infopic:
+      title: e-Open House 2024
+      id: infopic
+      description: Tour our e-Open House 2024!
+      button: Tour here
+      url: https://www.damaisec.moe.edu.sg/e-open-house/
+      image: /images/E Open House/eoh1.jpg
+      alt: eOpen House 2024
 ---
