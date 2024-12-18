@@ -7,7 +7,7 @@ third_nav_title: Parents
 ---
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E-Registration</strong>
 </p>
-<p>Please complete the online registration form via <a href="https://go.gov.sg/dssregistration2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssregistration2025</a> by
+<p>Please complete the online registration form via <a href="https://go.gov.sg/dssregistrationfor2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssregistrationfor2025</a> by
 Friday, 20 December 2024.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeals for Transfer</strong>
 </p>
@@ -20,7 +20,7 @@ Friday, 20 December 2024.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For non-medical appeals to join
-Damai Secondary School, please complete this <a href="https://go.gov.sg/dssappealform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssappealform2025</a> by
+Damai Secondary School, please complete this <a href="https://go.gov.sg/dssappealformfor2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dssappealformfor2025</a> by
 Friday, 20 December 2024, 5.00 pm.</p>
 </td>
 </tr>
