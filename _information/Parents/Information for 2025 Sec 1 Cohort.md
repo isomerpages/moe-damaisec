@@ -50,12 +50,12 @@ at the higher level.</p>
 </p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For application for financial assistance,
 you may apply for MOE FAS through</p>
-<p>(i) eFAS - Go to https://go.gov.sg/moe-efas to submit the application;
-or</p>
-<p>(ii)&nbsp;Hardcopy – please click here to download the application form
-and submit the duly completed form together with the supporting documents
-as listed under Clause 11 (Pages 5 and 6 of the application form) to the
-school General Office.</p>
+<p>(i) eFAS - Go to <a href="" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a> to
+submit the application; or</p>
+<p>(ii)&nbsp;Hardcopy – please click <a href="https://www.damaisec.moe.edu.sg/information/parents/financial-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the application form and submit the duly completed form together
+with the supporting documents as listed under Clause 11 (Pages 5 and 6
+of the application form) to the school General Office.</p>
 <p>To facilitate the prompt processing, please submit your application by
 Friday, 27 December 2024.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family and child/children
