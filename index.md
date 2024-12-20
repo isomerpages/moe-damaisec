@@ -16,7 +16,7 @@ sections:
           url: /latest-news-n-events/
         - title: CALENDAR
           description: ""
-          url: files/Information/Calendar%20of%20Events/2024_School_Calendar_Damai_Sec__updated_22_Dec_2023_.pdf
+          url: /files/Information/2025_School_Calendar_Damai_Sec.pdf
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
