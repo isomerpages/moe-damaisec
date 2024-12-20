@@ -16,7 +16,7 @@ sections:
           url: /latest-news-n-events/
         - title: CALENDAR
           description: ""
-          url: files/Information/Calendar%20of%20Events/2024_School_Calendar_Damai_Sec__updated_22_Dec_2023_.pdf
+          url: /files/Information/2025_School_Calendar_Damai_Sec.pdf
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
@@ -36,12 +36,4 @@ sections:
             results.
           link_text: Details here!
           link_url: information/students/release-of-gce-nant-results-2024/
-  - infopic:
-      title: e-Open House 2024
-      id: infopic
-      description: Tour our e-Open House 2024!
-      button: Tour here
-      url: https://www.damaisec.moe.edu.sg/e-open-house/
-      image: /images/E Open House/eoh1.jpg
-      alt: eOpen House 2024
 ---
