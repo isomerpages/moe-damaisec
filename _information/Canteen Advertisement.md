@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Damai Secondary School has a vacancy for the following canteen stall <strong><u>Japanese/Korean Stall</u></strong> starting
-from <strong><u>13 January 2025</u></strong>.</p>
+from <strong><u>13 February 2025</u></strong>.</p>
 <p><strong><u>Requirements</u></strong>
 </p>
 <p>Interested applicants must satisfy the following requirements:</p>
@@ -45,14 +45,14 @@ course completion</p>
 <p>Interested applicants may download the application form (as attached)
 or obtain a hardcopy from the school’s General Office (Monday to Friday
 – 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
-the hardcopy form, please do so from <strong><u>now to 18 December 2024</u></strong>.
+the hardcopy form, please do so from <strong><u>now to 17 January 2025</u></strong>.
 &nbsp;</p>
 <p><strong>School’s Address:</strong>
 </p>
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
-<p>Please submit the following to the General Office by <strong><u>20 December 2024 (Friday) by 4.00pm</u></strong>
+<p>Please submit the following to the General Office by <strong><u>20 January 2025 (Friday) by 4.00pm</u></strong>
 </p>
 <p>a. Completed application form;</p>
 <p>b. Supporting documents</p>
@@ -65,10 +65,10 @@ Basic Food Hygiene Course); and</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant(s) are expected to commerce operation of the stall
-by <strong><u>13 January 2025 (Monday).</u></strong>
+by <strong><u>13 February 2025 (Thursday).</u></strong>
 </p>
 <p><strong><u>Enquiries</u></strong>
 </p>
 <p>Please contact <u>Mdm Hasimah</u> (CSO) or Ms <u>Cynthia Soh</u> (Administration
 Manager) at <strong>6443 6848</strong> for clarifications.</p>
-<p>Thank you.3</p>
+<p>Thank you.</p>
