@@ -13,5 +13,4 @@ variant: markdown
 |[Mr Teo Shu De](mailto:teo_shu_de@schools.gov.sg)|SH/Discipline
 |[Mrs Clara Chng Xuehui](mailto:ong_xuehui_clara@schools.gov.sg)|Teacher
 |[Ms Deneshwari D/O Thurairaja Singam](mailto:deneshwari_thurairaja_singam@schools.gov.sg)|Teacher|
-[Mdm Magdalene Chan](mailto:magdalene_chan_may_er@schools.gov.sg)|Teacher|
 [Mr Nicholas Ong Yew Hui](mailto:Nicholas_Ong_Yew_Hui_A@schools.gov.sg)|Teacher||
