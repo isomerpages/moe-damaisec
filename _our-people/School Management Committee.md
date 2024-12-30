@@ -227,10 +227,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:neo_hui_jun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Hui Jun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SSD</p>
 </td>
 </tr>
 </tbody>
