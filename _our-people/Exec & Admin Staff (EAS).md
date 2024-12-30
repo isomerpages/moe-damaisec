@@ -54,14 +54,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_loo_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Yeo Loo Eng</a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSO&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nur_amira_mohamed_hanaffi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Amira Binte Mohd Hanaffi</a>
 </p>
 </td>
