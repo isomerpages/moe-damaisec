@@ -12,9 +12,8 @@ variant: markdown
 |[Mdm Chua Suay Hong](mailto:nur_sahira_ramlee@schools.gov.sg)|MT/CL
 |[Mrs Yiow Yee Ling](mailto:yap_yee_ling@schools.gov.sg)|ST/CL
 |[Ms Andrea Wong Jie Yi](mailto:wong_jie_yi_andrea@schools.gov.sg)|Teacher
-|[Ms Mary Goh Hwee Ling](mailto:goh_hwee_ling_mary@schools.gov.sg)|Teacher
-|[Mdm Noorhafizah Bte Syed Yusof Shah](mailto:noorhafizah_syed_yusof_sha@schools.gov.sg)|Teacher
-|[Miss Nurmin Bte Ahmad](mailto:nurmin_ahmad@schools.gov.sg)|Teacher
+|[Mdm Mary Goh Hwee Ling](mailto:goh_hwee_ling_mary@schools.gov.sg)|Teacher
+|[Ms Nurmin Bte Ahmad](mailto:nurmin_ahmad@schools.gov.sg)|Teacher
 |[Mdm Nurul Ain Bte Abdul Sukor](mailto:nurul_ain_ab_sukor@schools.gov.sg)|Teacher
 |[Miss Tay Ee Teng](mailto:tay_ee_teng@schools.gov.sg)|Teacher
 |[Mr Goh Hong Fei](mailto:goh_hong_fei@schools.gov.sg)|Teacher
