@@ -9,7 +9,6 @@ variant: markdown
 | -------- | -------- | 
 |[Mdm Soraya Suleiman](mailto:soraya_suleiman@schools.gov.sg)|HOD/C&T
 |[Miss Evangeline Anne Lim Shyan Ying](mailto:Evangeline_Anne_Lim_Shyan@schools.gov.sg)|Teacher
-|[Ms Liyana Athirah Bte Zainal Abidin](mailto:liyana_athirah_zainal_abidin@schools.gov.sg)|Teacher
 |[Mdm Siti Hawa Bte Shaini](mailto:siti_hawa_shaini@schools.gov.sg)|Teacher
 |[Miss Sng Gek Hoon](mailto:sng_gek_hoon@schools.gov.sg)|Teacher
 |[Mdm Tan Boon Siew](mailto:tan_boon_siew@schools.gov.sg)|Teacher
