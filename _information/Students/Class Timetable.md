@@ -11,4 +11,4 @@ The Class Timetable for 2025 Semester 1 is available for download.
 
 Click on the link below to download the timetable. 
 
-[2025 Semester 1 Timetable (Classes)](/files/2024/Timetable/2024_Sem_2_Timetable_v5k___Classes.pdf)
+[2025 Semester 1 Timetable (Classes)](/files/Information/2025_Sem_1_Timetable_v6c___Classes.pdf)
