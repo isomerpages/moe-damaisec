@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: GCE O Examination Results 2024
+          date: 06 January 2025
+          announcement: Click the link below to view the announcement details for the
+            results.
+          link_text: Details here!
+          link_url: /information/students/release-of-o-level-results/
         - title: Information for 2025 Sec 1 Cohort
           date: 17 December 2024
           announcement: Click the link below to find out more for 2025 Sec 1 Cohort
