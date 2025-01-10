@@ -28,3 +28,80 @@ results from the school. Students who are unwell should seek medical attention
 and not return to school to collect their results but appoint a proxy.
 Proxies are required to produce the relevant documents for the school’s
 verification when collecting the results.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Resources for Students</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2024/O level/2024_O_Level_Result_Briefing_Slides_for_Students_10_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 O-Level Result Briefing Slides for Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/1__A_Guide_to_Post_Secondary_Admissions_Exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">1. A Guide to Post-Secondary Admissions Exercises</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/2__2025_JAE_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2a. 2025 JAE Information Sheet</a>
+</p>
+<p></p>
+<p><a href="/files/2024/O level/2__jae_2025_intake_application_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2b. jae-2025-intake-application-schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/3__JAE_Sample_Form_A.pdf" rel="noopener noreferrer nofollow" target="_blank">3. JAE Sample Form A</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/4__2025_JAE_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">4. 2025 JAE Courses</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/5__2025_JAE_worksheet.pdf" rel="noopener noreferrer nofollow" target="_blank">5. 2025 JAE worksheet</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/6__Guide_To_JAE_Internet_System.pdf" rel="noopener noreferrer nofollow" target="_blank">6. Guide To JAE Internet System</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/7__O_Level_Managing_Emotionally.pdf" rel="noopener noreferrer nofollow" target="_blank">7. O Level Managing Emotionally</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/8__Whats_Next_After_O_Level_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">8. Whats Next After O Level Brochure</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/O level/9__2025_Making_th_Right_Choices_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">9. 2025 Making the Right Choices Factsheet</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
