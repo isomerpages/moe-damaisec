@@ -43,8 +43,7 @@ families);</p>
 decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.</p>
-<p>
+Casual sex can harm and hurt you and your loved ones.
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 </li>
@@ -387,9 +386,8 @@ both offline and online</p>
 </table>
 <p><strong>Secondary 3</strong>
 </p>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -417,14 +415,8 @@ both offline and online</p>
 <br>
 <br>(e.g.Term 1 Week 2)</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p></p>
-</td>
 <td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
@@ -451,16 +443,12 @@ and how we interact with others and the choices we make, both online and
 offline</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
-that expectations of oneself and others may differ and can affect one’s
-emotions, thoughts and behaviours</p>
+<p>understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
 </li>
 <li>
 <p>recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship</p>
-</li>
-<li>
-<p>&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -491,14 +479,12 @@ and that family and friends are important pillars of support.</p>
 and changes and challenges</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-a decision to end a relationship will have consequences on oneself and
-others</p>
+<p>know that a decision to end a relationship will have consequences on oneself
+and others</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
-grief and loss due to rejections and broken relationships is normal and
-one can recover from the experience</p>
+<p>know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
 </li>
 <li>
 <p>know there are healthy ways of coping with broken relationships, and family
@@ -575,7 +561,6 @@ alignment with our beliefs</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time Period
-<br>
 <br>(e.g.Term 1 Week 2)</p>
 </th>
 </tr>
@@ -759,7 +744,6 @@ Abstinence and upholding family values are the key messages.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time Period
-<br>
 <br>(e.g. Term 3 Week 9)</p>
 </th>
 </tr>
