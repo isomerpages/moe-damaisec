@@ -807,7 +807,7 @@ The completed form is to be submitted by 31/01/2025.</p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Information/Parents/Annex_B_eTeens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;The
-completed form is to be submitted by 31/01/2025.</p>
+completed form is to be submitted by 07/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">damai_ss@moe.edu.sg</a> for
