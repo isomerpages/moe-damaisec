@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Semester 1 Schedule for Assessments
+          date: 21 January 2025
+          announcement: Click the link below to view and download the Semester 1 Schedule
+            for Assessments
+          link_text: Semester 1 Schedule for Assessments
+          link_url: /information/students/assessment-matters/
         - title: GCE O Examination Results 2024
           date: 06 January 2025
           announcement: Click the link below to view the announcement details for the
