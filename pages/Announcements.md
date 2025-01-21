@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Semester 1 Schedule of Assessments</strong>
+</p>
+<p>Click <a href="/information/students/assessment-matters/" rel="noopener nofollow" target="_blank">here</a> to
+view the announcement details for Semester 1 Schedule of Assessments.</p>
 <p><strong>Release of GCE O Level Examiniations Results 2024</strong>
 </p>
 <p>Click <a href="/information/students/release-of-o-level-results/" rel="noopener nofollow" target="_blank">here</a> to
