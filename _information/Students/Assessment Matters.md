@@ -5,103 +5,23 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p><strong>2024 End of Year Examination Timetable</strong>
+<p><strong>2025 Schedule of Weighted/Non-Weighted Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024/Sec_1_EOY_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Year Examination Timetable - Sec 1</a>
+<p><a href="/files/Information/Students/Assessment/2025sem1_schedule_of_weighted_assessments__sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Sec_2_EOY_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Year Examination Timetable - Sec 2</a>
+<p><a href="/files/Information/Students/Assessment/2025sem1_schedule_of_weighted_assessments__sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_EOY_Exam_Timetable_Sec_3__updated_on_13_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Year Examination Timetable - Sec 3 (Updated 13 Sep '24)</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Scheme of Assessment (Semester 2)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 1</a>
+<p><a href="/files/Information/Students/Assessment/2025sem1_schedule_of_weighted_assessments__sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 3)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024/Scheme_of_Assessment_2024S2__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Scheme of Assessment - Sec 3</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Schedule of Weighted Assessment (Semester 2)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/PG/Schedule_of_Weighted_Assessment_3__Sec_1_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 1 to Sec 3)</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Sec 4 &amp; 5 Preliminary Examination Timetable</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/2024_4E5NA_Preliminary_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 4E5NA Preliminary Exam Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_4N_A__Preliminary_Exam_Timetable__updated_on_25_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 4N(A) Preliminary Exam Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024/2024_4N_T__Preliminary_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 4N(T) Preliminary Exam Timetable</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Scheme of Assessment (Semester 1)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment - Sec 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment - Sec 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment - Sec 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Our%20Curriculum/Academic%20Programmes/Scheme_of_Assessment_2024__Sec_4_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment - Sec 4/5</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Schedule of Weighted Assessment (Semester 1)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024/Schedule_of_Weighted_Assessments__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment - Sec 3</a>
-</p>
-</li>
-</ul>
-<p><strong>2024 Schedule of Non-Weighted Assessment (Semester 1)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/Schedule_of_Non_Weighted_Assessments__Sec_4_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Non-Weighted Assessment - Sec 4/5</a>
+<p><a href="/files/Information/Students/Assessment/2025sem1_schedule_of_non_weighted_assessments__sec_4_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Non-Weighted Assessment (Sec 4/5)</a>
 </p>
 </li>
 </ul>
