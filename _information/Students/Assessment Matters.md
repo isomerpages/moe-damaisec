@@ -25,6 +25,46 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong><u>Scheme of Assessment (Term 1)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA1__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA1 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA1__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA1 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA1__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA1 [Sec 3]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_NWA1__Sec_4_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment&nbsp;NWA1 [Sec 4&amp;5]</a>
+</p>
+</li>
+</ul>
+<p><strong><u>Scheme of Assessment (Term 2)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA2__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA2 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA2__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA2 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA2__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA2 [Sec 3]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_NWA2__Sec_4_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment NWA2 [Sec 4&amp;5]</a>
+</p>
+</li>
+</ul>
 <p><strong>PHILOSOPHY</strong>
 <br>Effective and meaningful assessments are essential elements that support
 students in acquiring the skills and competencies necessary to lead a purposeful
