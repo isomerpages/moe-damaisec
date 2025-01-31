@@ -1,6 +1,6 @@
 ---
-title: CCA Weekly Schedule 2024
-permalink: /our-curriculum/co-curricular-activities-cca/cca-weekly-schedule-2024/
+title: CCA Weekly Schedule
+permalink: /our-curriculum/co-curricular-activities-cca/cca-weekly-schedule/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
