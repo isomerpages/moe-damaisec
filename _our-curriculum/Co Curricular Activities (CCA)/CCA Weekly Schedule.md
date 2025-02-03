@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <p><strong>Sports &amp; Games</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,19 +33,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Ms Dolly Khoo (IC)</p>
-<p>Mr Coleman Tong</p>
-<p>Mdm Katijah Bte Juni</p>
-<p>Mdm Rohasliza
-<br>
-<br>Instructor: Ms Shona Chan Wai Kay</p>
+</li>
+<li>
+<p>Mr Nicholas Ong</p>
+</li>
+<li>
+<p>Mr Jonathan Ong</p>
+</li>
+<li>
+<p>Ms Katijah</p>
+</li>
+<li>
+<p>Instructor: Ms Shona Chan Wai Kay</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
-<br>3.15 - 6pm
-<br>Bedok Reservoir
-<br>
-<br><u>Thursday</u> 
+<p><u>Monday/Thursday</u>
 <br>3.15 - 6pm
 <br>Bedok Reservoir
 <br>
@@ -54,22 +66,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Te Chee Hui (i/c)
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Te Chee Hui (IC)
 <br>Mr Tan Jun Ming</p>
-<p>Mr Zhu Liang</p>
-<p>Mr Lin Jiehui
+</li>
+<li>
+<p>Mr Sidek
 <br>
 <br>Instructor: Mr Faris Siddek
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday </u>
-<br>3 - 6pm
-<br>Bedok Reservoir
-<br>
-<br><u>Thursday</u> 
+<p><u>Tuesday/Thursday</u>
 <br>3 - 6pm
 <br>Bedok Reservoir</p>
 </td>
@@ -79,29 +92,31 @@ variant: tiptap
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Alvina Chua (i/c)
-<br>Miss Zubaidah
-<br>Ms Andrea Wong</p>
-<p>Ms Afza
-<br>
-<br>Instructor: Ms Batrisyia binte Mohammed Fadzil
-<br>
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Andrea Wong (IC)</p>
+</li>
+<li>
+<p>Ms Afza</p>
+<p></p>
+<p>Instructors:</p>
+</li>
+<li>
+<p>Ms Neo Ah Geok</p>
+</li>
+<li>
+<p>Miss Ariel Annalia Pereira Loh Jing Wen</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
+<p><u>Monday/Thursday</u>
 <br>3 - 6pm
 <br>ISH
 <br>
-<br><u>Tuesday</u> 
+<br><u>Tuesday-Wednesday</u>
 <br>3 - 6pm (Peak Season, depending on availability of coach)
 <br>ISH</p>
-<p></p>
-<p><u>Thursday</u>
-</p>
-<p>3 - 6PM</p>
-<p>ISH</p>
 </td>
 </tr>
 <tr>
@@ -109,36 +124,42 @@ variant: tiptap
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Viknesh (i/c)
 <br>Mr Chen Jingyang
-<br>Mr Ray Ong
-<br>
-<br>
-<br>Instructor: Mr Jean-Luc Joel Armaggeddon Schultz Tan
+<br>Mr Salahudeen</p>
+<p>Instructor:</p>
+</li>
+<li>
+<p>Mr Jean-Luc Joel Armaggeddon Schultz Tan
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday </u>
+<p><u>Monday/Thursday</u>
 <br>3 - 6pm
 <br>School Field</p>
 <p></p>
-<p><u>Wednesday</u>
+<p><u>Wednesday (Peak Season)</u>
 </p>
-<p>3 - 6pm (Peak Season)</p>
-<p>School Field
-<br>
-<br><u>Thursday</u> 
-<br>3 - 6pm
-<br>School Field</p>
+<p>3 - 6pm</p>
+<p>School Field</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Performing Arts</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,19 +178,25 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Evangeline Lim (i/c)
-<br>Ms Goh Hwee Ling Mary
-<br>
-<br>Instructor: Mr Shaun Jarrod Tan
+<ul data-tight="true" class="tight">
+<li>
+<p>Miss Evangeline Lim (i/c)</p>
+</li>
+<li>
+<p>Ms Goh Hwee Ling Mary
 <br>
 </p>
+<p>Instructor:</p>
+</li>
+<li>
+<p>Mr Shaun Jarrod Tan
+<br>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
-<br>3 - 6pm
-<br>AVT
-<br>
-<br><u>Thursday</u> 
+<p><u>Monday/Thursday</u>
 <br>3 - 6pm
 <br>AVT</p>
 </td>
@@ -179,12 +206,20 @@ variant: tiptap
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Ms Deneshwari (IC)</p>
-<p>Miss Wirda
-<br>
-<br>Instructor: Ms Chua Hui Ling Regina
+</li>
+<li>
+<p>Miss Wirda</p>
+<p>Instructor:</p>
+</li>
+<li>
+<p>Ms Chua Hui Ling Regina
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Thursday</u> 
@@ -197,17 +232,24 @@ variant: tiptap
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mrs Yiow Yee Ling (IC)</p>
-<p>Ms Michelle Chin
-<br>
-<br>Instructor: Ms Yeo Bee Loon</p>
+</li>
+<li>
+<p>Ms Jasmine Pang</p>
+<p>Instructor:</p>
+</li>
+<li>
+<p>Ms Yeo Bee Loon</p>
+</li>
+<li>
+<p>Ms MAEKAELA JAHNE CARY STO DOMINGO SORVIDA</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
-<br>3 - 6pm
-<br>School Hall
-<br>
-<br><u>Thursday</u> 
+<p><u>Monday/Thursday</u> 
 <br>3 - 6pm
 <br>School Hall</p>
 </td>
@@ -217,19 +259,23 @@ variant: tiptap
 <p>Guzheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marilyn Foo (i/c)
-<br>Ms Sng Gek Hoon
-<br>
-<br>Instructor: Mdm Peng Fang
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Marilyn Foo (IC)</p>
+</li>
+<li>
+<p>Ms Sng Gek Hoon</p>
+<p>Instructor:</p>
+</li>
+<li>
+<p>Mr Lim Zhongping
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
-<br>3 - 6pm
-<br>Geog / Humanities Room
-<br>
-<br><u>Thursday</u> 
+<p><u>Monday/Thursday</u>
 <br>3 - 6pm
 <br>Geog / Humanities Room</p>
 </td>
@@ -239,20 +285,19 @@ variant: tiptap
 <p>Ethnic Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorhafizah (i/c)
-<br>Ms Rahmayani
-<br>
-<br>
-<br>Instructor: Mr Muhammad Azhar Bin Ismail</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Rahmayani (IC)</p>
+</li>
+<li>
+<p>Mdm Sahira</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
+<p><u>Monday/Thursday</u>
 <br>3 - 6pm
-<br>School Hall
-<br>
-<br><u>Thursday</u> 
-<br>3 - 6pm
-<br>School Hall</p>
+<br>School Hall (at the back)</p>
 </td>
 </tr>
 <tr>
@@ -260,22 +305,46 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Ho (IC)
-<br>Mdm Chan Siew Lei</p>
-<p>Mr Sidek</p>
-<p>Mr Salahudeen</p>
-<p>Mdm Nurul Ain
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Alvin Ho (IC)</p>
+</li>
+<li>
+<p>Mdm Nurul Ain</p>
+</li>
+<li>
+<p>Miss Nooraini Bte Othman</p>
+</li>
+<li>
+<p>Ms Rohasliza
 <br>
-<br>
-<br>Instructor:
-<br>Mr Ho Chun Seng Laurel
-<br>Mr Ong Yeow Tong
-<br>Mr Teo Kin Hui Joseph
-<br>Mr Ariya Sakunthongdee
-<br>Mr Muhammad Danish Bin Yusri
-<br>
-<br>
-</p>
+<br>Instructor:</p>
+</li>
+<li>
+<p>Mr Ho Chun Seng Laurel</p>
+</li>
+<li>
+<p>Mr Lee Chee Yong Brian</p>
+</li>
+<li>
+<p>Mr Tan Pei Jie Michael</p>
+</li>
+<li>
+<p>Ms Alyssa Yam Khai Zhee</p>
+</li>
+<li>
+<p>Mr Giuseppe Di Prisco</p>
+</li>
+<li>
+<p>Mr Kenneth Lim Jun De</p>
+</li>
+<li>
+<p>Ms Ashlyn Hor</p>
+</li>
+<li>
+<p>Ms Adeline Cheah Zhi Xuan</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Monday</u> 
@@ -293,7 +362,12 @@ variant: tiptap
 </table>
 <p><strong>Uniformed Groups</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -312,16 +386,25 @@ variant: tiptap
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurmin Ahmad (i/c)
-<br>Ms Tan Chwee Kim</p>
-<p>Ms Jasmine Pang</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Nurmin (IC)</p>
+</li>
+<li>
+<p>Ms Tan Chwee Kim</p>
+</li>
+<li>
+<p>Ms Michelle Chin</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Monday</u> 
-<br>3 - 4pm <strong>(All)</strong> 
-<br>4 - 430pm <strong>(Sec 3 &amp; 4 Exco Planning)</strong> 
+<br>3 - 415pm <strong>(All)</strong> 
+<br>415 - 445pm <strong>(Sec 3 &amp; 4 Exco Planning)</strong> 
 <br>3 - 4.30pm <strong>(All Cadets - for HQ Adhoc/Make Up session)</strong> 
-<br>E1-1 Classroom/Girl Guides Bench
+<br>E1-2</p>
+<p>Classroom/Girl Guides Bench
 <br>
 <br><u>Thursday</u> 
 <br>3.15 - 6pm (All)
@@ -333,14 +416,20 @@ variant: tiptap
 <p>NCC (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Christopher Hoan (IC)</p>
-<p>Mr Kang Zhi Qiang</p>
-<p>Mr Amir</p>
+</li>
+<li>
 <p>Mr Goh Hong Fei</p>
-<p>Mr Nicholas Ong
-<br>
-<br>
-</p>
+</li>
+<li>
+<p>Mr Ray Ong</p>
+</li>
+<li>
+<p>Mr Lin Jiehui</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Thursday</u> 
@@ -353,18 +442,52 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Ee Teng (IC)
-<br>Ms See Pei Zhen
-<br>Mr Teo Shu De
-<br>Mr Tan Wei Zhi</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Tay Ee Teng (IC)</p>
+</li>
+<li>
+<p>Ms See Pei Zhen</p>
+</li>
+<li>
+<p>Mr Teo Shu De</p>
+</li>
+<li>
+<p>Mr Tan Wei Zhi</p>
+<p>Instructors:</p>
+</li>
+<li>
+<p>Mr Goh Yen Long</p>
+</li>
+<li>
+<p>Ms Leong Renee</p>
+</li>
+<li>
+<p>Ms Foo Fang Yi</p>
+</li>
+<li>
+<p>Mr Javin Tan Wee Yong</p>
+</li>
+<li>
+<p>Mr Goh Wei Xiang Darren</p>
+</li>
+<li>
+<p>Mr Mohammed Arham Ali</p>
+</li>
+<li>
+<p>Mr Muhammad Raihan Bin Abdul Rahman</p>
+</li>
+<li>
+<p>Mr Achintya Prawesh</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Monday</u> 
+<p><u>Monday</u> (Upper Secondary)
 <br>3 - 5.30pm
 <br>D1-3, 104 and 105 Classroom
 <br>
-<br>
-<br><u>Thursday</u> 
+<br><u>Thursday</u> (All)
 <br>3 - 6pm
 <br>D1-3, 104 and 105 Classroom
 <br>
@@ -378,7 +501,12 @@ variant: tiptap
 </table>
 <p><strong>Clubs &amp; societies</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -399,15 +527,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hawa (IC)</p>
-<p>Ms Michelle Lim
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Michelle Lim (IC)</p>
+</li>
+<li>
+<p>Mdm Siti Hawa</p>
+</li>
+<li>
+<p>Ms Bernice Lau (FAJT Art)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Thursday</u> 
 <br>3 - 6pm
-<br>Art Room 2</p>
+<br>Art Room 1</p>
 </td>
 </tr>
 <tr>
@@ -417,10 +552,27 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Hui Cheng (i/c)</p>
-<p>Mr Leroy Lee
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Leroy Lee (IC)</p>
+</li>
+<li>
+<p>Mdm Anisa Bte Ali</p>
+<p>Instructors:</p>
+</li>
+<li>
+<p>Mr Vincent Lee Hoe Meng (Term 1)</p>
+</li>
+<li>
+<p>Mr Wong Khin Loong, Alan (Term 1 Backup)</p>
+</li>
+<li>
+<p>Mr Jau Teng Xi, Ray (Term 1 Backup)</p>
+</li>
+<li>
+<p>Mr Chan De Qi (Term 2)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Thursday</u> 
