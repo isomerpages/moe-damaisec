@@ -49,8 +49,11 @@ after-school hours.</p>
 <p>Please refer to&nbsp;<a href="/files/Our Curriculum/Digital Literacy/Annex_B_MOE_DMA_After_School_Hours_Settings_for_iPad_PLDs.pdf" rel="noopener nofollow" target="_blank">Annex B</a>&nbsp;for
 details of these after-school options.</p>
 <p>Parents/guardians can request to change your choice of DMA settings at
-any time through the same link. However, please note that changes to the
-DMA after-school options will only take effect at the end of every month.</p>
+any time through the following link:</p>
+<p><a href="https://for.edu.sg/dss-dma" rel="noopener nofollow" target="_blank">Change of After-School DMA Settings</a>
+</p>
+<p>However, please note that changes to the DMA after-school options will
+only take effect at the end of every month.</p>
 <p>For further enquiries, please contact the HOD/ICT Mrs Lee Pei Kee at&nbsp;
 <a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">chin_pei_kee@schools.gov.sg</a>.&nbsp;</p>
 <p><strong>DMA Parents Guide (updated Jan 2025)</strong>
