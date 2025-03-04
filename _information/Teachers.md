@@ -20,8 +20,8 @@ variant: markdown
 </tr>
 <tr>
 <td><a href="https://www.office.com/"><img src="/images/ul7.jpg"></a></td>
-
 <td><a href="https://pg.moe.edu.sg/"><img src="/images/ul9.jpg"></a></td>
+<td><a href="https://www.opal2.moe.edu.sg/"><img src="/images/opal2.jpg"></a></td>
 </tr>
 <tr>
 <td><a href="https://schoolcockpit.moe.gov.sg/"><img src="/images/ul10.jpg"></a></td>
