@@ -70,7 +70,7 @@ variant: tiptap
 <p>8.30 am - 11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students - Amirah, Maiya</p>
+<p>Selected students&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soraya</p>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>8.30 am - 5.30&nbsp; pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected - 402 Aiden Ong, 402 Lin Jiayi, 402 Lu Sizheng, 402 Joye Poh</p>
+<p>Selected&nbsp; students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Justin</p>
@@ -122,8 +122,7 @@ variant: tiptap
 <p>8.30 am - 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected - 402 Zhong Kunhan. 402 Shannon Lim Yichen, 401, Caitlin Faith,
-302 Xu Jiaji, 302 Hua Xiaxin, 302 Ryo</p>
+<p>Selected&nbsp; students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Justin</p>
