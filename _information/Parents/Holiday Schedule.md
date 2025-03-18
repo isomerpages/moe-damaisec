@@ -70,7 +70,7 @@ variant: tiptap
 <p>8.30 am - 11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students - Amirah, Maiya</p>
+<p>Selected students&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soraya</p>
@@ -96,10 +96,10 @@ variant: tiptap
 <p>8.30 am - 5.30&nbsp; pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected - 402 Aiden Ong, 402 Lin Jiayi, 402 Lu Sizheng, 402 Joye Poh</p>
+<p>Selected&nbsp; students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Justin</p>
+<p>Justin Thong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>
@@ -122,11 +122,10 @@ variant: tiptap
 <p>8.30 am - 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected - 402 Zhong Kunhan. 402 Shannon Lim Yichen, 401, Caitlin Faith,
-302 Xu Jiaji, 302 Hua Xiaxin, 302 Ryo</p>
+<p>Selected&nbsp; students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Justin</p>
+<p>Justin Thong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17- 18 March - Victoria Junior College
@@ -195,7 +194,7 @@ variant: tiptap
 <p>15-17/3/ 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday - Monday</p>
+<p>Saturday - Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canoeing</p>
@@ -210,10 +209,10 @@ variant: tiptap
 <p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dolly/Nicholas</p>
+<p>Dolly Khoo&nbsp; / Nicholas Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>MacRitchie Reservoir</p>
 </td>
 </tr>
 <tr>
@@ -268,10 +267,10 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurul / Nooraini</p>
+<p>Nurul Ain / Nooraini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rm / Band Rm / Class Rm</p>
+<p>Music Room / Band Room / Classroom</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +296,7 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marilyn</p>
+<p>Marilyn Foo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -329,7 +328,7 @@ variant: tiptap
 <p>Tay Ee Teng, Tan Wei Zhi, Teo Shu De</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>D1-1, D1-2, D1-3, Atrium, Parade Square</p>
 </td>
 </tr>
 <tr>
@@ -355,10 +354,10 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alvin / Liza</p>
+<p>&nbsp;Alvin Ho&nbsp; / Rohasliza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rm / Band Rm / Class Rm</p>
+<p>Music Room / Band Room / Classroom</p>
 </td>
 </tr>
 <tr>
@@ -413,7 +412,7 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sng</p>
+<p>&nbsp;Sng Gek Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Harmony Room / Synergy Room</p>
@@ -500,10 +499,10 @@ variant: tiptap
 <p>Sec 1 to 3 students; Sec 4 EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christopher / Hong Fei / Jiehui / Ray</p>
+<p>Christopher Hoan / Goh Hong Fei / Lim Jiehui / Ray Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Classroom, Hall, ISH and School Field.</p>
 </td>
 </tr>
 <tr>
@@ -529,7 +528,7 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sng</p>
+<p>Sng Gek Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -587,10 +586,10 @@ variant: tiptap
 <p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dolly/Nicholas</p>
+<p>Dolly Khoo / Nicholas Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Bedok Reservoir</p>
 </td>
 </tr>
 <tr>
@@ -616,10 +615,10 @@ variant: tiptap
 <p>Selected students participating in SYF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurul / Nooraini</p>
+<p>Nurul&nbsp; Ain / Nooraini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rm / Band Rm / Class Rm</p>
+<p>Music Room / Band Room / Classroom</p>
 </td>
 </tr>
 </tbody>
