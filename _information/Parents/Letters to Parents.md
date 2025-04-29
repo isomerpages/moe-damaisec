@@ -9,6 +9,7 @@ variant: markdown
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
+|[2025 MOE-OBS Parents Briefing Slides](/files/information/parents/2__2025_DMS_MOE_OBS_Parents_Briefing_Slides__2025_MOC__28th_April.pdf)|29 Apr 2025|All|
 |[Registration for Modular French/German (Module 1 only) for Term 2, 2025 is now open](/files/PG/2025/02052025_Registration_for_Modular_FrenchGerman__Module_1_only__for_Term_2.pdf)|05 Feb 2025|All|
 |[2025 Sec 1 CCA Allocation Results](/files/PG/2025/020325_2025_Sec_1_CCA_Allocation_Results.pdf)|03 Feb 2025|Sec 1|
 |[Schedule and Scheme of Assessment (Semester 1)](/files/PG/2025/013125_Schedule_and_Scheme_of_Assessment__Semester_1_.pdf)|31 Jan 2025|All|
