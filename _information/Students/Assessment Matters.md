@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p><strong>Preliminary Examination Timetable</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/2025S2_4E5N_A__Preliminary_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 4E5NA Preliminary Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/2025S2_4N_A__Preliminary_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 4N(A) Preliminary Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/2025S2_4N_T__Preliminary_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 4N(T) Preliminary Exam Timetable</a>
+</p>
+</li>
+</ul>
 <p><strong>2025 Schedule of Weighted/Non-Weighted Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
