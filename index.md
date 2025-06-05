@@ -25,27 +25,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 4 & 5 Preliminary Examination Schedule
+          date: 26 May 2025
+          announcement: Click the link below to view and download the Secondary 4 & 5
+            Preliminary Examination Schedule.
+          link_text: Secondary 4 & 5 Preliminary Examination Schedule
+          link_url: /information/students/assessment-matters/
         - title: Semester 1 Schedule for Assessments
           date: 21 January 2025
           announcement: Click the link below to view and download the Semester 1 Schedule
             for Assessments
           link_text: Semester 1 Schedule for Assessments
           link_url: /information/students/assessment-matters/
-        - title: GCE O Examination Results 2024
-          date: 06 January 2025
-          announcement: Click the link below to view the announcement details for the
-            results.
-          link_text: Details here!
-          link_url: /information/students/release-of-o-level-results/
-        - title: Information for 2025 Sec 1 Cohort
-          date: 17 December 2024
-          announcement: Click the link below to find out more for 2025 Sec 1 Cohort
-          link_text: Details here.
-          link_url: https://www.damaisec.moe.edu.sg/information/parents/information-for-sec-1-cohort/
-        - title: GCE N(A) & N(T) Examination Results 2024
-          date: 09 December 2024
-          announcement: Click the link below to view the announcement details for the
-            results.
-          link_text: Details here!
-          link_url: information/students/release-of-gce-nant-results-2024/
 ---
