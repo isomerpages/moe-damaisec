@@ -1,0 +1,14 @@
+collections:
+  2024-events:
+    output: true
+    order:
+      - French & German Ambassador's Visit.md
+      - Minister Chan Chun Sing's Visit.md
+      - Graduation Day.md
+      - Teachers' Day.md
+      - National Day.md
+      - Speech Day.md
+      - Hari Raya.md
+      - Student Leaders' Investiture.md
+      - Total Defence Day.md
+      - Chinese New Year.md

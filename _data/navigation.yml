@@ -1,0 +1,75 @@
+logo: /images/dmsslogo.svg
+links:
+  - title: Our Damai
+    url: /our-damai/principals-foreword
+    sublinks:
+      - title: Principal's Foreword
+        url: /our-damai/principals-foreword
+      - title: Vision, Mission, Value & Motto
+        url: /our-damai/vision-mission-values-n-motto
+      - title: School Crest & Song
+        url: /our-damai/school-crest-n-song
+      - title: Our Heritage
+        url: /our-damai/our-heritage
+      - title: Our Accolades
+        url: /our-damai/our-accolades/student-accolades
+  - title: Our Curriculum
+    url: /our-curriculum/academic-programmes
+    sublinks:
+      - title: Academic Programmes
+        url: /our-curriculum/academic-programmes
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability
+      - title: Student Development Programme
+        url: /our-curriculum/student-development-programme
+      - title: CCE
+        url: /our-curriculum/character-and-citizenship-education
+      - title: Co-Curricular Activities (CCA)
+        url: /our-curriculum/co-curricular-activities-cca
+      - title: Learning for Life Programme
+        url: /our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports
+      - title: NDLP
+        url: /our-curriculum/national-digital-literacy-programme
+  - title: Our People
+    url: /our-people/school-management-committee
+    sublinks:
+      - title: School Management Committee
+        url: /our-people/school-management-committee
+      - title: Departments
+        url: /our-people/departments/english-language-n-literature-department
+      - title: Form Teachers
+        url: /our-people/form-teachers/sec-1-form-teachers
+      - title: Counselling & Learning Support
+        url: /our-people/counselling-and-learning-support
+      - title: Exec & Admin Staff (EAS)
+        url: /our-people/exec-n-admin-staff-eas
+  - title: Our Community
+    url: /our-community/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee
+      - title: Parent Support Group
+        url: /our-community/parent-support-group
+      - title: Alumni
+        url: /our-community/alumni
+  - title: Information
+    url: /information/students/assessment-matters
+    sublinks:
+      - title: Students
+        url: /information/students/assessment-matters
+      - title: Teachers
+        url: /information/teachers/useful-links
+      - title: Parents
+        url: /information/parents/letters-to-parents
+      - title: Canteen Advertisement
+        url: /information/canteen
+      - title: News And Events
+        url: /information/news-and-events/2024
+      - title: School Calendar of Events
+        url: /information/school-calendar-of-events
+      - title: Time Table Structure
+        url: /information/time-table-structure
+      - title: Direct School Admission (DSA)
+        url: /information/direct-school-admission-dsa
+      - title: Full Subject-Based Banding
+        url: /information/full-subject-based-banding

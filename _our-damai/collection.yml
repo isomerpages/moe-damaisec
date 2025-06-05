@@ -1,0 +1,11 @@
+collections:
+  our-damai:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Vision, Mission, Values & Motto.md
+      - School Crest & Song.md
+      - Our Heritage.md
+      - Our Accolades/.keep
+      - Our Accolades/Student Accolades.md
+      - Our Accolades/Staff Accolades.md
