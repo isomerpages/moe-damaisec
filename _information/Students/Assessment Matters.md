@@ -21,6 +21,14 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>2025 Schedule of Weighted Assessment (Term 3)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/2025_Schedule_of_Weighted_Assessment_3__Sec_1_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Weighted Assessment (Sec 1-3)</a>
+</p>
+</li>
+</ul>
 <p><strong>2025 Schedule of Weighted/Non-Weighted Assessment (Semester 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
