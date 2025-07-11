@@ -13,6 +13,22 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>2025 Scheme of Weighted Assessment (Term 3)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA3__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA3 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA3__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA3 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_WA3__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA3 [Sec 3]</a>
+</p>
+</li>
+</ul>
 <p><strong>Preliminary Examination Timetable</strong>
 </p>
 <ul data-tight="true" class="tight">
