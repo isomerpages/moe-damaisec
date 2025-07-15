@@ -110,7 +110,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>107</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,6 +121,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:denise_lavinia_selvakumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lavinia Ranjan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chia_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Chia Hui</a>
 </p>
 </td>
 </tr>
