@@ -83,15 +83,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Pei Kee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:seow_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Yong</a>
 </p>
 </td>
@@ -155,15 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jing_kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Jing Kai</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:teo_shu_de@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Shu De</a>
 </p>
 </td>
@@ -187,6 +169,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dolly_khoo@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dolly Khoo Xuan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Pei Kee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Math</p>
 </td>
 </tr>
 <tr>
