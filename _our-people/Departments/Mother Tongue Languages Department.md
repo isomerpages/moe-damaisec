@@ -19,5 +19,5 @@ variant: markdown
 |[Mr Goh Hong Fei](mailto:goh_hong_fei@schools.gov.sg)|Teacher
 |[Ms Michelle Chin Jia Ee](mailto:Michelle_Chin_Jia_Ee@schools.gov.sg)|Teacher
 |[Ms Afza Fahmidah Bte Amir](mailto:Afza_Fahmidah_Amir@schools.gov.sg)|Teacher
-|[Miss Noraini Bte Othman](mailto:nooraini_othman@schools.gov.sg)|Teacher
+|[Miss Nooraini Bte Othman](mailto:nooraini_othman@schools.gov.sg)|Teacher
 ||
