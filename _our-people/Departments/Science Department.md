@@ -102,6 +102,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:Ong_Sing_Huat_Jonathan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Ong Sing Huat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Jenny Low Kar Yee</p>
 </td>
 <td rowspan="1" colspan="1">
