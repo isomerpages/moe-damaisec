@@ -30,20 +30,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Pei Kee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:loh_yan_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Loh Yan Xiang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Pei Kee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Math</p>
 </td>
 </tr>
 <tr>

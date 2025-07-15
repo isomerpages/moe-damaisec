@@ -50,7 +50,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>203</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,6 +61,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ong_Rui_Xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ong Rui Xiang Ray</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_tsu_wei_mathew@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mathew Lim Tsu Wei</a>
 </p>
 </td>
 </tr>
