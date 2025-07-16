@@ -54,8 +54,8 @@ any time through the following link:</p>
 </p>
 <p>However, please note that changes to the DMA after-school options will
 only take effect at the end of every month.</p>
-<p>For further enquiries, please contact the HOD/ICT Mrs Lee Pei Kee at&nbsp;
-<a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">chin_pei_kee@schools.gov.sg</a>.&nbsp;</p>
+<p>For further enquiries, please contact the SH/ICT Ms Dolly Khoo Xuan at&nbsp;
+<a href="mailto:dolly_khoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="">dolly_khoo@schools.gov.sg</a>.&nbsp;</p>
 <p><strong>DMA Parents Guide (updated Jan 2025)</strong>
 </p>
 <p><a href="/files/Our Curriculum/Digital Literacy/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener" target="_blank">DMA Parent Guide - Default Option</a>
