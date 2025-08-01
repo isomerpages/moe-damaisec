@@ -53,7 +53,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Monday/Thursday</u>
-<br>3.15 - 6pm
+<br>3.30 - 6pm
 <br>Bedok Reservoir
 <br>
 </p>
