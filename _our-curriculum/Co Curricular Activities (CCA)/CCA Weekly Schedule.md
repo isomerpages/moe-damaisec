@@ -35,19 +35,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Dolly Khoo (IC)</p>
+<p>Mr Nicholas Ong (IC)</p>
 </li>
 <li>
-<p>Mr Nicholas Ong</p>
+<p>Ms Chin Pei Kee</p>
 </li>
 <li>
-<p>Mr Jonathan Ong</p>
+<p>Mdm Anisa Bte Ali</p>
 </li>
 <li>
-<p>Ms Katijah</p>
-</li>
-<li>
-<p>Instructor: Ms Shona Chan Wai Kay</p>
+<p>Instructor: Coach Shona</p>
 </li>
 </ul>
 </td>
@@ -74,7 +71,7 @@ variant: tiptap
 <li>
 <p>Mr Sidek
 <br>
-<br>Instructor: Mr Faris Siddek
+<br>Instructor: Coach Faris
 <br>
 <br>
 </p>
@@ -126,13 +123,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Viknesh (i/c)
+<p>Mr Viknesh (IC)
 <br>Mr Chen Jingyang
 <br>Mr Salahudeen</p>
 <p>Instructor:</p>
 </li>
 <li>
-<p>Mr Jean-Luc Joel Armaggeddon Schultz Tan
+<p>Coach Jean-Luc Joel Armaggeddon Schultz Tan
 <br>
 <br>
 </p>
@@ -180,7 +177,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Evangeline Lim (i/c)</p>
+<p>Miss Evangeline Lim (IC)</p>
 </li>
 <li>
 <p>Ms Goh Hwee Ling Mary
@@ -212,6 +209,7 @@ variant: tiptap
 </li>
 <li>
 <p>Miss Wirda</p>
+<p></p>
 <p>Instructor:</p>
 </li>
 <li>
@@ -238,6 +236,7 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Jasmine Pang</p>
+<p></p>
 <p>Instructor:</p>
 </li>
 <li>
@@ -265,6 +264,7 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Sng Gek Hoon</p>
+<p></p>
 <p>Instructor:</p>
 </li>
 <li>
@@ -343,6 +343,12 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Adeline Cheah Zhi Xuan</p>
+</li>
+<li>
+<p>Ms Tok Zhixuan</p>
+</li>
+<li>
+<p>Ms Lim Yi Qing</p>
 </li>
 </ul>
 </td>
@@ -450,10 +456,11 @@ variant: tiptap
 <p>Ms See Pei Zhen</p>
 </li>
 <li>
-<p>Mr Teo Shu De</p>
+<p>Mr Tan Wei Zhi</p>
 </li>
 <li>
-<p>Mr Tan Wei Zhi</p>
+<p>Mr Jonathan Ong</p>
+<p></p>
 <p>Instructors:</p>
 </li>
 <li>
@@ -464,9 +471,6 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Foo Fang Yi</p>
-</li>
-<li>
-<p>Mr Javin Tan Wee Yong</p>
 </li>
 <li>
 <p>Mr Goh Wei Xiang Darren</p>
@@ -535,7 +539,10 @@ variant: tiptap
 <p>Mdm Siti Hawa</p>
 </li>
 <li>
-<p>Ms Bernice Lau (FAJT Art)</p>
+<p>Ms Tan Chia Hui</p>
+</li>
+<li>
+<p>Ms Donna Lu (UT)</p>
 </li>
 </ul>
 </td>
@@ -557,7 +564,8 @@ variant: tiptap
 <p>Mr Leroy Lee (IC)</p>
 </li>
 <li>
-<p>Mdm Anisa Bte Ali</p>
+<p>Mr Mathew Lim</p>
+<p></p>
 <p>Instructors:</p>
 </li>
 <li>
