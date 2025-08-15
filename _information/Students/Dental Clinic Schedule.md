@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p><strong><u>During School Term – January 2024 to March 2024</u></strong>
+<p><strong><u>During School Term – August 2025</u></strong>
 </p>
-<p>Please refer to the attached schedule (<a href="/files/2024/Mobile_Dental_February_24_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Dental Schedule - Feb '24</a>)
+<p>Please refer to the attached schedule (<a href="/files/Mobile_Dental_Schedule___Aug_2025.pdf" rel="noopener nofollow" target="_blank">Mobile Dental Schedule - Aug 2025</a>)
 for the opening hours of the Mobile Dental Clinic.</p>
