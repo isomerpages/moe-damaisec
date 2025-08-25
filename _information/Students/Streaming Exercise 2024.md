@@ -55,7 +55,7 @@ below:</p>
 <p>19 August, Tues</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Briefing on Subject Combinations 2025 and Subject Placement Exercise</p>
 </td>
 </tr>
 <tr>
@@ -96,33 +96,25 @@ registration via All Ears</p>
 <td rowspan="1" colspan="1">
 <p>6 November, Thurs</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Release of subject placement results via All Ears Form</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>by 3PM, 7 November, Fri</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Students to submit Appeal for change of subject combination via All Ears
+Form, if so desire</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>14 November, Fri</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Release of final list of 2026 Sec 3 Classes via All Ears Form</p>
 </td>
 </tr>
 </tbody>
@@ -165,59 +157,75 @@ will be accepted.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/S2 StreamEx/1__Guide_to_submit_subject_combination_choices.pdf" rel="noopener noreferrer nofollow" target="_blank">Submission of subject combination choices</a>
+<ol data-tight="true" class="tight">
+<li>
+<p>Submission of subject combination choices</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>between 24 October 2025, 8.00 am</strong>
+</p>
+<p><strong>to 31 October 2025, 11.59 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Between 25 October 2024, 8.00 am to 1 November 2024, 11.59 pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dss-streaming-24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dss-streaming-24</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/S2 StreamEx/2__Guide_to_view_subject_combination_offered.pdf" rel="noopener noreferrer nofollow" target="_blank">View subject combination offered and acknowledgement</a>
-</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>View subject combination</p>
+</li>
+</ol>
+<p>offered and</p>
+<p>acknowledgement</p>
+<p></p>
+<p>Appeal for change of</p>
+<p>subjects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Between 7 November 2024, 9.00 am and 8 November 2024, 3.00 pm</strong>
+<p><strong>between 6 November 2025, 9.00 am and 7 November 2025, 3.00 pm </strong>
 </p>
 <p></p>
+<p><strong>by 7 November 2025, 3.00 pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dss-streaming-2024-result" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dss-streaming-2024-result</a>
-</p>
-<p>&nbsp;</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/S2 StreamEx/3__Guide_to_appeal_for_change_of_subjects.pdf" rel="noopener noreferrer nofollow" target="_blank">Appeal for change of subjects</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>By 8 November 2024, 3.00 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/S2 StreamEx/4__Guide_to_view_2025_Secondary_3_class.pdf" rel="noopener noreferrer nofollow" target="_blank">View finalised 2025 Secondary 3 Subject Combination allocation and classes</a>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>View finalised 2026</p>
+</li>
+</ol>
+<p>Secondary 3 Subject</p>
+<p>Combination allocation</p>
+<p>and classes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>from 14 November 2025, 12 noon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>From 15 November 2024, 12 noon</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dss-streaming-24-final-results" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dss-streaming-24-final-results</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 </tbody>
