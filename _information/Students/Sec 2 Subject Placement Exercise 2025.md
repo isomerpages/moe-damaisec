@@ -134,18 +134,19 @@ and advice from our school’s ECG counsellor, Mr Edwin Khong.</p>
 detailed guides and updated information on the Streaming Exercise.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adhere to the deadlines as no late submissions
 will be accepted.</p>
-<p><strong>Detailed guides and links <em>(will only be made available from 25 October 2024 onwards)</em></strong>
+<p><strong>Detailed guides and links <em>(will only be made available from 25 October 2025 onwards)</em></strong>
 </p>
 <p>Click on the links below to access.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Link to Detailed Guides</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -157,11 +158,10 @@ will be accepted.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Submission of subject combination choices</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>between 24 October 2025, 8.00 am</strong>
@@ -175,22 +175,16 @@ will be accepted.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>View subject combination</p>
-</li>
-</ol>
-<p>offered and</p>
-<p>acknowledgement</p>
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>View subject combination offered and acknowledgement</p>
 <p></p>
-<p>Appeal for change of</p>
-<p>subjects</p>
+<p>Appeal for change of subjects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>between 6 November 2025, 9.00 am and 7 November 2025, 3.00 pm</strong>
 </p>
-<p></p>
-<p></p>
 <p><strong>by 7 November 2025, 3.00 pm</strong>
 </p>
 </td>
@@ -200,14 +194,10 @@ will be accepted.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>View finalised 2026</p>
-</li>
-</ol>
-<p>Secondary 3 Subject</p>
-<p>Combination allocation</p>
-<p>and classes</p>
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>View finalised 2026 Secondary 3 Subject Combination allocation and classes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>from 14 November 2025, 12 noon</strong>
