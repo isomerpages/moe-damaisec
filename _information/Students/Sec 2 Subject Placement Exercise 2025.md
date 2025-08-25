@@ -187,22 +187,11 @@ will be accepted.</p>
 <p>subjects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>between 6 November 2025, 9.00 am and 7 November 2025, 3.00 pm </strong>
+<p><strong>between 6 November 2025, 9.00 am and 7 November 2025, 3.00 pm</strong>
 </p>
+<p></p>
 <p></p>
 <p><strong>by 7 November 2025, 3.00 pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be updated</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>By 8 November 2024, 3.00 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
