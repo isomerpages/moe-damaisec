@@ -5,32 +5,128 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>Sec 2 Streaming Exercise 2024</h3>
+<h3>Sec 2 Subject Placement Exercise 2025</h3>
 <p><strong>PG Notice to Parent/Guardian and Annexes A</strong>
 </p>
-<p>Click <strong><a href="/files/2024/PG/08202024_Subject_Combinations_2025_and_Streaming_Exercise.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
-access the PG notice sent to parent/guardian on 20 August 2024, Annexes
+<p>Click <strong><a href="/files/Letter_to_Parent___Subject_Combination_2026_and_Subject_Placement_Exercise.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+access the PG notice sent to parent/guardian on 20 August 2025, Annexes
 A of subject combinations offered for the respective streams are shown
 below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1qgi-Vk6zUs7d3BXLIleafJDo1QND8SYC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 Exp Subject Combinations 2025.pdf</a>
+<p><a href="/files/Annex_A___Sec_3_G3_Subject_Combinations_2026.pdf" rel="noopener nofollow" target="_blank">Annex A - Sec 3 G3 Subject Combinations 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Aj5LVCOQHBRTigdbTAQWAAZ9Fa7XZK0q/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 NA Subject Combinations 2025.pdf</a>
+<p><a href="/files/Annex_A___Sec_3_G2_Subject_Combinations_2026.pdf" rel="noopener nofollow" target="_blank">Annex A - Sec 3 G2 Subject Combinations 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Vuq6tk4eWmjlyyaZQpcTlH0cR-LUwFs-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - Sec 3 NT Subject Combinations 2025.pdf</a>
+<p><a href="/files/Annex_A___Sec_3_G1_Subject_Combinations_2026.pdf" rel="noopener nofollow" target="_blank">Annex A - Sec 3 G1 Subject Combinations 2026</a>
 </p>
 </li>
 </ul>
 <p>Please refer to the table below for the timelines with regard to the Sec
-2 Streaming Exercise:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="StreamingExercise2024" src="/images/streaming_exercise_2024.png">
-</div>
+2 Subject Placement Exercise:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Schedule of Subject Placement Exercise 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 August, Tues</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 August, Wed</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PG Notice sent to Parents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 October, Wed</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Online registration Step-by-step Guide published on School Website</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 October, Fri</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Online registration</strong> opens - students to submit online
+registration via All Ears</p>
+<p>Form from 0800h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 October, Fri</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Online registration </strong>closes at 2359h</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 November, Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>by 3PM, 7 November, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 November, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Note to students:</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consult your parents, teachers and/or
