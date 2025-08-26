@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+#### Semester 1
+
+| **Letter/PG Notification** | **Date** | **For** |
+| -------- | -------- | -------- |
+|[2025 Sec 4 & 5 Preliminary Examination](/files/Information/Students/Assessment/2025S2_Sec_4___5_Preliminary_Examination.pdf)|26 May 2025|Sec 4&5|
+
 #### Semester 2
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
