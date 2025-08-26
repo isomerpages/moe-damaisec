@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-#### Semester 1 (Term 1)
+#### Semester 2
+| **Letter/PG Notification** | **Date** | **For** |
+| -------- | -------- | -------- |
+|[2025 Sec 1-3 End-of-Year Examination](/files/Information/Students/Assessment/Sec_1_3_End_of_Year_Examination.pdf)|26 August 2025|Sec 1-3|
+
+#### Semester 1
 
 | **Letter/PG Notification** | **Date** | **For** |
 | -------- | -------- | -------- |
