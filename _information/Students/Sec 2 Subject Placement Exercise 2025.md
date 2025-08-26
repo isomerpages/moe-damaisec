@@ -76,19 +76,21 @@ below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 October, Fri</p>
+<p><strong>24 October, Fri</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Online registration</strong> opens - students to submit online
-registration via All Ears Form from 0800h</p>
+<p><strong>Online registration</strong>  <strong>opens</strong> - students to
+submit online registration via All Ears Form from 0800h</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 October, Fri</p>
+<p><strong>31 October, Fri</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Online registration </strong>closes at 2359h</p>
+<p><strong>Online registration closes</strong> at 2359h</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +103,8 @@ registration via All Ears Form from 0800h</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>by 3PM, 7 November, Fri</p>
+<p><strong>by 3pm, 7 November, Fri</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Students to submit Appeal for change of subject combination via All Ears
@@ -173,22 +176,28 @@ will be accepted.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>View subject combination offered and acknowledgement</p>
 <p></p>
-<p>Appeal for change of subjects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>between 6 November 2025, 9.00 am and 7 November 2025, 3.00 pm</strong>
 </p>
-<p><strong>by 7 November 2025, 3.00 pm</strong>
-</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Appeal for change of subjects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p><strong>by 7 November 2025, 3.00 pm</strong>
+</p>
 </td>
 </tr>
 <tr>
