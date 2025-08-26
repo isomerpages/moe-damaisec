@@ -103,8 +103,7 @@ submit online registration via All Ears Form from 0800h</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>by 3pm, 7 November, Fri</strong>
-</p>
+<p>by 3pm, 7 November, Fri</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Students to submit Appeal for change of subject combination via All Ears
@@ -136,7 +135,7 @@ and advice from our school’s ECG counsellor, Mr Edwin Khong.</p>
 detailed guides and updated information on the Streaming Exercise.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adhere to the deadlines as no late submissions
 will be accepted.</p>
-<p><strong>Detailed guides and links <em>(will only be made available from 25 October 2025 onwards)</em></strong>
+<p><strong>Detailed guides and links <em>(will only be made available from 24 October 2025 onwards)</em></strong>
 </p>
 <p>Click on the links below to access.</p>
 <table style="minWidth: 100px">
