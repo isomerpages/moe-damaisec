@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Term 4 Sec 1-3 End-of-Year Examination
+          date: 26 August 2025
+          announcement: Click the link below to view and download the Term 4 Sec 1-3
+            End-of-Year Examination Schedule
+          link_text: Sec 1-3 End-of-Year Examination Schedule
+          link_url: /information/students/assessment-matters/
         - title: Term 3 Schedule for Weighted Assessment
           date: 04 July 2025
           announcement: Click the link below to view and download the Term 3 Schedule for
