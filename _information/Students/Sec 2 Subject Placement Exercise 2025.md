@@ -80,8 +80,7 @@ below:</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Online registration</strong> opens - students to submit online
-registration via All Ears</p>
-<p>Form from 0800h</p>
+registration via All Ears Form from 0800h</p>
 </td>
 </tr>
 <tr>
