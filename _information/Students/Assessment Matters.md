@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p><strong>2025 Secondary 1-3 End-of-Year Examination</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/Sec_1_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 End-of-Year Examination Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Sec_2_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 End-of-Year Examination Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Sec_3_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 End-of-Year Examination Timetable</a>
+</p>
+</li>
+</ul>
 <p><strong>2025 Schedule of Weighted Assessment (Term 3)</strong>
 </p>
 <ul data-tight="true" class="tight">
