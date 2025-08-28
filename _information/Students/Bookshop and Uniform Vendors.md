@@ -11,7 +11,7 @@ variant: tiptap
 <p>Textbooks and stationery can be purchased from our school bookshop. Online
 purchase and home delivery services are available only during the year-end
 period.</p>
-<p>Opening Hours (in school):&nbsp;&nbsp;7.30am to 3.00pm (Monday to Friday).
+<p>Opening Hours (in school):&nbsp;&nbsp;7.30am to 2.30pm (Monday to Friday).
 Closed on Weekends, Public Holidays and School Holidays in March, May/June
 and September. Opening hours during the year-end School Holidays will be
 shared closer to the dates.</p>
