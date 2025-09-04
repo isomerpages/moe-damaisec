@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3><strong>2025 June Holidays</strong></h3>
+<h3><strong>2025 September Holidays</strong></h3>
 <h4><strong>Non CCA Programme</strong></h4>
 <table style="minWidth: 225px">
 <colgroup>
@@ -54,25 +54,25 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-6/6/2025</p>
+<p>8/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday&nbsp; - Friday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NFS GCE Coursework</p>
+<p>Sec 4 CPA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 1.00 pm</p>
+<p>10:00 am - 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>404 NFS students</p>
+<p>Selected Sec 4 NT Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sng Gek Hoon</p>
+<p>Mr Christopher Hoan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 3</p>
+<p>Compuer Lab 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -83,25 +83,25 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-6/6/2025</p>
+<p>10/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday&nbsp; - Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T GCE Coursework</p>
+<p>4N Social Studies Coaching Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 5.00pm</p>
+<p>8.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>404 &amp; 405 D&amp;T students</p>
+<p>403</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Siew and Salahudeen</p>
+<p>Mr Teo Shu De</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop 1</p>
+<p>Outside Staff Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -112,25 +112,25 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3/6/2025</p>
+<p>10/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physics Practical</p>
+<p>4N Social Studies Coaching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00 pm - 3.00 pm</p>
+<p>9.00 am - 11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>402 Physics students</p>
+<p>404</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Zhi</p>
+<p>Ms Clara Chng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physics Lab 2</p>
+<p>101 CR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -141,25 +141,25 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-5/6/2025</p>
+<p>11/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday -Thursday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 EL Oral Intensive</p>
+<p>4N Social Studies Coaching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 1.30 pm</p>
+<p>9.00 am - 11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All sec 4 &amp; 5 students</p>
+<p>404</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All English&nbsp; teachers who are available</p>
+<p>Ms Clara Chng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classrooms</p>
+<p>101 CR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -170,25 +170,25 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6/6/2025</p>
+<p>11/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday - Friday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T GCE Coursework</p>
+<p>4N Geography Consultation Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 5.00pm</p>
+<p>2.00 pm&nbsp; - 6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>402 &amp; 501 D&amp;T students</p>
+<p>403/404 Geography 4N Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Siew</p>
+<p>Mr Nicholas Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop 1</p>
+<p>Harmony Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -199,25 +199,25 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/6/2025</p>
+<p>12/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday&nbsp;</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>POA Competition @ Deyi Sec</p>
+<p>4N Social Studies Coaching Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00 pm - 5.00 pm</p>
+<p>8.00 am - 11.20am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected POA students from 401</p>
+<p>403</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cristy Lin</p>
+<p>Mr Teo Shu De</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deyi Secondary School</p>
+<p>Outside Staff Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -228,113 +228,25 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10-13/6/2025&nbsp;</p>
+<p>12/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday - Friday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T GCE Coursework</p>
+<p>4N Geography Consultation Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 5.00pm</p>
+<p>10.00 am -12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>404 &amp; 405 D&amp;T students</p>
+<p>403/404 Geography 4N Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Siew and Salahudeen</p>
+<p>Mr Nicholas Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10-13/6/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday - Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T GCE Coursework</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00 am - 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>402 &amp; 501 D&amp;T students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Boon Siew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23-25/6/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday&nbsp; - Wednesday
-<br>(Thursday&nbsp; - standby date)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS OL Coursework</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.30 am - 2.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>401 NFS students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soraya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kitchen 1 and ITR 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25-27/6/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday - Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Knowledge Building Design Studio and NIE Kids Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00 am - 5.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lin Jiehui and Nicholas Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE</p>
+<p>Harmony Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -394,28 +306,28 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3/6/2025</p>
+<p>8/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby</p>
+<p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Training for Sec 1s to&nbsp; Sec 3s</p>
+<p>Rehearsal for Voices of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30 am - 11.30 am</p>
+<p>3.30 pm -5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1s to Sec 3s&nbsp;</p>
+<p>All Choir members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Viknesh</p>
+<p>Ms Evangeline Lim, Mrs Mary Goh, Mr Lewis Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field and Basketball Court</p>
+<p>AVT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -426,31 +338,31 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/6/2025</p>
+<p>8/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Monday&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICC</p>
+<p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Forward 2025</p>
+<p>September Holiday Training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.45&nbsp; am - 1.00 pm&nbsp;</p>
+<p>9.00 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students</p>
+<p>All Netballers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leroy Lee</p>
+<p>Ms Andrea Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Minds Cafe Megastore</p>
+<p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No teacher chaperone. IMDA staff on site to ensure safety.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -458,31 +370,128 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11/06/25-13/06/25</p>
+<p>8-10/9/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday - Friday</p>
+<p>Monday - Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC Senior Specialist Leaders Course 2025</p>
+<p>Senior Specialist Leaders Course (SSLC) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 am (11 Jun) to 7.00 pm (13 Jun)</p>
+<p>7.30 am (8 Sep) - 7.30pm (10 Sep)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students</p>
+<p>1 Sec 3 cadet&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christopher Hoan</p>
+<p>Mr Christopher Hoan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC Campus, Amoy Quee Camp</p>
+<p>NCC Campus, Amoy Quee Camp.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No teacher chaperone. NCC HQ on site to ensure safety.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/9/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am - 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Choir members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Evangeline Lim, Mrs Mary Goh, Mr Lewis Kwek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVT, CHIJMES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leaving school&nbsp; at 9 am. One-way transport is provided</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/9/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VIA - Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 12.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Netballers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Afza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Chai Chee Community Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-14/9/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday - Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HQ Adventure Training Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Report: 1.30 pm (Friday)
+<br>Dismiss: 12.00 pm (Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 2 cadets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Ee Teng, Mr Tan Wei Zhi. Ms See Pei Zhen, Mr Jonathan Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pulau Ubin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
