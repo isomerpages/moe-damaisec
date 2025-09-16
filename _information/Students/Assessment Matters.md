@@ -9,15 +9,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Information/Students/Assessment/Sec_1_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 End-of-Year Examination Timetable</a>
+<p><a href="/files/Sec_1_End_of_Year_Examination_Timetable1.pdf" rel="noopener nofollow" target="_blank">Sec 1 End-of-Year Examination Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Information/Students/Assessment/Sec_2_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 End-of-Year Examination Timetable</a>
+<p><a href="/files/Sec_2_End_of_Year_Examination_Timetable1.pdf" rel="noopener nofollow" target="_blank">Sec 2 End-of-Year Examination Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Information/Students/Assessment/Sec_3_End_of_Year_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 End-of-Year Examination Timetable</a>
+<p><a href="/files/Sec_3_End_of_Year_Examination_Timetable1.pdf" rel="noopener nofollow" target="_blank">Sec 3 End-of-Year Examination Timetable</a>
 </p>
 </li>
 </ul>
