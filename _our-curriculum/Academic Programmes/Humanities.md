@@ -308,12 +308,16 @@ and the forces that shape our planet.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/humanities01.jpg">
 </div>
+<p>Sec 1 students exploring biodiversity and sustainability themes at Pasir
+Ris Mangroves</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/humanities02.jpg">
 </div>
+<p>Sec 3 students learning about plate tectonics and experiencing a Typhoon
+Simulator at the Science Centre</p>
 </td>
 </tr>
 <tr>
@@ -330,8 +334,8 @@ Japanese Occupation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/humanities04.jpg">
 </div>
-<p>Sec 2 students learning about the suffering of the prisoners of war</p>
-<p>at Changi Chapel</p>
+<p>Sec 2 students learning about the suffering of the prisoners of war at
+Changi Chapel</p>
 </td>
 </tr>
 <tr>
