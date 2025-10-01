@@ -66,8 +66,9 @@ them to understand and address geographical issues in a rapidly changing
 world.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lower Sec Syllabus: <a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-lower-secondary-geography-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-lower-secondary-geography-syllabus.pdf</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-lower-secondary-geography-syllabus.pdf" rel="noopener nofollow" target="_blank">Lower Secondary Syllabus</a>
 </p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -82,11 +83,11 @@ skills, and a sense of responsibility as informed, environmentally-aware
 citizens.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>GCE N Level SS/Geog Syllabus: <a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/2125_y25_sy.pdf</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/2125_y25_sy.pdf" rel="noopener nofollow" target="_blank">GCE N Level SS/Geog Syllabus</a>
 </p>
 </li>
 <li>
-<p>GCE O Level SS/Geog Syllabus: <a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2260_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2260_y26_sy.pdf</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2260_y26_sy.pdf" rel="noopener nofollow" target="_blank">GCE O Level SS/Geog Syllabus</a>
 </p>
 </li>
 </ul>
@@ -106,7 +107,7 @@ historical inquiry, students appreciate the complexities of the past and
 develop critical thinking skills to understand the present.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lower Sec Syllabus: <a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf" rel="noopener nofollow" target="_blank">Lower Secondary Syllabus</a>
 </p>
 </li>
 </ul>
@@ -123,11 +124,11 @@ developing skills to analyse, evaluate, and communicate historical knowledge
 effectively.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>GCE N Level SS/Hist Syllabus: <a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2126_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2126_y26_sy.pdf</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2126_y26_sy.pdf" rel="noopener nofollow" target="_blank">GCE N Level SS/Hist Syllabus</a>
 </p>
 </li>
 <li>
-<p>GCE O Level SS/Hist Syllabus: <a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2261_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2261_y26_sy.pdf</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2261_y26_sy.pdf" rel="noopener nofollow" target="_blank">GCE O Level SS/Hist Syllabus</a>
 </p>
 </li>
 </ul>
@@ -173,7 +174,7 @@ them understand people's relationships with self, society, and the environment.<
 and geographical issues on sustainability and care for society.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lower Sec Syllabus: <a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2024-lower-secondary-g1-humanities-syllabus-social-studies-and-humanities-exposure-modules.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2024-lower-secondary-g1-humanities-syllabus-social-studies-and-humanities-exposure-modules.pdf</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2024-lower-secondary-g1-humanities-syllabus-social-studies-and-humanities-exposure-modules.pdf" rel="noopener nofollow" target="_blank">Lower Secondary Syllabus</a>
 </p>
 </li>
 </ul>
