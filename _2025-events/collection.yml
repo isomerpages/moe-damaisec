@@ -1,4 +1,5 @@
 collections:
   2025-events:
     output: true
-    order: []
+    order:
+      - 8th Speech and Prize Giving Day.md
