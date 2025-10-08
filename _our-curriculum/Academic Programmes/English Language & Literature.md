@@ -179,61 +179,45 @@ and Assessment of Learning into its evaluative framework.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_01.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_02.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>At the Inter-Schools Scrabble Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Snikitha Dasari, 401, successfully clinched the 5<sup>th</sup> Placing
-in the Live On Festival Essay Writing Competition</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_03.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_04.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Creativity at work – making postcards made up of Similes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaged in a Bingo Game during EL Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/English/2023 el is fun assembly.JPG">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_05.jpg">
+</div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Participants in the <em>EL Is Fun</em> Assembly</p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_06.jpg">
+</div>
 </td>
 </tr>
 </tbody>
