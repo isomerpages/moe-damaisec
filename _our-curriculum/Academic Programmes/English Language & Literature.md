@@ -114,9 +114,17 @@ and Assessment of Learning into its evaluative framework.</p>
 <p>National Schools Literature Festival 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Winners in Upper Sec Set Text Debate</p>
+</li>
+<li>
 <p>3rd Placing in Lower Sec Choral Reading</p>
+</li>
+<li>
 <p>Participants in Lower Sec Book Trailer</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -124,6 +132,18 @@ and Assessment of Learning into its evaluative framework.</p>
 <p><strong><u>Competitions &amp; Highlights</u></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Raffles Dialogue 2025</p>
+</li>
+<li>
+<p>Prov It! Competition 2025</p>
+</li>
+<li>
+<p>Unity Writers’ Festival 2025</p>
+</li>
+<li>
+<p>Live-On Festival 2025</p>
+</li>
 <li>
 <p>Inter-schools National Scrabble Competition 2024</p>
 </li>
@@ -134,10 +154,10 @@ and Assessment of Learning into its evaluative framework.</p>
 <p>M.E.S.H. Learning Journey to Little India 2023</p>
 </li>
 <li>
-<p><em>English is Fun</em> Assembly Programme 2023</p>
+<p><em>English is Fun</em>&nbsp;Assembly Programme 2023</p>
 </li>
 <li>
-<p>Participation in <em>A Day In Court</em> Student Seminar 2022</p>
+<p>Participation in&nbsp;<em>A Day In Court</em>&nbsp;Student Seminar 2022</p>
 </li>
 <li>
 <p>Singapore Secondary Schools Debating Championships 2019</p>
