@@ -162,7 +162,8 @@ will be accepted.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submission of subject combination choices</p>
+<p><a href="/files/Information/Students/Streaming Exercise/1__Guide_to_submit_subject_combination_choices.pdf" rel="noopener noreferrer nofollow" target="_blank">Submission of subject combination choices</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>between 24 October 2025, 8.00 am</strong>
@@ -171,7 +172,8 @@ will be accepted.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p><a href="https://go.gov.sg/dss-subjectplacement-25" rel="noopener nofollow" target="_blank">https://go.gov.sg/dss-subjectplacement-25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +181,8 @@ will be accepted.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>View subject combination offered and acknowledgement</p>
+<p><a href="/files/Information/Students/Streaming Exercise/2__Guide_to_view_subject_combination_offered___acknowledgement.pdf" rel="noopener noreferrer nofollow" target="_blank">View subject combination offered and acknowledgement</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,12 +190,14 @@ will be accepted.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>To be updated</p>
+<p><a href="https://go.gov.sg/dss-subjectplacement-25-results" rel="noopener nofollow" target="_blank">https://go.gov.sg/dss-subjectplacement-25-results</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appeal for change of subjects</p>
+<p><a href="/files/Information/Students/Streaming Exercise/3__Guide_to_appeal_for_change_of_subjects.pdf" rel="noopener noreferrer nofollow" target="_blank">Appeal for change of subjects</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>by 7 November 2025, 3.00 pm</strong>
@@ -204,14 +209,16 @@ will be accepted.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>View finalised 2026 Secondary 3 Subject Combination allocation and classes</p>
+<p><a href="/files/Information/Students/Streaming Exercise/4__Guide_to_view_2026_Secondary_3_Class_.pdf" rel="noopener noreferrer nofollow" target="_blank">View finalised 2026 Secondary 3 Subject Combination allocation and classes</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>from 14 November 2025, 12 noon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p><a href="https://for.edu.sg/dss-subjectplacement-25-final-results" rel="noopener nofollow" target="_blank">https://for.edu.sg/dss-subjectplacement-25-final-results</a>
+</p>
 </td>
 </tr>
 </tbody>
