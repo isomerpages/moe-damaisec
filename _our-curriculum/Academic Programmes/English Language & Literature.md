@@ -7,68 +7,52 @@ variant: tiptap
 ---
 <p><strong><u>Department Focus</u></strong>
 </p>
-<p>Through the teaching and learning of the English Language, we seek to
-develop our students to be:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>empathetic communicator</p>
-</li>
-<li>
-<p>discerning readers</p>
-</li>
-<li>
-<p>creative inquirers.</p>
-</li>
-</ul>
-<p>Through the teaching and learning of English Literature, our goal is to
-foster in students:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>awareness of timeless issues concerning society</p>
-</li>
-<li>
-<p>appreciation of multiple perspectives</p>
-</li>
-<li>
-<p>empathy and global awareness</p>
-</li>
-<li>
-<p>heightened appreciation of nuances of language</p>
-</li>
-<li>
-<p>metacognitive habits of mind</p>
-</li>
-<li>
-<p>greater acceptance for ambiguity and open-endedness</p>
-</li>
-<li>
-<p>the skills to convince others of their interpretations</p>
-</li>
-</ul>
+<p>At the core of the English Department is our commitment to nurturing articulate,
+thoughtful, and empathetic individuals. Through the study of English Language
+and English Literature, we empower students to develop a deep appreciation
+for language as a tool for communication, inquiry, and reflection.</p>
+<p>Through the English Language curriculum, we aim to nurture students who
+are empathetic communicators, able to express themselves clearly and respectfully,
+with sensitivity to diverse audiences. We also seek to cultivate discerning
+readers who are adept at critically evaluating and interpreting a wide
+range of texts with insight and depth. At the same time, we encourage students
+to be creative inquirers: curious, imaginative thinkers who approach ideas
+with confidence and a spirit of innovation.</p>
+<p>Through the study of English Literature, we deepen students’ understanding
+of the human condition by engaging them with texts that explore timeless
+personal and societal themes. Literature offers a lens to appreciate diverse
+perspectives and the richness of cultural, historical, and social contexts.
+Our curriculum fosters empathy, global awareness, and a sensitivity to
+the power of language in shaping meaning and emotion. Students develop
+reflective habits of mind, learning to embrace complexity, consider multiple
+interpretations, and construct well-reasoned, evidence-based analyses of
+texts.</p>
 <p><strong><u>Curriculum</u></strong>
 </p>
 <p><strong>English Language</strong>
 </p>
-<p>The English Language curriculum is designed to strengthen students' communication
-skills across reading, writing, speaking and listening. It introduces a
-wide range of texts, encouraging critical analysis and deeper comprehension.
-Students learn to express themselves clearly and creatively through various
-activities while developing a solid foundation in grammar and vocabulary.
-The curriculum promotes independent thought, collaboration and the ability
-to engage with different perspectives, equipping students with the tools
-they need for academic achievement and effective communication in everyday
-life.</p>
+<p>Our English Language curriculum is designed to build students’ confidence
+and competence across the four key domains of communication: reading, writing,
+speaking and listening. Through engagement with a diverse range of authentic
+and literary texts, students develop critical literacy, analytical reasoning
+and expressive clarity.</p>
+<p>Lessons are structured to foster creativity, encourage collaboration and
+develop independent thought. Students gain a strong foundation in grammar
+and vocabulary while learning to adapt their communication for different
+purposes and audiences. The curriculum equips them with the skills to thrive
+in both academic settings and real-world interactions.</p>
 <p><strong>English Literature</strong>
 </p>
-<p>The Literature curriculum aims to deepen students' appreciation of literary
-texts while enhancing critical thinking and analytical skills. Students
-explore a variety of genres including poetry, drama and prose from different
-cultures and time periods. Through close reading, discussions and diverse
-performance tasks, they learn to interpret themes, characters and language,
-developing a deeper understanding of human experiences and societal issues.
-Moreover, the curriculum encourages creative responses and personal engagement
-with the texts, fostering empathy, imagination and a lifelong appreciation
-for literature.</p>
+<p>The English Literature curriculum offers students a rich and immersive
+experience with texts from various genres, cultures, and historical periods.
+Through the close study of poetry, prose, and drama, students sharpen their
+interpretive and analytical skills while deepening their understanding
+of the human condition.</p>
+<p>Students are encouraged to engage personally and intellectually with texts,
+exploring themes, character development, and stylistic techniques. Discussion,
+debate and creative response tasks promote empathy, imagination, and a
+deeper awareness of social and moral complexities. Ultimately, the curriculum
+fosters a lifelong appreciation of literature as both art and inquiry</p>
 <p><strong><u>Assessment</u></strong>
 </p>
 <p>To foster student engagement and ownership of learning, and obtain a snapshot
@@ -130,9 +114,17 @@ and Assessment of Learning into its evaluative framework.</p>
 <p>National Schools Literature Festival 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Winners in Upper Sec Set Text Debate</p>
+</li>
+<li>
 <p>3rd Placing in Lower Sec Choral Reading</p>
+</li>
+<li>
 <p>Participants in Lower Sec Book Trailer</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -140,6 +132,18 @@ and Assessment of Learning into its evaluative framework.</p>
 <p><strong><u>Competitions &amp; Highlights</u></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Raffles Dialogue 2025</p>
+</li>
+<li>
+<p>Prov It! Competition 2025</p>
+</li>
+<li>
+<p>Unity Writers’ Festival 2025</p>
+</li>
+<li>
+<p>Live-On Festival 2025</p>
+</li>
 <li>
 <p>Inter-schools National Scrabble Competition 2024</p>
 </li>
@@ -150,10 +154,10 @@ and Assessment of Learning into its evaluative framework.</p>
 <p>M.E.S.H. Learning Journey to Little India 2023</p>
 </li>
 <li>
-<p><em>English is Fun</em> Assembly Programme 2023</p>
+<p><em>English is Fun</em>&nbsp;Assembly Programme 2023</p>
 </li>
 <li>
-<p>Participation in <em>A Day In Court</em> Student Seminar 2022</p>
+<p>Participation in&nbsp;<em>A Day In Court</em>&nbsp;Student Seminar 2022</p>
 </li>
 <li>
 <p>Singapore Secondary Schools Debating Championships 2019</p>
@@ -175,61 +179,45 @@ and Assessment of Learning into its evaluative framework.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_01.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_02.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>At the Inter-Schools Scrabble Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Snikitha Dasari, 401, successfully clinched the 5<sup>th</sup> Placing
-in the Live On Festival Essay Writing Competition</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_03.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2025_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_04.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Creativity at work – making postcards made up of Similes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaged in a Bingo Game during EL Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/English/2023 el is fun assembly.JPG">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_05.jpg">
+</div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Participants in the <em>EL Is Fun</em> Assembly</p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/2026_06.jpg">
+</div>
 </td>
 </tr>
 </tbody>

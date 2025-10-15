@@ -1,0 +1,6 @@
+collections:
+  2025-events:
+    output: true
+    order:
+      - Chinese Immersion Programme.md
+      - 8th Speech and Prize Giving Day.md
