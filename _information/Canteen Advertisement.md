@@ -68,7 +68,6 @@ by&nbsp;<strong><u>2 January 2026 (Friday).</u></strong>
 </p>
 <p><strong><u>Enquiries</u></strong>
 </p>
-<p>Please contact&nbsp;<u>Mdm Hasimah</u>&nbsp;(CSO), Mdm Amira (AE) or <u>Ms&nbsp;Cynthia Soh</u>&nbsp;(AM)</p>
-<p>at&nbsp;<strong>6443 6848</strong>&nbsp;for clarifications.</p>
-<p>&nbsp;</p>
+<p>Please contact&nbsp;<u>Mdm Hasimah</u>&nbsp;(CSO), Mdm Amira (AE) or <u>Ms&nbsp;Cynthia Soh</u>&nbsp;(AM)
+at&nbsp;<strong>6443 6848</strong>&nbsp;for clarifications.</p>
 <p>Thank you.</p>
