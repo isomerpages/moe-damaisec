@@ -64,14 +64,14 @@ Singapore Citizens in financial need can get assistance on school fees and other
 <ul>	
 	<li><a href="https://go.gov.sg/moe-efas">MOE-FAS e-Application Form (eFAS)</a></li>
 <li>
-<a href="/files/MOE_FAS_Application_Form_2025.pdf">MOE-FAS Application Form</a></li></ul></td>
+<a href="/files/Information/FAS/MOE_FAS_Application_Form_2026.pdf">MOE-FAS Application Form</a></li></ul></td>
   </tr>
   <tr>
     <td class="tg-sdzj"><p>Opportunity Fund </p></td>
     <td class="tg-fwnj"><p>Gross Household Income &lt;= $5,400<br>Per Capita Income &lt;= $1,350</p><br></td>
     <td class="tg-sdzj"><p>Subsidies may be provided for enrichment programmes, overseas trips etc.<br>For more information, please refer to</p>
 <ul>
-	<li><a href="/files/Application_for_OF_Subsidy%2021%20Oct%202022.pdf">Opportunity Fund Application Form</a></li></ul></td>
+	<li><a href="/files/Information/FAS/Application_for_OF_Subsidy__29_Oct_2025_.pdf">Opportunity Fund Application Form</a></li></ul></td>
   </tr>
 </tbody>
 </table>
