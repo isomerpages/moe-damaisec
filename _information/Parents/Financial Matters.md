@@ -10,7 +10,7 @@ variant: markdown
 
 You are strongly encouraged to make payments for school fees through electronic payments.
 
-You can apply for GIRO arrangement from&nbsp;[https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)&nbsp;or make payments via SG QR on the bill, SingPost Website, SAM Mobile App or SAM Kiosk at various locations.
+You can apply for GIRO arrangement from&nbsp;[https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)&nbsp;or make payments via SG QR on the bill, AXS Web/Mobile App/Kiosk at various locations.
 
 Alternatively, you can make cash/cheque payments at the school’s General Office.
 
@@ -49,7 +49,7 @@ Singapore Citizens in financial need can get assistance on school fees and other
     <td class="tg-sdzj"><p>For more information, please refer to</p>
 <ul>
 <li>
-	<a href="/files/2024/Document_4a_MOE_FAS_pamphlet__EL_.pdf">MOE-FAS Pamphlet</a><br></li>
+	<a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf">MOE-FAS Pamphlet</a><br></li>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="text-decoration:none;color:#EC8D3C">MOE Financial Assistance</span></a> <br></li>
 
 <li><a href="https://go.gov.sg/moe-efasggas">MOE-FAS e-Application Form (eFAS)</a><br></li>
