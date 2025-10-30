@@ -57,11 +57,6 @@ and other expenses, from below assistance schemes and programmes.</p>
 <p>For more information, please refer to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet</a>
-<br>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance</a> 
 <br>
 </p>
