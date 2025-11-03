@@ -2,6 +2,7 @@ collections:
   2025-events:
     output: true
     order:
+      - Teachers' Day 2025.md
       - Student Leaders' Investiture 2025.md
       - Racial Harmony Day 2025.md
       - National Day 2025.md
