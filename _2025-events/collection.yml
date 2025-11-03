@@ -2,5 +2,6 @@ collections:
   2025-events:
     output: true
     order:
+      - Chinese New Year 2025.md
       - Chinese Immersion Programme.md
       - 8th Speech and Prize Giving Day.md
