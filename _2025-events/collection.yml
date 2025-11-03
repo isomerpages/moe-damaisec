@@ -2,6 +2,7 @@ collections:
   2025-events:
     output: true
     order:
+      - Hari Raya 2025.md
       - Graduation Day 2025.md
       - Chinese New Year 2025.md
       - Chinese Immersion Programme.md
