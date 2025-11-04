@@ -11,7 +11,7 @@ variant: tiptap
 adopt various teaching pedagogies and infuse ICT components into daily
 MTL lessons. In addition, teachers leverage on Differentiated Instruction
 (DI) strategies to support students in their learning. The department strives
-to equip students with crucial language and 21CC competencies to help widen
+to equip students with crucial language and 21CC competencies to widen
 their horizons and enable them to tap into opportunities in the regional
 and global environment in the future. The MTL department seeks to adopt
 innovative teaching and learning strategies to build a solid foundation
@@ -21,19 +21,118 @@ their respective Mother Tongue languages and cultures.</p>
 </p>
 <p>In Damai Secondary School, the MTL teachers adopt various teaching pedagogies
 and infuse ICT components into daily MTL lessons. The department strives
-to equip students with crucial language and cultural competencies to help
-widen their horizon and enable them to tap into opportunities in the regional
+to equip students with crucial language and cultural competencies to widen
+their horizons and enable them to tap into opportunities in the regional
 and global environment in the future.</p>
-<p><strong><u>Signature Programmes</u><br></strong>MTL Fortnight Activities
-<br>The objectives of these activities are:</p>
-<p>To create a conducive environment to promote MTL usage and learning beyond
-MTL lessons</p>
-<p>To provide opportunities for students to enhance their knowledge and develop
-a passion for&nbsp;their mother tongue and culture</p>
-<p>This year, Damai Secondary School conducted a range of activities related
-to MTL and culture for the students to participate in. Among these activities
-were hands-on sessions on traditional arts and crafts, performing arts
-appreciation and vlogging.</p>
+<p><strong><u>Syllabus Link</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/mtl/2021-g1-g2-g3-and-higher-mother-tongue-languages-secondary-syllabus.pdf" rel="noopener nofollow" target="_blank">G1, G2, G3 and Higher Mother Tongue Languages Syllabus</a>
+</p>
+</li>
+</ul>
+<p><strong><u>Signature Programmes</u><br>Mother Tongue Language (MTL) Fortnight Activities</strong>
+</p>
+<p>The MTL Fortnight activities aim to create an engaging environment which
+encourages the use and learning of Mother Tongue languages beyond the classroom,
+while deepening students’ knowledge and passion for their language and
+culture.</p>
+<p>Damai Secondary School conducted a range of activities related to MTL
+and cultures for the students to participate in. Among these activities
+were hands-on sessions such as traditional arts and crafts, performing
+arts appreciation and vlogging.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_1__MTLF__Kampung_House.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_2__MTLF__Basket_Weaving.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_3__MTLF__Angklung_and_Genderang.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_4__MTLF__Dikir_Barat.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_5__MTLF__Clay_Making.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_6__MTLF__Fan_Painting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_7__MTLF__Xin_Yao.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_8__MTLF__Opera_Face_Changing.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
