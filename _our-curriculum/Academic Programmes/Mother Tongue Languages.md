@@ -336,4 +336,46 @@ Theatre.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pertandingan Cipta Kata 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_1__Competition__Rafiqah_and_Iliyah.jpg">
+</div>
+<p>2<sup>nd</sup> Place (Team):</p>
+<p>Rafiqah Binti Shallahudin (201)</p>
+<p>Iman Iliyah Binti Suhirmi (202)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Secondary School Chinese Creative Writing Competition 2025 新蕾奖</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_2__Competition__Xu_Tianyue.jpg">
+</div>
+<p>3<sup>rd </sup>Prize:</p>
+<p>Xu Tianyue (201)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
