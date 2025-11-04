@@ -66,7 +66,7 @@ a place on our stage.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Students_during_an_official_on_site_rehearsal.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Students_during_an_official_on_site_rehearsal.jpg">
 </div>
 </th>
 </tr>
@@ -79,7 +79,7 @@ a place on our stage.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Group_photo_after_a_rehearsal.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Group_photo_after_a_rehearsal.jpg">
 </div>
 </td>
 </tr>
@@ -92,7 +92,7 @@ a place on our stage.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Students_during_a_stage_fighting_module.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Students_during_a_stage_fighting_module.jpg">
 </div>
 </td>
 </tr>
@@ -104,6 +104,9 @@ a place on our stage.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Duel_scene_featured_in_our_SYF_presentation.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -114,11 +117,27 @@ a place on our stage.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Group_photo_during_Teacher_s_Day_video_recording.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group photo during Teachers’ Day video recording</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Secondary_1_members_working_on_SYF_props.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 members working on SYF props</p>
 </td>
 </tr>
 </tbody>
