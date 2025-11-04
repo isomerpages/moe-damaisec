@@ -54,7 +54,7 @@ arts appreciation and vlogging.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_1__MTLF__Kampung_House.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_1__MTLF__Kampung_House.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ arts appreciation and vlogging.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_5__MTLF__Clay_Making.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_5__MTLF__Clay_Making.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,39 +169,17 @@ of different races in the community.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Reading Programmes<br></strong>To instill an interest in reading
-in our students, the secondary one to three students embarked on the Reading
-Programme. Students of every level were assigned at least one reading material
-and teachers utilise class discussions, online games and other class activities
-to reinforce students’ understanding of the text.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_05.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_06.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kahoot game to consolidate the students’ learning</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Reading Programmes<br></strong>This year, Damai Secondary School
+participated in the Reading Ambassadors’ Programme, organised by the department
+to promote Chinese Language Learning (CPCLL). The programme supports the
+school in fostering a strong Chinese reading culture through curated book
+collections and meaningful reading activities both in and beyond the classroom.</p>
+<p>As part of our Reading Programme, the selected secondary one class was
+assigned one book to read for the year. Teachers reinforced the book’s
+content through class discussions, online games and a variety of interactive
+activities, creating an engaging and enriching reading experience. Students
+also took part in a reading competition at the end of the programme, applying
+their understanding of the book in a fun and challenging way.</p>
 <p><strong>Pertandingan Bahas 4PM Peringkat Menengah 2024</strong>
 </p>
 <p>In February 2024, three Secondary 3 students participated in the annual
@@ -209,8 +187,9 @@ Malay Debate Competition organised by the Malay Youth Literary Association
 (4PM). The students prepared themselves for the topics and trained hard.
 Their efforts bore fruit as one of them, Nabilah Maisarah (302), received
 the <em>Excellent Debater</em> award.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -218,13 +197,62 @@ the <em>Excellent Debater</em> award.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_1__Reading_Programme__Online_Escape_Room.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_2__Reading_Programme__Group_Work.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nabilah Maisarah (302) presenting her arguments to the panel of judges</p>
+<p>[Reading Programme] Online Escape Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Reading Programme] Group Work</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The Cultural Performance Exposure Scheme (CPES)</strong>
+</p>
+<p>The Cultural Performance Exposure Scheme (CPES) is an initiative by the
+department to promote Chinese Language Learning (CPCLL). It has been established
+since 2009. The objective is to enhance students' interest in Chinese language
+and culture through attendance at Chinese cultural performances at public
+performing arts venues.</p>
+<p>This year, the secondary one and two students attended a Chinese drama
+performance，The Legend of The Monkey King, performed by the Singapore Focus
+Theatre.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/4_1__CPES__The_Legend_of_The_Monkey_King.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/4_2__CPES__The_Legend_of_The_Monkey_King_Interaction.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[CPES] The Legend of The Monkey King</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[CPES] The Legend of The Monkey King Interaction</p>
 </td>
 </tr>
 </tbody>
