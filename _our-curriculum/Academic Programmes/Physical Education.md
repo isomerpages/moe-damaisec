@@ -22,11 +22,8 @@ Award (NAPFA) Tests.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Twice yearly inter-Class Games (Basketball, Football, Floorball, Frisbee,
-Badminton, Softball, Volleyball)</p>
-</li>
-<li>
-<p>Damai Fitness Day</p>
+<p>Twice yearly inter-class games (Basketball, Football, Floorball, Frisbee,
+Badminton, Softball and Volleyball)</p>
 </li>
 <li>
 <p>Sec 1 Cohort Camp</p>
@@ -38,39 +35,7 @@ Badminton, Softball, Volleyball)</p>
 <p>Sports Education Programme (SEP)</p>
 </li>
 <li>
-<p>Damai Health Week</p>
+<p>Damai Health Week &amp; Fitness Challenges</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Photos</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Sec 1 Water &amp; Adventure Sports Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/2025_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/2025_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
