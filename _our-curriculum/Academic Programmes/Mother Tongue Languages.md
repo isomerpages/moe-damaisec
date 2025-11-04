@@ -356,7 +356,7 @@ Theatre.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_1__Competition__Rafiqah_and_Iliyah.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_1__Competition__Rafiqah_and_Iliyah.jpg">
 </div>
 <p>2<sup>nd</sup> Place (Team):</p>
 <p>Rafiqah Binti Shallahudin (201)</p>
@@ -370,10 +370,115 @@ Theatre.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_2__Competition__Xu_Tianyue.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_2__Competition__Xu_Tianyue.jpg">
 </div>
 <p>3<sup>rd </sup>Prize:</p>
 <p>Xu Tianyue (201)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Highlights of 2025</u></strong>
+</p>
+<p><strong>Indonesia Bina Bangsa School 培民学校 Educational Visit 2025</strong>
+</p>
+<p>This year, Damai Secondary School had the pleasure of hosting teachers
+from Bina Bangsa School for an educational visit and teaching pedagogy
+exchange. The session provided a valuable platform for both schools to
+share insights on effective teaching practices and classroom strategies.
+The visit not only deepened professional understanding but also, strengthened
+collaboration among educators across different educational contexts. It
+was a meaningful opportunity to celebrate the spirit of lifelong learning
+and build connections which inspire continued growth in teaching and learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/7_1_Bina_Bangsa_School_Educational_Visit.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/7_2_Bina_Bangsa_School_Educational_Visit_Sharing.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bina Bangsa School Educational Visit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bina Bangsa School Educational Visit Sharing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong>
+</p>
+<p><strong>Suzhou Immersion Programme 2025</strong>
+</p>
+<p>From 1 to 6 June 2025, a group of secondary three students took part in
+the China Immersion Programme to Suzhou and Shanghai for a six-day educational
+and cultural experience. Students had the opportunity to attend Xinghai
+Experimental School in Suzhou, where they joined in lessons alongside their
+local buddies, gaining first-hand insights into China’s education system
+and forming meaningful cross-cultural friendships.</p>
+<p>Beyond the classroom, students visited Suzhou’s Tongli Ancient Town and
+the Silk Museum, learning about the city’s rich heritage, before heading
+to Shanghai’s Oriental Pearl Tower to witness the blend of tradition and
+modernity. Through exploring cultural landmarks, tasting local delicacies
+and participating in tea appreciation, students developed greater cultural
+awareness, independence and teamwork. The trip was a memorable journey
+of discovery, connection and growth.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_1_Suzhou_Immersion_Trip.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_2_Suzhou_Immersion_Trip_Sharing.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
