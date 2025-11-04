@@ -42,15 +42,13 @@ not just about planning but also, staying adaptable, even at mealtimes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2025/First_taste_of_food_resilience___ready_to_eat_and_ready_to_go_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2025/Heartily_enjoying_the_Ready_to_Eat_meals.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2025/Heartily_enjoying_the_Ready_to_Eat_meals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2025/First_taste_of_food_resilience___ready_to_eat_and_ready_to_go_.jpg">
 </div>
 </td>
 </tr>
