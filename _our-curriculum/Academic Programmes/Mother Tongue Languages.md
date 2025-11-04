@@ -132,7 +132,13 @@ arts appreciation and vlogging.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Conversational Chinese/Malay (CCM) Programme</strong>
+</p>
+<p>The CCM programme aims to strengthen social cohesion among the different
+races in Singapore and equip students with a foundational grasp in the
+respective languages to enable them to engage with their counterparts in
+the region. It also helps students to enhance rapport with their friends
+of different races in the community.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,46 +149,22 @@ arts appreciation and vlogging.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2_1__CCM__Lessons.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2_2__CCM__Games.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students were guided in creating fan paintings（扇画） with ink</p>
+<p>[CCM] Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students had the opportunity to don traditional Chinese Opera costumes
-during a performance by Tok Tok Chiang Wayang.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_03.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/MTL_2025_04.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Model of a mini kampung house made of wood with students in the background
-making the craft.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students were guided to play Angklung and Genderang harmoniously.</p>
+<p>[CCM] Games</p>
 </td>
 </tr>
 </tbody>
