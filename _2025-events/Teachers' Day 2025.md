@@ -95,9 +95,12 @@ It was truly a celebration worth streaming.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2025/A_heartfelt_and_entertaining_skit_by_our_PSG_to_honour_our_teachers.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
