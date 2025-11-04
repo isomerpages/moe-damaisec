@@ -78,16 +78,16 @@ arts appreciation and vlogging.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Kampung House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Basket Weaving</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Angklung dan Genderang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Dikir Barat</p>
 </td>
 </tr>
 <tr>
@@ -118,16 +118,16 @@ arts appreciation and vlogging.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Clay Making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Fan Painting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Xin Yao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[MTLF] Opera Face Changing</p>
 </td>
 </tr>
 </tbody>
