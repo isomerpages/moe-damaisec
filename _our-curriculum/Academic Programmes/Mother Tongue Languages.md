@@ -420,8 +420,7 @@ and build connections which inspire continued growth in teaching and learning.</
 </tr>
 </tbody>
 </table>
-<p><strong> </strong>
-</p>
+<p></p>
 <p><strong>Suzhou Immersion Programme 2025</strong>
 </p>
 <p>From 1 to 6 June 2025, a group of secondary three students took part in
@@ -459,26 +458,32 @@ of discovery, connection and growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Suzhou Immersion Trip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Suzhou Immersion Trip Sharing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_3_Xinghai_Experimental_School_Immersion_Visit.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_4_Xinghai_Experimental_School_Immersion_Visit_Sharing.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xinghai Experimental School Immersion Visit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xinghai Experimental School Immersion Visit Sharing</p>
 </td>
 </tr>
 </tbody>
