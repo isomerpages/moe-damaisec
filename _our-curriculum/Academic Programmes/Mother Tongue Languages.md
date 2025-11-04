@@ -257,4 +257,32 @@ Theatre.</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>Competitions and Achievements</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Campus Super Reading Star Competition 2025 校园超级阅读明星比赛</p>
+</li>
+<li>
+<p>National Chinese Language Challenge 2025 华文大比拼</p>
+</li>
+<li>
+<p>National Secondary School Chinese Creative Writing Competition 2025 新蕾奖</p>
+</li>
+<li>
+<p>Pertandingan Cipta Kata 2025</p>
+</li>
+<li>
+<p>Pertandingan Menulis Cerpen Bisikan Pena 2025</p>
+</li>
+<li>
+<p>Pertandingan Sahibba 2025</p>
+</li>
+<li>
+<p>Suzhou Chinese Calligraphy Competition 2025 苏州市中小学硬笔书法大赛</p>
+</li>
+<li>
+<p>Young Reporter News Challenge Competition 2025 我来报新闻挑战赛</p>
+</li>
+</ul>
 <p></p>
