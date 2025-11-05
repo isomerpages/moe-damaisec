@@ -5,26 +5,26 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p>Please click the links below for the 2025 Booklist:</p>
+<p>Please click the links below for the <strong>2026</strong> Booklist:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Book List/2025/DMSS_S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 2025 Book List</a></strong>
+<p><a href="/files/Book List/2026/Secondary_1_2026_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Book List/2025/DMSS_S2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 2025 Book List</a></strong>
+<p><a href="/files/Book List/2026/Secondary_2_2026_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Book List/2025/DMSS_S3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 2025 Book List</a></strong>
+<p><a href="/files/Book List/2026/Secondary_3_2026_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Book List/2025/DMSS_S4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4 2025 Book List</a></strong>
+<p><a href="/files/Book List/2026/Secondary_4_2026_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Book List/2025/DMSS_S5__NA__Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5 2025 Book List</a></strong>
+<p><a href="/files/Book List/2026/Secondary_5_2026_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist 2026</a>
 </p>
 </li>
 </ul>
