@@ -94,7 +94,7 @@ races.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/LLP/2025_Face_to_face_climb___OutPost_S1_SEP_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/LLP/2025_Face_to_face_climb___OutPost_S1_SEP_1.jpg">
 </div>
 </td>
 </tr>
