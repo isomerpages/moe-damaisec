@@ -58,9 +58,7 @@ dancers but also, expressive, confident and well-rounded individuals.</p>
 </li>
 <li>
 <p>Annual In-House dance competition and showcase</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
