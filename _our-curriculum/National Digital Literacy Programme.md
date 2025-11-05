@@ -4,8 +4,10 @@ permalink: /our-curriculum/national-digital-literacy-programme/
 description: ""
 variant: tiptap
 ---
+<p><strong>National Digital Literacy Programme</strong>
+</p>
 <p>In an increasingly digitalised world, it is essential to equip students
-to thrive in a digital society and take on the jobs of the future. At MOE’s
+to thrive in a digital society and take on jobs of the future. At MOE’s
 Committee of Supply Debate in March 2020, MOE launched the National Digital
 Literacy Programme (NDLP) for our schools and Institutes of Higher Learning
 to help students strengthen their digital literacy.</p>
@@ -14,9 +16,9 @@ Learning Device (PLD) initiative for all secondary school students, whereby
 every secondary school student will own a school-prescribed PLD. With every
 student owning a PLD, teachers can enhance teaching and learning through
 the design of ICT enriched learning experiences. Students will be able
-to tap on digital resources to learn according to their needs and interests
-and to collaborate with each other, anytime and anywhere. Students will
-also acquire digital literacy in the four components of Ministry of Education
+to tap on digital resources to learn according to their needs and interests,
+and collaborate with one another, anytime and anywhere. Students will also
+acquire digital literacy in the four components of Ministry of Education
 (MOE)’s Digital Literacy Framework:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital%20Literacy%20Skills.png">
@@ -72,8 +74,8 @@ Household Income divided by the total number of family members in the household.
 </p>
 <p>More details regarding the Device Management Application (DMA) can be
 found&nbsp;<a href="/information/parents/device-management-application" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>For any other queries on the NDLP, please contact&nbsp;the HOD ICT, Mrs
-Lee Pei Kee via her email&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pei_kee@schools.gov.sg</a>.</p>
+<p>For any other queries on the NDLP, please contact&nbsp;the SH / ICT, Ms
+Dolly Khoo via her email&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dolly_khoo@schools.gov.sg</a>.</p>
 <p><strong>Parent Handbook</strong>
 </p>
 <p><a href="/files/Our Curriculum/Digital Literacy/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook (1) 2025</a>
