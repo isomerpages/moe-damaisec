@@ -5,17 +5,16 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>The Damai Info-Communications Club aims to excite students about info-communication
-in a fun and meaningful way by helping them to learn new info comm skills
-and cultivate leadership and entrepreneurship capabilities at an early
-age.&nbsp;</p>
-<p>Students in the Info-Communications Club are responsible for performing
-daily PA duties during the morning flag-raising ceremony, managing backstage
-and control room tasks during assemblies, and taking photographs during
-school events.</p>
-<p>In addition, the Info-Communications Club participates in various competitions
-to showcase its members' videography skills and creativity and enhance
-their confidence in using technology and videography.</p>
+<p>The Damai Info-Communications Club seeks to inspire students to explore
+the world of info-communications in an engaging and purposeful way. It
+provides opportunities for members to develop new tech skills while nurturing
+leadership and entrepreneurial qualities from a young age.</p>
+<p>Club members take on key responsibilities such as handling daily PA system
+operations during morning flag-raising, managing backstage and control
+room duties during assemblies, and capturing photographs at school events.</p>
+<p>Beyond school duties, the club actively takes part in competitions which
+allow students to showcase their videography talents, express their creativity,
+and build confidence in using technology and media tools.</p>
 <p><strong>Signature Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -23,11 +22,10 @@ their confidence in using technology and videography.</p>
 <p>DSLR Photography workshop conducted by Visual Remedy Pte Ltd</p>
 </li>
 <li>
-<p>Game Development Roadmap for Secondary by Stag Match Education and Training
-Group</p>
+<p>Google Content Creation by GSA Education</p>
 </li>
 <li>
-<p>Internet of Things by EP Education</p>
+<p>Figma UX/UI by Tinkertanker Pte Ltd</p>
 </li>
 <li>
 <p>Info-comm Media Club Student Leadership Conference</p>
@@ -37,25 +35,21 @@ Group</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Our Schools, Our Stories - Photo and Video Contest 2023 (Participation)</p>
+<p>Our Schools, Our Stories - Photo and Video Contest 2025 (Participation)</p>
 </li>
 <li>
-<p>Gryphon Youth Outreach Program Anti-Crime Video Competition 2023 (Participation)</p>
+<p>National Youth Tech Championship 2025 (Top 8 position)</p>
 </li>
 <li>
-<p>National Youth Tech Championship 2023 (Top 8 position)</p>
+<p>National Youth Tech Championship 2024 (3<sup>rd</sup>&nbsp;Runner Up)</p>
 </li>
 <li>
-<p>Better Internet Competition 2024 (Participation)</p>
+<p>Youth Against Scams Competition (Participation)</p>
 </li>
 <li>
-<p>National Youth Tech Championship 2024 (3<sup>rd</sup> Runner Up)</p>
-</li>
-<li>
-<p>Digital for Life Video Competition 2024</p>
+<p>Drone Basketball Competition</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,113 +58,103 @@ Group</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Finals__Flying_the_drone_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Finals___Interviewed_by_NYTC_Hosts.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Finals__Flying_the_Drone.jpg">
 </div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>DSLR Photography workshop by Visual Remedy Pte Ltd</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Finals__Preparing_for_the_competition.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>Game Development Roadmap for Secondary Schools by Stag Match</em></strong>  <strong><em>Education and Training Group</em></strong>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Training.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Waiting_impatiently_for_instructor_s_arrival.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_At_work_doing_photo_editing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Demonstrating_to_the_CCA_the_function_of_a_DSLR.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_First_time_handling_a_DSLR.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>Internet of Things workshop by EP Education</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Guiding_new_students_to_operate_the_DSLR.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>The Damai Cheer Leading Team at the National Youth Tech Championship</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Learning_photography.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>1<sup>st</sup> position in Cheer Leading Competition at the National Youth Tech Championship</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Learning_to_control_lighting_in_photography.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>Students in action during the National Youth Tech Championship</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/ICC_2025_09.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Learning_to_use_a_DSLR.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong><em>3<sup>rd</sup> Runner Up at the National Youth Tech Championship</em></strong>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_Listening_to_the_instructor_on_his_advice_for_photography.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICC/2025_NYTC_Cheer_team__Leaders_Council_and_ICC_members.jpg">
+</div>
 </td>
 </tr>
 </tbody>
