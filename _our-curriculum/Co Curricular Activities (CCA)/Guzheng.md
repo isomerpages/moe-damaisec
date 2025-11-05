@@ -177,9 +177,8 @@ through school and/or outdoor performances.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_After_Speech_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Guzheng_CCA_leaders_st_the_Student_Leaders__Investiture_2025.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -192,27 +191,24 @@ through school and/or outdoor performances.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Guzheng_CCA_leaders_st_the_Student_Leaders__Investiture_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_After_Speech_Day.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Practising_for_Speech_Day.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Practising_for_Speech_Day.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Sec_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Sec_3_EXCO_manning_the__Guzheng_booth_during_ND_celebration.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Sec_3_EXCO_manning_the__Guzheng_booth_during_ND_celebration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/2025_Sec_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
