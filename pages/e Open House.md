@@ -95,8 +95,8 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 </tbody>
 </table>
 <h4><strong>Parent Support Group</strong></h4>
-<p>At Damai Secondary, we collaborate closely with parents to nurture each
-child’s potential and success.</p>
+<p>At Damai Secondary, we work hand in hand with parents through our Parent
+Support Group to nurture every child’s growth, potential and success.</p>
 <p>Click <a href="https://www.damaisec.moe.edu.sg/our-community/parent-support-group/" rel="noopener" target="_blank">here</a> to
 find out more about our Parent Support Group.</p>
 <p><strong>Have A Question/Comment?</strong>
