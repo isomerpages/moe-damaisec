@@ -78,18 +78,18 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_01.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_02.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/2.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_04.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.damaisec.moe.edu.sg/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eOH_03.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/4.jpg"></a>
 </td>
 </tr>
 </tbody>
