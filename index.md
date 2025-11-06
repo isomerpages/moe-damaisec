@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: 2025 e-Open House
           description: ""
-          url: /announcements/
+          url: /e-open-house/
         - title: LATEST NEWS & EVENTS
           description: ""
           url: /latest-news-n-events/
