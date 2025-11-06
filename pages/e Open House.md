@@ -89,7 +89,7 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 <p></p><a class="isomer-image-wrapper" href="/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/4.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/4_1.jpg"></a>
 </td>
 </tr>
 </tbody>
