@@ -18,32 +18,31 @@ family!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/enU8mlADqS4?si=nqtccyRJUvRZJO9Z"></iframe>
 </div>
-<p><strong>Take a Virtual Tour of Damai Secondary School!</strong>
+<p><strong>Take a Virtual Tour of Our Campus!</strong>
 </p>
-<p>Discover Damai Secondary’s vibrant campus, beautifully set along the scenic
-Bedok Reservoir. Join us on an immersive virtual tour to explore our modern
-facilities and experience the welcoming atmosphere that makes our school
-unique!</p>
+<p>Explore Damai Secondary’s picturesque campus along the scenic <strong>Bedok Reservoir. </strong>Our
+immersive virtual tour showcases modern facilities and a welcoming environment
+that sets our school apart.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zSzRqhXYTYA?si=HcY7e3rgQN-t4wZf"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zSzRqhXYTYA?si=k9lyUA2JzNEy9TDm"></iframe>
 </div>
-<p></p>
 <p><strong>Photo Highlights</strong>
 </p>
-<p>At Damai Secondary School, there’s never a dull moment! Our students are
-always Aspiring, Exploring, and Achieving. From lively events to meaningful
-activities, each moment captured reflects the vibrant spirit of our school
-community. Browse our annual photo highlights to see our students in action
-<a href="https://www.damaisec.moe.edu.sg/information/news-and-events/2024/" rel="noopener" target="_blank">here</a>.</p>
+<p>Life at Damai Secondary is always full of excitement! Our students are
+constantly <strong><em>Aspiring</em>, <em>Exploring</em> and <em>Achieving</em></strong>.
+From engaging events to enriching activities, every photo captures the
+energy and spirit of our school community. Browse our highlights to see
+our students in action <a href="https://www.damaisec.moe.edu.sg/information/news-and-events/2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p><strong>Signature Programmes</strong>
 </p>
 <p><strong>Learning for Life Programme (LLP): Character Development through Water and Adventure Sports</strong>
 </p>
-<p>Our LLP immerses students in real-life experiences that build character,
-instil values, and cultivate positive attitudes. Through exciting water
-and adventure sports, students also strengthen their people skills, develop
-self-expression, and foster resilience. Dive into the details of our LLP
-<a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" rel="noopener" target="_blank">here</a>!</p>
+<p>At Damai Secondary, our LLP immerses students in real-world experiences
+that shape character, instill values and nurture positive attitudes. Through
+thrilling water and adventure sports, students not only challenge themselves
+physically but also, enhance their communication skills, self-expression
+and resilience. Discover the full journey of our LLP<strong> </strong>
+<a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p><strong>Applied Learning Programme (ALP): Environmental Sciences and Sustainability</strong>
 </p>
 <p>The ALP at Damai Secondary takes students on a journey of self-discovery,
