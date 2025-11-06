@@ -45,11 +45,12 @@ and resilience. Discover the full journey of our LLP<strong> </strong>
 <a href="https://www.damaisec.moe.edu.sg/our-curriculum/learning-for-life-programme-character-development-through-water-and-adventure-sports/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p><strong>Applied Learning Programme (ALP): Environmental Sciences and Sustainability</strong>
 </p>
-<p>The ALP at Damai Secondary takes students on a journey of self-discovery,
-inspiring curiosity and an innovative spirit. Through hands-on learning
-in Environmental Sciences, students develop 21st century competencies and
-gain awareness of key environmental challenges. Learn more about how our
-ALP empowers students for a sustainable future <a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" rel="noopener" target="_blank">here</a>!</p>
+<p>At Damai Secondary, our ALP guides students on a journey of self-discovery,
+sparking curiosity and fostering an innovative mindset. Through hands-on
+learning in Environmental Sciences, students build 21st-century skills
+while deepening their understanding of pressing environmental challenges.
+Explore how our ALP empowers students to create a sustainable future
+<a href="https://www.damaisec.moe.edu.sg/our-curriculum/applied-learning-programme-environmental-sciences-and-sustainability" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p><strong>National Digital Literacy Programme</strong>
 </p>
 <p>At Damai Secondary, we harness the power of technology to ignite a passion
