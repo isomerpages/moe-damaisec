@@ -4,19 +4,19 @@ permalink: /e-open-house/
 description: ""
 variant: tiptap
 ---
-<h3>2024 e-Open House</h3>
+<h3><strong>2025 e-Open House</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/eoh1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="e-open-house-2025" src="/images/E Open House/eoh2025.jpg">
 </div>
-<p><strong>Explore Student Life at Damai Secondary School!</strong>
+<p><strong>Experience Student Life at Damai Secondary School!</strong>
 </p>
-<p>Get ready to experience the energy and spirit of Damai Secondary School
-at our e-Open House 2024! Dive into the vibrant world of student life,
-where every activity and opportunity is designed to make students’ secondary
-school journey purposeful and meaningful. Come and discover what it means
-to be part of the Damai family!</p>
+<p>Step into the vibrant world of Damai Secondary School at our <strong>e-Open House 2025!</strong> Discover
+the energy, spirit and opportunities that make student life here purposeful
+and meaningful. Join us to see what it truly means to be part of the Damai
+family!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/enU8mlADqS4?si=6GedAHnKgvL2r_S7"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/enU8mlADqS4?si=nqtccyRJUvRZJO9Z"></iframe>
 </div>
 <p><strong>Take a Virtual Tour of Damai Secondary School!</strong>
 </p>
