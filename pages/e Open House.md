@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2025 e-Open House</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="e-open-house-2025" src="/images/E Open House/eoh2025.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/E Open House/eoh2025_2.png">
 </div>
 <p><strong>Experience Student Life at Damai Secondary School!</strong>
 </p>
@@ -77,19 +76,15 @@ can thrive. Find out more about Full Subject-Based Banding at Damai Secondary
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/academic-programmes"><img style="width: 100%" height="auto" width="100%" alt="Damai Secondary Curriculum" src="/images/E Open House/1.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/2.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/co-curricular-activities-cca/"><img style="width: 100%" height="auto" width="100%" alt="Damai Secondary CCA" src="/images/E Open House/2_1.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/3.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/character-and-citizenship-education/"><img style="width: 100%" height="auto" width="100%" alt="Damai Secondary CCE" src="/images/E Open House/3_1.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open House/4_1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/student-development-programme/"><img style="width: 100%" height="auto" width="100%" alt="Damai Secondary Student Development" src="/images/E Open House/4_2.jpg"></a>
 </td>
 </tr>
 </tbody>
