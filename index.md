@@ -20,7 +20,7 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
-      background: /images/Banner/DMSSBANNER_2025_n.gif
+      background: /images/Banner/DMSSBANNER_2025_a.gif
   - announcements:
       title: Announcements
       id: announcements
