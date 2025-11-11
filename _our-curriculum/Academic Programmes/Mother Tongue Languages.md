@@ -180,13 +180,6 @@ content through class discussions, online games and a variety of interactive
 activities, creating an engaging and enriching reading experience. Students
 also took part in a reading competition at the end of the programme, applying
 their understanding of the book in a fun and challenging way.</p>
-<p><strong>Pertandingan Bahas 4PM Peringkat Menengah 2024</strong>
-</p>
-<p>In February 2024, three Secondary 3 students participated in the annual
-Malay Debate Competition organised by the Malay Youth Literary Association
-(4PM). The students prepared themselves for the topics and trained hard.
-Their efforts bore fruit as one of them, Nabilah Maisarah (302), received
-the <em>Excellent Debater</em> award.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -195,13 +188,11 @@ the <em>Excellent Debater</em> award.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_1__Reading_Programme__Online_Escape_Room.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_2__Reading_Programme__Group_Work.jpg">
 </div>
