@@ -7,7 +7,7 @@ variant: tiptap
 <p>Click the sections below to view the information:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Halal Rice/Noodle Stall (Starting 2 January 2026)</strong>
+<summary><strong>Halal Rice/Noodle Stall (Application closes on 21 November 2025)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Damai Secondary School has a vacancy for the following canteen stall&nbsp;<strong><u>Halal Rice/Noodle Stall</u></strong>&nbsp;starting
@@ -82,7 +82,7 @@ at&nbsp;<strong>6443 6848</strong>&nbsp;for clarifications.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Chinese Cooked Food Stall (Starting 2 January 2026)</strong>
+<summary><strong>Chinese Cooked Food Stall (Application closes on 12 December 2025)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Damai Secondary School has a vacancy for the following canteen stall&nbsp;<strong><u>Chinese Cooked Food Stall</u></strong>&nbsp;starting
