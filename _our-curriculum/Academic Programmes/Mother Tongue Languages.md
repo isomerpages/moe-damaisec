@@ -42,96 +42,10 @@ culture.</p>
 and cultures for the students to participate in. Among these activities
 were hands-on sessions such as traditional arts and crafts, performing
 arts appreciation and vlogging.</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_1__MTLF__Kampung_House.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_2__MTLF__Basket_Weaving.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_3__MTLF__Angklung_and_Genderang.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_4__MTLF__Dikir_Barat.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Kampung House</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Basket Weaving</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Angklung dan Genderang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Dikir Barat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_5__MTLF__Clay_Making.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_6__MTLF__Fan_Painting.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_7__MTLF__Xin_Yao.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/1_8__MTLF__Opera_Face_Changing.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Clay Making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Fan Painting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Xin Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[MTLF] Opera Face Changing</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Conversational Chinese/Malay (CCM) Programme</strong>
 </p>
 <p>The CCM programme aims to strengthen social cohesion among the different
@@ -139,36 +53,10 @@ races in Singapore and equip students with a foundational grasp in the
 respective languages to enable them to engage with their counterparts in
 the region. It also helps students to enhance rapport with their friends
 of different races in the community.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2_1__CCM__Lessons.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2_2__CCM__Games.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[CCM] Lessons</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[CCM] Games</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Reading Programmes<br></strong>This year, Damai Secondary School
 participated in the Reading Ambassadors’ Programme, organised by the department
 to promote Chinese Language Learning (CPCLL). The programme supports the
@@ -180,34 +68,10 @@ content through class discussions, online games and a variety of interactive
 activities, creating an engaging and enriching reading experience. Students
 also took part in a reading competition at the end of the programme, applying
 their understanding of the book in a fun and challenging way.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_1__Reading_Programme__Online_Escape_Room.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_3.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/3_2__Reading_Programme__Group_Work.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[Reading Programme] Online Escape Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Reading Programme] Group Work</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>The Cultural Performance Exposure Scheme (CPES)</strong>
 </p>
 <p>The Cultural Performance Exposure Scheme (CPES) is an initiative by the
@@ -218,36 +82,10 @@ performing arts venues.</p>
 <p>This year, the secondary one and two students attended a Chinese drama
 performance，The Legend of The Monkey King, performed by the Singapore Focus
 Theatre.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/4_1__CPES__The_Legend_of_The_Monkey_King.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_4.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/4_2__CPES__The_Legend_of_The_Monkey_King_Interaction.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[CPES] The Legend of The Monkey King</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[CPES] The Legend of The Monkey King Interaction</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Competitions and Achievements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -276,99 +114,19 @@ Theatre.</p>
 <p>Young Reporter News Challenge Competition 2025 我来报新闻挑战赛</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_5.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/5_1_Pertandingan_Cipta_Kata.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/5_2_Pertandingan_Sahibba.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pertandingan Cipta Kata</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pertandingan Sahibba</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/5_3_Young_Reporter_News_Challenge.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/5_4_National_Chinese_Language_Challenge.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Young Reporter News Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Chinese Language Challenge</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pertandingan Cipta Kata 2025</p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_1__Competition__Rafiqah_and_Iliyah.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_6.jpg">
 </div>
-<p>2<sup>nd</sup> Place (Team):</p>
-<p>Rafiqah Binti Shallahudin (201)</p>
-<p>Iman Iliyah Binti Suhirmi (202)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Secondary School Chinese Creative Writing Competition 2025 新蕾奖</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/6_2__Competition__Xu_Tianyue.jpg">
-</div>
-<p>3<sup>rd </sup>Prize:</p>
-<p>Xu Tianyue (201)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Highlights of 2025</u></strong>
 </p>
 <p><strong>Indonesia Bina Bangsa School 培民学校 Educational Visit 2025</strong>
@@ -381,37 +139,9 @@ The visit not only deepened professional understanding but also, strengthened
 collaboration among educators across different educational contexts. It
 was a meaningful opportunity to celebrate the spirit of lifelong learning
 and build connections which inspire continued growth in teaching and learning.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/7_1_Bina_Bangsa_School_Educational_Visit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_7.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/7_2_Bina_Bangsa_School_Educational_Visit_Sharing.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bina Bangsa School Educational Visit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bina Bangsa School Educational Visit Sharing</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>Suzhou Immersion Programme 2025</strong>
 </p>
 <p>From 1 to 6 June 2025, a group of secondary three students took part in
@@ -427,56 +157,8 @@ modernity. Through exploring cultural landmarks, tasting local delicacies
 and participating in tea appreciation, students developed greater cultural
 awareness, independence and teamwork. The trip was a memorable journey
 of discovery, connection and growth.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_1_Suzhou_Immersion_Trip.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/2025_MTL_8.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_2_Suzhou_Immersion_Trip_Sharing.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Suzhou Immersion Trip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Suzhou Immersion Trip Sharing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_3_Xinghai_Experimental_School_Immersion_Visit.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MTL/8_4_Xinghai_Experimental_School_Immersion_Visit_Sharing.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xinghai Experimental School Immersion Visit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xinghai Experimental School Immersion Visit Sharing</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
