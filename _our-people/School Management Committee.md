@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prashant_jayapragas@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Prashant Jayapragas</a>
+<p><a href="mailto:prashant_jayapragas@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Prashant S/O Jayapragas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
