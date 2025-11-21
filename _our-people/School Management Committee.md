@@ -29,6 +29,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:prashant_jayapragas@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Prashant Jayapragas</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal-Designate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:NG_Cheng_Keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Paul Ng Cheng Keong</a>
 </p>
 </td>
