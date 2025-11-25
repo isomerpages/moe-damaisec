@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Students/.keep
       - Students/Release of GCE N(A) & N(T) Examination Results 2024.md
       - Students/Release of GCE O Level Examination Results 2024.md
