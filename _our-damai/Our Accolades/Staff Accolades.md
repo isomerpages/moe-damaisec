@@ -28,8 +28,9 @@ variant: tiptap
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>National Day Award Recipient 2025</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -39,12 +40,17 @@ variant: tiptap
 <th rowspan="1" colspan="3">
 <p>The Commendation Medal</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Damai/Staff 2025/18.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Damai/Staff 2025/18.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,12 +62,17 @@ variant: tiptap
 <p><strong>The Long Service Medal</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Damai/Staff 2025/19.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Damai/Staff 2025/19.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
