@@ -9,7 +9,6 @@ Full Subject-Based Banding (Full SBB) since 2022.</p>
 <p>Full Subject-Based Banding (Full SBB)&nbsp;is part of MOE's ongoing efforts
 to nurture the joy of learning and develop multiple pathways to cater to
 the different strengths and interests of our students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="subject based banding aim" src="/images/Information/SBB/SBB01.png">
 </div>
@@ -17,20 +16,29 @@ the different strengths and interests of our students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Mixed form classes from Secondary One</em></strong><em><br>All </em><strong><em>Secondary 1 students are placed in mixed classes</em></strong><em> where they learn and grow alongside peers with different strengths, interests, and learning profiles.</em>
+<p><strong>Mixed form classes from Secondary One</strong>
 </p>
+<p>All <strong>Secondary 1 students are placed in mixed classes</strong> where
+they learn and grow alongside peers with different strengths, interests,
+and learning profiles.</p>
 </li>
 <li>
-<p><strong><em>A shared core curriculum for all</em></strong>
+<p><strong>A shared core curriculum for all</strong>
 </p>
+<p>All Sec 1 and Sec 2 students will learn a <strong>common set of subjects together</strong> in
+their form classes. These subjects allow every student to experience broad
+learning opportunities and develop essential life skills. These include
+Character and Citizenship Education (CCE), Art, Design &amp; Technology,
+Food &amp; Consumer Education, Music &amp; Physical Education.</p>
 </li>
-</ul>
-<p><em>All Sec 1 and Sec 2 students will learn a </em><strong><em>common set of subjects together</em></strong><em> in their form classes. These subjects allow every student to experience broad learning opportunities and develop essential life skills. These include Character and Citizenship Education (CCE), Art, Design &amp; Technology, Food &amp; Consumer Education, Music &amp; Physical Education.</em>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Greater flexibility in subject levels</em></strong><em><br>Under FSBB, Subject-Based Banding is expanded beyond the four PSLE core subjects.<br>This means eligible G1 and G2 students may take certain subjects—such as </em><strong><em>Humanities—at a more demanding level from Secondary 2 onwards</em></strong><em>, based on their strengths and readiness</em>
+<p><strong>Greater flexibility in subject level</strong>
 </p>
+<p>Under FSBB, Subject-Based Banding is expanded beyond the four PSLE core
+subjects.
+<br>This means eligible G1 and G2 students may take certain subjects—such
+as <strong>Humanities—at a more demanding level from Secondary 2 onwards</strong>,
+based on their strengths and readiness</p>
 </li>
 </ul>
 <p>For more information on Full SBB, please click&nbsp;<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a> to
