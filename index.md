@@ -14,7 +14,7 @@ sections:
         - title: LATEST NEWS & EVENTS
           description: ""
           url: /latest-news-n-events/
-        - title: CALENDAR
+        - title: School Calendar 2025
           description: ""
           url: /files/Information/2025_School_Calendar_Damai_Sec.pdf
         - title: SLS Login
@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of the 2025 GCE N(A) & N(T) Examination Results
+          date: 15 December 2025
+          announcement: Find out more information on the release of the GCE N(A) & N(T)
+            Examination Results in the link below.
+          link_text: Click here for the information!
+          link_url: /information/students/release-of-gce-nant-results-2025/
         - title: Damai Secondary School e-Open House 2025
           date: 22 November 2025
           announcement: Curious about life at Damai Secondary? Join us for our e-Open
