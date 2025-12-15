@@ -14,7 +14,7 @@ sections:
         - title: LATEST NEWS & EVENTS
           description: ""
           url: /latest-news-n-events/
-        - title: CALENDAR
+        - title: School Calendar 2025
           description: ""
           url: /files/Information/2025_School_Calendar_Damai_Sec.pdf
         - title: SLS Login
