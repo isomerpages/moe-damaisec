@@ -271,21 +271,115 @@ driving may be required to park at the nearby HDB carparks.</p>
 <summary><strong>8. Student Smart Card (SSC) for concessionary travel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Students entering Secondary One in January 2026 will be issued with a
+new School Smart Card (SSC). &nbsp;While waiting the new SSC, students
+can use their Primary level SSC for concessionary travel until end April
+2026. &nbsp;Students can purchase the Bus Concession Pass (BCP) for Secondary
+School students using their Primary Level SSC.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>9. Safety Instructions for drivers and pedestrians</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>For the safety of everyone, please observe the vehicular and pedestrian
+traffic instructions outside and inside the school.&nbsp; Click <a href="https://damaisec.moe.edu.sg/information/parents/traffic-management-plan" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the traffic instructions.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>10. Instructions and Programme for first day of school (2 January 2026) for S1 students</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to <strong>report to the school hall by 7.20 am</strong>  <strong>in half-school uniform</strong>.
+Students who have yet to purchase the Damai Secondary School uniform are
+allowed to report to school in their primary school uniform.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Damai Secondary School Uniform" src="/images/Information/S1_C02.jpg">
+</div>
+<p>b) Students need not bring textbooks but should have writing materials
+(pen and a small note pad), and a water bottle.</p>
+<p>c) Students will take part in an orientation programme<u> </u>designed
+to help them settle in, get to know their Form Teachers and make friends.&nbsp;
+Students will need to purchase food from the school canteen during recess
+and lunch break, unless they pack food from home.&nbsp; They will be dismissed
+at 12.30pm.</p>
+<p>d)&nbsp;Brief overview of Sec 1 Orientation Programme:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 2 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Assembly &amp;</p>
+<p>Orientation Programme</p>
+<p>“Our Damai Heartbeat”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am – 12.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 5 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orientation Programme</p>
+<p>“Our Damai Heartbeat”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am – 1.00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Thursday, 8 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Normal Curriculum following timetable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am – 2.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass dance practice and dinner for students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.30 pm – 6.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meet-The-Parents Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.45 pm – 8.30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
