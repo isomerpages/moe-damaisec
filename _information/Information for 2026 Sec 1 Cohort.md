@@ -11,7 +11,7 @@ to our school.</p>
 <p>You may click on the numbered items to expand the section for more information:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1.  E-registration</strong>
+<summary><strong>1. E-registration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All incoming 2026 Secondary 1 students are required to register online.</p>
@@ -20,7 +20,7 @@ to our school.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2.  Appeals for Transfer</strong>
+<summary><strong>2. Appeals for Transfer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a. For non-medical appeals to join Damai Secondary School, please complete
@@ -37,49 +37,62 @@ Vice-Principal, at email: <a href="mailto:premlatha_selvaraj@schools.gov.sg" rel
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3.  Class Allocation</strong>
+<summary><strong>3. Class Allocation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Your child’s/ward’s class allocation will be notified via Parents Gateway
+(PG) by 31 December 2025. The class information will also be displayed
+at the school canteen at the start of the school year.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4. Eligibility to offer subject(s) at a more demanding level</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students who are eligible to offer subject(s) at a more demanding level
+(MDL) must purchase the relevant textbooks and materials.</p>
+<p>Eligible students can offer&nbsp;English Language, Mother Tongue Languages,
+Mathematics and Science&nbsp;at a more demanding level based on their PSLE
+Achievement Level (AL) for each of these subjects.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Damai Secondary 1 2026 Eligibility Criteria" src="/images/Information/S1_C01.jpg">
+</div>
+<p>Students with PSLE MTL score of AL1/AL2, or HMTL score of Distinction/Merit
+may offer HMTL at the start of S1. The school will contact all eligible
+students.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>5. MOE Financial Assistance Scheme (FAS) and School-based Financial Assistance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4.  Eligibility to offer subject(s) at a more demanding level</strong>
+<summary><strong>6. GIRO payment for School and Miscellaneous fees</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5.  MOE Financial Assistance Scheme (FAS) and School-based Financial Assistance</strong>
+<summary><strong>7. Purchase of Textbooks, School Uniform and PE Attire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>6.  GIRO payment for School and Miscellaneous fees</strong>
+<summary><strong>8. Student Smart Card (SSC) for concessionary travel</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7.  Purchase of Textbooks, School Uniform and PE Attire</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>8.  Student Smart Card (SSC) for concessionary travel</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>9.  Safety Instructions for drivers and pedestrians</strong>
+<summary><strong>9. Safety Instructions for drivers and pedestrians</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -121,24 +134,6 @@ Vice-Principal, at email: <a href="mailto:premlatha_selvaraj@schools.gov.sg" rel
 </div>
 </details>
 </div>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeals for Transfer</strong>
-</p>
-<p></p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Allocation</strong>
-</p>
-<p>Your child’s/ward’s class allocation will be notified via Parents Gateway
-(PG) by 31 December 2025. The class information will also be displayed
-at the school canteen at the start of the school year.</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligibility to offer subject(s) at a more demanding level</strong>
-</p>
-<p>Students who are eligible to offer subject(s) at a more demanding level
-(MDL) must purchase the relevant textbooks and materials.</p>
-<p>Eligible students can offer&nbsp;English Language, Mother Tongue Languages,
-Mathematics and Science&nbsp;at a more demanding level based on their PSLE
-Achievement Level (AL) for each of these subjects.</p>
-<p>Students with PSLE MTL score of AL1/AL2, or HMTL score of Distinction/Merit
-may offer HMTL at the start of S1. The school will contact all eligible
-students.</p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Financial Assistance Scheme (FAS) and School-based Financial Assistance</strong>
 </p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For application for financial assistance,
