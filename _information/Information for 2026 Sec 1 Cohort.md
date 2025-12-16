@@ -295,7 +295,7 @@ the traffic instructions.</p>
 Students who have yet to purchase the Damai Secondary School uniform are
 allowed to report to school in their primary school uniform.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Damai Secondary School Uniform" src="/images/Information/S1_C02.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Damai Secondary School Uniform" src="/images/Information/S1_C02.jpg">
 </div>
 <p>b) Students need not bring textbooks but should have writing materials
 (pen and a small note pad), and a water bottle.</p>
