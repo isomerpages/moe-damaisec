@@ -295,7 +295,7 @@ the traffic instructions.</p>
 Students who have yet to purchase the Damai Secondary School uniform are
 allowed to report to school in their primary school uniform.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Damai Secondary School Uniform" src="/images/Information/S1_C02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Damai Secondary School Uniform" src="/images/Information/S1_C02.jpg">
 </div>
 <p>b) Students need not bring textbooks but should have writing materials
 (pen and a small note pad), and a water bottle.</p>
@@ -386,28 +386,38 @@ at 12.30pm.</p>
 <summary><strong>11.&nbsp; Meet-The-Parents Session on 8 January 2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The session will be held from 6.45 pm to 8.30 pm. Parents are encouraged
+to attend the session together with their child to learn more the school
+and touch base with the respective Form Teachers.</p>
+<p>More information will be provided via PG.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>12. Term 1 School Calendar 2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Click <a href="/files/Information/2026_School_Calendar_Damai_Sec_Sec_1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Term 1 School Calendar 2026 with information related to Secondary 1
+students.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>13.&nbsp;Joining the Parent Support Group (PSG)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Parents who wish to join the PSG may fill in this <a href="https://form.gov.sg/5fd82ac8087344001164ea1e" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>By joining the PSG, you will have the opportunity to contribute to enriching
+your child's educational experience, connect with other supportive parents,
+and play an active role in school events.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>14.&nbsp;Supporting Your Child in Transition to Secondary 1</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As your child enters a new phase of life transiting from primary to secondary
+school, learn about common challenges and how to help your child with the
+transition <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
