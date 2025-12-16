@@ -67,100 +67,37 @@ students.</p>
 <summary><strong>5. MOE Financial Assistance Scheme (FAS) and School-based Financial Assistance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>a. For application for financial assistance, you may apply for MOE FAS
+through</p>
+<p>(i) eFAS - Go to <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> to submit
+the application; or</p>
+<p>(ii) Hardcopy – please click <a href="https://www.damaisec.moe.edu.sg/information/parents/financial-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the application form and submit the duly completed form together
+with the supporting documents as listed under Clause 11 (Pages 5 and 6
+of the application form) to the school General Office.</p>
+<p>To facilitate the prompt processing, please submit your application by <strong>Friday, 26 December 2025.</strong>
+</p>
+<p>b. If your family and child/children are existing beneficiaries of MSF
+ComCare, you do not need to apply as your child/children will be auto-granted
+MOE FAS.</p>
+<p>c. The school will offer school-based financial assistance to eligible
+students who do not meet the criteria for MOE FAS.</p>
+<p>There is no need to submit a separate application.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>6. GIRO payment for School and Miscellaneous fees</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>You are strongly encouraged to make payments for school fees through electronic
+payments. &nbsp;You may apply for GIRO payment for your child's school
+and miscellaneous fees <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>7. Purchase of Textbooks, School Uniform and PE Attire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>8. Student Smart Card (SSC) for concessionary travel</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>9. Safety Instructions for drivers and pedestrians</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>10. Instructions and Programme for first day of school (2 January 2026) for S1 students</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>11.&nbsp; Meet-The-Parents Session on 8 January 2026</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>12. Term 1 School Calendar 2026</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>13.&nbsp;Joining the Parent Support Group (PSG)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>14.&nbsp;Supporting Your Child in Transition to Secondary 1</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Financial Assistance Scheme (FAS) and School-based Financial Assistance</strong>
-</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For application for financial assistance,
-you may apply for MOE FAS through</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-eFAS - Go to <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> to
-submit the application; or</p>
-<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hardcopy
-– please click <a href="https://www.damaisec.moe.edu.sg/information/parents/financial-matters/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-download the application form and submit the duly completed form together
-with the supporting documents as listed under Clause 11 (Pages 5 and 6
-of the application form) to the school General Office.</p>
-<p>To facilitate the prompt processing, please submit your application by
-Friday, 26 December 2025.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family and child/children
-are existing beneficiaries of MSF ComCare, you do not need to apply as
-your child/children will be auto-granted MOE FAS.</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school will offer school-based
-financial assistance to eligible students who do not meet the criteria
-for MOE FAS. &nbsp;There is no need to submit a separate application.</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GIRO payment for School and Miscellaneous fees</strong>
-</p>
-<p>You are strongly encouraged to make payments for school fees through electronic
-payments. &nbsp;You may apply for GIRO payment for your child's school
-and miscellaneous fees <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of Textbooks, School Uniform and PE Attire</strong>
-</p>
 <p>You are strongly encouraged to purchase textbooks and school uniforms
 online with either home delivery or self-collection option. Please note
 that the purchase of school tie is optional.</p>
@@ -195,11 +132,11 @@ help you select the size of the school uniform.</p>
 <p>Online purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<p><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://beauvoix.com.sg</a>
+<p><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://beauvoix.com.sg</a>
 </p>
 </td>
 </tr>
@@ -211,11 +148,15 @@ help you select the size of the school uniform.</p>
 <p>Advance booking is required for collection at school.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advance booking is required for
-collection at school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beau Voix Uniform – Retail Store
-(appointment required, no walk-ins): Gemini@Sims, 2 Sims Close, #03-08,
-Singapore 387298.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advance booking is required for collection at school.</p>
+</li>
+<li>
+<p>Beau Voix Uniform – Retail Store (appointment required, no walk-ins):
+Gemini@Sims, 2 Sims Close, #03-08, Singapore 387298.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -223,19 +164,21 @@ Singapore 387298.</p>
 <p>Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 6929 8012 or <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>Tel: 6929 8012 or <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel:&nbsp; 6743 6645 or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">info@beauvoix.com.sg</a>
+<p><a href="mailto:info@beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@beauvoix.com.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong>
+</p>
 <p>If you prefer walk-in purchase in our school for textbooks and school
 uniform, please refer to the schedule below for the opening hours. <em>&nbsp;</em>
 </p>
@@ -248,7 +191,8 @@ uniform, please refer to the schedule below for the opening hours. <em>&nbsp;</e
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date</p>
+<p><strong>Date</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Description</strong>
@@ -311,120 +255,66 @@ Walk-in Purchase</p>
 </tbody>
 </table>
 <p><u>Note</u>:&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAS students must produce the letter
-of approval issued by the school when collecting textbooks and school uniforms.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There may be limited parking lots
-in the school on 29 December 2025. Those driving may be required to park
-at the nearby HDB carparks.</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Smart Card (SSC) for concessionary travel</strong>
-</p>
-<p>Students entering Secondary One in January 2026 will be issued with a
-new School Smart Card (SSC). &nbsp;While waiting the new SSC, students
-can use their Primary level SSC for concessionary travel until end April
-2026. &nbsp;Students can purchase the Bus Concession Pass (BCP) for Secondary
-School students using their Primary Level SSC.</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety Instructions for drivers and pedestrians</strong>
-</p>
-<p>For the safety of everyone, please observe the vehicular and pedestrian
-traffic instructions outside and inside the school.&nbsp; Click <a href="https://damaisec.moe.edu.sg/information/parents/traffic-management-plan" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the traffic instructions.</p>
-<p><strong>10.&nbsp;&nbsp; Instructions and Programme for first day of school (2 January 2026) for S1 students</strong>
-</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to <strong>report to the school hall by 7.20 am</strong>  <strong>in half-school uniform</strong>.
-Students who have yet to purchase the Damai Secondary School uniform are
-allowed to report to school in their primary school uniform.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students need not bring textbooks but
-should have writing materials (pen and a small note pad), and a water bottle.</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students will take part in an orientation
-programme<u> </u>designed to help them settle in, get to know their Form
-Teachers and make friends.&nbsp; Students will need to purchase food from
-the school canteen during recess and lunch break, unless they pack food
-from home.&nbsp; They will be dismissed at 12.30pm.</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brief overview of Sec 1 Orientation Programme:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Description</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 2 January 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Assembly &amp;</p>
-<p>Orientation Programme</p>
-<p>“Our Damai Heartbeat”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am – 12.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 5 January 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Orientation Programme</p>
-<p>“Our Damai Heartbeat”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am – 1.00 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 8 January 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Normal Curriculum following timetable</p>
-<p>&nbsp;</p>
-<p>Mass dance practice and dinner for students</p>
-<p>&nbsp;</p>
-<p>Meet-The-Parents Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am – 2.30 pm</p>
-<p>&nbsp;</p>
-<p>4.30 pm – 6.30 pm</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>6.45 pm – 8.30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>11.&nbsp;&nbsp; Meet-The-Parents Session on 8 January 2026</strong>
-</p>
-<p>The session will be held from 6.45 pm to 8.30 pm. Parents are encouraged
-to attend the session together with their child to learn more the school
-and touch base with the respective Form Teachers.</p>
-<p>More information will be provided via PG.</p>
-<p><strong>12.&nbsp;&nbsp; Term 1 School Calendar 2026</strong>
-</p>
-<p>Click <a href="2026%20School%20Calendar%20Damai%20Sec_Sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Term 1 School Calendar 2026 with information related to Secondary 1
-students.</p>
-<p><strong>13.&nbsp;&nbsp; Joining the Parent Support Group (PSG)</strong>
-</p>
-<p>Parents who wish to join the PSG may fill in this <a href="https://form.gov.sg/5fd82ac8087344001164ea1e" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
-<p>By joining the PSG, you will have the opportunity to contribute to enriching
-your child's educational experience, connect with other supportive parents,
-and play an active role in school events.&nbsp;</p>
-<p><strong>14.&nbsp;&nbsp; Supporting Your Child in Transition to Secondary 1</strong>
-</p>
-<p>As your child enters a new phase of life transiting from primary to secondary
-school, learn about common challenges and how to help your child with the
-transition <a href="https://www.moe.gov.sg/secondary/transition-to-secondary" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FAS students must produce the letter of approval issued by the school
+when collecting textbooks and school uniforms.</p>
+</li>
+<li>
+<p>There may be limited parking lots in the school on 29 December 2025. Those
+driving may be required to park at the nearby HDB carparks.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>8. Student Smart Card (SSC) for concessionary travel</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>9. Safety Instructions for drivers and pedestrians</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>10. Instructions and Programme for first day of school (2 January 2026) for S1 students</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>11.&nbsp; Meet-The-Parents Session on 8 January 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>12. Term 1 School Calendar 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>13.&nbsp;Joining the Parent Support Group (PSG)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>14.&nbsp;Supporting Your Child in Transition to Secondary 1</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
