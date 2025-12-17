@@ -71,7 +71,7 @@ in the household.</p>
 <p><strong>Any Queries</strong>
 </p>
 <p>Please refer to the following set of Frequently Asked Questions.</p>
-<p><a href="/files/PLD%20Initiative%20FAQ%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative FAQ for Parents</a>
+<p><a href="/files/Our Curriculum/PLD_Initiative_FAQ_for_Parents_updatedDec2025.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative FAQ for Parents</a>
 </p>
 <p>More details regarding the Device Management Application (DMA) can be
 found&nbsp;<a href="/information/parents/device-management-application" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
