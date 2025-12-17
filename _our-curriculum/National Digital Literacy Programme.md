@@ -53,16 +53,17 @@ learning technologies such as the Singapore Student Learning Space, Microsoft
 account, after setting aside provision for payment of second tier miscellaneous
 fees.</p>
 <p>To ensure the affordability of devices, MOE has provided Edusave top-ups
-of $200 in 2020 to 2022, and $300 in 2023, to all eligible SC students
-in primary and secondary schools.&nbsp;This is on top of the annual $290
-credited into the Edusave account for Secondary School students and $230
-for Primary School students.</p>
+of $200 in 2020 to 2022, $300 in 2023 and $500 in 2025 to all eligible
+Singaporean students in primary and secondary schools. This is on top of
+the annual $290 credited into the Edusave account for Secondary School
+students and $230 for Primary School students.</p>
 <p>Students under the MOE Financial Assistance Scheme for the year will automatically
 be subsidised for the PLD. Students who are currently not under the MOE
 Financial Assistance Scheme may approach the General Office to apply for
-additional subsidy if their Gross Household Income (GHI) is $4,400 or less,
-or Per Capita Income (PCI) is $1,100 or less. “PCI” refers to the Gross
-Household Income divided by the total number of family members in the household.</p>
+additional subsidy if their Gross Household Income (GHI) is $5,500 or less,
+or Per Capita Income (PCI) is $1,375 or less<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[KXD(1]</a>&nbsp;. “PCI” refers
+to the Gross Household Income divided by the total number of family members
+in the household.</p>
 <p><strong>Sec 1 Parents' Briefing</strong>
 </p>
 <p><a href="/files/Our Curriculum/Digital Literacy/2025_Parent_Engagement_Deck_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Parent Engagement Deck</a>
