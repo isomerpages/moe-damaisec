@@ -16,7 +16,7 @@ filtering out social media sites, pornography, gambling, extremist and
 violence-related sites.</p>
 </li>
 <li>
-<p>PLD usage time is set to 6:00am to 11:00pm daily.</p>
+<p>PLD usage time is set to 6:30am to 10:30pm daily.</p>
 </li>
 <li>
 <p>The school determines the apps and programmes to be installed to support
