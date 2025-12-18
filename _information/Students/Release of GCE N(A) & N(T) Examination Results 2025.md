@@ -28,10 +28,14 @@ the results.</p>
 </li>
 </ol>
 <h3><strong>Letter for Parents:</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="/files/Information/Supporting_Your_Teen_through_the_N_Level_Results_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting your Teen through the N-Level Results Release</a>
 </p>
-<p><a href="/files/Information/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Parents</a>
+<p><a href="/files/Information/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank"> (Information Sheet for Parents)</a>
 </p>
+</li>
+</ol>
 <h3><strong>N-Level Resources:</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -172,6 +176,26 @@ the results.</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p><a href="/files/Information/N levels 2025/9__WhatsNextN_Level_Final2025.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next after N-Levels?</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/N levels 2025/10__JIE_Factsheet_for_Group___Synergy_Room.pdf" rel="noopener noreferrer nofollow" target="_blank">JIE Factsheet</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/N levels 2025/11_2025_N_Level_Briefing_Slides_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 N-Level Briefing Slides for Students</a>
 </p>
 </li>
 </ol>
