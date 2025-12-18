@@ -177,6 +177,26 @@ the results.</p>
 </ol>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/N levels 2025/10__JIE_Factsheet_for_Group___Synergy_Room.pdf" rel="noopener noreferrer nofollow" target="_blank">JIE Factsheet</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/N levels 2025/11_2025_N_Level_Briefing_Slides_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 N-Level Briefing Slides for Students</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
