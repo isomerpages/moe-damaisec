@@ -28,10 +28,14 @@ the results.</p>
 </li>
 </ol>
 <h3><strong>Letter for Parents:</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="/files/Information/Supporting_Your_Teen_through_the_N_Level_Results_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting your Teen through the N-Level Results Release</a>
 </p>
-<p><a href="/files/Information/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Parents</a>
+<p><a href="/files/Information/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank"> (Information Sheet for Parents)</a>
 </p>
+</li>
+</ol>
 <h3><strong>N-Level Resources:</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
