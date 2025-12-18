@@ -27,4 +27,8 @@ produce the relevant documents for the school’s verification when collecting
 the results.</p>
 </li>
 </ol>
-<p></p>
+<h3><strong>Letter for Parents:</strong></h3>
+<p><a href="/files/Information/Supporting_Your_Teen_through_the_N_Level_Results_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting your Teen through the N-Level Results Release</a>
+</p>
+<p><a href="/files/Information/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Parents</a>
+</p>
