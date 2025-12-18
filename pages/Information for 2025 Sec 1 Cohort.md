@@ -1,6 +1,6 @@
 ---
 title: Information for 2025 Sec 1 Cohort
-permalink: /information/parents/information-for-sec-1-cohort/
+permalink: /archive/s1cohort2025/
 variant: tiptap
 description: ""
 third_nav_title: Parents
