@@ -14,7 +14,7 @@ variant: markdown
 <th><a href="https://rbs.avero-tech.com/"><img src="/images/ul13.jpg"></a></th>
 </tr>
 <tr>
-<td><a target="_blank" href="https://forms.office.com/r/G0yH1w2xfX"><img src="/images/ul4.jpg"></a></td>
+<td><a target="_blank" href="https://for.edu.sg/dss-ict-loan"><img src="/images/ul4.jpg"></a></td>
 <td><a href="https://iexams.seab.gov.sg/login"><img src="/images/ul5.jpg"></a></td>
 <td><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img src="/images/ul6.jpg"></a></td>
 </tr>
