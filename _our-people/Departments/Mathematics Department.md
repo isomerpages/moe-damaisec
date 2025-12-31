@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Projefcts</p>
+<p>HOD/Special Projects</p>
 </td>
 </tr>
 <tr>
