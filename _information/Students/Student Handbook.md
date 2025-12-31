@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p>You may find the <a href="/files/Information/Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook </a><strong><a href="/files/Information/Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p><strong><a href="/files/Information/Students/Student_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">Student Handbook</a></strong> (PDF)</p>
 <p><strong>Contents</strong>
 </p>
 <table style="minWidth: 50px">
