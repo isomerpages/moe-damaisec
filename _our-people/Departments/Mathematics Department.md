@@ -21,11 +21,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Yong</a>
+<p><a href="mailto:angelina_tay_lay_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tay Lay Peng Angelina</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Yong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Special Projefcts</p>
 </td>
 </tr>
 <tr>
