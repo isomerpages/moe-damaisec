@@ -20,20 +20,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHAN_Wan_Siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Wan Siong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:prashant_jayapragas@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Prashant S/O Jayapragas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal-Designate</p>
+<p>Principal</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:denise_lavinia_selvakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lavinia Ranjan</a>
+<p><a href="mailto:chen_huijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Huijun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,11 +83,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:angelina_tay_lay_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tay Lay Peng Angelina</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Maths</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:seow_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Yong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Math</p>
+<p>HOD/Special Projects</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +137,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:neo_hui_jun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Hui Jun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:neo_ai_ling_jackie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jackie Chan Neo Ai Ling</a>
 </p>
 </td>
@@ -169,15 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:see_pei_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms See Pei Zhen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -223,24 +223,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/SS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tong_coleman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tong Coleman</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/SWB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_hui_jun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Hui Jun</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSD</p>
 </td>
 </tr>
 </tbody>
