@@ -57,15 +57,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_pei_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms See Pei Zhen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Tong_Coleman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Coleman Tong</a>
 </p>
 </td>
@@ -111,18 +102,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jenny Low Kar Yee</p>
+<p><a href="mailto:Khyrul_Anwar_Jamil@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Khyrul Anwar</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Staff (Science Lab)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Jenny Low Kar Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technical Support Staff (Science Lab)</p>
 </td>
 </tr>
 </tbody>
