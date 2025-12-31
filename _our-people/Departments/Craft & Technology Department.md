@@ -30,15 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Evangeline_Anne_Lim_Shyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Evangeline Anne Lim Shyan Ying</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_hawa_shaini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hawa Bte Shaini</a>
 </p>
 </td>
@@ -85,6 +76,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chia_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Chia Hui</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_si_liang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ho Si Liang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
