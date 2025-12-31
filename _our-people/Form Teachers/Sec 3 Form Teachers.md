@@ -24,34 +24,28 @@ variant: tiptap
 <p>301</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_xuehui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Clara Chng Xuehui</u></a>
+<p><a href="mailto:angelina_tay_lay_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tay Lay Peng Angelina</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NEO_Hui_Jun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Neo Hui Jun</a>
+<p><a href="mailto:Nicholas_Ong_Yew_Hui_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Nicholas Ong Yew Hui</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>302</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_pei_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms See Pei Zhen</u></a>
+<p><a href="mailto:Cristy_Therese_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Cristy Therese Lin</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anisa_ali@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Anisa Bte Ali</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Sing_Huat_Jonathan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Ong Sing Huat</a>
+<p><a href="mailto:nooraini_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Nooraini Bte Othman</a>
 </p>
 </td>
 </tr>
@@ -60,50 +54,55 @@ variant: tiptap
 <p>303</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pang_Miin_Lih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Jasmine Pang Miin Lih</u></a>
+<p><a href="mailto:Chai_Ying_Chung@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chai Ying Chung</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hong_fei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Goh Hong Fei</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>304</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Low_Yuesi_Georgina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Georgina Low Yuesi</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Te_Chee_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Te Chee Hui</u></a>
+<p><a href="mailto:Goh_Hwee_Ling_Mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Mary Goh Hwee Ling</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
+<p>304</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_huijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Huijun</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Viknesh_M_Pasupathi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Viknesh S/O M Pasupathi</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sng_Gek_Hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Sng Gek Hoon</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>305</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tong_Coleman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tong Coleman</u></a>
+<p><a href="mailto:lin_jiehui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Lin Jiehui</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sidek_B_Terimoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Sidek Bin Terimoh</u></a>
+<p><a href="mailto:Tay_Ee_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Tay Ee Teng</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Yap_Yee_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Yiow Yee Ling</u></a>
-</p>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
