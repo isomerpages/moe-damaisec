@@ -30,7 +30,7 @@ sections:
           announcement: Welcome back to school! Find out more about your "Back to School"
             programme in the link below!
           link_text: Click here for the information!
-          link_url: /information/back-to-school-information/
+          link_url: /back-to-school-information/
         - title: Information for 2026 Sec 1 Cohort
           date: 18 December 2025
           announcement: Welcome to the Damai family! Find out more about Sec 1
