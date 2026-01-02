@@ -42,7 +42,7 @@ the Damai Secondary School uniform may report in their <strong>primary school un
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Information/Students/Student_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">2026 Student Handbook</a></strong>
+<p><strong><a href="/files/Information/Students/Student_Handbook_2026_updated.pdf" rel="noopener nofollow" target="_blank">2026 Student Handbook</a></strong>
 </p>
 </td>
 </tr>
