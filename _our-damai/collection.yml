@@ -2,7 +2,6 @@ collections:
   our-damai:
     output: true
     order:
-      - Principal's Foreword.md
       - Vision, Mission, Values & Motto.md
       - School Crest & Song.md
       - Our Heritage.md
