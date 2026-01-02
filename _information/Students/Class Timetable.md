@@ -3,12 +3,10 @@ title: Class Timetable
 permalink: /information/students/class-timetable/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
-[Updated 26 June 2025]
-
-The Class Timetable for 2025 Semester 2 is available for download.
-
-Click on the link below to download the timetable. 
-
-[2025 Semester 2 Timetable (Classes)](/files/Information/Students/Timetable/2025_Sem_2_Timetable_v17e_Classes.pdf)
+<p>[Updated 2 January 2026]</p>
+<p>The Class Timetable for 2026 Semester 1 is available for download.</p>
+<p>Click on the link below to download the timetable.</p>
+<p><a href="/files/Information/Students/Timetable/DSS_Sem_1_2026_Timetable_Classes_v4.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Class Timetable</a>
+</p>
