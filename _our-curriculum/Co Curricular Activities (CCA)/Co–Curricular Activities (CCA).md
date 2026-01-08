@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Information/Students/2025_Sec_1_CCA_Briefing_compressed.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 CCA Briefing</a>
+<p><a href="/files/Our Curriculum/2026_CCA_Sec_1_Briefing.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 CCA Briefing</a>
 </p>
 </li>
 </ul>
