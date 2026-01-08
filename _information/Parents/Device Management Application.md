@@ -27,9 +27,9 @@ teaching and learning.</p>
 PLD activities and partner the school to ensure his/her cyber well-being.</p>
 </li>
 </ul>
-<p>Please refer to&nbsp;<a href="/files/Our Curriculum/Digital Literacy/Annex_A_Functions_of_the_DMA_.pdf" rel="noopener nofollow" target="_blank">Annex A</a>&nbsp;for
+<p>Please refer to&nbsp;<a href="/files/Information/Parents/DMA/Annex_A_Functions_of_DMA.pdf" rel="noopener nofollow" target="_blank">Annex A (Functions of DMA)</a> for
 more details on the functions and features of the DMA.</p>
-<p>Please refer to&nbsp;<a href="/files/Our Curriculum/Digital Literacy/Annex_C_Privacy_and_Data_Security.pdf" rel="noopener nofollow" target="_blank">Annex C</a>&nbsp;for
+<p>Please refer to <a href="/files/Information/Parents/DMA/Annex_C_Privacy_and_Data_Security.pdf" rel="noopener nofollow" target="_blank">Annex C (Privacy and Data Security)</a>&nbsp;for
 more details on privacy and data security of the DMA.</p>
 <p><strong>After-School DMA Options<br></strong>For parents/guardians who
 prefer the default DMA setting,&nbsp;<strong>no action is required</strong>.
@@ -46,7 +46,7 @@ after-school hours.&nbsp;</p>
 after-school hours.</p>
 </li>
 </ul>
-<p>Please refer to&nbsp;<a href="/files/Our Curriculum/Digital Literacy/Annex_B_MOE_DMA_After_School_Hours_Settings_for_iPad_PLDs.pdf" rel="noopener nofollow" target="_blank">Annex B</a>&nbsp;for
+<p>Please refer to&nbsp;<a href="/files/Information/Parents/DMA/Annex_B_MOE_DMA_After_School_Hours_Settings_for_iPad_PLD.pdf" rel="noopener nofollow" target="_blank">Annex B (MOE DMA After School Hours Settings for iPad PLD)</a>&nbsp;for
 details of these after-school options.</p>
 <p>Parents/guardians can request to change your choice of DMA settings at
 any time through the following link:</p>
