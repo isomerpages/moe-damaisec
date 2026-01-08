@@ -66,7 +66,7 @@ to the Gross Household Income divided by the total number of family members
 in the household.</p>
 <p><strong>Sec 1 Parents' Briefing</strong>
 </p>
-<p><a href="/files/Our Curriculum/Digital Literacy/2025_Parent_Engagement_Deck_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Parent Engagement Deck</a>
+<p><a href="/files/Our Curriculum/Digital Literacy/2026_PLD_Parent_Engagement_Deck__Full_.pdf" rel="noopener nofollow" target="_blank">2026 PLD Parent Engagement Deck</a>
 </p>
 <p><strong>Any Queries</strong>
 </p>
@@ -79,7 +79,7 @@ found&nbsp;<a href="/information/parents/device-management-application" rel="noo
 Dolly Khoo via her email&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dolly_khoo@schools.gov.sg</a>.</p>
 <p><strong>Parent Handbook</strong>
 </p>
-<p><a href="/files/Our Curriculum/Digital Literacy/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">IP2 - Parent Handbook (1) 2025</a>
+<p><a href="/files/Our Curriculum/Digital Literacy/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">IP2 - Parent Handbook (1) 2026</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,7 +87,7 @@ Dolly Khoo via her email&nbsp;<a href="mailto:chin_pei_kee@schools.gov.sg" rel="
 and contains some digital parenting tips and strategies.</p>
 </li>
 </ul>
-<p><a href="/files/Our Curriculum/Digital Literacy/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2025</a>
+<p><a href="/files/Our Curriculum/Digital Literacy/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2026</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
