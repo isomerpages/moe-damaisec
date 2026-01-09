@@ -56,9 +56,9 @@ any time through the following link:</p>
 only take effect at the end of every month.</p>
 <p>For further enquiries, please contact the SH/ICT Ms Dolly Khoo Xuan at&nbsp;
 <a href="mailto:dolly_khoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="">dolly_khoo@schools.gov.sg</a>.&nbsp;</p>
-<p><strong>DMA Parents Guide (updated Jan 2025)</strong>
+<p><strong>DMA Parents Guide (updated Dec 2025)</strong>
 </p>
-<p><a href="/files/Our Curriculum/Digital Literacy/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener" target="_blank">DMA Parent Guide - Default Option</a>
-<br><a href="/files/Our Curriculum/Digital Literacy/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener" target="_blank">DMA Parent Guide - Option A</a>
-<br><a href="/files/Our Curriculum/Digital Literacy/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener" target="_blank">DMA Parent Guide - Option B</a>
+<p><a href="/files/Information/Parents/DMA/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default Option</a>
+<br><a href="/files/Information/Parents/DMA/iPadOS_DMA_Parent_Option_A_.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<br><a href="/files/Information/Parents/DMA/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
