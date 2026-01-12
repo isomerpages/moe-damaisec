@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><strong>RELEASE OF 2024 GCE O-LEVEL EXAMINATION RESULTS</strong>
+<p><strong>RELEASE OF 2025 GCE O-LEVEL EXAMINATION RESULTS</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2024 Singapore-Cambridge
 General Certificate of Education Ordinary Level (GCE O-Level) examination
