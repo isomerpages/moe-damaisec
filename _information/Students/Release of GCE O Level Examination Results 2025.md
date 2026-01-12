@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><strong>RELEASE OF 2025 GCE O-LEVEL EXAMINATION RESULTS</strong>
-</p>
+<h4><strong>RELEASE OF 2025 GCE O-LEVEL EXAMINATION RESULTS</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>The results of the 2025 Singapore-Cambridge General Certificate of Education
