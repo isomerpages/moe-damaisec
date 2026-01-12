@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of the 2025 GCE O level Examination Results
+          date: 12 January 2026
+          announcement: Find out more information on the release of the GCE O Examination
+            Results in the link below.
+          link_text: Click here for the information!
+          link_url: /information/students/release-of-o-level-results/
         - title: Back to School Information
           date: 31 December 2025
           announcement: Welcome back to school! Find out more about your "Back to School"
