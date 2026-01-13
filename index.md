@@ -25,6 +25,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Schedule of Assessment
+          date: 13 January 2026
+          announcement: Schedule of Assessments for Sec 1 - 5 have been uploaded for Term
+            1, in the link below.
+          link_text: Click here for the information!
+          link_url: /information/students/assessment-matters/
         - title: Release of the 2025 GCE O level Examination Results
           date: 07 January 2026
           announcement: Find out more information on the release of the GCE O Examination
@@ -49,10 +55,4 @@ sections:
             Examination Results in the link below.
           link_text: Click here for the information!
           link_url: /information/students/release-of-gce-nant-results-2025/
-        - title: Damai Secondary School e-Open House 2025
-          date: 22 November 2025
-          announcement: Curious about life at Damai Secondary? Join us for our e-Open
-            House 2025 and experience the vibrant Damai spirit.
-          link_text: Click here to join us!
-          link_url: /e-open-house
 ---
