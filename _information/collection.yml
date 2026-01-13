@@ -2,12 +2,11 @@ collections:
   information:
     output: true
     order:
-      - 2026 Nominations for PAT and OYEA.md
       - Students/.keep
       - Students/Release of GCE O Level Examination Results 2025.md
+      - Students/Assessment Matters.md
       - Students/Back to School Information.md
       - Students/Release of GCE N(A) & N(T) Examination Results 2025.md
-      - Students/Assessment Matters.md
       - Students/Book List.md
       - Students/Bookshop and Uniform Vendors.md
       - Students/Class Timetable.md
