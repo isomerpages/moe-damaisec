@@ -107,7 +107,8 @@ a proxy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Information/Students/2025_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">2025 O Level Briefing Slides for Students</a>
+</p>
 </td>
 </tr>
 <tr>
