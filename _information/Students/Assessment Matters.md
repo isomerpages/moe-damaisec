@@ -13,6 +13,26 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>2026 Scheme of Assessment (Term 1)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_2026__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA1 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_2026__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA1 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_2026__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA1 [Sec 3]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/Scheme_of_Assessment_2026__Sec_4_5_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment NWA1 [Sec 4&amp;5]</a>
+</p>
+</li>
+</ul>
 <p><strong>PHILOSOPHY</strong>
 <br>Effective and meaningful assessments are essential elements that support
 students in acquiring the skills and competencies necessary to lead a purposeful
