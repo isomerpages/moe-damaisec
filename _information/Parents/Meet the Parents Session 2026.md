@@ -29,7 +29,8 @@ Meet-the-Parents 2026 sessions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides to be uploaded after the Secondary 2 MTP Session.</p>
+<p><a href="https://drive.google.com/file/d/1PyKXiNTsnlY8gBT8maUgPC8OvneL9izw/view?usp=drive_link" rel="noopener nofollow" target="_blank">Secondary 2 MTP Slides (16 January 2026)</a>
+</p>
 </td>
 </tr>
 <tr>
