@@ -25,30 +25,29 @@ on sexuality issues.</p>
 <p>The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>(a)&nbsp;Support students in managing their physiological, social and
 emotional changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c)&nbsp;Help students develop a moral compass and respect for themselves
-and others by having positive mainstream values and attitudes about sexuality
+<p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
+on sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
-marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<p><strong>Overview of Damai Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Damai Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <ol start="4">
 <li>
@@ -91,9 +90,9 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<p><strong>At Damai Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Damai Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 <br><strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 125px">
@@ -106,27 +105,29 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Title/Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives
-<br>
-<br>At the end of the lessons,
-<br>students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>
-<br>(e.g. Term 1
-<br>Week 2)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -170,7 +171,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +201,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +237,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -253,25 +254,29 @@ etc.)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Title/Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives
-<br>
-<br>At the end of the lesson, students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>
-<br>(e.g. Term 1 Week 2)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -315,7 +320,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +351,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -379,7 +384,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -396,25 +401,31 @@ both offline and online</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Title/Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives
-<br>
-<br>At the end of the lesson, students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>
-<br>(e.g.Term 1 Week 2)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong><br></strong>
+</p>
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -453,7 +464,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -493,7 +504,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +539,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -545,24 +556,29 @@ alignment with our beliefs</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Title/Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives
-<br>
-<br>At the end of the lesson, students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>(e.g.Term 1 Week 2)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -573,14 +589,9 @@ alignment with our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson aims to help students think critically about gender stereotypes
-that exist in our society in the contexts of career and family (e.g. males
-typically perceived as main breadwinners and females typically perceived
-as main caregivers in the family), and the impact of these stereotypes
-on individuals. Students will learn to be aware of possible gender stereotypes
-that may affect one’s family and future decisions. They will also learn
-to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -596,7 +607,7 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -634,14 +645,15 @@ relationships that are unhealthy and cause harm to our mental and emotional
 well-being</p>
 </li>
 <li>
-<p>understand the importance of ensuring that non-verbal messages match with
-verbal ones, when communicating personal and emotional boundaries in a
-relationship</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
+of ensuring that non-verbal messages match with verbal ones, when communicating
+personal and emotional boundaries in a relationship</p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -656,9 +668,9 @@ in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
 apart is its lifelong commitment. Students will learn that what really
-matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+matters in sustaining and maintaining a long-term romantic relationship
 that leads to marriage, is understanding the other person’s perspective
-and effectively communicating with each other.&nbsp;</p>
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -679,7 +691,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -709,7 +721,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -741,9 +753,7 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p></p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
@@ -781,7 +791,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -790,12 +800,16 @@ alignment with our beliefs</p>
 </p>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
@@ -805,7 +819,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Damai Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Damai Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -815,16 +829,20 @@ Abstinence and upholding family values are the key messages.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>(e.g. Term 3 Week 9)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -834,13 +852,19 @@ Abstinence and upholding family values are the key messages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
 </li>
 </ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -857,9 +881,10 @@ healthy way.</p>
 of assertiveness and responsible decision-making</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -874,14 +899,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Information/Parents/Annex_A_GY_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by 31/01/2025.</p>
+at the start of the year and is also downloadable <a href="/files/Information/Parents/Annex_A_GY_Opt_Out_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 06/02/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Information/Parents/Annex_B_eTeens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;The
-completed form is to be submitted by 07/02/2025.</p>
+at the start of the year and is also downloadable <a href="/files/Information/Parents/Annex_B_eTeens_Opt_Out_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
+completed form is to be submitted by 13/02/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">damai_ss@moe.edu.sg</a> for
