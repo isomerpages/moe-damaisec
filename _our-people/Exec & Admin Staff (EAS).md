@@ -29,15 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Ang Kok Heng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:hasimah_kassim@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Hasimah Binte Kassim</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,30 +78,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Adeline Liang Qiyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Georgina Ong Hock Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Latiff Bin Leman
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO
-<br>
-</p>
 </td>
 </tr>
 <tr>
