@@ -268,15 +268,11 @@ online and what is cool amongst his/her friends.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit - Supporting your child during full home-based learning</a>
+<p><a href="https://www.moe.gov.sg/api/media/c6425a54-1253-42ef-830b-c61c47dfd6aa/experiencing-blended-learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit - Supporting your child during full home-based learning</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit - Cyber wellness for your child</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Raising A Digitally Smart Child</a>
+<p><a href="https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Raising A Digitally Smart Child</a>
 </p>
 </li>
 </ul>
@@ -308,34 +304,6 @@ online and what is cool amongst his/her friends.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Factsheet</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Family%20Pledge%20Card.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Family Pledge Card</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Fun%20Things%20To%20Do.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Fun Things To Do</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pack%20Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Pack Overview</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Pledge%20Card.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Pledge Card</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Quick%20activities.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Quick activities</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/Safer%20Internet%20Day%202018%20-%20Parents%20and%20Carers%20Pack%20-%20Spread%20the%20Word.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day 2018 - Parents and Carers Pack - Spread the Word</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.damaisec.moe.edu.sg/files/Resource%20Guide%20for%20Parents%20on%20CW_Bullying%20Hub.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Guide for Parents on CW_Bullying Hub</a>
 </p>
 </li>
@@ -348,18 +316,11 @@ online and what is cool amongst his/her friends.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/7-Conversation-Topics-November-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">7-Conversation-Topics-November-2018</a>&nbsp;</p>
-</li>
-<li>
 <p><a href="https://www.damaisec.moe.edu.sg/files/Youtube-Parents-Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Youtube-Parents-Guide</a>
 </p>
 </li>
 <li>
 <p><a href="https://www.damaisec.moe.edu.sg/files/WhatsApp-Parents-Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">WhatsApp-Parents-Guide</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.damaisec.moe.edu.sg/files/TikTok-Online-Safety-Guide-March-2019-1.pdf" rel="noopener noreferrer nofollow" target="_blank">TikTok-Online-Safety-Guide-March-2019</a>
 </p>
 </li>
 <li>
