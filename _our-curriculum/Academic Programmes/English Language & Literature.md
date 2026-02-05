@@ -62,11 +62,15 @@ and Assessment of Learning into its evaluative framework.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/sec_exp-na_els-2020_syllabus-(1).pdf" rel="noopener nofollow" target="_blank">English Language - Express &amp; Normal (Academic)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1184_y26_sy.pdf" rel="noopener nofollow" target="_blank">English Language - Express</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf" rel="noopener nofollow" target="_blank">English Language - Normal (Technical)</a>
+<p><a href="https://www.seab.gov.sg/files/NA Level Syllabus Sch Cddts/2026/1190_y26_sy.pdf" rel="noopener nofollow" target="_blank">English Language - Normal (Academic)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.seab.gov.sg/files/NT Lvl Syllabus Sch Cddts/2026/1195_y26_sy.pdf" rel="noopener nofollow" target="_blank">English Language - Normal (Technical)</a>
 </p>
 </li>
 </ul>
