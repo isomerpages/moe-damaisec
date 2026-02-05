@@ -37,8 +37,3 @@ Secondary School
 Secondary School
 <br><em><a href="/our-curriculum/co-curricular-activities-cca" rel="noopener noreferrer nofollow" target="_blank">https://damaisec.moe.edu.sg/our-curriculum/co-curricular-activities-cca</a></em>
 </p>
-<p><strong><em>Miscellaneous</em></strong>
-</p>
-<p>School Uniform and PE Attire
-<br><em>All students are expected to wear the full school uniform, or half-uniform on days when they have PE lessons, when they report to school.&nbsp;<br>Please refer to the 2026 Student Diary for the design of our school uniform and PE attire.</em>
-</p>
