@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Inspiring Teacher of English Award 2026.md
       - Students/.keep
       - Students/Release of GCE O Level Examination Results 2025.md
       - Students/Assessment Matters.md
@@ -45,4 +46,3 @@ collections:
       - Time Table Structure.md
       - Direct School Admission (DSA).md
       - Full Subject Based Banding.md
-      - Information for 2026 Sec 1 Cohort.md
