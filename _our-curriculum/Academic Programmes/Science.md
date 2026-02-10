@@ -256,7 +256,7 @@ their daily lives, society, and the broader environment.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 G2/G3 Lower Secondary Science Syllabuses</a>
+<p><a href="https://www.moe.gov.sg/api/media/b6d63789-2ad0-4630-b847-42fd380ec404/G2-3-Lower-Secondary-Science-Teaching-and-Learning-Syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 G2/G3 Lower Secondary Science Syllabuses</a>
 </p>
 </td>
 </tr>
@@ -265,7 +265,7 @@ their daily lives, society, and the broader environment.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g1-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 G1 Lower Secondary Science Syllabus</a>&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/api/media/1d64a426-e846-4b29-b08a-b3b13f1165bb/G1-Lower-Secondary-Science-Teaching-and-Learning-Syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 G1 Lower Secondary Science Syllabus</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
