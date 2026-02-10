@@ -24,7 +24,7 @@ so that the core business of school education can be conducted in a safe
 environment.&nbsp; The School Safety Motto emphasizes that safety begins
 with self, and everyone must take ownership of own safety and others’ safety
 in developing the safety culture.</p>
-<p>Click <a href="/files/Information/Students/2026___Student___Safety_2_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click <a href="/files/Information/Students/2026___Student___Safety_11_Feb.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the School Safety Briefing slides.</p>
 <table style="minWidth: 25px">
 <colgroup>
