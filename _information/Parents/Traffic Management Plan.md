@@ -10,9 +10,6 @@ variant: tiptap
 been established to identify safe routes for pedestrians and vehicles.
 We seek everyone’s cooperation to adhere to the traffic management plan
 for the safety of the school community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/traffic.png">
-</div>
 <p><strong><u>Vehicle<br></u></strong>We seek drivers’ understanding to adhere
 to the following safety instructions:</p>
 <ul data-tight="true" class="tight">
@@ -35,6 +32,39 @@ of vehicle only</p>
 for safety reasons</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="traffic management plan damai secondary 2026 1" src="/images/Information/TMP2026_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="traffic management plan damai secondary 2026 2" src="/images/Information/TMP2026_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="traffic management plan damai secondary 2026 3" src="/images/Information/TMP2026_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Pedestrian<br></u></strong>All pedestrians are reminded to
 adhere to the following safety instructions:</p>
 <ul data-tight="true" class="tight">
