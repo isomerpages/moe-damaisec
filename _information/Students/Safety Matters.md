@@ -24,6 +24,27 @@ so that the core business of school education can be conducted in a safe
 environment.&nbsp; The School Safety Motto emphasizes that safety begins
 with self, and everyone must take ownership of own safety and others’ safety
 in developing the safety culture.</p>
-<p>Click <a href="/files/Information/Students/2025___Student___Safety_6_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-School Safety Briefing slides.</p>
-<p>Students who are cycling to school are required to register via <a href="https://go.gov.sg/dsscyclistregister2025" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
+<p>Click <a href="/files/Information/Students/2026___Student___Safety_2_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the School Safety Briefing slides.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who are cycling to school are required to register via <a href="https://go.gov.sg/dsscyclistregister2026" rel="noopener noreferrer nofollow" target="_blank">this link</a> or
+scan the QR code below.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="dss cyclist registration 2026" src="/images/Information/Students/cyclist_registration.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
