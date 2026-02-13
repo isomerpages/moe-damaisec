@@ -28,7 +28,7 @@ and global environment in the future.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/mtl/2021-g1-g2-g3-and-higher-mother-tongue-languages-secondary-syllabus.pdf" rel="noopener nofollow" target="_blank">G1, G2, G3 and Higher Mother Tongue Languages Syllabus</a>
+<p><a href="https://www.moe.gov.sg/api/media/72529fb3-d7dc-4762-b5da-aee8260e6b97/2021-G1-G2-G3-and-Higher-Mother-Tongue-Languages-Secondary-Syllabus.pdf" rel="noopener nofollow" target="_blank">G1, G2, G3 and Higher Mother Tongue Languages Syllabus</a>
 </p>
 </li>
 </ul>
