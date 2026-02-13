@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="3">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/agab-2026"><img style="width: 60%;" height="auto" width="100%" alt="AGABQR" src="/images/Information/3__AGAB_2026_Nomination_QR_Code.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/agab-2026"><img style="width: 50%;" height="auto" width="100%" alt="AGABQR" src="/images/Information/3__AGAB_2026_Nomination_QR_Code.jpg"></a>
 </th>
 </tr>
 </tbody>
