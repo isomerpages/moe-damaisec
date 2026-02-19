@@ -88,7 +88,7 @@ at the Secondary Two streaming exercise.</p>
 <p><strong>EFFECTIVE ASSESSMENT PRACTICES</strong>
 </p>
 <p>Click&nbsp;<a href="/files/contact-jul19%20(Ms%20Chan).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-read what our Principal has to say about effective assessment practices
+read what our former Principal has to say about effective assessment practices
 in Damai.</p>
 <p><strong>GRADING FOR WEIGHTED ASSESSMENT</strong>
 </p>
