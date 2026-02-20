@@ -11,8 +11,8 @@ of the reservoir!</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/dmsslogo.svg">
 </div>
 <p>I am excited to join the Damai family as its second principal and am humbled
-to continue the work of a community shaped by care, commitment, and dedication.</p>
-<p>Damai Secondary School was established in 2018 through the merger of Bedok
+to continue the work of a community shaped by care, commitment, and dedication.
+</p><p>Damai Secondary School was established in 2018 through the merger of Bedok
 North Secondary School (founded in 1981) and Damai Secondary School (founded
 in 1994). While our history brings together two rich legacies, our shared
 purpose remains clear. Over the past 8 years, we have remained steadfast
