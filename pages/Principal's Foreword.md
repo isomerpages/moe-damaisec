@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Principal's Message 2026</strong></h4>
+
+<h5><center>Helping Every Child Flourish</center></h5>
 <p>A warm welcome to Damai Secondary School (DSS) – a school at the edge
 of the reservoir!</p>
 <div class="isomer-image-wrapper">
