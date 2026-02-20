@@ -71,7 +71,7 @@ by taking subjects at more demanding levels and have secured post-secondary
 pathways – even before sitting for the National Examinations – through
 the Early Admissions Exercise. These outcomes do not happen by chance.
 The growing numbers reflect our collective efforts to support students
-in discovering and working towards their purpose.</p>
+in discovering and working towards their goals.</p>
 <p><strong>Third, Damai is a school that is community-anchored</strong>,
 where we want our students to see themselves as part of something larger
 – called to do good and to make a positive difference in our Bedok Reservoir
@@ -85,8 +85,7 @@ students, but thoughtful and compassionate citizens.</p>
 at a bus stop and fractured her ankle. They called for help and ensured
 she was cared for until the ambulance arrived. The lady wrote to us to
 express her deep gratitude before undergoing surgery. We could not have
-been prouder. Not because it was extraordinary – but because it was simply
-right thing to do. A concept called <strong><em>Atarimae</em></strong>.&nbsp;</p>
+been prouder. Not because it was extraordinary – but because it was simply the right thing to do. A concept called <strong><em>Atarimae</em></strong>.&nbsp;</p>
 <p><strong>Practising ‘<em>Atarimae</em>’</strong>
 </p>
 <p>Earlier this year, I shared with our students the Japanese concept of <strong><em>Atarimae</em></strong> –
