@@ -4,13 +4,10 @@ permalink: /our-damai/principals-message/
 description: ""
 variant: markdown
 ---
-<h4><strong>Principal's Message 2026</strong></h4>
-
-<h5><center>Helping Every Child Flourish</center></h5>
-<p>A warm welcome to Damai Secondary School (DSS) – a school at the edge
-of the reservoir!</p>
+<h5><center><strong>Helping Every Child Flourish</strong></center></h5>
+<p>A warm welcome to Damai Secondary School – a school at the edge of the reservoir!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Principal Message 2026" src="/images/Our%20Damai/pmessage.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Principal Message 2026" src="/images/Our%20Damai/pmessage.jpg">
 </div>
 <p>I am excited to join the Damai family as its second principal and am humbled
 to continue the work of a community shaped by care, commitment, and dedication.
