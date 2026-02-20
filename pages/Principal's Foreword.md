@@ -131,8 +131,8 @@ in need.</p>
 </li>
 </ul>
 <p>This is therefore the culture we strive to nurture:</p>
-<p><em>Where values are not merely taught but lived.<br>Where character is seen in everyday choices.<br>Where doing what is right becomes second nature.</em>
-</p>
+<center><p><em>Where values are not merely taught but lived.<br>Where character is seen in everyday choices.<br>Where doing what is right becomes second nature.</em>
+</p></center>
 <p>Together with my staff, we look forward to partnering you – parents, alumni,
 community and industry partners – to grow Damai as a family of learners
 and stewards, where every child flourishes with purpose and meaning. If
