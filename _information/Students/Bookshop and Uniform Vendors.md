@@ -48,7 +48,7 @@ shared closer to the dates.</p>
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a>
+<p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ shared closer to the dates.</p>
 <p>E - Shop Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.pacificeshop.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificeshop.com</a>
+<p><a href="https://www.pacificeshop.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificeshop.com</a>
 </p>
 </td>
 </tr>
