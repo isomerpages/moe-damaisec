@@ -10,7 +10,7 @@ variant: markdown
 <p>A warm welcome to Damai Secondary School (DSS) – a school at the edge
 of the reservoir!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/dmsslogo.svg">
+<img style="width: 80%;" height="auto" width="100%" alt="Principal Message 2026" src="/images/Our%20Damai/pmessage.jpg">
 </div>
 <p>I am excited to join the Damai family as its second principal and am humbled
 to continue the work of a community shaped by care, commitment, and dedication.
