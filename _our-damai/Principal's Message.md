@@ -4,7 +4,7 @@ permalink: /our-damai/principals-message/
 description: ""
 variant: markdown
 ---
-<h5><center><strong>Helping Every Child Flourish</strong></center></h5>
+<h3><center><strong>Helping Every Child Flourish</strong></center></h3>
 <p>A warm welcome to Damai Secondary School – a school at the edge of the reservoir!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Principal Message 2026" src="/images/Our%20Damai/pmessage.jpg">
