@@ -93,6 +93,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Koh Tong Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ramli_sinin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramli Bin Sinin</a>
 </p>
 </td>
