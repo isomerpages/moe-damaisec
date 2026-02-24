@@ -27,7 +27,7 @@ a place on our stage.</p>
 </ul>
 <p><strong>Our Drama Instructor</strong>
 </p>
-<p>Ms Regina Chua</p>
+<p>Mr Adi Jamaludin</p>
 <p><strong>Achievements&nbsp;&amp; Highlights</strong>
 </p>
 <table style="minWidth: 25px">
@@ -92,13 +92,13 @@ a place on our stage.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama/2025_Students_during_a_stage_fighting_module.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students VIA Activity Thye Hua Kwan Seniors Activity Centre" src="/images/CCA/Drama/2025_Students_during_their_VIA_activity_at_Thye_Hua_Kwan_Seniors_Activity_Centre.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students during a stage fighting module</p>
+<p>Students during their VIA activity at Thye Hua Kwan Seniors Activity Centre</p>
 </td>
 </tr>
 <tr>
@@ -138,6 +138,19 @@ a place on our stage.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 1 members working on SYF props</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Damai CNY Celebration Drama" src="/images/CCA/Drama/2026_Students_performing_during_the_Chinese_New_Year_celebrations.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students performing during the Chinese New Year celebrations</p>
 </td>
 </tr>
 </tbody>
