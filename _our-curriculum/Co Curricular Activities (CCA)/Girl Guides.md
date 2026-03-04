@@ -86,7 +86,7 @@ Cancer Society and many more)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Baden Powell Award 2024 Recipients- Tasya Mandela Yang (401) &amp; Toh Wan Xuan, Xylene (402)</strong>
+<p><strong>Baden Powell Award 2025 Recipient- Caitlin Faith Magaway Trapse (401)</strong>
 </p>
 </td>
 </tr>
@@ -98,13 +98,7 @@ Cancer Society and many more)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>East Division Learning Day Workshops 2024</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Values In Action Project (VIA) at St John’s Home for the Elderly</strong>
+<p><strong>Values In Action Project (VIA) at St John’s Home for the Elderly Nov 2025</strong>
 </p>
 </td>
 </tr>
