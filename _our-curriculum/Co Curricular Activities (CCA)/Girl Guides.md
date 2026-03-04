@@ -32,10 +32,7 @@ and confidence.&nbsp;&nbsp;</p>
 <p>Values In Action Programmes (St. John's Home for Elderly)&nbsp;</p>
 </li>
 <li>
-<p>East Division Day</p>
-</li>
-<li>
-<p>East Division Learning Day</p>
+<p>East Division Festival (Competitions and Workshops)</p>
 </li>
 <li>
 <p>Advocacy Projects (WAGGGS Badges such as Free Being Me, Mental Health
@@ -48,66 +45,65 @@ Advocacy)</p>
 <p>Special Interest Badges (in collaboration with Gardens by The Bay, Children’s
 Cancer Society and many more)</p>
 </li>
+<li>
+<p>National Day Observance Ceremony with Eunos CC</p>
+</li>
 </ul>
 <p><strong>Achievements&nbsp;&amp; Highlights</strong>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
-<p><strong>Attained Puan Noor Aishah Award (PNAA) 2023 - Gold</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Attained Puan Noor Aishah Award (PNAA) 2024 - Gold</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="3">
-<p><strong>East Division Day 2024</strong>
+<td rowspan="1" colspan="2">
+<p><strong>World Thinking Day 2026 Pre- Event Competition –</strong>
+</p>
+<p><strong>Telepathy Challenge (Two Minds, One mission) – 2<sup>nd</sup> place overall</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>East Division Day 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition:</strong>
+</p>
+<p></p>
 <p><strong>1. WAGGGS Trivia - 2nd Place</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2. Advocacy (Best Presentation) – 3<sup>rd</sup> Place</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>3. Advocacy (Best Display) - Merit</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
 <p><strong>Baden Powell Award 2024 Recipients- Tasya Mandela Yang (401) &amp; Toh Wan Xuan, Xylene (402)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="2">
 <p><strong>National Day Observance Ceremony at Eunos CC</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="2">
 <p><strong>East Division Learning Day Workshops 2024</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="2">
 <p><strong>Values In Action Project (VIA) at St John’s Home for the Elderly</strong>
 </p>
 </td>
