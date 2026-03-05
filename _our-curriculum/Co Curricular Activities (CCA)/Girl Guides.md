@@ -119,7 +119,7 @@ Cancer Society and many more)</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_001.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Commemorating World Thinking Day 2024 at Tampines Hub</em></strong>
+<p><strong>Managing booth at World Thinking Day 2026 celebration at Expo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
