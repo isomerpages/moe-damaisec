@@ -32,10 +32,7 @@ and confidence.&nbsp;&nbsp;</p>
 <p>Values In Action Programmes (St. John's Home for Elderly)&nbsp;</p>
 </li>
 <li>
-<p>East Division Day</p>
-</li>
-<li>
-<p>East Division Learning Day</p>
+<p>East Division Festival (Competitions and Workshops)</p>
 </li>
 <li>
 <p>Advocacy Projects (WAGGGS Badges such as Free Being Me, Mental Health
@@ -48,67 +45,60 @@ Advocacy)</p>
 <p>Special Interest Badges (in collaboration with Gardens by The Bay, Children’s
 Cancer Society and many more)</p>
 </li>
+<li>
+<p>National Day Observance Ceremony with Eunos CC</p>
+</li>
 </ul>
 <p><strong>Achievements&nbsp;&amp; Highlights</strong>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
-<p><strong>Attained Puan Noor Aishah Award (PNAA) 2023 - Gold</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Attained Puan Noor Aishah Award (PNAA) 2024 - Gold</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="3">
-<p><strong>East Division Day 2024</strong>
+<td rowspan="1" colspan="2">
+<p><strong>World Thinking Day 2026 Pre- Event Competition –</strong>
+</p>
+<p><strong>Telepathy Challenge (Two Minds, One mission) – 2<sup>nd</sup> place overall</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>East Division Day 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition:</strong>
+</p>
+<p></p>
 <p><strong>1. WAGGGS Trivia - 2nd Place</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2. Advocacy (Best Presentation) – 3<sup>rd</sup> Place</strong>
+<p><strong>Baden Powell Award 2025 Recipient- Caitlin Faith Magaway Trapse (401)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>3. Advocacy (Best Display) - Merit</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p><strong>Baden Powell Award 2024 Recipients- Tasya Mandela Yang (401) &amp; Toh Wan Xuan, Xylene (402)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
 <p><strong>National Day Observance Ceremony at Eunos CC</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
-<p><strong>East Division Learning Day Workshops 2024</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p><strong>Values In Action Project (VIA) at St John’s Home for the Elderly</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Values In Action Project (VIA) at St John’s Home for the Elderly Nov 2025</strong>
 </p>
 </td>
 </tr>
@@ -129,7 +119,7 @@ Cancer Society and many more)</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_001.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -141,7 +131,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Commemorating World Thinking Day 2024 at Tampines Hub</em></strong>
+<p><strong>Managing booth at World Thinking Day 2026 celebration at Expo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +145,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_008.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +157,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>VIA at St John's Home for the Elderly</em></strong>
+<p><strong>Damai Secondary School 1<sup>st</sup> Coy at World Thinking Day Celebration 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +171,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_009.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +183,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Our Girls Advocating for Composting at East Division Day 2024</em></strong>
+<p><strong>Shannon and Deyniel competing in the finals for the Telepathy Challenge at WTD 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,7 +197,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_006.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +209,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Tasya Mandela Yang (401) and Xylene Toh (402) posing for a photo with their parents and Ms Chan during the Baden Powell Award Ceremony 2024</em></strong>
+<p><strong>Outdoor cooking</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +223,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_002.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +235,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Campcraft - learning to tie the lashings for a kitchen shelter</em></strong>
+<p><strong>Tent pitching</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,7 +249,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_005.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +261,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Guides during one of their bonding activities</strong>
+<p><strong>Wide Game at Changi Airport Terminal 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,7 +275,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_004.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,7 +287,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Preparing for Outdoor Cooking during camp</em></strong>
+<p><strong>National Day Observance Ceremony at Eunos CC 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +301,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_007.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,7 +313,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Wishing our graduating guides all the best!</em></strong>
+<p><strong>VIA with St John’s Home for the Elderly</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +327,7 @@ Cancer Society and many more)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_09.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/gg2026_003.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -349,7 +339,7 @@ Cancer Society and many more)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Sec 1 UG try-out 2024</em></strong>
+<p><strong>Patrol Bonding</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,21 +352,6 @@ Cancer Society and many more)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guide/GirlGuides_2025_10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Evangeline and Anabelle facilitating an online workshop during East Division Learning Day 2024</em></strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
