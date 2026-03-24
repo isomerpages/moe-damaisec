@@ -47,6 +47,8 @@ in their lives</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Information/2026_dss_the_leap_award.png">
 </div>
+<p><a href="https://go.gov.sg/2026-dss-the-leap-award" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026-dss-the-leap-award</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -54,4 +56,4 @@ in their lives</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Your nomination will be subjected to the endorsement by the School Principal/Vice-Principal.</p>
