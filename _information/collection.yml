@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Inspiring Teacher of English Award 2026.md
       - Students/.keep
       - Students/Assessment Matters.md
       - Students/Class Timetable.md
