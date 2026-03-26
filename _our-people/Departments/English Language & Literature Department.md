@@ -82,6 +82,15 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lew_Hui_Jia_Natalia@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lew Hui Jia Natalia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
