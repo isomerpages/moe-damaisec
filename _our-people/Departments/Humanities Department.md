@@ -91,6 +91,15 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Chong_Hien_Andrew_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Chong Hien Andrew</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

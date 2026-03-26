@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>302</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,6 +46,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nooraini_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Nooraini Bte Othman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Chong_Hien_Andrew_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Andrew Tan Chong Hien</a>
 </p>
 </td>
 </tr>
@@ -65,7 +71,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>304</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,6 +88,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sng_Gek_Hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Miss Sng Gek Hoon</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Teo_Chang_Hao@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kenneth Teo Chang Hao</a>
 </p>
 </td>
 </tr>
