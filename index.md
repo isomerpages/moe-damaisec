@@ -26,9 +26,9 @@ sections:
       id: announcements
       announcement_items:
         - title: 2026 Schedule of Assessment
-          date: 13 January 2026
+          date: 27 March 2026
           announcement: Schedule of Assessments for Sec 1 - 5 have been uploaded for Term
-            1, in the link below.
+            2, in the link below.
           link_text: Click here for the information!
           link_url: /information/students/assessment-matters/
 ---

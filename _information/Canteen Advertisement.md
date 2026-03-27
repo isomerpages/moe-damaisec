@@ -4,9 +4,9 @@ permalink: /information/canteen/
 description: ""
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Halal Rice/Noodle Stall (Starts from 27 April 2026)</summary>
+<summary>Halal Rice/Noodle Stall (Application closes 10 April 2026)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Damai Secondary School has a vacancy for the following canteen stall <strong><u>Halal Rice/Noodle Stall</u></strong> starting
 from <strong><u>27 April 2026</u></strong>.</p>
@@ -115,6 +115,103 @@ by <strong><u>27 April 2026 (Monday).</u></strong>
 <p>Please contact <u>Mdm Hasimah</u> (CSO), <u>Mdm Amira</u> (AE) or <u>Ms Cynthia Soh</u> (AM)
 at <strong>6443 6848</strong> for clarifications.</p>
 <p>Thank you.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Others (Non-Halal) (Application closes 10 April 2026)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>(Possible type of stall: Indonesian, Thailand, Vietnamese, or Fusion etc.
+Open to proposals except for Japanese/Korean food.)</p>
+<p></p>
+<p><strong>Application Procedure</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the application form <a href="/files/Information/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">here.</a> You
+may also request for a hardcopy from the School’s General Office.</p>
+</li>
+<li>
+<p>Attached the following documents together with the application form:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed application form and documents by closing date via
+email OR to the School's General Office.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 4800 Bedok Reservoir Road Singapore 479229</p>
+</li>
+<li>
+<p>Contact No: 64436848</p>
+</li>
+<li>
+<p>Email:&nbsp;<a href="mailto:damai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damai_ss@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mdm Hasimah or Mdm Amira</p>
+</li>
+</ul>
+<p><strong>Interest applicants must meet the following criteria:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall</p>
+</li>
+<li>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
+</li>
+<li>
+<p>Able to provide cooked food that meets the health / nutritional standards
+set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
+Programme (HMSP)" guidelines (refer to this&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
+</li>
+</ul>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate conducted by any of the accredited training providers
+appointed by Skills Future Singapore.</p>
+</li>
+<li>
+<p>Possess catering experience or experience operating in a school environment.</p>
+</li>
+<li>
+<p>Successful applicant is expected to commerce operation of the stall <strong>by 27 April 2026 (Monday)</strong>.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
+</li>
+</ul>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+</p>
+<p>&nbsp;</p>
 </div>
 </details>
 </div>
