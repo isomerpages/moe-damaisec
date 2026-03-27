@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Scheme_of_Assessment_WA2__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA2 [Sec 1]</a>
+<p><a href="/files/Scheme_of_Assessment_WA2__Sec_1__1.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA2 [Sec 1]</a>
 </p>
 </li>
 <li>
