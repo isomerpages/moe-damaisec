@@ -9,7 +9,31 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Schedule_of_Assessments__Sec_1_5___Term_2_.pdf" rel="noopener nofollow" target="_blank">Schedule of Assessment (Sec 1-5) [Term 2]</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Information/Students/Assessment/Schedule_for_WA1_NWA1.pdf" rel="noopener nofollow" target="_blank">Schedule of Assessment (Sec 1-5) [Term 1]</a>
+</p>
+</li>
+</ul>
+<p><strong>2026 Scheme of Assessment (Term 2)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Scheme_of_Assessment_WA2__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA2 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Scheme_of_Assessment_WA2__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA2 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Scheme_of_Assessment_WA2__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment WA2 [Sec 3]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Scheme_of_Assessment_NWA2__Sec_4_5_.pdf" rel="noopener nofollow" target="_blank">Scheme of Assessment NWA2 [Sec 4&amp;5]</a>
 </p>
 </li>
 </ul>
