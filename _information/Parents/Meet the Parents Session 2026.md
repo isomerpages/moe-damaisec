@@ -39,7 +39,7 @@ Meet-the-Parents 2026 sessions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_Parents_Engagement_on_Post_Secondary_Pathways_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement on Post Secondary Pathways (7 March)</a>
+<p><a href="/files/Sec_3_Parents_Engagement_on_Post_Secondary_Pathways_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement on Post Secondary Pathways (7 March 2026)</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ Meet-the-Parents 2026 sessions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides to be uploaded after the Secondary 4/5 MTP Session.<a href="/files/Sec_4_5_MTP_2026__Plenary___compressed_.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 MTP Slides (27 March 2026)</a>
+<p><a href="/files/Sec_4_5_MTP_2026__Plenary___compressed_.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 MTP Slides (27 March 2026)</a>
 </p>
 </td>
 </tr>
