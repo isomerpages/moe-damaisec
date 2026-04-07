@@ -4,6 +4,6 @@ permalink: /information/school-calendar-of-events/
 description: ""
 variant: tiptap
 ---
-<p>[Updated 16 January 2026]</p>
-<p>Click <a href="/files/Information/2026_School_Calendar_Damai_Sec_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>[Updated 6 April 2026]</p>
+<p>Click <a href="/files/2026_School_Calendar_Damai_Sec_6Apr_SchWebsite.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the 2026 school calendar.</p>
