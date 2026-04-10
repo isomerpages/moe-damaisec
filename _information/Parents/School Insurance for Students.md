@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal.  
+**Group Personal Accident (GPA) Insurance for Students**
+All student accident insurance claims are to be submitted electronically. Submission of claims and checking of claim status can be done through the online portal at the following link: [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg)
 
-  
-For submission of claims, FAQs and other details pertaining to the GPA Insurance Plan for Students, please refer to NTUC Income’s website at [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
+More information on claims, FAQs and other details pertaining to the GPA Insurance Plan can be found on NTUC Income’s website at [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
