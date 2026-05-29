@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3>March Holidays 2026</h3>
+<h3>June Holidays 2026</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CCA Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 250px">
+<table style="minWidth: 225px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -39,7 +38,82 @@ variant: tiptap
 <p>CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Programme /Activity</p>
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Which group of students Involved</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>List of Teachers Involved</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remarks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25/6/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am -&nbsp; 12.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1-3 members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Anisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Non-CCA Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>#</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Programme/Activity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Time</p>
@@ -62,28 +136,25 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14-16/3/2026</p>
+<p>2-9/6/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday - Monday</p>
+<p>Monday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canoeing</p>
+<p>S4NT Coursework Intensive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canoeing (Singapore Junior Canoeing Championships)</p>
+<p>8.30 am - 1.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00 am -5.00 pm (dependent on event schedule)</p>
+<p>Sec 405 NFS students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canoeing girls</p>
+<p>Ms Sng Gek Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nicholas Ong, Chin&nbsp; Pei Kee,&nbsp; Khyrul Anwar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Macritchie Reservoir</p>
+<p>Computer Lab 4&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -94,61 +165,25 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16/3/2026</p>
+<p>4/6/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p>S4A NFS Coursework Intensive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Extra dance practice in preparation for Speech Day</p>
+<p>11.00 am - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 12.00 pm</p>
+<p>Sec 403/404 - first group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3 modern dancers</p>
+<p>Mdm Soraya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jasmine Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 -17/3/2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday - Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Unit Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00 am - 5.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All NPCC Cadets</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Ee Teng, Tan Wei Zhi, Jonathan Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Classrooms D1-1, 1-2, 1-3,
-<br>&nbsp;Atrium, Canteen, Parade Square</p>
+<p>Kitchen 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -159,28 +194,55 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 -17/3/2026</p>
+<p>5/6/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday - Tuesday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC</p>
+<p>Student Leadership Nexus 2026 for Secondary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC Unit Camp</p>
+<p>8.00 am -&nbsp; 1.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:30 am - 5:30 pm</p>
+<p>Selected students only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All NCC Cadets</p>
+<p>Mrs Stephanie Yong,&nbsp; Mdm Georgina Low,&nbsp; Mr Coleman Tong, Ms
+Andrea Wong,&nbsp; Mr Andrew Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christopher Hoan, Goh Hong Fei, Lin Jiehui</p>
+<p>Pasir Ris Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall, ISH, Basketball Court, Synergy Room</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5/6/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4A NFS Coursework Intensive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 am -&nbsp; 12.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 403/404 - second group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soraya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kitchen 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -191,28 +253,114 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/3/2026</p>
+<p>5/6/2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p>Leaders Council Leadership Workshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Extra dance practice in preparation for Speech Day</p>
+<p>8.30 am&nbsp; - 12.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am -12.00 pm</p>
+<p>Selected students only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3 modern dancers</p>
+<p>Mrs Stephanie Yong , Mdm Georgina Low, Mr Coleman Tong,&nbsp; Ms Andrea
+Wong,&nbsp; Mr Andrew Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anisa</p>
+<p>Harmony Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9-11/6/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday - Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 PSL Summit (Limitless)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 am - 5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 PSL Chairpersons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Stephanie Yong , Mdm Georgina Low,&nbsp; Mr Coleman Tong,&nbsp; Ms
+Andrea Wong,&nbsp; Mr Andrew Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Town Adventure Centre, 624 Upper Bukit Timah Road, Singapore 678212</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22/6/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4A NFS Coursework Intensive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 am - 12.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 403/404 - all NFS students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soraya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23/6/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4A NFS Coursework Intensive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 am - 12.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 403/404 - all NFS students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soraya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 4&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
