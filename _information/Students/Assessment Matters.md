@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<p><strong>2026 Sec 4 &amp; 5 Preliminary Examination Timetable</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Information/Students/Assessment/4E5NA_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 4E5NA Preliminary Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/4NA_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 4N(A) Preliminary Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Information/Students/Assessment/4NT_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 4N(T) Preliminary Exam Timetable</a>
+</p>
+</li>
+</ul>
 <p><strong>2026 Schedule of Assessment</strong>
 </p>
 <ul data-tight="true" class="tight">
