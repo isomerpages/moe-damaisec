@@ -25,9 +25,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 Schedule of Assessment
-          date: 27 March 2026
-          announcement: Schedule of Assessments for Sec 1 - 5 have been uploaded for Term
+        - title: 2026 S4 and S5 Prelim Exam Timetable
+          date: 04 June 2026
+          announcement: Prelim Examination for Sec 4 & 5 have been uploaded for Semester
             2, in the link below.
           link_text: Click here for the information!
           link_url: /information/students/assessment-matters/
