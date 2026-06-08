@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Halal Rice/Noodle Stall (Application closes 10 April 2026)</summary>
+<summary>Halal Rice/Noodle Stall (Application closes 29 June 2026)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Damai Secondary School has a vacancy for the following canteen stall <strong><u>Halal Rice/Noodle Stall</u></strong> starting
 from <strong><u>29 June 2026</u></strong>.</p>
