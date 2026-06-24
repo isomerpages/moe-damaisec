@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Halal Rice/Noodle Stall (Application closes 29 June 2026)</summary>
+<summary>Halal Rice/Noodle Stall (Application closes 17 July 2026)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Damai Secondary School has a vacancy for the following canteen stall <strong><u>Halal Rice/Noodle Stall</u></strong> starting
-from <strong><u>29 June 2026</u></strong>.</p>
+from <strong><u>27 July 2026</u></strong>.</p>
 <p><strong>Requirements</strong>
 </p>
 <p>Interested applicants must satisfy the following requirements:</p>
@@ -91,13 +91,13 @@ course completion</p>
 <p>Interested applicants may download the application form (as attached)
 or obtain a hardcopy from the school’s General Office (Monday to Friday
 – 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
-the hardcopy form, please do so from <strong><u>now to 19 June 2026</u></strong>.</p>
+the hardcopy form, please do so from <strong><u>now to 17 July 2026</u></strong>.</p>
 <p><strong><u>School’s Address</u></strong>
 </p>
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
-<p>Please submit the following to the General Office by <strong><u>19 June 2026 (Friday) by 4.00pm</u></strong>.</p>
+<p>Please submit the following to the General Office by <strong><u>17 July 2026 (Friday) by 4.00pm</u></strong>.</p>
 <p>a. Completed application form</p>
 <p>b. Supporting documents (E.g. Photocopy of NRIC – Front and Back, and
 relevant certificate e.g. Basic Food Hygiene Course); and</p>
@@ -108,7 +108,7 @@ relevant certificate e.g. Basic Food Hygiene Course); and</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant(s) are expected to commerce operation of the stall
-by <strong><u>29 June 2026 (Monday).</u></strong>
+by <strong><u>27 July 2026 (Monday).</u></strong>
 </p>
 <p><strong><u>Enquiries</u></strong>
 </p>
