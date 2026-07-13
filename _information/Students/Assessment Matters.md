@@ -25,6 +25,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/T3_Schedule_of_Weighted_Assessment_3__Sec_1_3__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule of Assessment (Sec 1-3) [Term 3]</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Schedule_of_Assessments__Sec_1_5___Term_2_.pdf" rel="noopener nofollow" target="_blank">Schedule of Assessment (Sec 1-5) [Term 2]</a>
 </p>
 </li>
@@ -33,6 +37,24 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
+<p><strong>2026 Scheme of Assessment (Term 3)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Scheme_of_Assessment_2026__Sec_1__Term_3_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA3 [Sec 1]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Scheme_of_Assessment_2026__Sec_2__Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA3 [Sec 2]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Scheme_of_Assessment_2026__Sec_3__Term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Scheme of Assessment WA3 [Sec 3]</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2026 Scheme of Assessment (Term 2)</strong>
 </p>
 <ul data-tight="true" class="tight">
