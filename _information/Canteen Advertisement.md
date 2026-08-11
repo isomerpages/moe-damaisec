@@ -50,13 +50,15 @@ course completion</p>
 <p>&nbsp;</p>
 <p>*Must comply with the Healthy Meals in Schools Program Guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</p>
 <p></p>
-<p>Application Procedure</p>
+<p><strong>Application Procedure</strong>
+</p>
 <p>Interested applicants may download the application form (as attached)
 or obtain a hardcopy from the school’s General Office (Monday to Friday
 – 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
 the hardcopy form, please do so from&nbsp;now to 21 August 2026.</p>
 <p></p>
-<p>School’s Address</p>
+<p><strong>School’s Address</strong>
+</p>
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
@@ -69,15 +71,17 @@ Course); and</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of Proposed Food Items for Sale.&nbsp;Please
 include a picture of each food item with the respective stated prices.</p>
 <p>&nbsp;</p>
-<p>Interview and Food Tasting</p>
+<p><strong>Interview and Food Tasting</strong>
+</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant is expected to commerce operation of the stall by&nbsp;14
 September 2026 (Friday).</p>
 <p>&nbsp;</p>
-<p>Enquiries</p>
-<p>&nbsp;Please contact&nbsp;Mdm Hasimah&nbsp;(CSO), Ms Regina Lee (CSO),
-Mdm Amira (AE) or
+<p><strong>Enquiries</strong>
+</p>
+<p>Please contact&nbsp;Mdm Hasimah&nbsp;(CSO), Ms Regina Lee (CSO), Mdm Amira
+(AE) or
 <br>Ms&nbsp;Cynthia Soh&nbsp;(AM) at&nbsp;6443 6848&nbsp;for clarifications.</p>
 <p>&nbsp;</p>
 <p>Thank you.</p>
