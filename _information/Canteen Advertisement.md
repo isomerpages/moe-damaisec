@@ -62,6 +62,7 @@ the hardcopy form, please do so from&nbsp;now to 21 August 2026.</p>
 <p>Damai Secondary School</p>
 <p>4800 Bedok Reservoir Road</p>
 <p>Singapore 479229</p>
+<p></p>
 <p>Please submit the following to the General Office by&nbsp;21 August 2026
 (Friday) by 4.00pm.</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completed application form</p>
@@ -70,15 +71,13 @@ of NRIC – Front and Back, and relevant certificate e.g. Basic Food Hygiene
 Course); and</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of Proposed Food Items for Sale.&nbsp;Please
 include a picture of each food item with the respective stated prices.</p>
-<p>&nbsp;</p>
-<p><strong>Interview and Food Tasting</strong>
+<p>&nbsp;<strong>Interview and Food Tasting</strong>
 </p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and may be required to provide food sampling (at applicant’s own expense).
 Successful applicant is expected to commerce operation of the stall by&nbsp;14
 September 2026 (Friday).</p>
-<p>&nbsp;</p>
-<p><strong>Enquiries</strong>
+<p>&nbsp;<strong>Enquiries</strong>
 </p>
 <p>Please contact&nbsp;Mdm Hasimah&nbsp;(CSO), Ms Regina Lee (CSO), Mdm Amira
 (AE) or
