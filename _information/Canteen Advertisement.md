@@ -47,7 +47,8 @@ to apply for a hawker license from Singapore Food Agency upon successful
 course completion</p>
 </li>
 </ol>
-<p>*Must comply with the Healthy Meals in Schools Program Guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</p>
+<p>*Must comply with the Healthy Meals in Schools Program Guidelines (
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>)</p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>Interested applicants may download the application form (as attached)
