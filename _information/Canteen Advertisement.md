@@ -47,7 +47,6 @@ to apply for a hawker license from Singapore Food Agency upon successful
 course completion</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>*Must comply with the Healthy Meals in Schools Program Guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</p>
 <p><strong>Application Procedure</strong>
 </p>
@@ -79,7 +78,6 @@ September 2026 (Friday).</p>
 <p>Please contact&nbsp;Mdm Hasimah&nbsp;(CSO), Ms Regina Lee (CSO), Mdm Amira
 (AE) or
 <br>Ms&nbsp;Cynthia Soh&nbsp;(AM) at&nbsp;6443 6848&nbsp;for clarifications.</p>
-<p>&nbsp;</p>
 <p>Thank you.</p>
 </div>
 </details>
