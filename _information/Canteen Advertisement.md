@@ -14,8 +14,10 @@ variant: tiptap
 Cooked Food (Rice/Noodle) Stall&nbsp;starting from&nbsp;14 September 2026.</p>
 <p><strong>Requirements</strong>
 </p>
-<p>Interested applicants must satisfy the following requirements:</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Interested applicants must satisfy the following requirements:</p>
+</li>
 <li>
 <p>Must be Singapore Citizen or Singapore Permanent Resident</p>
 </li>
