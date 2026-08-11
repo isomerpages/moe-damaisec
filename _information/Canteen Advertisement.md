@@ -76,8 +76,7 @@ September 2026 (Friday).</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>Please contact&nbsp;Mdm Hasimah&nbsp;(CSO), Ms Regina Lee (CSO), Mdm Amira
-(AE) or
-<br>Ms&nbsp;Cynthia Soh&nbsp;(AM) at&nbsp;6443 6848&nbsp;for clarifications.</p>
+(AE) or Ms&nbsp;Cynthia Soh&nbsp;(AM) at&nbsp;6443 6848&nbsp;for clarifications.</p>
 <p>Thank you.</p>
 </div>
 </details>
