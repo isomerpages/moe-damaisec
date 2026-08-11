@@ -49,14 +49,12 @@ course completion</p>
 </ol>
 <p>&nbsp;</p>
 <p>*Must comply with the Healthy Meals in Schools Program Guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</p>
-<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>Interested applicants may download the application form (as attached)
 or obtain a hardcopy from the school’s General Office (Monday to Friday
 – 8.00am to 5.00pm). If you wish to visit the school to obtain or submit
 the hardcopy form, please do so from&nbsp;now to 21 August 2026.</p>
-<p></p>
 <p><strong>School’s Address</strong>
 </p>
 <p>Damai Secondary School</p>
